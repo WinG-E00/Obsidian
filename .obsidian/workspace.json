@@ -65,6 +65,26 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "4ec01b3385e62dd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fca9555394846ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prueba para obsidian auto commit de git.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Prueba para obsidian auto commit de git"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -156,12 +176,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prueba para obsidian auto commit de git.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Prueba para obsidian auto commit de git"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -199,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prueba para obsidian auto commit de git.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prueba para obsidian auto commit de git"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -238,10 +258,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "314b95b2f0b7a228",
+  "active": "4fca9555394846ac",
   "lastOpenFiles": [
-    "asdkmn sdkfdsjf.md",
+    "Untitled.md",
     "Prueba para obsidian auto commit de git.md",
+    "asdkmn sdkfdsjf.md",
     "Git push test.md",
     "Prueba obsidian git.md"
   ]
