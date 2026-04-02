@@ -11,10 +11,10 @@
             "id": "aa38792399763e45",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -192,9 +192,12 @@
   },
   "active": "aa38792399763e45",
   "lastOpenFiles": [
-    "CSS/CSS.md",
+    "Programacion/Javascript",
+    "Programacion/HTML",
+    "Programacion",
+    "Programacion/CSS/CSS.md",
     "Untitled.md",
-    "CSS",
+    "Programacion/CSS",
     "prueba numero 211039.md",
     "asdkmn sdkfdsjf.md",
     "Prueba 4.md",
