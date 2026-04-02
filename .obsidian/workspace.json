@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Prueba para obsidian auto commit de git"
             }
+          },
+          {
+            "id": "637831b0aa70b4f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prueba 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prueba 4"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -237,10 +251,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "314b95b2f0b7a228",
+  "active": "637831b0aa70b4f1",
   "lastOpenFiles": [
-    "Untitled.md",
     "Prueba para obsidian auto commit de git.md",
+    "Prueba 4.md",
+    "Untitled.md",
     "asdkmn sdkfdsjf.md",
     "Git push test.md",
     "Prueba obsidian git.md"
