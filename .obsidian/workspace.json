@@ -38,7 +38,7 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.google.com/search?q=Que+es+una+base+de+datos+sql+explicamelo+a+detalle&sca_esv=603be8ec33a5b75e&source=hp&ei=cgLQaauxGvzJ5OUP2b3emAk&iflsig=AFdpzrgAAAAAadAQgkZyV-4CiaCdSRarAMuXTIt68137&aep=22&ved=0ahUKEwirstrKo9KTAxX8JLkGHdmeF5MQteYPCA0&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz&sei=dgLQaaDmMKyq5OUPmcmF0AE&mstk=AUtExfB-XwsED9GYij7Oyyf1LOjWz-bFf0pX1EC_vuMWVAtau9YZbsa5IlQY975k1WsYLikxgC7nhPKscMt94wu1CwkCQwGaJQrBJa4n5dWDGWSUbe6Y7Mjch0IjA33oeP1khTgYV8hIZgRStHNh3_O2p3q_qkDqTXqkg4w&csuir=1&udm=50",
+                "url": "https://www.google.com/search?q=Que+es+una+base+de+datos+sql+explicamelo+a+detalle&sca_esv=603be8ec33a5b75e&source=hp&ei=cgLQaauxGvzJ5OUP2b3emAk&iflsig=AFdpzrgAAAAAadAQgkZyV-4CiaCdSRarAMuXTIt68137&aep=22&ved=0ahUKEwirstrKo9KTAxX8JLkGHdmeF5MQteYPCA0&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz&sei=dgLQaaDmMKyq5OUPmcmF0AE&mstk=AUtExfDSe-NxjBpmCs92AaRDxhg9EQJY50Cv0uNN7eGanwwqnWxaZSmOIu7XGdGvutKILJ6bOUTe46tGtl7QX2oOKpD85Pgv11ehn8zSi8Ab5KzsNScNYDjBcvtTJJkcmUx3dtDAzFTi_GoLBYWTdsfoR8SmfZxgCWln_eE&csuir=1&udm=50",
                 "title": "Que es una base de datos sql explicamelo a detalle - Google Search",
                 "mode": "webview"
               },
@@ -97,17 +97,17 @@
             }
           },
           {
-            "id": "7a9a20dae740b7fe",
+            "id": "14d2918a77e8de52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bases de datos/CHECK.md",
+                "file": "Bases de datos/DEFAULT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CHECK"
+              "title": "DEFAULT"
             }
           },
           {
@@ -338,11 +338,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7a9a20dae740b7fe",
+  "active": "14d2918a77e8de52",
   "lastOpenFiles": [
-    "Bases de datos/CHECK.md",
+    "Bases de datos/DEFAULT.md",
     "Bases de datos/Restricciones.md",
     "Bases de datos/Claves.md",
+    "Bases de datos/CHECK.md",
     "Bases de datos/NOT_NULL.md",
     "Bases de datos/UNIQUE.md",
     "Bases de datos/SQL.md",
@@ -372,7 +373,6 @@
     "Programacion/CSS",
     "prueba numero 211039.md",
     "asdkmn sdkfdsjf.md",
-    "Prueba 4.md",
-    "prueba 5 no quiero la cuenta por dios.md"
+    "Prueba 4.md"
   ]
 }
