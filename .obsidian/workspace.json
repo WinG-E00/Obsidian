@@ -52,16 +52,16 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.google.com/search?q=indices+base+de+datos+mysql&sca_esv=dc38878d6c0b441c&source=hp&ei=vA7Qaa-eHsfF5OUP19XSsAc&iflsig=AFdpzrgAAAAAadAczIw3w2oXLjyUlUaOla4sFWnjHD7Z&oq=Indices+base+de+dat&gs_lp=Egdnd3Mtd2l6IhNJbmRpY2VzIGJhc2UgZGUgZGF0KgIIAjIFEAAYgAQyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB5Ili5QqANYsBhwBHgAkAEBmAGlBaAB6SOqAQs0LjYuNC4yLjEuMrgBAcgBAPgBAZgCFaACmyLCAgwQABiABBgKGAsYsQPCAgsQLhiABBjHARivAcICCRAAGIAEGAoYC8ICBxAAGIAEGArCAggQABiABBixA8ICCxAAGIAEGLEDGIMBmAMAkgcLNC45LjMuMi4yLjGgB6p3sgcLMC45LjMuMi4yLjG4B4oiwgcIMC41LjE1LjHIB1CACAE&sclient=gws-wiz",
-                "title": "indices base de datos mysql - Buscar con Google",
+                "url": "https://adictosaltrabajo.com/2015/09/11/introduccion-a-indices-en-mysql/",
+                "title": "Introducción a índices en MySQL - Adictos al trabajo",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "indices base de datos mysql - Buscar con Google"
+              "title": "Introducción a índices en MySQL - Adictos al trabajo"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "7058536e2b175502",
@@ -352,7 +352,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1c01f8e50ee616db",
+  "active": "579cea396413358d",
   "lastOpenFiles": [
     "Bases de datos/Indices.md",
     "Bases de datos/SQL.md",
