@@ -6,10 +6,11 @@ ___
 - **Ejemplo Real:** **Estudiantes y Cursos**.
     - Un estudiante se inscribe en 5 cursos.
     - Un curso tiene 40 estudiantes.
-- **Cómo se implementa (La Tabla Intermedia):**  
+- **Cómo se implementa (La Tabla Intermedia):**
     Creas una tabla llamada `Inscripciones`. Esta tabla solo tiene dos columnas principales: `id_estudiante` e `id_curso`.
     - Si el Estudiante 1 se apunta al Curso A, creas una fila: `(1, A)`.
     - Si el Estudiante 1 se apunta al Curso B, creas otra: `(1, B)`.
     - Si el Estudiante 2 se apunta al Curso A, creas: `(2, A)`.
+<!--SR:!2026-04-04,1,230-->
 
 #baseDeDatos #tipos 
