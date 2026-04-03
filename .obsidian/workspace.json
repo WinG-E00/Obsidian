@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "7058536e2b175502",
@@ -96,8 +96,7 @@
               "title": "Entidad"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,10 +282,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "579cea396413358d",
+  "active": "0529ea098cc5d8ff",
   "lastOpenFiles": [
-    "Bases de datos/SQL.md",
     "Bases de datos/Base de datos.md",
+    "Bases de datos/SQL.md",
     "Algoritmo y estructuras de datos/Sistemas de numeracion.md",
     "Bases de datos/Entidad.md",
     "Bases de datos/Atributos.md",

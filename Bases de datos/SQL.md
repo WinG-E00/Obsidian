@@ -6,7 +6,12 @@ Una base de datos SQL seria basicamente una base de datos que almacena su inform
 Elementos principales de las SQL
 ;;
 [[Tabla]]
-[]
+[[Claves]]
+[[Restricciones]]
+[[Indices]]
+[[Relaciones]]
+
+
 
 
 #baseDeDatos 
