@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Sistemas de numeracion"
             }
+          },
+          {
+            "id": "0529ea098cc5d8ff",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,11 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "985190bfc32713fe",
+  "active": "0529ea098cc5d8ff",
   "lastOpenFiles": [
+    "Algoritmo y estructuras de datos/Sistemas de numeracion.md",
     "Bases de datos",
     "Untitled.md",
-    "Algoritmo y estructuras de datos/Sistemas de numeracion.md",
     "Programacion/Kotline",
     "Programacion/Javascript",
     "Programacion/HTML",
