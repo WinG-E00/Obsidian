@@ -38,7 +38,7 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.google.com/search?q=Que+es+una+base+de+datos+sql+explicamelo+a+detalle&sca_esv=603be8ec33a5b75e&source=hp&ei=cgLQaauxGvzJ5OUP2b3emAk&iflsig=AFdpzrgAAAAAadAQgkZyV-4CiaCdSRarAMuXTIt68137&aep=22&ved=0ahUKEwirstrKo9KTAxX8JLkGHdmeF5MQteYPCA0&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz&sei=dgLQaaDmMKyq5OUPmcmF0AE&mstk=AUtExfD2MLC7UI97waX-bHpBuXkey22S7UDs9KPCWgBD-BwmUZYlC3XFbY0ZK89P1bnPao5w4XyT1K14wBZ8OL030Bg51lRWkEy15uboKk4957bpAb5e8ln3j_5OwOt-zjz5fXLQEmIgigcqy4WrSGy4YPMf1ortrFKZMrg&csuir=1&udm=50",
+                "url": "https://www.google.com/search?q=Que+es+una+base+de+datos+sql+explicamelo+a+detalle&sca_esv=603be8ec33a5b75e&source=hp&ei=cgLQaauxGvzJ5OUP2b3emAk&iflsig=AFdpzrgAAAAAadAQgkZyV-4CiaCdSRarAMuXTIt68137&aep=22&ved=0ahUKEwirstrKo9KTAxX8JLkGHdmeF5MQteYPCA0&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz&sei=dgLQaaDmMKyq5OUPmcmF0AE&mstk=AUtExfBvBAHnZRtbOpkAxQs3qcpRyzHYyXUt7K34jTG2Es0UuNRXh5CqumsUUrX_pitMKRQT4Rg7map8zZOUMpOr4WOMytXbXqs8J20LEZAfIXpSn9SHyK4-xSUgBUz7s_-yBDuqgFkHxDT9fCf4kTix8uS0LCb5W_HB_vg&csuir=1&udm=50",
                 "title": "Que es una base de datos sql explicamelo a detalle - Google Search",
                 "mode": "webview"
               },
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "7058536e2b175502",
@@ -324,8 +324,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b3e50a7b27c21b67",
+  "active": "579cea396413358d",
   "lastOpenFiles": [
+    "Bases de datos/Restricciones.md",
     "Bases de datos/SQL.md",
     "Bases de datos/Claves.md",
     "Bases de datos/Claves Principales.md",
@@ -335,7 +336,6 @@
     "Bases de datos/Relaciones.md",
     "Bases de datos/Indices.md",
     "Bases de datos/Entidad.md",
-    "Bases de datos/Restricciones.md",
     "Bases de datos/Tabla.md",
     "Algoritmo y estructuras de datos/Sistemas de numeracion.md",
     "Bases de datos/Atributos.md",
