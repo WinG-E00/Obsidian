@@ -12,6 +12,9 @@ Existen dos tipos de bases de datos
 
 Elementos del concepto
 ;;
+[[Entidad]]
+
+
 
 
 
