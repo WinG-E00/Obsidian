@@ -138,8 +138,7 @@
               "title": "Claves"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -324,19 +323,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b3e50a7b27c21b67",
+  "active": "0529ea098cc5d8ff",
   "lastOpenFiles": [
-    "Bases de datos/Claves.md",
+    "Bases de datos/Base de datos.md",
+    "Bases de datos/SQL.md",
     "Bases de datos/Restricciones.md",
+    "Bases de datos/Claves.md",
     "Bases de datos/DEFAULT.md",
     "Bases de datos/CHECK.md",
     "Bases de datos/NOT_NULL.md",
     "Bases de datos/UNIQUE.md",
-    "Bases de datos/SQL.md",
     "Bases de datos/Claves Principales.md",
     "Bases de datos/Clave Primaria_Primary key PK.md",
     "Bases de datos/Clave foranea Foreign Key FK.md",
-    "Bases de datos/Base de datos.md",
     "Bases de datos/Relaciones.md",
     "Bases de datos/Indices.md",
     "Bases de datos/Entidad.md",
