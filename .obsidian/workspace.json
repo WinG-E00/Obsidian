@@ -38,7 +38,7 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.google.com/search?q=Que+es+una+base+de+datos+sql+explicamelo+a+detalle&sca_esv=603be8ec33a5b75e&source=hp&ei=cgLQaauxGvzJ5OUP2b3emAk&iflsig=AFdpzrgAAAAAadAQgkZyV-4CiaCdSRarAMuXTIt68137&aep=22&ved=0ahUKEwirstrKo9KTAxX8JLkGHdmeF5MQteYPCA0&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz&sei=dgLQaaDmMKyq5OUPmcmF0AE&mstk=AUtExfBfNgqL0uZG8VvjFnv07kJPQqTvmKnNzr4cqgbeDySvTkzwQJ7TcGoUlANrpNf_DHOHOl5AKFgHLDV-6TGAv6JJ8HmIL-R_qjA_DtVwEkh7IJIOhoygEK9dxNknZvprCjxiIozvrDTuBYMXMGF55tSoQOTfLtV49ec&csuir=1&udm=50",
+                "url": "https://www.google.com/search?q=Que+es+una+base+de+datos+sql+explicamelo+a+detalle&sca_esv=603be8ec33a5b75e&source=hp&ei=cgLQaauxGvzJ5OUP2b3emAk&iflsig=AFdpzrgAAAAAadAQgkZyV-4CiaCdSRarAMuXTIt68137&aep=22&ved=0ahUKEwirstrKo9KTAxX8JLkGHdmeF5MQteYPCA0&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz&sei=dgLQaaDmMKyq5OUPmcmF0AE&mstk=AUtExfCWZYpHf0OieMsOa-Sc0VsdY6hWgMTer7i9KzPeyOayJ6VxzScv9u4mcmjlpjgThFto6jZRn8V5KhSxbC9i6HS4OANMnpbMgo9-JCs7WamWWmcV6uXf-uueXINbZGL41dS3SztFA9VHYIcdxpODyxh4QVtP028Ye8Q&csuir=1&udm=50",
                 "title": "Que es una base de datos sql explicamelo a detalle - Google Search",
                 "mode": "webview"
               },
@@ -125,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -311,10 +311,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "db65e554f07fbf8f",
+  "active": "579cea396413358d",
   "lastOpenFiles": [
-    "Bases de datos/Claves Principales.md",
     "Bases de datos/Claves.md",
+    "Bases de datos/Claves Principales.md",
     "Bases de datos/SQL.md",
     "Bases de datos/Relaciones.md",
     "Bases de datos/Indices.md",
