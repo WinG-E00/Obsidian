@@ -6,8 +6,10 @@ ___
 Tipos de bases de datos
 ;;
 Existen dos tipos de bases de datos
-SQL
-NoSQL
+[[SQL]]
+[[NoSQL]]
+
+
 
 
 

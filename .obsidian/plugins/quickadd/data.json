@@ -4,8 +4,8 @@
       "id": "ee243002-fddd-410b-bf73-20eedc80b145",
       "name": "wrapped",
       "type": "Macro",
-      "command": false,
-      "runOnStartup": false,
+      "command": true,
+      "runOnStartup": true,
       "macro": {
         "name": "wrapped",
         "id": "bbb3ee17-eda6-4775-a0b0-23f6144106d7",
@@ -13,7 +13,7 @@
           {
             "name": "script wrapped",
             "type": "UserScript",
-            "id": "9b0ac934-99e0-424c-8b85-e46bbd635664",
+            "id": "2594162a-17c8-4d5b-a9ac-04f50c620638",
             "path": "script wrapped.js",
             "settings": {}
           }

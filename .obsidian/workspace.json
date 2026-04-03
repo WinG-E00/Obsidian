@@ -30,7 +30,14 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7058536e2b175502",
+        "type": "tabs",
+        "children": [
           {
             "id": "81314cfe74bdc096",
             "type": "leaf",
@@ -45,8 +52,7 @@
               "title": "Base de datos"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,11 +237,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "81314cfe74bdc096",
+  "active": "0529ea098cc5d8ff",
   "lastOpenFiles": [
+    "Bases de datos/Base de datos.md",
     "script wrapped.js",
     "Untitled.md",
-    "Bases de datos/Base de datos.md",
     "Untitled.canvas",
     "Programacion/CSS/Untitled.md",
     "Algoritmo y estructuras de datos/Sistemas de numeracion.md",
