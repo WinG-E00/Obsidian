@@ -6,4 +6,4 @@ y los datos de esas caracteristicas [[Instancia]]
 
 
 
-#baseDeDatos 
+#baseDeDatos #elemento 
