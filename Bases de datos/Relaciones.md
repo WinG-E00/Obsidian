@@ -7,3 +7,6 @@ Cuales son los tipos de relaciones?
 [[Uno a muchos 1N]]
 [[Muchos a muchos NM]]
 [[Uno a Uno]]
+
+
+#baseDeDatos #elemento 
