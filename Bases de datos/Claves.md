@@ -4,6 +4,7 @@ En SQL existen principalmente ==**8**== **tipos de claves** que sirven para i
 * Identificar: Que no haya dos filas iguales
 * Relacionar: Que se puedan unir una tabla con otra llamando a su clave
 * Proteger: Evita borrar datos importantes por error
+<!--SR:!2026-04-04,1,230-->
 
 
 Cuales existen?
