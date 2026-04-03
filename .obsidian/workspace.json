@@ -61,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "7058536e2b175502",
@@ -222,8 +222,7 @@
               "title": "Claves"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -408,12 +407,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "579cea396413358d",
+  "active": "0529ea098cc5d8ff",
   "lastOpenFiles": [
-    "Bases de datos/Uno a Uno.md",
-    "Bases de datos/Relaciones.md",
-    "Bases de datos/SQL.md",
     "Bases de datos/Base de datos.md",
+    "Bases de datos/SQL.md",
+    "Bases de datos/Relaciones.md",
+    "Bases de datos/Uno a Uno.md",
     "Bases de datos/Muchos a muchos NM.md",
     "Bases de datos/Uno a muchos 1N.md",
     "Bases de datos/Indices.md",
