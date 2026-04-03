@@ -10,6 +10,7 @@ Elementos principales de las SQL
 [[Restricciones]]
 [[Indices]]
 [[Relaciones]]
+<!--SR:!2026-04-03,1,230-->
 
 
 
