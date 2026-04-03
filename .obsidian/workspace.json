@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "ee51940a31514dae",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5bb473ca82787eb4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -211,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bb473ca82787eb4",
+  "active": "aa38792399763e45",
   "lastOpenFiles": [
     "Untitled.md",
     "Algoritmo y estructuras de datos/Sistemas de numeracion.md",
