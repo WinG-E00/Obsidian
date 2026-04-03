@@ -6,7 +6,7 @@
       {
         "id": "35a4c882f1d54fe9",
         "type": "tabs",
-        "dimension": 66.0919540229885,
+        "dimension": 46.481876332622605,
         "children": [
           {
             "id": "aa38792399763e45",
@@ -38,7 +38,7 @@
       {
         "id": "7058536e2b175502",
         "type": "tabs",
-        "dimension": 33.90804597701149,
+        "dimension": 53.5181236673774,
         "children": [
           {
             "id": "81314cfe74bdc096",
@@ -67,9 +67,23 @@
               "icon": "lucide-file",
               "title": "Entidad"
             }
+          },
+          {
+            "id": "d889188b859720f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bases de datos/Atributos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Atributos"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f45e47c71995dea1",
@@ -254,10 +269,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a475f8138c4e374c",
+  "active": "0529ea098cc5d8ff",
   "lastOpenFiles": [
-    "Bases de datos/Untitled.md",
+    "Bases de datos/Atributos.md",
     "Bases de datos/Entidad.md",
+    "Bases de datos/Untitled.md",
     "Untitled 1.md",
     "Bases de datos/Base de datos.md",
     "script wrapped.js",
