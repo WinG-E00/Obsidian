@@ -38,7 +38,7 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.google.com/search?q=Que+es+una+base+de+datos+sql+explicamelo+a+detalle&sca_esv=603be8ec33a5b75e&source=hp&ei=cgLQaauxGvzJ5OUP2b3emAk&iflsig=AFdpzrgAAAAAadAQgkZyV-4CiaCdSRarAMuXTIt68137&aep=22&ved=0ahUKEwirstrKo9KTAxX8JLkGHdmeF5MQteYPCA0&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz&sei=dgLQaaDmMKyq5OUPmcmF0AE&mstk=AUtExfAkl8CKMZ8hR6LWxpz51yXKgTmlF4SV6NAbMa6R3-xR0A6nj2P3Y0mQbPFEL6ldfy3T_ByUpxe2Xwq5iHl7JrOGLVYN4dgPkHaFzW8QpU6-sz6xtt5B-mMZza1lvFOHWAbxxioIEntxG95nw7xesLVzZzRsvIwuPHw&csuir=1&udm=50",
+                "url": "https://www.google.com/search?q=Que+es+una+base+de+datos+sql+explicamelo+a+detalle&sca_esv=603be8ec33a5b75e&source=hp&ei=cgLQaauxGvzJ5OUP2b3emAk&iflsig=AFdpzrgAAAAAadAQgkZyV-4CiaCdSRarAMuXTIt68137&aep=22&ved=0ahUKEwirstrKo9KTAxX8JLkGHdmeF5MQteYPCA0&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz&sei=dgLQaaDmMKyq5OUPmcmF0AE&mstk=AUtExfDN98Rn1OFTH5Un78aPsBZ7FRMat1aw_DzzMIw4esyXPbPtgjlohy8sGXdh58egtVcMYEtKSUG-koekPL9XZ12xVNVO3IJUWTIXz3o-SijiaWF8JDBj7QVgWRZNsoM5QxmUF7vcL5TVD_gRfauO6dV92GHgR7qEy6s&csuir=1&udm=50",
                 "title": "Que es una base de datos sql explicamelo a detalle - Google Search",
                 "mode": "webview"
               },
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "7058536e2b175502",
@@ -324,7 +324,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5c4bdb6b12646f9c",
+  "active": "579cea396413358d",
   "lastOpenFiles": [
     "Bases de datos/Clave Primaria_Primary key PK.md",
     "Bases de datos/Claves Principales.md",
