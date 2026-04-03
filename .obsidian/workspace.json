@@ -6,7 +6,7 @@
       {
         "id": "35a4c882f1d54fe9",
         "type": "tabs",
-        "dimension": 49.35622317596567,
+        "dimension": 66.0919540229885,
         "children": [
           {
             "id": "aa38792399763e45",
@@ -38,7 +38,7 @@
       {
         "id": "7058536e2b175502",
         "type": "tabs",
-        "dimension": 50.64377682403433,
+        "dimension": 33.90804597701149,
         "children": [
           {
             "id": "81314cfe74bdc096",
@@ -254,9 +254,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "985190bfc32713fe",
+  "active": "a475f8138c4e374c",
   "lastOpenFiles": [
+    "Bases de datos/Untitled.md",
     "Bases de datos/Entidad.md",
+    "Untitled 1.md",
     "Bases de datos/Base de datos.md",
     "script wrapped.js",
     "Untitled.md",
