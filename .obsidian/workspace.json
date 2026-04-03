@@ -35,10 +35,14 @@
             "id": "81314cfe74bdc096",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Bases de datos/Base de datos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Base de datos"
             }
           }
         ],
@@ -218,6 +222,8 @@
   },
   "active": "81314cfe74bdc096",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Bases de datos/Base de datos.md",
     "Untitled.canvas",
     "Programacion/CSS/Untitled.md",
     "Algoritmo y estructuras de datos/Sistemas de numeracion.md",
