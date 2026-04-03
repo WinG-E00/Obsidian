@@ -33,35 +33,21 @@
             }
           },
           {
-            "id": "579cea396413358d",
+            "id": "7194b52789aebf4c",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.google.com/search?q=Que+es+una+base+de+datos+sql+explicamelo+a+detalle&sca_esv=603be8ec33a5b75e&source=hp&ei=cgLQaauxGvzJ5OUP2b3emAk&iflsig=AFdpzrgAAAAAadAQgkZyV-4CiaCdSRarAMuXTIt68137&aep=22&ved=0ahUKEwirstrKo9KTAxX8JLkGHdmeF5MQteYPCA0&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz&sei=dgLQaaDmMKyq5OUPmcmF0AE&mstk=AUtExfC4X4gj_pKreEwHDrrwglKCKGf1ypiiXuEnvFefls1Lhu8qq_G6UghqKArTLEWaRMeOCWEo_C3DY2gyis7cj6mXsqwit-1GGZFfxphEeu3W5WhgArWBGEWjFtieM_klQbzzlqw3HEngU6N3ynCsZacMOh1Gdgoc7-U&csuir=1&udm=50",
-                "title": "Que es una base de datos sql explicamelo a detalle - Google Search",
+                "url": "https://www.google.com/search?q=Que+seria+el+sistema+de+gestion+de+base+de+datos%3F&sca_esv=e701aa2a750b70d5&source=hp&ei=ASDQaZ_BOoLM1sQPgN-JsAg&iflsig=AFdpzrgAAAAAadAuEfXoNm-Qj0W-38pQU-iNzip6PwMd&aep=22&ved=0ahUKEwjfxZfjv9KTAxUCppUCHYBvAoYQteYPCA0&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz&udm=50&mstk=AUtExfBP04t7RWCwdw0VGJH3B2zVYlzpbF3kXYlOevuf_ezYu83rk60InsJ-Gm518Qhxv_KqR_b0GCRITuJAxYwhJ-IDJH3Sn7IdjZ55RreNNMhzvnS93jd0YNveqHgWPwbbaFPbjz8SxVpUbi9VqRkicABBurz2sclBimg&csuir=1",
+                "title": "Que seria el sistema de gestion de base de datos? - Google Search",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Que es una base de datos sql explicamelo a detalle - Google Search"
-            }
-          },
-          {
-            "id": "1c01f8e50ee616db",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://adictosaltrabajo.com/2015/09/11/introduccion-a-indices-en-mysql/",
-                "title": "Introducción a índices en MySQL - Adictos al trabajo",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Introducción a índices en MySQL - Adictos al trabajo"
+              "title": "Que seria el sistema de gestion de base de datos? - Google Search"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "7058536e2b175502",
@@ -407,7 +393,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0529ea098cc5d8ff",
+  "active": "7194b52789aebf4c",
   "lastOpenFiles": [
     "Bases de datos/Base de datos.md",
     "Bases de datos/SQL.md",
