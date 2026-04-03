@@ -1,0 +1,6 @@
+Explicacion
+;;
+
+
+
+#tipos #baseDeDatos 
