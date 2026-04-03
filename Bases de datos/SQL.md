@@ -14,4 +14,4 @@ Elementos principales de las SQL
 
 
 
-#baseDeDatos 
+#baseDeDatos #tipos

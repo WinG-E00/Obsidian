@@ -13,6 +13,20 @@
         "a": 1,
         "rgb": 40447
       }
+    },
+    {
+      "query": "#tipos",
+      "color": {
+        "a": 1,
+        "rgb": 2293509
+      }
+    },
+    {
+      "query": "#elemento",
+      "color": {
+        "a": 1,
+        "rgb": 15366416
+      }
     }
   ],
   "collapse-display": true,
