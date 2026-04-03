@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "path:\"Bases de datos\"  ",
   "showTags": false,
   "showAttachments": false,
@@ -32,13 +32,13 @@
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "nodeSizeMultiplier": 1.01795247395833,
+  "lineSizeMultiplier": 1.068994140625,
+  "collapse-forces": false,
+  "centerStrength": 0.41650390625,
+  "repelStrength": 10.7259114583333,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 30,
   "scale": 0.5694148928667598,
-  "close": false
+  "close": true
 }
