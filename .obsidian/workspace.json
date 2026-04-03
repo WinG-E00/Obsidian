@@ -22,6 +22,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "ee51940a31514dae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bb473ca82787eb4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,15 +211,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa38792399763e45",
+  "active": "5bb473ca82787eb4",
   "lastOpenFiles": [
+    "Untitled.md",
     "Algoritmo y estructuras de datos/Sistemas de numeracion.md",
     "Programacion/Kotline",
     "Programacion/Javascript",
     "Programacion/HTML",
     "Programacion",
     "Programacion/CSS/CSS.md",
-    "Untitled.md",
     "Programacion/CSS",
     "prueba numero 211039.md",
     "asdkmn sdkfdsjf.md",
