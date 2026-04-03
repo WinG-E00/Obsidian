@@ -1,5 +1,26 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "ee243002-fddd-410b-bf73-20eedc80b145",
+      "name": "wrapped",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "wrapped",
+        "id": "bbb3ee17-eda6-4775-a0b0-23f6144106d7",
+        "commands": [
+          {
+            "name": "script wrapped",
+            "type": "UserScript",
+            "id": "9b0ac934-99e0-424c-8b85-e46bbd635664",
+            "path": "script wrapped.js",
+            "settings": {}
+          }
+        ]
+      }
+    }
+  ],
   "inputPrompt": "single-line",
   "persistInputPromptDrafts": true,
   "useSelectionAsCaptureValue": true,

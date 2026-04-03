@@ -1,0 +1,1 @@
+module.exports = async (params) => {   const editor = app.workspace.activeEditor.editor;   const selection = editor.getSelection();    const lines = selection.split("\n");   const wrapped = lines.map(line => `[[${line}]]`).join("\n");    editor.replaceSelection(wrapped); };
