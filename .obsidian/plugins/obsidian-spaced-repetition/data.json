@@ -1,7 +1,7 @@
 {
   "settings": {
     "flashcardTags": [
-      "#flashcards"
+      "#baseDeDatos"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
@@ -25,9 +25,7 @@
     "tagsToReview": [
       "#review"
     ],
-    "noteFoldersToIgnore": [
-      "#baseDeDatos"
-    ],
+    "noteFoldersToIgnore": [],
     "openRandomNote": false,
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
