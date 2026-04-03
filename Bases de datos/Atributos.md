@@ -9,6 +9,7 @@ En sql serian
 [[Columna]]
 NoSql
 [[Campo]]
+<!--SR:!2026-04-04,1,230-->
 
 
 
