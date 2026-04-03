@@ -17,7 +17,7 @@ Elementos del concepto
 [[Entidad]]
 
 
-Sistemas de gestion de Base de datos
+[[Sistemas de gestion de Base de datos]]
 
 <!--SR:!2026-04-04,1,230-->
 
