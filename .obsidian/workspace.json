@@ -199,9 +199,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "061faaf3bacc038d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -217,10 +227,11 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "81314cfe74bdc096",
+  "active": "061faaf3bacc038d",
   "lastOpenFiles": [
     "Untitled.md",
     "Bases de datos/Base de datos.md",
