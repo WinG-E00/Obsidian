@@ -139,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -324,11 +324,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0529ea098cc5d8ff",
+  "active": "b3e50a7b27c21b67",
   "lastOpenFiles": [
     "Bases de datos/Claves.md",
-    "Bases de datos/DEFAULT.md",
     "Bases de datos/Restricciones.md",
+    "Bases de datos/DEFAULT.md",
     "Bases de datos/CHECK.md",
     "Bases de datos/NOT_NULL.md",
     "Bases de datos/UNIQUE.md",
