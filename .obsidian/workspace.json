@@ -30,9 +30,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "81314cfe74bdc096",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,11 +216,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0529ea098cc5d8ff",
+  "active": "81314cfe74bdc096",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Programacion/CSS/Untitled.md",
     "Algoritmo y estructuras de datos/Sistemas de numeracion.md",
     "Bases de datos",
-    "Untitled.md",
     "Programacion/Kotline",
     "Programacion/Javascript",
     "Programacion/HTML",

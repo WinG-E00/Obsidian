@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "file:Programacion",
+  "search": "path:Programacion  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5694148928667597,
+  "scale": 0.5694148928667598,
   "close": false
 }
