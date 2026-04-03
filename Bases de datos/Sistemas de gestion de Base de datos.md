@@ -7,7 +7,14 @@ La coleccion de datos interrelacionados
 El conjunto de programas para acceder a esos datos
 Algunos de esos programas puede ser
 Para los relacionales
-MySQL
-PostgreSQL
-Oracle Database
-Microsfot
+[[MySQL]]
+[[PostgreSQL]]
+[[Oracle Database]]
+[[Microsoft SQL Server]]
+Para no relacionales
+[[MongoDB]]
+[[Cassandra]]
+[[Redis]]
+
+
+#baseDeDatos #
