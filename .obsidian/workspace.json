@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entidad.md",
+                "file": "Bases de datos/Entidad.md",
                 "mode": "source",
                 "source": false
               },
@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f45e47c71995dea1",
@@ -255,9 +254,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a475f8138c4e374c",
+  "active": "985190bfc32713fe",
   "lastOpenFiles": [
-    "Entidad.md",
+    "Bases de datos/Entidad.md",
     "Bases de datos/Base de datos.md",
     "script wrapped.js",
     "Untitled.md",
