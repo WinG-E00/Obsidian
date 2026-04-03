@@ -3,4 +3,13 @@ Que son?
 Son basicamente las caracteristicas de mi entidad (objeto)
 
 
-Segun que tipo de base de datos hablamos 
+Segun que tipo de base de datos hablamos cambian de nombre
+;;
+
+
+
+
+
+
+
+#baseDeDatos 
