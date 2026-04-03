@@ -1,4 +1,4 @@
-Explicacion
+Explicación
 ;;
 Es la más compleja porque **no se puede crear directamente** entre dos tablas. Necesitas una tercera tabla "puente" o "intermedia".
 ___
