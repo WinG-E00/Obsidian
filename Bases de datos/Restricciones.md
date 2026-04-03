@@ -13,3 +13,6 @@ Cuales son?
 [[DEFAULT]]
 [[Clave Primaria_Primary key PK]]
 [[Clave foranea Foreign Key FK]]
+
+
+#elemento 
