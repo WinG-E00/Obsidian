@@ -38,16 +38,30 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.google.com/search?q=Que+es+una+base+de+datos+sql+explicamelo+a+detalle&sca_esv=603be8ec33a5b75e&source=hp&ei=cgLQaauxGvzJ5OUP2b3emAk&iflsig=AFdpzrgAAAAAadAQgkZyV-4CiaCdSRarAMuXTIt68137&aep=22&ved=0ahUKEwirstrKo9KTAxX8JLkGHdmeF5MQteYPCA0&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz&sei=dgLQaaDmMKyq5OUPmcmF0AE&mstk=AUtExfDSe-NxjBpmCs92AaRDxhg9EQJY50Cv0uNN7eGanwwqnWxaZSmOIu7XGdGvutKILJ6bOUTe46tGtl7QX2oOKpD85Pgv11ehn8zSi8Ab5KzsNScNYDjBcvtTJJkcmUx3dtDAzFTi_GoLBYWTdsfoR8SmfZxgCWln_eE&csuir=1&udm=50",
+                "url": "https://www.google.com/search?q=Que+es+una+base+de+datos+sql+explicamelo+a+detalle&sca_esv=603be8ec33a5b75e&source=hp&ei=cgLQaauxGvzJ5OUP2b3emAk&iflsig=AFdpzrgAAAAAadAQgkZyV-4CiaCdSRarAMuXTIt68137&aep=22&ved=0ahUKEwirstrKo9KTAxX8JLkGHdmeF5MQteYPCA0&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz&sei=dgLQaaDmMKyq5OUPmcmF0AE&mstk=AUtExfBvgrXeWY-B_O_PxT5T2CSMWvaLZLI3tF5uSoXKrw6r-ofRwhPNIWlkmpm7tW8yYDXz9W-g1UlNcJu7rqNkHMPeaHpRfsXuy1kuyBUgyDfz76MWtLE-oS-Vpk9y958xFPcLOH1Fo5PdlcNmiIIxGrK6jbo7tGpgb_k&csuir=1&udm=50",
                 "title": "Que es una base de datos sql explicamelo a detalle - Google Search",
                 "mode": "webview"
               },
               "icon": "globe-2",
               "title": "Que es una base de datos sql explicamelo a detalle - Google Search"
             }
+          },
+          {
+            "id": "1c01f8e50ee616db",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.google.com/search?q=indices+base+de+datos+mysql&sca_esv=dc38878d6c0b441c&source=hp&ei=vA7Qaa-eHsfF5OUP19XSsAc&iflsig=AFdpzrgAAAAAadAczIw3w2oXLjyUlUaOla4sFWnjHD7Z&oq=Indices+base+de+dat&gs_lp=Egdnd3Mtd2l6IhNJbmRpY2VzIGJhc2UgZGUgZGF0KgIIAjIFEAAYgAQyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB5Ili5QqANYsBhwBHgAkAEBmAGlBaAB6SOqAQs0LjYuNC4yLjEuMrgBAcgBAPgBAZgCFaACmyLCAgwQABiABBgKGAsYsQPCAgsQLhiABBjHARivAcICCRAAGIAEGAoYC8ICBxAAGIAEGArCAggQABiABBixA8ICCxAAGIAEGLEDGIMBmAMAkgcLNC45LjMuMi4yLjGgB6p3sgcLMC45LjMuMi4yLjG4B4oiwgcIMC41LjE1LjHIB1CACAE&sclient=gws-wiz",
+                "title": "indices base de datos mysql - Buscar con Google",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "indices base de datos mysql - Buscar con Google"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "7058536e2b175502",
@@ -80,6 +94,20 @@
               },
               "icon": "lucide-file",
               "title": "SQL"
+            }
+          },
+          {
+            "id": "6ac84595c0b58cdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bases de datos/Indices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Indices"
             }
           },
           {
@@ -138,7 +166,8 @@
               "title": "Claves"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -323,10 +352,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0529ea098cc5d8ff",
+  "active": "1c01f8e50ee616db",
   "lastOpenFiles": [
-    "Bases de datos/Base de datos.md",
+    "Bases de datos/Indices.md",
     "Bases de datos/SQL.md",
+    "Bases de datos/Base de datos.md",
     "Bases de datos/Restricciones.md",
     "Bases de datos/Claves.md",
     "Bases de datos/DEFAULT.md",
@@ -337,7 +367,6 @@
     "Bases de datos/Clave Primaria_Primary key PK.md",
     "Bases de datos/Clave foranea Foreign Key FK.md",
     "Bases de datos/Relaciones.md",
-    "Bases de datos/Indices.md",
     "Bases de datos/Entidad.md",
     "Bases de datos/Tabla.md",
     "Algoritmo y estructuras de datos/Sistemas de numeracion.md",
