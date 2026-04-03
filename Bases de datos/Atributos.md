@@ -5,6 +5,10 @@ Son basicamente las caracteristicas de mi entidad (objeto)
 
 Segun que tipo de base de datos hablamos cambian de nombre
 ;;
+En sql serian
+[[Columna]]
+NoSql
+[[Campo]]
 
 
 
