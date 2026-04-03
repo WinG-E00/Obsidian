@@ -17,4 +17,4 @@ Para no relacionales
 [[Redis]]
 
 
-#baseDeDatos #
+#baseDeDatos #Herramienta
