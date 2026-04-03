@@ -10,6 +10,9 @@ Existen dos tipos de bases de datos
 [[NoSQL]]
 
 
+Elementos del concepto
+
+
 
 
 
