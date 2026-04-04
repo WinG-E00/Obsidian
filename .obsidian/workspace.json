@@ -122,6 +122,20 @@
                 }
               },
               {
+                "id": "d01199c9773131cb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Programacion/CSS/color.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "color"
+                }
+              },
+              {
                 "id": "5e3e1329b8acf44b",
                 "type": "leaf",
                 "state": {
@@ -149,7 +163,8 @@
                   "title": "box-sizing"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -338,11 +353,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f5c3a4e0660e845c",
+  "active": "d01199c9773131cb",
   "lastOpenFiles": [
+    "Programacion/CSS/color.md",
+    "Programacion/CSS/Propiedades fundamentales.md",
     "Programacion/CSS/Box model.md",
     "Programacion/CSS/box-sizing.md",
-    "Programacion/CSS/Propiedades fundamentales.md",
     "Programacion/CSS/Propiedades.md",
     "Programacion/CSS/CSS.md",
     "Bases de datos/Claves.md",
@@ -365,7 +381,6 @@
     "Bases de datos/Entidad.md",
     "Bases de datos/Tabla.md",
     "Algoritmo y estructuras de datos/Sistemas de numeracion.md",
-    "Bases de datos/Atributos.md",
     "script wrapped.js",
     "Untitled.canvas",
     "Bases de datos",
