@@ -7,4 +7,6 @@ Propiedades logicas de offset
 Overflow
 Visibilidad y otras
 Posicionamiento
-Display
+Display 
+Flexbox
+Grid layout
