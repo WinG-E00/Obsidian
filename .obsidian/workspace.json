@@ -36,68 +36,95 @@
         "currentTab": 1
       },
       {
-        "id": "7058536e2b175502",
-        "type": "tabs",
+        "id": "ac1cd89966761542",
+        "type": "split",
         "dimension": 47.05240174672489,
         "children": [
           {
-            "id": "81314cfe74bdc096",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases de datos/Base de datos.md",
-                "mode": "source",
-                "source": false
+            "id": "7058536e2b175502",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "81314cfe74bdc096",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bases de datos/Base de datos.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Base de datos"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Base de datos"
-            }
+              {
+                "id": "11ea311616862b09",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bases de datos/Sistemas de gestion de Base de datos.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Sistemas de gestion de Base de datos"
+                }
+              },
+              {
+                "id": "f05e8f2f45050177",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Programacion/CSS/CSS.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "CSS"
+                }
+              },
+              {
+                "id": "b3f5a9208fb2c1fc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Programacion/CSS/Propiedades.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Propiedades"
+                }
+              }
+            ],
+            "currentTab": 3
           },
           {
-            "id": "11ea311616862b09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases de datos/Sistemas de gestion de Base de datos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sistemas de gestion de Base de datos"
-            }
-          },
-          {
-            "id": "f05e8f2f45050177",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programacion/CSS/CSS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSS"
-            }
-          },
-          {
-            "id": "f5c3a4e0660e845c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programacion/CSS/Propiedades.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Propiedades"
-            }
+            "id": "81635ede8c1e861a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f5c3a4e0660e845c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Programacion/CSS/Propiedades fundamentales.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Propiedades fundamentales"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 3
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -283,10 +310,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0529ea098cc5d8ff",
+  "active": "b3f5a9208fb2c1fc",
   "lastOpenFiles": [
-    "Programacion/CSS/Propiedades.md",
     "Programacion/CSS/CSS.md",
+    "Programacion/CSS/Propiedades fundamentales.md",
+    "Programacion/CSS/Propiedades.md",
     "Bases de datos/Claves.md",
     "Bases de datos/Claves Principales.md",
     "Bases de datos/Restricciones.md",
@@ -310,7 +338,6 @@
     "Bases de datos/Atributos.md",
     "Bases de datos/Instancia.md",
     "Bases de datos/Untitled.md",
-    "Untitled 1.md",
     "script wrapped.js",
     "Untitled.canvas",
     "Bases de datos",

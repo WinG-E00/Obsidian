@@ -1,7 +1,9 @@
+[[Propiedades fundamentales]]
+
 [[Fondos]]
 [[Bordes]]
 [[box decoration]]
-[[Box model]]
+
 [[Margenes y rellenos]]
 [[Propiedades logicas de offset]]
 [[Overflow]]
