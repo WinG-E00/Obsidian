@@ -1,17 +1,15 @@
 [[Propiedades fundamentales]]
 
 
-[[Bordes]]
-[[box decoration]]
+
 
 [[Margenes y rellenos]]
 [[Propiedades logicas de offset]]
 [[Overflow]]
 [[Visibilidad y otras]]
-[[Posicionamiento]]
-[[Display ]]
-[[Flexbox]]
-[[Grid layout]]
+
+
+
 
 [[Contenido generado]]
 [[listas]]
@@ -21,8 +19,7 @@
 [[Transformaciones]]
 [[Transiciones]]
 [[Animaciones]]
-[[Interacciones y puntero]]
-[[scroll personalizado]]
+
 [[Container Queries]]
 [[Variables CSS]]
 [[Tablas]]
