@@ -31,20 +31,6 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "7194b52789aebf4c",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.google.com/search?q=Que+seria+el+sistema+de+gestion+de+base+de+datos%3F&sca_esv=e701aa2a750b70d5&source=hp&ei=ASDQaZ_BOoLM1sQPgN-JsAg&iflsig=AFdpzrgAAAAAadAuEfXoNm-Qj0W-38pQU-iNzip6PwMd&aep=22&ved=0ahUKEwjfxZfjv9KTAxUCppUCHYBvAoYQteYPCA0&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz&mstk=AUtExfARvT0E0HhkBpXE3JHfmDdkOTvOt1FgU4DFiHMiqztA9DtuC74szj64abdtlzNBGhV4mmHSkYNToZNgQusYb6VBjJ01-ATzDMjCv4SYZOBNBMf0K5cBE-_K7n_2vXkEF__860lPNyuN6VAGllSGQuBz9FkcRvV4h2k&csuir=1&udm=50",
-                "title": "Que seria el sistema de gestion de base de datos? - Google Search",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Que seria el sistema de gestion de base de datos? - Google Search"
-            }
           }
         ],
         "currentTab": 1
@@ -83,147 +69,21 @@
             }
           },
           {
-            "id": "2ea8ee9b93e3858a",
+            "id": "f05e8f2f45050177",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bases de datos/SQL.md",
+                "file": "Programacion/CSS/CSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL"
-            }
-          },
-          {
-            "id": "e2226fa2176aa726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases de datos/Relaciones.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Relaciones"
-            }
-          },
-          {
-            "id": "1045d720f592bbc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases de datos/Uno a Uno.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Uno a Uno"
-            }
-          },
-          {
-            "id": "118c5f3e1466b9c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases de datos/Muchos a muchos NM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Muchos a muchos NM"
-            }
-          },
-          {
-            "id": "6d63016a9ada8ea6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases de datos/Uno a muchos 1N.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Uno a muchos 1N"
-            }
-          },
-          {
-            "id": "6ac84595c0b58cdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases de datos/Indices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Indices"
-            }
-          },
-          {
-            "id": "b3e50a7b27c21b67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases de datos/Restricciones.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Restricciones"
-            }
-          },
-          {
-            "id": "a4e04a74f4093c56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases de datos/Claves.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Claves"
-            }
-          },
-          {
-            "id": "db65e554f07fbf8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases de datos/Claves Principales.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Claves Principales"
-            }
-          },
-          {
-            "id": "5aa320078bbf2023",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases de datos/Claves.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Claves"
+              "title": "CSS"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -408,23 +268,24 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "061faaf3bacc038d",
+  "active": "0529ea098cc5d8ff",
   "lastOpenFiles": [
+    "Programacion/CSS/CSS.md",
+    "Bases de datos/Claves.md",
+    "Bases de datos/Claves Principales.md",
+    "Bases de datos/Restricciones.md",
+    "Bases de datos/Indices.md",
+    "Bases de datos/Uno a muchos 1N.md",
+    "Bases de datos/Muchos a muchos NM.md",
+    "Bases de datos/Uno a Uno.md",
+    "Bases de datos/Relaciones.md",
+    "Bases de datos/SQL.md",
     "Bases de datos/Sistemas de gestion de Base de datos.md",
     "Bases de datos/Base de datos.md",
-    "Bases de datos/SQL.md",
-    "Bases de datos/Relaciones.md",
-    "Bases de datos/Uno a Uno.md",
-    "Bases de datos/Muchos a muchos NM.md",
-    "Bases de datos/Uno a muchos 1N.md",
-    "Bases de datos/Indices.md",
-    "Bases de datos/Restricciones.md",
-    "Bases de datos/Claves.md",
     "Bases de datos/DEFAULT.md",
     "Bases de datos/CHECK.md",
     "Bases de datos/NOT_NULL.md",
     "Bases de datos/UNIQUE.md",
-    "Bases de datos/Claves Principales.md",
     "Bases de datos/Clave Primaria_Primary key PK.md",
     "Bases de datos/Clave foranea Foreign Key FK.md",
     "Bases de datos/Entidad.md",
@@ -437,7 +298,6 @@
     "script wrapped.js",
     "Untitled.md",
     "Untitled.canvas",
-    "Programacion/CSS/Untitled.md",
     "Bases de datos",
     "Programacion/Kotline",
     "Programacion/Javascript",
