@@ -149,8 +149,7 @@
                   "title": "box-sizing"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "horizontal"
@@ -339,10 +338,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0529ea098cc5d8ff",
+  "active": "f5c3a4e0660e845c",
   "lastOpenFiles": [
-    "Programacion/CSS/box-sizing.md",
     "Programacion/CSS/Box model.md",
+    "Programacion/CSS/box-sizing.md",
     "Programacion/CSS/Propiedades fundamentales.md",
     "Programacion/CSS/Propiedades.md",
     "Programacion/CSS/CSS.md",
