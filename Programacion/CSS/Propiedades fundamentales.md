@@ -1,3 +1,5 @@
 [[Box model]]
 [[Fondos]]
 [[color]]
+[[Fuentes]]
+[[texto]]

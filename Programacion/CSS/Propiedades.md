@@ -12,8 +12,7 @@
 [[Display ]]
 [[Flexbox]]
 [[Grid layout]]
-[[Fuentes]]
-[[texto]]
+
 [[Contenido generado]]
 [[listas]]
 [[Multiculimna]]
