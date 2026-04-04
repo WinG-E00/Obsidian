@@ -19,3 +19,10 @@ Medios impresos y fragmentacion
 Efectos y mascaras
 Transformaciones
 Transiciones
+Animaciones
+Interacciones y puntero
+scroll personalizado
+Container Queries
+Variables CSS
+Tablas
+Escritura vertical y direccion
