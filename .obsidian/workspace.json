@@ -163,8 +163,7 @@
                   "title": "box-sizing"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -353,7 +352,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d01199c9773131cb",
+  "active": "f5c3a4e0660e845c",
   "lastOpenFiles": [
     "Programacion/CSS/color.md",
     "Programacion/CSS/Propiedades fundamentales.md",
