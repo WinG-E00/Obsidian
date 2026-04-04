@@ -6,7 +6,7 @@
       {
         "id": "35a4c882f1d54fe9",
         "type": "tabs",
-        "dimension": 46.481876332622605,
+        "dimension": 52.94759825327511,
         "children": [
           {
             "id": "aa38792399763e45",
@@ -38,7 +38,7 @@
       {
         "id": "7058536e2b175502",
         "type": "tabs",
-        "dimension": 53.5181236673774,
+        "dimension": 47.05240174672489,
         "children": [
           {
             "id": "81314cfe74bdc096",
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f45e47c71995dea1",
@@ -282,7 +283,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f5c3a4e0660e845c",
+  "active": "0529ea098cc5d8ff",
   "lastOpenFiles": [
     "Programacion/CSS/Propiedades.md",
     "Programacion/CSS/CSS.md",
