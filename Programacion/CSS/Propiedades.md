@@ -12,4 +12,10 @@ Flexbox
 Grid layout
 Fuentes
 texto
-
+Contenido generado
+listas
+Multiculimna
+Medios impresos y fragmentacion
+Efectos y mascaras
+Transformaciones
+Transiciones
