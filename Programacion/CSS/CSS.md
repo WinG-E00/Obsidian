@@ -4,7 +4,7 @@ basicamente es un lenguaje de estilos en cascada echo para dar estilos a mis blo
 los elementos fundamentales de nuestro programa van a ser......
 ____
 [[Selector]]
-[[Propiedad]]
+[[Propiedades]]
 [[Valor]]
 
 

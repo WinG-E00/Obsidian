@@ -10,3 +10,6 @@ Posicionamiento
 Display 
 Flexbox
 Grid layout
+Fuentes
+texto
+

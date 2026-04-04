@@ -88,12 +88,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion/CSS/Propiedad.md",
+                "file": "Programacion/CSS/Propiedades.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Propiedad"
+              "title": "Propiedades"
             }
           }
         ],
@@ -284,7 +284,7 @@
   },
   "active": "f5c3a4e0660e845c",
   "lastOpenFiles": [
-    "Programacion/CSS/Propiedad.md",
+    "Programacion/CSS/Propiedades.md",
     "Programacion/CSS/CSS.md",
     "Bases de datos/Claves.md",
     "Bases de datos/Claves Principales.md",
