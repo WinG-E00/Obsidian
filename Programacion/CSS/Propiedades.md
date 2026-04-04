@@ -1,6 +1,6 @@
 [[Propiedades fundamentales]]
 
-[[Fondos]]
+
 [[Bordes]]
 [[box decoration]]
 
