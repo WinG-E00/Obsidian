@@ -6,5 +6,6 @@ Cuales son?
 [[Negacion de Doble implicacion]]
 
 
+[[Negacion de funciones preposicionales]]
 
 #Preposiciones
