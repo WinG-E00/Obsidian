@@ -1,7 +1,7 @@
 Cuales son?
 ;;
-Producto
-Proceso
-Organizacional
-Marketing
-Social
+[[Producto]]
+[[Proceso]]
+[[Organizacional]]
+[[Marketing]]
+[[Social]]
