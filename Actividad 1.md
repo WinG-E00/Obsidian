@@ -19,4 +19,4 @@ I need to use an API to connect the client side with the server, and for that I 
 
 ## Actividad 3
 
-I think and api is a
+I think and api is and intermediare between one program and other program, and the api have a conjunt of rules that you need to follow to be able to use it.
