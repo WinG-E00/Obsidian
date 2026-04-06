@@ -6,7 +6,6 @@
       {
         "id": "35a4c882f1d54fe9",
         "type": "tabs",
-        "dimension": 52.94759825327511,
         "children": [
           {
             "id": "aa38792399763e45",
@@ -14,16 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmo y estructuras de datos/Sistemas de numeracion.md",
+                "file": "Prueba obsidian git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sistemas de numeracion"
+              "title": "Prueba obsidian git"
             }
           },
           {
-            "id": "0529ea098cc5d8ff",
+            "id": "9c4f0433cdbcffb9",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -34,153 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "ac1cd89966761542",
-        "type": "split",
-        "dimension": 47.05240174672489,
-        "children": [
-          {
-            "id": "7058536e2b175502",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "81314cfe74bdc096",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Bases de datos/Base de datos.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Base de datos"
-                }
-              },
-              {
-                "id": "11ea311616862b09",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Bases de datos/Sistemas de gestion de Base de datos.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Sistemas de gestion de Base de datos"
-                }
-              },
-              {
-                "id": "f05e8f2f45050177",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Programacion/CSS/CSS.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "CSS"
-                }
-              },
-              {
-                "id": "b3f5a9208fb2c1fc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Programacion/CSS/Propiedades.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Propiedades"
-                }
-              }
-            ],
-            "currentTab": 3
-          },
-          {
-            "id": "81635ede8c1e861a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f5c3a4e0660e845c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Programacion/CSS/Propiedades fundamentales.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Propiedades fundamentales"
-                }
-              },
-              {
-                "id": "7841081cf6926365",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Programacion/CSS/Fondos.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Fondos"
-                }
-              },
-              {
-                "id": "d01199c9773131cb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Programacion/CSS/color.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "color"
-                }
-              },
-              {
-                "id": "5e3e1329b8acf44b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Programacion/CSS/Box model.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Box model"
-                }
-              },
-              {
-                "id": "f0139d5066b66ec6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Programacion/CSS/box-sizing.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "box-sizing"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -237,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f45e47c71995dea1",
@@ -334,73 +185,57 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "061faaf3bacc038d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5c3a4e0660e845c",
+  "active": "9c4f0433cdbcffb9",
   "lastOpenFiles": [
-    "Programacion/CSS/Fondos.md",
-    "Programacion/CSS/Propiedades fundamentales.md",
-    "Programacion/CSS/color.md",
-    "Programacion/CSS/Box model.md",
-    "Programacion/CSS/box-sizing.md",
+    "asdkmn sdkfdsjf.md",
+    "Prueba para obsidian auto commit de git.md",
+    "script wrapped.js",
+    "Programacion/CSS/Simple.md",
+    "Programacion/CSS/Selector.md",
     "Programacion/CSS/Propiedades.md",
+    "Programacion/CSS/Propiedades fundamentales.md",
+    "Programacion/CSS/Fondos.md",
     "Programacion/CSS/CSS.md",
-    "Bases de datos/Claves.md",
-    "Bases de datos/Claves Principales.md",
-    "Bases de datos/Restricciones.md",
-    "Bases de datos/Indices.md",
-    "Bases de datos/Uno a muchos 1N.md",
-    "Bases de datos/Muchos a muchos NM.md",
+    "Programacion/CSS/color.md",
+    "Programacion/CSS/box-sizing.md",
+    "Programacion/CSS/Box model.md",
+    "Programacion/CSS",
+    "Programacion",
     "Bases de datos/Uno a Uno.md",
-    "Bases de datos/Relaciones.md",
+    "Bases de datos/Uno a muchos 1N.md",
+    "Bases de datos/UNIQUE.md",
+    "Bases de datos/Tabla.md",
     "Bases de datos/SQL.md",
     "Bases de datos/Sistemas de gestion de Base de datos.md",
-    "Bases de datos/Base de datos.md",
-    "Bases de datos/DEFAULT.md",
-    "Bases de datos/CHECK.md",
+    "Bases de datos/Relaciones.md",
+    "Bases de datos/Restricciones.md",
+    "Bases de datos/Muchos a muchos NM.md",
     "Bases de datos/NOT_NULL.md",
-    "Bases de datos/UNIQUE.md",
-    "Bases de datos/Clave Primaria_Primary key PK.md",
-    "Bases de datos/Clave foranea Foreign Key FK.md",
+    "Bases de datos/Instancia.md",
+    "Bases de datos/Indices.md",
     "Bases de datos/Entidad.md",
-    "Bases de datos/Tabla.md",
-    "script wrapped.js",
-    "Untitled.canvas",
-    "Bases de datos",
-    "Programacion/Kotline",
-    "Programacion/Javascript",
-    "Programacion/HTML",
-    "Programacion",
-    "Programacion/CSS"
+    "Bases de datos/DEFAULT.md",
+    "Bases de datos/Claves.md",
+    "Bases de datos"
   ]
 }
