@@ -7,6 +7,10 @@ server
 system
 
 # Actividades 2
-API 
 
-Client: Significa cliente se usa para 
+API I
+Client: Significa cliente 
+Server: Servidor
+Request: Peticion
+Response: respuesta
+Data: datos
