@@ -15,3 +15,4 @@ Request: Peticion
 Response: respuesta
 Data: datos
 
+I need to use and API for conecting the client side w
