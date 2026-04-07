@@ -12,6 +12,6 @@ CREATE TABLE Usuarios (
     fecha_registro DATE DEFAULT CURRENT_DATE -- Pone la fecha de hoy sola
 );
 ```
-<!--SR:!2026-04-07,1,210-->
+<!--SR:!2026-04-08,1,190-->
 
 #baseDeDatos #tipos 
