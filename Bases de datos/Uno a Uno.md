@@ -16,7 +16,7 @@ CREATE TABLE Expedientes (
     FOREIGN KEY (id_usuario) REFERENCES Usuarios(id_usuario)
 );
 ```
-<!--SR:!2026-04-03,1,230-->
+<!--SR:!2026-04-08,1,190-->
 
 
 #baseDeDatos 

@@ -346,12 +346,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -366,14 +365,22 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0529ea098cc5d8ff",
+  "active": "3cb571b10d7a2b71",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Algoritmo y estructuras de datos/Sistemas de numeracion.md",
+    "Programacion/CSS/Propiedades.md",
+    "Tecnolgoia y sociedad/Multiples dimensiones de creacion de valor.md",
+    "Tecnolgoia y sociedad",
+    "Negaciones.md",
+    "Negacion de funciones preposicionales.md",
+    "Negacion de conjuncion.md",
+    "Actividad 1.md",
     "Programacion/CSS/Propiedades fundamentales.md",
     "Programacion/CSS/Fondos.md",
     "Programacion/CSS/color.md",
     "Programacion/CSS/Box model.md",
     "Programacion/CSS/box-sizing.md",
-    "Programacion/CSS/Propiedades.md",
     "Programacion/CSS/CSS.md",
     "Bases de datos/Claves.md",
     "Bases de datos/Claves Principales.md",
@@ -387,13 +394,6 @@
     "Bases de datos/Sistemas de gestion de Base de datos.md",
     "Bases de datos/Base de datos.md",
     "Bases de datos/DEFAULT.md",
-    "Bases de datos/CHECK.md",
-    "Bases de datos/NOT_NULL.md",
-    "Bases de datos/UNIQUE.md",
-    "Bases de datos/Clave Primaria_Primary key PK.md",
-    "Bases de datos/Clave foranea Foreign Key FK.md",
-    "Bases de datos/Entidad.md",
-    "Bases de datos/Tabla.md",
     "script wrapped.js",
     "Untitled.canvas",
     "Bases de datos",

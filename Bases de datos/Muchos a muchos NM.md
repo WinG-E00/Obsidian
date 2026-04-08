@@ -11,6 +11,6 @@ ___
     - Si el Estudiante 1 se apunta al Curso A, creas una fila: `(1, A)`.
     - Si el Estudiante 1 se apunta al Curso B, creas otra: `(1, B)`.
     - Si el Estudiante 2 se apunta al Curso A, creas: `(2, A)`.
-<!--SR:!2026-04-04,1,230-->
+<!--SR:!2026-04-08,1,190-->
 
 #baseDeDatos #tipos 

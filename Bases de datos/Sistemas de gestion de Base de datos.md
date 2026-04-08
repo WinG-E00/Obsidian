@@ -15,6 +15,7 @@ Para no relacionales
 [[MongoDB]]
 [[Cassandra]]
 [[Redis]]
+<!--SR:!2026-04-07,1,230-->
 
 
 #baseDeDatos #Herramienta
