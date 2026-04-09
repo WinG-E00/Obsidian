@@ -16,5 +16,23 @@
       ],
       "key": "P"
     }
+  ],
+  "quickadd:choice:dc336039-652f-49e3-8e04-ecd9b8ae990e": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "quickadd:choice:6250c914-a1b9-4c7c-9bf1-4436971792e4": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
   ]
 }
