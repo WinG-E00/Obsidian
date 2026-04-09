@@ -3,4 +3,4 @@ Que es? tipo de dato
 Entero con valores entre -2147483648 y +2147483648
 
 
-#baseDeDatos 
+#baseDeDatos #tipos
