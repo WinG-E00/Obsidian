@@ -5,4 +5,4 @@ Cuales existen? cuales son?
 [[timestamp without time zone]]
 
 
-#baseDeDatos
+#baseDeDatos #tipos
