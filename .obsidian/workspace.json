@@ -52,7 +52,7 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.google.com/search?q=Para+que+sirve+serial+en+tipo+de+datos+de+base+de+datos%3F&sca_esv=fd254c0c541851a3&source=hp&ei=vAfXad33H6Td1sQPo6TRiA0&iflsig=AFdpzrgAAAAAadcVzH-g_DXCcuiO5fqiH7C_b-ef_rzw&aep=22&ved=0ahUKEwjdxbHO1d-TAxWkrpUCHSNSFNEQteYPCA0&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz&mstk=AUtExfCoR3tcEmuPgdEYCJ5zWOUoqcFlJNxtCwBbGXqyWDilOxjx30271-zGFuT3ObH9cG-QpfUVzng9-7_5OVZvxlu8glSz0DGJEPh2-GlpcuyrF8zHZ0lfPXTVdR-b7xnX-86NhTGPT8ywZ6y5_UnS798zvDwGarGzZWg&csuir=1&udm=50",
+                "url": "https://www.google.com/search?q=Para+que+sirve+serial+en+tipo+de+datos+de+base+de+datos%3F&sca_esv=fd254c0c541851a3&source=hp&ei=vAfXad33H6Td1sQPo6TRiA0&iflsig=AFdpzrgAAAAAadcVzH-g_DXCcuiO5fqiH7C_b-ef_rzw&aep=22&ved=0ahUKEwjdxbHO1d-TAxWkrpUCHSNSFNEQteYPCA0&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz&mstk=AUtExfAKy6xHiFW6K_P8qh63aDntBieV7wL_8VGLnAh77ANBjGNe3E9mnBVwSFoXp4ve20LTNSuLU7_htObouwMhDLKWkP9K_bYc9ap-T6cXmwOzx0Oo2oBtvldcMW6Jxx1Q1XCyHWWyK1Ded3AaeUwADCMGZpnVQtNMuFU&csuir=1&udm=50",
                 "title": "Para que sirve serial en tipo de datos de base de datos? - Google Search",
                 "mode": "webview"
               },
@@ -307,7 +307,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "9148931b0d8aff4e",
+  "active": "dcc198dfec519615",
   "lastOpenFiles": [
     "timestamp without time zone.md",
     "Fecha.md",
