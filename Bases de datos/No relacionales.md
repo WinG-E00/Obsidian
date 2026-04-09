@@ -4,3 +4,8 @@ Las bases de datos no relacionales se suelen crear para almacenar datos especifi
 
 
 Tipos de bases de datos No relacionales
+[[Bases de datos clave valor]]
+[[Bases de datos documentales]]
+[[Bases de datos orientadas a grafos]]
+[[Bases de datos de columna]]
+[[Bases de datos en memoria]]
