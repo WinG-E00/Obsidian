@@ -109,23 +109,9 @@
               "icon": "lucide-file",
               "title": "Alfanumerico"
             }
-          },
-          {
-            "id": "f0e12b89f58d8b35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases de datos/text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "text"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -321,7 +307,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "dcc198dfec519615",
+  "active": "b502e381cb4f1ece",
   "lastOpenFiles": [
     "Bases de datos/text.md",
     "Bases de datos/Alfanumerico.md",
