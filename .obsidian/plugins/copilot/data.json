@@ -1,7 +1,7 @@
 {
   "userId": "53ce0a88-11d6-4e82-a411-a37b0726b190",
   "isPlusUser": false,
-  "plusLicenseKey": "",
+  "plusLicenseKey": "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",
   "openAIApiKey": "",
   "openAIOrgId": "",
   "huggingfaceApiKey": "",
@@ -13,7 +13,7 @@
   "azureOpenAIApiVersion": "",
   "azureOpenAIApiEmbeddingDeploymentName": "",
   "googleApiKey": "",
-  "openRouterAiApiKey": "",
+  "openRouterAiApiKey": "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",
   "xaiApiKey": "",
   "mistralApiKey": "",
   "deepseekApiKey": "",
