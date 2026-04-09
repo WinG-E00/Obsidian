@@ -97,17 +97,17 @@
             }
           },
           {
-            "id": "2640743f06a67f06",
+            "id": "70b4ef268a0c9c6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bases de datos/Bigint.md",
+                "file": "Bases de datos/Real.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bigint"
+              "title": "Real"
             }
           }
         ],
@@ -297,22 +297,24 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2640743f06a67f06",
+  "active": "70b4ef268a0c9c6e",
   "lastOpenFiles": [
-    "Bases de datos/Bigint.md",
+    "Bases de datos/Real.md",
     "Bases de datos/Numerico.md",
+    "Bases de datos/Tipos de datos.md",
+    "Bases de datos/Bigint.md",
+    "Bases de datos/enteros.md",
+    "Bases de datos/SQL.md",
     "Bases de datos/Smallint.md",
     "Bases de datos/Integer.md",
     "Programacion/CSS/Propiedades.md",
     "Programacion/CSS/CSS.md",
     "Bases de datos/Sistemas de gestion de Base de datos.md",
-    "Bases de datos/Tipos de datos.md",
     "Programacion/CSS/Propiedades fundamentales.md",
     "Programacion/CSS/box-sizing.md",
     "Programacion/CSS/Box model.md",
     "Programacion/CSS/color.md",
     "Programacion/CSS/Fondos.md",
-    "Bases de datos/SQL.md",
     "conflict-files-obsidian-git.md",
     "Algoritmo y estructuras de datos/Sistemas de numeracion.md",
     "Tecnolgoia y sociedad/Multiples dimensiones de creacion de valor.md",
@@ -324,8 +326,6 @@
     "Bases de datos/Claves.md",
     "Bases de datos/Claves Principales.md",
     "Bases de datos/Restricciones.md",
-    "Bases de datos/Indices.md",
-    "Bases de datos/Uno a muchos 1N.md",
     "script wrapped.js",
     "Untitled.canvas",
     "Bases de datos",
