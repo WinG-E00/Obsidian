@@ -17,5 +17,10 @@ Para no relacionales
 [[Redis]]
 <!--SR:!2026-04-07,1,230-->
 
+## Elemento
+[[Para que estan diseñados]]
+[[Ventajas]]
+
+
 
 #baseDeDatos #Herramienta
