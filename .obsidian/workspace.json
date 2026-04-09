@@ -253,7 +253,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -262,6 +262,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -273,7 +274,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9128088765dacf0",
+  "active": "942ee15bbc396c6b",
   "lastOpenFiles": [
     "Bases de datos/SQL.md",
     "Programacion/CSS/CSS.md",
