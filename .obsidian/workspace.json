@@ -75,8 +75,7 @@
               "title": "Ramas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,7 +262,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "471bd18de0ca3e1f",
+  "active": "bbe1ed3b569aa66f",
   "lastOpenFiles": [
     "Ramas.md",
     "Github.md",
