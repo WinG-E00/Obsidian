@@ -4,6 +4,10 @@ Las bases de datos son una colección de datos organizados que pueden relacionar
 ___
 <!--SR:!2026-04-08,1,190-->
 
+[[Relacionales]]
+[[No relacionales]]
+
+
 Tipos de bases de datos
 ;;
 Existen dos tipos de bases de datos
