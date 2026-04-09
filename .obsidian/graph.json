@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 15366416
       }
+    },
+    {
+      "query": "#operaciones",
+      "color": {
+        "a": 1,
+        "rgb": 13893887
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 10.7259114583333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.27846143169702947,
-  "close": true
+  "scale": 0.21123594231370152,
+  "close": false
 }
