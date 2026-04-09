@@ -8,3 +8,7 @@ Dentro de numerico que tipos de datos existen en bases de datos sql?
 [[double precision]]
 [[Serial]]
 
+
+
+#baseDeDatos 
+
