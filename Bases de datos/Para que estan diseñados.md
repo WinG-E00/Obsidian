@@ -1,0 +1,1 @@
+para que estan diseñados los sistemas de gestion de b
