@@ -6,7 +6,6 @@
       {
         "id": "35a4c882f1d54fe9",
         "type": "tabs",
-        "dimension": 52.94759825327511,
         "children": [
           {
             "id": "aa38792399763e45",
@@ -75,28 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "7058536e2b175502",
-        "type": "tabs",
-        "dimension": 47.05240174672489,
-        "children": [
-          {
-            "id": "ac076af6bbba718a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fecha.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fecha"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -292,8 +270,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "5ff58955efb52acf",
+  "active": "0529ea098cc5d8ff",
   "lastOpenFiles": [
+    "Bases de datos/Sistemas de gestion de Base de datos.md",
     "Fecha.md",
     "timestamp without time zone.md",
     "Date.md",
@@ -327,7 +306,6 @@
     "Bases de datos/Smallint.md",
     "Bases de datos/Integer.md",
     "Programacion/CSS/Propiedades.md",
-    "Programacion/CSS/CSS.md",
     "Tecnolgoia y sociedad",
     "script wrapped.js",
     "Untitled.canvas"
