@@ -1,7 +1,7 @@
 Que son?
 ;;
 Basicamente serian los datos  que almacena mi atributo
-<!--SR:!2026-04-08,1,190-->
+<!--SR:!2026-04-10,1,170-->
 
 
 Nombres para Cada Tipo de base de datos
