@@ -307,14 +307,53 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e815b78be68c93fc",
+  "floating": {
+    "id": "da72a465a6ac8f8b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b41d2a6b67e9913b",
+        "type": "window",
+        "children": [
+          {
+            "id": "51b6067a7941f38c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5a34b75ea5b8a718",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://www.obsidiancopilot.com/en?utm_source=obsidian&utm_medium=settings",
+                    "title": "Copilot for Obsidian - The Ultimate AI Assistant for Your Second Brain",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Copilot for Obsidian - The Ultimate AI Assistant for Your Second Brain"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5a34b75ea5b8a718",
   "lastOpenFiles": [
+    "Bases de datos/Serial.md",
     "Untitled 1.md",
     "Pegar texto etiqueta.js",
     "Crear texto comando.js",
     "Pegar texto etiqueta",
     "Crear texto comando",
-    "Bases de datos/Serial.md",
     "comando etiqueta.js",
     "Nuevo documento de texto.txt",
     "Bases de datos/Numerico.md",
