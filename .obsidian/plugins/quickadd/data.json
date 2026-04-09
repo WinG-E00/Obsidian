@@ -21,23 +21,27 @@
       }
     },
     {
-      "id": "51d63426-1d1c-49f6-b1df-d554226472c9",
-      "name": "etiqueta rapida",
+      "id": "dc336039-652f-49e3-8e04-ecd9b8ae990e",
+      "name": "Configurar texto",
       "type": "Macro",
-      "command": true,
+      "command": false,
       "runOnStartup": false,
       "macro": {
-        "name": "etiqueta rapida",
-        "id": "0f87d115-b5b9-405f-babb-b6ed8af57e05",
-        "commands": [
-          {
-            "name": "comando etiqueta",
-            "type": "UserScript",
-            "id": "b7009922-cdfb-4db0-aeb2-106138fa80d7",
-            "path": "comando etiqueta.js",
-            "settings": {}
-          }
-        ]
+        "name": "Configurar texto",
+        "id": "227aaf9f-0c62-43cf-bd8e-353e73a268ab",
+        "commands": []
+      }
+    },
+    {
+      "id": "6250c914-a1b9-4c7c-9bf1-4436971792e4",
+      "name": "Pegar texto rapido",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Pegar texto rapido",
+        "id": "0d5f78c6-dc86-4ae4-91e1-a49e34461733",
+        "commands": []
       }
     }
   ],
