@@ -294,6 +294,11 @@
       "capabilities": [
         "reasoning"
       ]
+    },
+    {
+      "name": "google/gemma-4-31b-it:free",
+      "provider": "openrouterai",
+      "enabled": true
     }
   ],
   "activeEmbeddingModels": [

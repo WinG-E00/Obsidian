@@ -286,11 +286,12 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 339.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,7 +307,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3a018bd57d2d533e",
+  "active": "5e657b8ae3fbefcd",
   "lastOpenFiles": [
     "copilot/copilot-conversations/Dame_una_breve_explicacionde_que_es_double_precision_un_tipo@20260408_223734.md",
     "copilot/copilot-conversations",
