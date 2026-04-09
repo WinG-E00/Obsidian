@@ -274,14 +274,23 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "3a018bd57d2d533e",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,10 +302,11 @@
       "bases:Create new base": false,
       "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "5e657b8ae3fbefcd",
+  "active": "3a018bd57d2d533e",
   "lastOpenFiles": [
     "Bases de datos/double precision.md",
     "Bases de datos/Numerico.md",
