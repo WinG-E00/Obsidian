@@ -24,24 +24,40 @@
       "id": "dc336039-652f-49e3-8e04-ecd9b8ae990e",
       "name": "Configurar texto",
       "type": "Macro",
-      "command": false,
+      "command": true,
       "runOnStartup": false,
       "macro": {
         "name": "Configurar texto",
         "id": "227aaf9f-0c62-43cf-bd8e-353e73a268ab",
-        "commands": []
+        "commands": [
+          {
+            "name": "Crear texto comando",
+            "type": "UserScript",
+            "id": "a43b9456-2978-4ad1-a4c4-8af233129290",
+            "path": "Crear texto comando.js",
+            "settings": {}
+          }
+        ]
       }
     },
     {
       "id": "6250c914-a1b9-4c7c-9bf1-4436971792e4",
       "name": "Pegar texto rapido",
       "type": "Macro",
-      "command": false,
+      "command": true,
       "runOnStartup": false,
       "macro": {
         "name": "Pegar texto rapido",
         "id": "0d5f78c6-dc86-4ae4-91e1-a49e34461733",
-        "commands": []
+        "commands": [
+          {
+            "name": "Pegar texto etiqueta",
+            "type": "UserScript",
+            "id": "320f92b2-56a1-445e-af00-42d344ce1d52",
+            "path": "Pegar texto etiqueta.js",
+            "settings": {}
+          }
+        ]
       }
     }
   ],
