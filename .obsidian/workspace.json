@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "c57434c4c66ee446",
@@ -304,16 +304,16 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0712d092cb49d84a",
+  "active": "fc27dd99a7f87e13",
   "lastOpenFiles": [
-    "Bases de datos/D.md",
+    "Bases de datos/Relacionales.md",
     "Bases de datos/ACID.md",
+    "Bases de datos/D.md",
     "Fecha.md",
     "Bases de datos/Sistemas de gestion de Base de datos.md",
     "Bases de datos/I.md",
     "Bases de datos/C.md",
     "Bases de datos/A.md",
-    "Bases de datos/Relacionales.md",
     "Bases de datos/Base de datos.md",
     "timestamp without time zone.md",
     "Date.md",
