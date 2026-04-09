@@ -5,4 +5,7 @@ estos
 * Definen estructuras para el almacenamiento de datos
 * dan mecanismos para la gestion de la informacion
 * mantienen la informacion segura
-* proveen mercanimos para que 
+* proveen mercanimos para que haya una buena concurrencia
+
+ 
+ #baseDeDatos
