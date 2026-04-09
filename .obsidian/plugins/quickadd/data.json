@@ -19,6 +19,26 @@
           }
         ]
       }
+    },
+    {
+      "id": "51d63426-1d1c-49f6-b1df-d554226472c9",
+      "name": "etiqueta rapida",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "etiqueta rapida",
+        "id": "0f87d115-b5b9-405f-babb-b6ed8af57e05",
+        "commands": [
+          {
+            "name": "comando etiqueta",
+            "type": "UserScript",
+            "id": "b7009922-cdfb-4db0-aeb2-106138fa80d7",
+            "path": "comando etiqueta.js",
+            "settings": {}
+          }
+        ]
+      }
     }
   ],
   "inputPrompt": "single-line",
