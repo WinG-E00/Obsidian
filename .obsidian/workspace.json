@@ -68,12 +68,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app?hl=es-419",
-                "title": "Google Gemini",
+                "url": "https://gemini.google.com/app/59b0d4d5e9cb8de1?hl=es-419",
+                "title": "Normalizacion de base de datos seria como una metodologia no? - Google Gemini",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Google Gemini"
+              "title": "Normalizacion de base de datos seria como una metodologia no? - Google Gemini"
             }
           }
         ],
