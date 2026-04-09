@@ -97,7 +97,8 @@
               "title": "Negacion de conjuncion"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -262,12 +263,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,39 +282,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "942ee15bbc396c6b",
+  "active": "d4bd56992836747f",
   "lastOpenFiles": [
-    "Negaciones.md",
-    "Negacion de funciones preposicionales.md",
+    "conflict-files-obsidian-git.md",
     "Negacion de conjuncion.md",
+    "Negacion de funciones preposicionales.md",
+    "Negaciones.md",
     "Actividad 1.md",
     "Programacion/CSS/CSS.md",
+    "timestamp without time zone.md",
+    "timestamp with time zone.md",
+    "copilot/copilot-conversations/Dame_una_breve_explicacionde_que_es_double_precision_un_tipo@20260408_223734.md",
+    "copilot/copilot-conversations",
+    "copilot",
+    "boolean.md",
+    "Ventajas.md",
+    "Untitled 1.md",
+    "Pegar texto etiqueta.js",
+    "Logico.md",
+    "Fecha.md",
+    "Date.md",
+    "Crear texto comando.js",
+    "Bases de datos/text.md",
+    "Bases de datos/enteros.md",
+    "Bases de datos/double precision.md",
+    "Bases de datos/character.md",
+    "Bases de datos/character(n)_char(n).md",
+    "Bases de datos/character varying(n) _ varchar(n).md",
+    "Bases de datos/Tipos de datos.md",
+    "Bases de datos/Smallint.md",
+    "Bases de datos/Serial.md",
+    "Bases de datos/Relacionales.md",
+    "Bases de datos/Real.md",
     "Ingles",
-    "Tecnolgoia y sociedad/Multiples dimensiones de creacion de valor.md",
     "Tecnolgoia y sociedad",
-    "asdkmn sdkfdsjf.md",
-    "Prueba para obsidian auto commit de git.md",
     "script wrapped.js",
-    "Programacion/CSS/Simple.md",
-    "Programacion/CSS/Selector.md",
-    "Programacion/CSS/Propiedades.md",
-    "Programacion/CSS/Propiedades fundamentales.md",
-    "Programacion/CSS/Fondos.md",
-    "Programacion/CSS/color.md",
-    "Programacion/CSS/box-sizing.md",
-    "Programacion/CSS/Box model.md",
     "Programacion/CSS",
     "Programacion",
-    "Bases de datos/Uno a Uno.md",
-    "Bases de datos/Uno a muchos 1N.md",
-    "Bases de datos/UNIQUE.md",
-    "Bases de datos/Tabla.md",
-    "Bases de datos/SQL.md",
-    "Bases de datos/Sistemas de gestion de Base de datos.md",
-    "Bases de datos/Relaciones.md",
-    "Bases de datos/Restricciones.md",
-    "Bases de datos/Muchos a muchos NM.md",
-    "Bases de datos/NOT_NULL.md",
     "Bases de datos"
   ]
 }

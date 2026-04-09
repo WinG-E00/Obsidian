@@ -1,0 +1,3 @@
+[[Smallint]]
+[[Integer]]
+[[Bigint]]
