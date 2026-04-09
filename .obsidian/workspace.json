@@ -63,17 +63,17 @@
             }
           },
           {
-            "id": "ce8ca6bb63c22cf2",
+            "id": "31894965523cab77",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.google.com/search?q=Que+seria+la+normalizacion+en+base+de+datos%3F&sca_esv=e8481ae40804fa8e&source=hp&ei=KL7Xaf3lNc3X1sQP8ZDGwAY&iflsig=AFdpzrgAAAAAadfMOFej3P-IR7t23kaSThcrGlumScDt&ved=0ahUKEwj9me3Kg-GTAxXNq5UCHXGIEWgQ4dUDCA0&uact=5&oq=Que+seria+la+normalizacion+en+base+de+datos%3F&gs_lp=Egdnd3Mtd2l6IixRdWUgc2VyaWEgbGEgbm9ybWFsaXphY2lvbiBlbiBiYXNlIGRlIGRhdG9zPzIHEAAYgAQYDTIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yCBAAGIkFGKIESKJYUOImWI1XcAV4AJABAJgB7wWgAcw1qgEOMC4xNS44LjIuMC4yLjG4AQPIAQD4AQGYAiGgArk3qAIKwgIKEAAYAxiPARjqAsICChAuGAMYjwEY6gLCAgUQABiABMICBRAuGIAEwgIHEAAYgAQYCsICDhAAGIAEGIoFGLEDGIMBwgIFECEYoAHCAgYQABgeGA3CAgcQIRgKGKABmAPGAvEFeHeSQXA0806SBww1LjE0LjguMy4xLjKgB5PzAbIHDDAuMTQuOC4zLjEuMrgHlTfCBwkyLjEwLjIwLjHIB4UBgAgB&sclient=gws-wiz&sei=Nr7XafKKCMWq1sQPgOGEMA",
-                "title": "Que seria la normalizacion en base de datos? - Buscar con Google",
+                "url": "https://www.google.com/",
+                "title": "Google",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Que seria la normalizacion en base de datos? - Buscar con Google"
+              "title": "Google"
             }
           }
         ],
@@ -263,14 +263,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "565c958f1dfa6be3",
+  "active": "31894965523cab77",
   "lastOpenFiles": [
+    "Bases de datos/SQL.md",
     "Programacion/CSS/CSS.md",
     "Negacion de conjuncion.md",
     "Negacion de funciones preposicionales.md",
     "Negaciones.md",
     "Actividad 1.md",
-    "Bases de datos/SQL.md",
     "Operaciones binarias.md",
     "conflict-files-obsidian-git.md",
     "timestamp without time zone.md",
