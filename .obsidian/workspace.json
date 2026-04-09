@@ -31,9 +31,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "dcc198dfec519615",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.google.com/search?q=&sca_esv=fd254c0c541851a3&source=hp&ei=vAfXad33H6Td1sQPo6TRiA0&iflsig=AFdpzrgAAAAAadcVzH-g_DXCcuiO5fqiH7C_b-ef_rzw&aep=22&udm=50&ved=0ahUKEwjdxbHO1d-TAxWkrpUCHSNSFNEQteYPCA0&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz",
+                "title": "Buscar con Google",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Buscar con Google"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "7058536e2b175502",
@@ -307,46 +321,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "floating": {
-    "id": "da72a465a6ac8f8b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b41d2a6b67e9913b",
-        "type": "window",
-        "children": [
-          {
-            "id": "51b6067a7941f38c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5a34b75ea5b8a718",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://www.obsidiancopilot.com/en?utm_source=obsidian&utm_medium=settings",
-                    "title": "Copilot for Obsidian - The Ultimate AI Assistant for Your Second Brain",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Copilot for Obsidian - The Ultimate AI Assistant for Your Second Brain"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "5a34b75ea5b8a718",
+  "active": "dcc198dfec519615",
   "lastOpenFiles": [
     "Bases de datos/Serial.md",
     "Untitled 1.md",
