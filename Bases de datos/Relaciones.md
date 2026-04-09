@@ -8,7 +8,7 @@ Cuales son los tipos de relaciones?
 [[Uno a muchos 1N]]
 [[Muchos a muchos NM]]
 [[Uno a Uno]]
-<!--SR:!2026-04-09,1,170-->
+<!--SR:!2026-04-10,1,150-->
 
 
 #baseDeDatos #elemento 
