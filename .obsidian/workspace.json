@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "c57434c4c66ee446",
@@ -318,10 +318,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3507f7ecda8273b6",
+  "active": "0529ea098cc5d8ff",
   "lastOpenFiles": [
-    "Bases de datos/Base de datos.md",
+    "Algoritmo y estructuras de datos/Sistemas de numeracion.md",
     "Bases de datos/No relacionales.md",
+    "Bases de datos/Base de datos.md",
     "Bases de datos/Relacionales.md",
     "Bases de datos/ACID.md",
     "Bases de datos/D.md",
@@ -351,7 +352,6 @@
     "Crear texto comando",
     "comando etiqueta.js",
     "Nuevo documento de texto.txt",
-    "Bases de datos/double precision.md",
     "copilot/copilot-conversations",
     "copilot",
     "Tecnolgoia y sociedad",
