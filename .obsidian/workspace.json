@@ -75,9 +75,19 @@
               "icon": "globe-2",
               "title": "Normalizacion de base de datos seria como una metodologia no? - Google Gemini"
             }
+          },
+          {
+            "id": "e9128088765dacf0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,7 +273,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31894965523cab77",
+  "active": "e9128088765dacf0",
   "lastOpenFiles": [
     "Bases de datos/SQL.md",
     "Programacion/CSS/CSS.md",
