@@ -11,6 +11,7 @@ Elementos principales de las SQL
 [[Restricciones]]
 [[Indices]]
 [[Relaciones]]
+Tipos de datos
 <!--SR:!2026-04-08,1,190-->
 
 
