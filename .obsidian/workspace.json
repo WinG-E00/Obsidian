@@ -28,6 +28,20 @@
             }
           },
           {
+            "id": "565c958f1dfa6be3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bases de datos/SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL"
+            }
+          },
+          {
             "id": "9c4f0433cdbcffb9",
             "type": "leaf",
             "state": {
@@ -98,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "922f6e0978432630",
@@ -117,8 +131,23 @@
               "icon": "lucide-file",
               "title": "Operaciones binarias"
             }
+          },
+          {
+            "id": "ce8ca6bb63c22cf2",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.google.com/search?q=Que+seria+la+normalizacion+en+base+de+datos%3F&sca_esv=e8481ae40804fa8e&source=hp&ei=KL7Xaf3lNc3X1sQP8ZDGwAY&iflsig=AFdpzrgAAAAAadfMOFej3P-IR7t23kaSThcrGlumScDt&ved=0ahUKEwj9me3Kg-GTAxXNq5UCHXGIEWgQ4dUDCA0&uact=5&oq=Que+seria+la+normalizacion+en+base+de+datos%3F&gs_lp=Egdnd3Mtd2l6IixRdWUgc2VyaWEgbGEgbm9ybWFsaXphY2lvbiBlbiBiYXNlIGRlIGRhdG9zPzIHEAAYgAQYDTIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yCBAAGIkFGKIESKJYUOImWI1XcAV4AJABAJgB7wWgAcw1qgEOMC4xNS44LjIuMC4yLjG4AQPIAQD4AQGYAiGgArk3qAIKwgIKEAAYAxiPARjqAsICChAuGAMYjwEY6gLCAgUQABiABMICBRAuGIAEwgIHEAAYgAQYCsICDhAAGIAEGIoFGLEDGIMBwgIFECEYoAHCAgYQABgeGA3CAgcQIRgKGKABmAPGAvEFeHeSQXA0806SBww1LjE0LjguMy4xLjKgB5PzAbIHDDAuMTQuOC4zLjEuMrgHlTfCBwkyLjEwLjIwLjHIB4UBgAgB&sclient=gws-wiz&sei=Nr7XafKKCMWq1sQPgOGEMA",
+                "title": "Que seria la normalizacion en base de datos? - Buscar con Google",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Que seria la normalizacion en base de datos? - Buscar con Google"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -304,8 +333,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a25dbd19c89ec72",
+  "active": "ce8ca6bb63c22cf2",
   "lastOpenFiles": [
+    "Bases de datos/SQL.md",
     "Operaciones binarias.md",
     "Negacion de conjuncion.md",
     "conflict-files-obsidian-git.md",
@@ -335,7 +365,6 @@
     "Bases de datos/Tipos de datos.md",
     "Bases de datos/Smallint.md",
     "Bases de datos/Serial.md",
-    "Bases de datos/Relacionales.md",
     "Ingles",
     "Tecnolgoia y sociedad",
     "script wrapped.js",
