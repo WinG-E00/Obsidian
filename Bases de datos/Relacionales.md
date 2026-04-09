@@ -7,6 +7,7 @@ Las bases de datos relacionales se basen en la organización de la información 
 Estándares de las bases de datos relacionales
 ;;
 [[ACID]]
+<!--SR:!2026-04-10,1,230-->
 
 
 
