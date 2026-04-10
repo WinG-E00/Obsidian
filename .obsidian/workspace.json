@@ -283,14 +283,23 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "778758a0c2a83698",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,10 +315,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b84abe9d00a47cf",
+  "active": "3a25dbd19c89ec72",
   "lastOpenFiles": [
-    "Negaciones de.md",
     "Negaciones de preposiciones.md",
+    "copilot/copilot-conversations/Negación_de_Conjunción_Proposiciones@20260410_105125.md",
+    "Negaciones de.md",
     "Ramas.md",
     "Matematica.md",
     "Github.md",
@@ -339,7 +349,6 @@
     "Crear texto comando.js",
     "Bases de datos/text.md",
     "Bases de datos/enteros.md",
-    "Bases de datos/double precision.md",
     "Ingles",
     "Tecnolgoia y sociedad",
     "script wrapped.js",

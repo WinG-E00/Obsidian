@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "Negacion",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 10.7259114583333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.12020726725462487,
+  "scale": 0.17103650401598328,
   "close": true
 }
