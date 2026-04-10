@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarea ingles.md",
+                "file": "Tarea ingles/Tarea ingles.md",
                 "mode": "source",
                 "source": false
               },
@@ -240,7 +240,7 @@
   "lastOpenFiles": [
     "Tarea ingles",
     "Articulos.md",
-    "Tarea ingles.md",
+    "Tarea ingles/Tarea ingles.md",
     "copilot/copilot-conversations/Negación_de_la_Conjunción@20260410_110617.md",
     "Bases de datos/SQL.md",
     "Github.md",
