@@ -323,7 +323,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -343,10 +343,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d3c6caae4bbebbd",
+  "active": "189d8d709f42a9bb",
   "lastOpenFiles": [
-    "Negacion conjuncion.md",
     "copilot/copilot-conversations/Negación_de_la_Conjunción@20260410_110617.md",
+    "Negacion conjuncion.md",
     "Negaciones de preposiciones.md",
     "copilot/memory/Recent Conversations.md",
     "copilot/memory",
