@@ -105,6 +105,20 @@
             }
           },
           {
+            "id": "189d8d709f42a9bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Negacion conjuncion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Negacion conjuncion"
+            }
+          },
+          {
             "id": "471bd18de0ca3e1f",
             "type": "leaf",
             "state": {
@@ -119,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -299,8 +313,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -316,12 +329,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a25dbd19c89ec72",
+  "active": "778758a0c2a83698",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/Negación_de_la_Conjunción@20260410_110617.md",
+    "Negacion conjuncion.md",
+    "Negaciones de preposiciones.md",
     "copilot/memory/Recent Conversations.md",
     "copilot/memory",
     "copilot/copilot-conversations/Negación_de_la_Conjunción@20260410_105125.md",
-    "Negaciones de preposiciones.md",
     "copilot/copilot-conversations/Negación_de_Conjunción_Proposiciones@20260410_105125.md",
     "Negaciones de.md",
     "Ramas.md",
@@ -348,8 +363,6 @@
     "Untitled 1.md",
     "Pegar texto etiqueta.js",
     "Logico.md",
-    "Fecha.md",
-    "Date.md",
     "Crear texto comando.js",
     "Ingles",
     "Tecnolgoia y sociedad",
