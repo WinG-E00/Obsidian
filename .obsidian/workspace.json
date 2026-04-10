@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "52e0add6a5051440",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce0db005e5748743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tarea ingles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tarea ingles"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f45e47c71995dea1",
@@ -217,11 +236,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82ccb0a878cc4b7c",
+  "active": "985190bfc32713fe",
   "lastOpenFiles": [
+    "Tarea ingles",
+    "Articulos.md",
+    "Tarea ingles.md",
     "copilot/copilot-conversations/Negación_de_la_Conjunción@20260410_110617.md",
     "Bases de datos/SQL.md",
-    "Articulos.md",
     "Github.md",
     "Ramas.md",
     "Negacion conjuncion.md",
@@ -248,8 +269,6 @@
     "copilot/copilot-conversations",
     "copilot",
     "boolean.md",
-    "Ventajas.md",
-    "Untitled 1.md",
     "Pegar texto etiqueta.js",
     "Crear texto comando.js",
     "Ingles",
