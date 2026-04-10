@@ -119,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -306,7 +306,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc041d27a356d734",
+  "active": "6b84abe9d00a47cf",
   "lastOpenFiles": [
     "Negaciones de.md",
     "Negaciones de preposiciones.md",
