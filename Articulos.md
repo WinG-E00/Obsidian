@@ -1,4 +1,6 @@
 [[Ingles]]
-conjuncion
-pronombres
-preposictions
+[[conjuncion]]
+[[pronombres]]
+[[preposictions]]
+
+
