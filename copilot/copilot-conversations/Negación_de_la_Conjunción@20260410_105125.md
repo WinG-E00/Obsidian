@@ -1,7 +1,7 @@
 ---
 epoch: 1775829085120
 modelKey: "google/gemini-2.5-flash|openrouterai"
-topic: "Negación de Conjunción Proposiciones"
+topic: "Negación de la Conjunción"
 
 
 
@@ -125,3 +125,19 @@ En palabras, "no (si P entonces Q)" es lo mismo que "P y no Q".
 #Preposiciones
 ```
 [Timestamp: 2026/04/10 10:58:44]
+
+**user**: Crea una nota que explique la negacion de la implicacion brevemente texto super corto
+[Timestamp: 2026/04/10 10:59:17]
+
+**ai**: Aquí tienes el contenido para la nota [[Negacion de la implicacion]] de forma super corta:
+
+```
+La negación de (P $\implies$ Q) es $\neg$(P $\implies$ Q).
+
+Es equivalente a: P $\land$ $\neg$Q.
+
+Significa "P y no Q".
+
+#Preposiciones
+```
+[Timestamp: 2026/04/10 10:59:19]
