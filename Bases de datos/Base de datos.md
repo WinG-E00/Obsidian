@@ -21,7 +21,7 @@ Existen dos tipos de bases de datos
 Elementos del concepto
 ;;
 [[Entidad]]
-<!--SR:!2026-04-10,1,166-->
+<!--SR:!2026-04-15,1,146-->
 
 
 [[Sistemas de gestion de Base de datos]]
