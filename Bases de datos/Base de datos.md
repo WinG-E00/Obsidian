@@ -15,7 +15,7 @@ Tipos de bases de datos
 Existen dos tipos de bases de datos
 [[SQL]]
 [[NoSQL]]
-<!--SR:!2026-04-10,1,150-->
+<!--SR:!2026-04-15,1,130-->
 
 
 Elementos del concepto
