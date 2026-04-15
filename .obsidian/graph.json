@@ -5,8 +5,30 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "#concepto",
+      "color": {
+        "a": 1,
+        "rgb": 61183
+      }
+    },
+    {
+      "query": "#TIpos",
+      "color": {
+        "a": 1,
+        "rgb": 2883328
+      }
+    },
+    {
+      "query": "#operaciones",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
