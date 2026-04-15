@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "#concepto",
@@ -25,7 +25,14 @@
       "query": "#operaciones",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 11403519
+      }
+    },
+    {
+      "query": "#elemento",
+      "color": {
+        "a": 1,
+        "rgb": 16749824
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.32423332021846335,
+  "scale": 0.18462328129603006,
   "close": false
 }
