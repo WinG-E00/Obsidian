@@ -15,7 +15,7 @@ Para no relacionales
 [[MongoDB]]
 [[Cassandra]]
 [[Redis]]
-<!--SR:!2026-04-07,1,230-->
+<!--SR:!2026-04-10,1,210-->
 
 ## Elemento
 [[Para que estan diseñados]]

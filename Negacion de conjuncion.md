@@ -1,3 +1,4 @@
+
 La negacion de la conjuncion es
 ;;
 P^Q

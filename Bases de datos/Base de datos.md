@@ -2,25 +2,26 @@ Que son las bases de datos?
 ;;
 Las bases de datos son una colección de datos organizados que pueden relacionarse entre si, y sirven para almacenar gestionar , actualizar y acceder a los datos.
 ___
-<!--SR:!2026-04-08,1,190-->
+
 ___
 Tipos
 [[Relacionales]]
 [[No relacionales]]
 ___
+<!--SR:!2026-04-10,1,170-->
 
 Tipos de bases de datos
 ;;
 Existen dos tipos de bases de datos
 [[SQL]]
 [[NoSQL]]
-<!--SR:!2026-04-09,1,170-->
+<!--SR:!2026-04-15,1,130-->
 
 
 Elementos del concepto
 ;;
 [[Entidad]]
-<!--SR:!2026-04-09,1,186-->
+<!--SR:!2026-04-10,1,166-->
 
 
 [[Sistemas de gestion de Base de datos]]
