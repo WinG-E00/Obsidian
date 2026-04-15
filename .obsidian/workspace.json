@@ -45,8 +45,7 @@
               "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,7 +240,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "2a3feb170d885d77",
+  "active": "0529ea098cc5d8ff",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Bases de datos/Base de datos.md",
