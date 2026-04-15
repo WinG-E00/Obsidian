@@ -220,7 +220,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -240,7 +240,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0529ea098cc5d8ff",
+  "active": "061faaf3bacc038d",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Bases de datos/Base de datos.md",
