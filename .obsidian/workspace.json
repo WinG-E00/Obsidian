@@ -21,24 +21,28 @@
             "id": "e4a767c316dafff8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
             }
           },
           {
-            "id": "60949b56a785c029",
+            "id": "2a3feb170d885d77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
             }
           }
         ],
@@ -237,7 +241,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3cb571b10d7a2b71",
+  "active": "2a3feb170d885d77",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Bases de datos/Base de datos.md",

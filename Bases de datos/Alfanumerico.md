@@ -5,4 +5,4 @@ Basicamente serian los datos que contienen caracteres y existen estos tipos
 [[character varying(n) _ varchar(n)]]
 [[text]]
 #baseDeDatos
-<!--SR:!2026-04-10,1,230-->
+<!--SR:!2026-04-15,1,210-->
