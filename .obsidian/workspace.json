@@ -11,10 +11,14 @@
             "id": "ce0db005e5748743",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Ingles/Sustantive.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sustantive"
             }
           }
         ]
@@ -212,8 +216,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cb571b10d7a2b71",
+  "active": "ce0db005e5748743",
   "lastOpenFiles": [
+    "Ingles/Adjetive.md",
     "conflict-files-obsidian-git.md",
     "Ingreso",
     "Ingles/ZVfyTZ15_English-Grammar-Verb-mind-map.png",
@@ -223,7 +228,6 @@
     "Ingles/Untitled 1.md",
     "Ingles/Sustantive.md",
     "Ingles/Estructura del idioma.md",
-    "Ingles/Adjetive.md",
     "Tarea ingles/Tarea ingles.md",
     "Articulos.md",
     "Tarea ingles",
