@@ -16,23 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "9bec02753a66692c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Etiquetas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Etiquetas"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bec02753a66692c",
+  "active": "ce0db005e5748743",
   "lastOpenFiles": [
     "Etiquetas.md",
     "Ingles/Sustantive.md",

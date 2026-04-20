@@ -7,7 +7,7 @@ ___
 En estos lenguajes el codigo se lee una y otra vez, y por eso cuando lo modificas se lee el cambio.
 ___
 Ejemplos comunes de lenguajes interpretados son PHP, Ruby, Python y JavaScript.
-<!--SR:!2026-04-12,17,190-->
+<!--SR:!2026-06-05,46,210-->
 
 [[Lenguaje de programacion]]
 #Tipos #Programacion_flashcard
