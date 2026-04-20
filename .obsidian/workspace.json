@@ -18,13 +18,17 @@
             }
           },
           {
-            "id": "97a29d967a921e0e",
+            "id": "9bec02753a66692c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Etiquetas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Etiquetas"
             }
           }
         ],
@@ -80,8 +84,24 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "651965ee9aa5fa96",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -126,21 +146,6 @@
               },
               "icon": "links-going-out",
               "title": "Outgoing links from Prueba para obsidian auto commit de git"
-            }
-          },
-          {
-            "id": "a1406c317ebfc587",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
             }
           },
           {
@@ -203,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -223,8 +228,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97a29d967a921e0e",
+  "active": "9bec02753a66692c",
   "lastOpenFiles": [
+    "Etiquetas.md",
     "Ingles/Sustantive.md",
     "Untitled/Leyes de morgan.md",
     "Untitled/Involución.md",
@@ -252,7 +258,6 @@
     "operadores de comparación.md",
     "operador de tipo.md",
     "operador de igualdad js.md",
-    "operador de igualdad estricta.md",
     "Simbolos/Pasted image 20251210134457.png",
     "Simbolos/Pasted image 20251210134250.png",
     "Simbolos/Pasted image 20251210133945.png",
