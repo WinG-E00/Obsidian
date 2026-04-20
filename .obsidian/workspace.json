@@ -4,45 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "35a4c882f1d54fe9",
+        "id": "52e0add6a5051440",
         "type": "tabs",
         "children": [
           {
-            "id": "0529ea098cc5d8ff",
+            "id": "ce0db005e5748743",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "e4a767c316dafff8",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
-            }
-          },
-          {
-            "id": "2a3feb170d885d77",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
             }
           }
         ]
@@ -200,7 +172,7 @@
             }
           },
           {
-            "id": "061faaf3bacc038d",
+            "id": "942ee15bbc396c6b",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -210,7 +182,7 @@
             }
           },
           {
-            "id": "3a018bd57d2d533e",
+            "id": "778758a0c2a83698",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
@@ -220,80 +192,74 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 350.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "copilot:Open Copilot Chat": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cb571b10d7a2b71",
+  "active": "ce0db005e5748743",
   "lastOpenFiles": [
+    "Ingles/Sustantive.md",
+    "Untitled/Leyes de morgan.md",
+    "Untitled/Involución.md",
+    "Untitled/Idempotencia.md",
+    "Untitled/Distributividad.md",
+    "Untitled/Conmutatividad.md",
+    "Untitled/Asociatividad.md",
+    "Untitled",
+    "Tipo de preposicion/Tipo de preposicion Clasificacion.md",
+    "Tipo de preposicion/Leyes logicas tautologias.md",
+    "Tipo de preposicion/Contradiccion.md",
+    "Tipo de preposicion/Contingencia.md",
+    "Tipo de preposicion",
     "z.md",
-    "XXXX_Entidad.md",
-    "Vector.md",
-    "Vector desplazamiento.md",
-    "Variable.md",
-    "Variable en javascript.md",
-    "Variable de salida.md",
     "variable de entrada.md",
-    "Variable contadora.md",
     "variable bandera.md",
-    "Variable auxiliar.md",
     "variable acumuladora.md",
-    "Untitled.base",
-    "Untitled 16.md",
-    "Untitled 12.md",
-    "Untitled 11.md",
-    "Untitled 10.md",
-    "Untitled 8.md",
-    "Untitled 7.md",
-    "Untitled 5.md",
-    "Untitled 4.canvas",
-    "Untitled 3.base",
-    "Untitled 2.canvas",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "Union de conjuntos.md",
-    "Typescript.md",
-    "Typescript operadores.md",
-    "Traza de una matriz.md",
-    "Trasposicion de matrices.md",
-    "Transformacion Nula.md",
     "toFixed().md",
+    "sintaxis do while.md",
+    "regla.md",
+    "preposiciones simples.md",
+    "operadores logicos.md",
+    "operadores logicos typescript.md",
+    "operadores de incremento y decremento.md",
+    "operadores de comparación.md",
+    "operador de tipo.md",
+    "operador de igualdad js.md",
+    "operador de igualdad estricta.md",
+    "Simbolos/Pasted image 20251210134457.png",
+    "Simbolos/Pasted image 20251210134250.png",
+    "Simbolos/Pasted image 20251210133945.png",
+    "Simbolos/Pasted image 20251210133046.png",
+    "Simbolos/Pasted image 20251210131650.png",
+    "Simbolos/Pasted image 20251210130956.png",
+    "Simbolos/MasSimbolos",
+    "Simbolos",
     "Pasted image 20260302063211.png",
     "Pasted image 20260301091220.png",
     "Pasted image 20260301090456.png",
     "Pasted image 20260301090129.png",
-    "Pasted image 20260301085920.png",
-    "Pasted image 20260301085712.png",
-    "Pasted image 20260301084934.png",
-    "Pasted image 20260226095408.png",
-    "Pasted image 20260226095331.png",
-    "Pasted image 20260226095152.png",
     "Linear transformations.canvas",
-    "Untitled 2",
-    "Untitled 1",
-    "Untitled",
-    "Tipo de preposicion",
-    "Simbolos/MasSimbolos",
-    "Simbolos",
-    "Ingreso/Untitled 4.canvas",
-    "Ingreso/Untitled 2.canvas",
-    "Ingreso/Linear transformations.canvas",
-    "Untitled.canvas"
+    "Conjuntos",
+    "Conectores logicos",
+    "Ingreso",
+    "Tarea ingles",
+    "copilot/memory",
+    "git"
   ]
 }
