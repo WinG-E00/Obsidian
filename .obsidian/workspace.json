@@ -196,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -216,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce0db005e5748743",
+  "active": "942ee15bbc396c6b",
   "lastOpenFiles": [
     "Ingles/Adjetive.md",
     "conflict-files-obsidian-git.md",
