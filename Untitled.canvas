@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"04e3a457dc7ffacb","x":-288,"y":-655,"width":400,"height":400,"type":"file","file":"Operaciones con matrices.md"},
+		{"id":"b4e890b0ea6a3762","type":"text","text":"Matematica\n[[operaciones logicas]]\n","x":-125,"y":-30,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"79ed367a1639f0e7","fromNode":"b4e890b0ea6a3762","fromSide":"top","toNode":"04e3a457dc7ffacb","toSide":"bottom"}
+	]
+}

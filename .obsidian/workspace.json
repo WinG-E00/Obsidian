@@ -11,10 +11,17 @@
             "id": "ce0db005e5748743",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 47.07833211754516,
+                  "y": -190.0323443619824,
+                  "zoom": -1.318833627204103
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -197,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 350.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,6 +223,7 @@
   },
   "active": "ce0db005e5748743",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Etiquetas.md",
     "Ingles/Sustantive.md",
     "Untitled/Leyes de morgan.md",
@@ -242,7 +251,6 @@
     "operadores de incremento y decremento.md",
     "operadores de comparación.md",
     "operador de tipo.md",
-    "operador de igualdad js.md",
     "Simbolos/Pasted image 20251210134457.png",
     "Simbolos/Pasted image 20251210134250.png",
     "Simbolos/Pasted image 20251210133945.png",
