@@ -16,8 +16,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "97a29d967a921e0e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce0db005e5748743",
+  "active": "97a29d967a921e0e",
   "lastOpenFiles": [
     "Ingles/Sustantive.md",
     "Untitled/Leyes de morgan.md",

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "Javascript",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.26669367548988276,
+  "scale": 0.18515292767069938,
   "close": false
 }
