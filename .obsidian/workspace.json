@@ -30,9 +30,23 @@
               "icon": "lucide-file",
               "title": "Preposiciones"
             }
+          },
+          {
+            "id": "c263fb72cd97ccb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Funciones proposicionales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Funciones proposicionales"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "bef747830cee53a8",
@@ -248,8 +262,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff57479d0db73b91",
+  "active": "c263fb72cd97ccb4",
   "lastOpenFiles": [
+    "Funciones proposicionales.md",
+    "Preposiciones.md",
     "Noun modifier.md",
     "Noun phrase.md",
     "Untitled.canvas",
@@ -277,8 +293,6 @@
     "preposiciones simples.md",
     "operadores logicos.md",
     "operadores logicos typescript.md",
-    "operadores de incremento y decremento.md",
-    "operadores de comparación.md",
     "Simbolos/Pasted image 20251210134457.png",
     "Simbolos/Pasted image 20251210134250.png",
     "Simbolos/Pasted image 20251210133945.png",
