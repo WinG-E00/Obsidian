@@ -1,5 +1,6 @@
-Que es?
+Booleanos
 ;;
-simplemente para almacenar un tipo de dato que puede ser verdadero o falso
- #baseDeDatos
-<!--SR:!2026-04-15,1,210-->
+son datos que pueden ser verdaderos o falsos
+<!--SR:!2026-05-23,78,250-->
+
+#Programacion_flashcard #Tipos 
