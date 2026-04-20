@@ -45,8 +45,7 @@
               "title": "Noun phrase"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "bef747830cee53a8",
@@ -263,10 +262,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48f98133aabc1793",
+  "active": "ce0db005e5748743",
   "lastOpenFiles": [
-    "Noun phrase.md",
     "Noun modifier.md",
+    "Noun phrase.md",
     "Untitled.canvas",
     "Etiquetas.md",
     "Ingles/Sustantive.md",
