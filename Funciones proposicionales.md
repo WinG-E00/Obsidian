@@ -23,6 +23,8 @@ Aquí la variable suele ser un número:
     - Si $x = 4$, es **Verdadera**.
 
 
+Operaciones con funciones proposicionales
+[[Negacion Funcion proposicional]]
 
 
 #preposiciones_flashcard
