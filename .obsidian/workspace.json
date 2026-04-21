@@ -18,6 +18,20 @@
             }
           },
           {
+            "id": "9ce2be247520c44d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyecto Campo/Sensores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sensores"
+            }
+          },
+          {
             "id": "f3ae58def4ad7278",
             "type": "leaf",
             "state": {
@@ -59,7 +73,8 @@
               "title": "Funciones proposicionales"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,11 +181,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Proyecto Campo/Sensores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Sensores"
             }
           },
           {
@@ -254,8 +270,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "985190bfc32713fe",
+  "active": "9ce2be247520c44d",
   "lastOpenFiles": [
+    "Untitled 3.md",
+    "Proyecto Campo/Sensores.md",
     "Proyecto Campo",
     "Negar proposicion.md",
     "Trabajo practico Unidad 3 Arquitectura.md",
@@ -284,7 +302,6 @@
     "variable de entrada.md",
     "variable bandera.md",
     "variable acumuladora.md",
-    "toFixed().md",
     "Simbolos/Pasted image 20251210134457.png",
     "Simbolos/Pasted image 20251210134250.png",
     "Simbolos/Pasted image 20251210133945.png",
@@ -302,7 +319,6 @@
     "Conectores logicos",
     "Ingreso",
     "Tarea ingles",
-    "copilot/memory",
-    "git"
+    "copilot/memory"
   ]
 }
