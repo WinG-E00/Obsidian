@@ -59,8 +59,7 @@
               "title": "Funciones proposicionales"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,12 +167,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabajo practico Unidad 3 Arquitectura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Trabajo practico Unidad 3 Arquitectura"
+              "title": "Outgoing links"
             }
           },
           {
@@ -257,8 +255,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3ae58def4ad7278",
+  "active": "ce0db005e5748743",
   "lastOpenFiles": [
+    "Negar proposicion.md",
     "Trabajo practico Unidad 3 Arquitectura.md",
     "Funciones proposicionales.md",
     "Negacion Funcion proposicional.md",
@@ -287,7 +286,6 @@
     "variable acumuladora.md",
     "toFixed().md",
     "sintaxis do while.md",
-    "regla.md",
     "Simbolos/Pasted image 20251210134457.png",
     "Simbolos/Pasted image 20251210134250.png",
     "Simbolos/Pasted image 20251210133945.png",
