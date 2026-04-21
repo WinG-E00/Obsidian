@@ -36,3 +36,8 @@ Ejercicio 1 - COdificacion de texto en ASCII
 
 Ejercicio 2 - Numeros negativos en complemento a 2
 
+-9, -10, -11, -12, -13, -14, -17, -18, -19, -20
+
+-9
+9 = 0001001
+
