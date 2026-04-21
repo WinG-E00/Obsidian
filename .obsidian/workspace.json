@@ -18,6 +18,20 @@
             }
           },
           {
+            "id": "f3ae58def4ad7278",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trabajo practico Unidad 3 Arquitectura.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trabajo practico Unidad 3 Arquitectura"
+            }
+          },
+          {
             "id": "ff57479d0db73b91",
             "type": "leaf",
             "state": {
@@ -45,7 +59,8 @@
               "title": "Funciones proposicionales"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f45e47c71995dea1",
@@ -152,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prueba para obsidian auto commit de git.md",
+                "file": "Trabajo practico Unidad 3 Arquitectura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Prueba para obsidian auto commit de git"
+              "title": "Outgoing links from Trabajo practico Unidad 3 Arquitectura"
             }
           },
           {
@@ -220,11 +236,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 216.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,8 +257,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "942ee15bbc396c6b",
+  "active": "f3ae58def4ad7278",
   "lastOpenFiles": [
+    "Trabajo practico Unidad 3 Arquitectura.md",
     "Funciones proposicionales.md",
     "Negacion Funcion proposicional.md",
     "Negar cuantificadores.md",
@@ -270,7 +288,6 @@
     "toFixed().md",
     "sintaxis do while.md",
     "regla.md",
-    "preposiciones simples.md",
     "Simbolos/Pasted image 20251210134457.png",
     "Simbolos/Pasted image 20251210134250.png",
     "Simbolos/Pasted image 20251210133945.png",
