@@ -1,6 +1,6 @@
 
 
-Ejercicio 1 - COdificacion de texto en ASCII
+Ejercicio 1 - Codificación de texto en ASCII
 
 1. BINARIO
 2. MEMORIA
