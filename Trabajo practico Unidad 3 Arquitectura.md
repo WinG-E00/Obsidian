@@ -34,7 +34,7 @@ Ejercicio 1 - Codificación de texto en ASCII
 | 0x47    | 0x41    | 0x53    | 0x54    | 0x4B    | 0x4E    |
 
 
-Ejercicio 2 - Numeros negativos en complemento a 2
+Ejercicio 2 - Números negativos en complemento a 2
 
 -9, -10, -11, -12, -13, -14, -17, -18, -19, -20
 
