@@ -220,7 +220,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -240,7 +240,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce0db005e5748743",
+  "active": "942ee15bbc396c6b",
   "lastOpenFiles": [
     "Funciones proposicionales.md",
     "Negacion Funcion proposicional.md",
