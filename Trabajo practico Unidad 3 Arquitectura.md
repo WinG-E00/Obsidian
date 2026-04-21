@@ -33,3 +33,6 @@ Ejercicio 1 - COdificacion de texto en ASCII
 | 1000111 | 1000001 | 1010011 | 1010100 | 1001011 | 1001110 |
 | 0x47    | 0x41    | 0x53    | 0x54    | 0x4B    | 0x4E    |
 
+
+Ejercicio 2 - Numeros negativos en complemento a 2
+
