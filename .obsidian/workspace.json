@@ -234,12 +234,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 216.5,
-    "collapsed": true
+    "width": 216.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,6 +256,7 @@
   },
   "active": "ce0db005e5748743",
   "lastOpenFiles": [
+    "Algoritmo y estructuras de datos/Trabajo practico 3/Problema3.psc",
     "Algoritmo y estructuras de datos/Trabajo practico 3/Problema1.psc",
     "Algoritmo y estructuras de datos/Trabajo practico 3/Problema2.psc",
     "Algoritmo y estructuras de datos/Trabajo practico 3",
@@ -303,7 +303,6 @@
     "Pasted image 20260301091220.png",
     "Pasted image 20260301090456.png",
     "Pasted image 20260301090129.png",
-    "Linear transformations.canvas",
-    "Conjuntos"
+    "Linear transformations.canvas"
   ]
 }
