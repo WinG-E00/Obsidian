@@ -6,6 +6,6 @@ determinada condición.
 ___
 [[do while]]
 [[for]]
-<!--SR:!2026-04-14,12,190-->
+<!--SR:!2026-05-26,33,210-->
 
 #Programacion_flashcard #Tipos 
