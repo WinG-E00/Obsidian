@@ -6,6 +6,9 @@ Es una oración que puede ser declarada como verdadera o falsa O = V o F
 
 [[preposiciones simples]]
 [[Preposiciones compuestas]]
+
+[[Funciones proposicionales]]
+
 [[Conectores Logicos]]
 
 

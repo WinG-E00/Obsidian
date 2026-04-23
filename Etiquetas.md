@@ -1,0 +1,10 @@
+#Programacion_flashcard 
+#matricesFlashcard 
+#typescript_flashcards 
+#conjuntos_flashcard 
+#vectores_flashcard 
+#preposiciones_flashcard 
+#flashcard_funciones 
+#flashcard_tipos_de_datos 
+#Tipos_matrices 
+#javascript_flashcard 

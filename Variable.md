@@ -7,7 +7,7 @@ en javascript
 en C#
 Primero se define el tipo de dato
 	string datossos = "Hola perro";
-<!--SR:!2026-04-06,11,168-->
+<!--SR:!2026-05-17,27,188-->
 
 
 #Programacion_flashcard 

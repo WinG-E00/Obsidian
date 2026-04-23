@@ -9,7 +9,7 @@ ___
 - **Seguridad de tipos:** Garantiza que una variable solo pueda tomar uno de los valores definidos en la enumeración, previniendo errores de asignación.
 - **Ejemplos comunes:** Días de la semana, meses, colores, estados de un proceso (activo, inactivo, pendiente), tipos de usuario.
 - **Implementación:** Varía según el lenguaje (en Java y C# se declara con `enum`, en bases de datos como MySQL se define en la estructura de la tabla).
-<!--SR:!2026-04-15,49,210-->
+<!--SR:!2026-08-04,103,210-->
 
 
 #Programacion_flashcard #Tipos 
