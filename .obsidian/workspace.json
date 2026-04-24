@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 4.md",
+                "file": "Negacion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 4"
+              "title": "Negacion"
             }
           }
         ],
@@ -300,7 +300,7 @@
   "active": "e888b968be930e97",
   "lastOpenFiles": [
     "Funciones proposicionales.md",
-    "Untitled 4.md",
+    "Negacion.md",
     "Ciclo.md",
     "Grupo de tlp trabajo 2.md",
     "Linear Transformatión.md",
