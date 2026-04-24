@@ -9,14 +9,22 @@
 8. bases de datos, sistemas operativos
 
 
-Activity 2: Grammar and Vocabulary
+## Activity 2: Grammar and Vocabulary
 Scan the text and extract the following structures (at least 4 of each):
 
-Noun Phrases (Frases sustantivas)
+### Noun Phrases (Frases sustantivas)
 
 * fast processor
 * wireless networks
 * essential tools
 * mechanical keyboard
 
+### Noun modifiers
+* software development
+* computer system
+* programming lenguages
+* cloud computing
 
+
+
+## Activity
