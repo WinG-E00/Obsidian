@@ -37,4 +37,4 @@ Adjetivo []
 Sustantivo °°
 Verbo <>
 
-ICT stands for °Information° and Communication °Technology°. It refers to the °technology° used to <manage> and <process> °information°.
+ICT stands for °Information° and °Communication° °Technology°. It <refers> to the °technology° used to <manage> and <process> °information°.
