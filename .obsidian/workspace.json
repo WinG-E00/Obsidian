@@ -4,17 +4,87 @@
     "type": "split",
     "children": [
       {
-        "id": "35a4c882f1d54fe9",
+        "id": "52e0add6a5051440",
         "type": "tabs",
         "children": [
           {
-            "id": "0529ea098cc5d8ff",
+            "id": "ff57479d0db73b91",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "e57c06824ddf82b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Transformatión.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linear Transformatión"
+            }
+          },
+          {
+            "id": "c462978ad01bbb19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grupo de tlp trabajo 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grupo de tlp trabajo 2"
+            }
+          },
+          {
+            "id": "f3ae58def4ad7278",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trabajo practico Unidad 3 Arquitectura.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trabajo practico Unidad 3 Arquitectura"
+            }
+          },
+          {
+            "id": "291e65e12a8eebf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ciclo"
+            }
+          },
+          {
+            "id": "e4e721e66a74894f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Funciones proposicionales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Funciones proposicionales"
             }
           }
         ]
@@ -69,6 +139,21 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "651965ee9aa5fa96",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ]
       }
@@ -109,27 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prueba para obsidian auto commit de git.md",
+                "file": "Proyecto Campo/Sensores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Prueba para obsidian auto commit de git"
-            }
-          },
-          {
-            "id": "a1406c317ebfc587",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Outgoing links from Sensores"
             }
           },
           {
@@ -162,7 +232,17 @@
             }
           },
           {
-            "id": "061faaf3bacc038d",
+            "id": "3cb571b10d7a2b71",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "942ee15bbc396c6b",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -172,7 +252,7 @@
             }
           },
           {
-            "id": "3a018bd57d2d533e",
+            "id": "778758a0c2a83698",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
@@ -180,91 +260,77 @@
               "icon": "message-square",
               "title": "Copilot"
             }
-          },
-          {
-            "id": "70bf360a2791d7b4",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 216.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "copilot:Open Copilot Chat": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0529ea098cc5d8ff",
+  "active": "ff57479d0db73b91",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Untitled 3.md",
-    "Trabajo practico Unidad 3 Arquitectura.md",
-    "Proyecto Campo/Sensores.md",
-    "Proyecto Campo",
-    "Noun phrase.md",
-    "Noun modifier.md",
-    "Negar proposicion.md",
-    "Negar cuantificadores.md",
-    "Negacion Funcion proposicional.md",
     "Grupo de tlp trabajo 2.md",
-    "Funciones proposicionales.md",
-    "Etiquetas.md",
+    "Linear Transformatión.md",
+    "Preposiciones.md",
+    "Trabajo practico Unidad 3 Arquitectura.md",
     "Ciclo.md",
-    "Algoritmo y estructuras de datos/Trabajo practico 3/Problema1.psc",
+    "Algoritmo y estructuras de datos/Sistemas de numeracion.md",
     "Algoritmo y estructuras de datos/Trabajo practico 3/Problema3.psc",
+    "Algoritmo y estructuras de datos/Trabajo practico 3/Problema1.psc",
     "Algoritmo y estructuras de datos/Trabajo practico 3/Problema2.psc",
     "Algoritmo y estructuras de datos/Trabajo practico 3",
-    "Algoritmo y estructuras de datos/Ejercicio7.psc",
-    "Algoritmo y estructuras de datos/Ejercicio6.psc",
-    "Algoritmo y estructuras de datos/Ejercicio13.psc",
+    "Algoritmo y estructuras de datos/Nueva carpeta",
     "Algoritmo y estructuras de datos/Ejercicio12.psc",
-    "Algoritmo y estructuras de datos/Ejercicio11.psc",
-    "z.md",
-    "XXXX_Entidad.md",
-    "Vector.md",
-    "Vector desplazamiento.md",
-    "Variable.md",
-    "Variable en javascript.md",
-    "Variable de salida.md",
-    "variable de entrada.md",
-    "Variable contadora.md",
-    "variable bandera.md",
-    "Variable auxiliar.md",
-    "variable acumuladora.md",
-    "Untitled 16.md",
-    "Untitled 4.canvas",
-    "Untitled 2.canvas",
+    "operadores de comparación.md",
+    "Proyecto Campo/Sensores.md",
+    "Untitled 3.md",
+    "Proyecto Campo",
+    "Negar proposicion.md",
+    "Funciones proposicionales.md",
+    "Negacion Funcion proposicional.md",
+    "Negar cuantificadores.md",
+    "Noun modifier.md",
+    "Noun phrase.md",
+    "Untitled.canvas",
+    "Etiquetas.md",
+    "Ingles/Sustantive.md",
+    "Untitled/Leyes de morgan.md",
+    "Untitled/Involución.md",
+    "Untitled/Idempotencia.md",
+    "Untitled/Distributividad.md",
+    "Untitled/Conmutatividad.md",
+    "Untitled/Asociatividad.md",
+    "Untitled",
+    "Tipo de preposicion/Tipo de preposicion Clasificacion.md",
+    "Tipo de preposicion/Leyes logicas tautologias.md",
+    "Tipo de preposicion/Contradiccion.md",
+    "Tipo de preposicion",
+    "Simbolos/Pasted image 20251210134457.png",
+    "Simbolos/Pasted image 20251210134250.png",
+    "Simbolos/Pasted image 20251210133945.png",
+    "Simbolos/Pasted image 20251210133046.png",
+    "Simbolos/Pasted image 20251210131650.png",
+    "Simbolos/Pasted image 20251210130956.png",
+    "Simbolos/MasSimbolos",
     "Pasted image 20260302063211.png",
     "Pasted image 20260301091220.png",
     "Pasted image 20260301090456.png",
     "Pasted image 20260301090129.png",
-    "Pasted image 20260301085920.png",
-    "Pasted image 20260301085712.png",
-    "Pasted image 20260301084934.png",
-    "Pasted image 20260226095408.png",
-    "Pasted image 20260226095331.png",
-    "Pasted image 20260226095152.png",
-    "Linear transformations.canvas",
-    "Ingreso/Untitled 4.canvas",
-    "Ingreso/Untitled 2.canvas",
-    "Ingreso/Linear transformations.canvas"
+    "Linear transformations.canvas"
   ]
 }
