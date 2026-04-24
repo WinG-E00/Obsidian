@@ -32,3 +32,9 @@ Scan the text and extract the following structures (at least 4 of each):
 El texto explica es el ICT por que es importante, ademas tambien explica cuales son las dos partes de una computadora y lo que usan los desarrolladores para trabajar.
 
 ## Activity 4 
+
+Adjetivo []
+Sustantivo °°
+Verbo <>
+
+ICT stands for °Information° and Communication °Technology°. It refers to the °technology° used to <manage> and <process> °information°.
