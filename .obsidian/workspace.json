@@ -101,8 +101,7 @@
               "title": "Negacion"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,13 +296,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e888b968be930e97",
+  "active": "ff57479d0db73b91",
   "lastOpenFiles": [
-    "Funciones proposicionales.md",
+    "Linear Transformatión.md",
     "Negacion.md",
+    "Funciones proposicionales.md",
     "Ciclo.md",
     "Grupo de tlp trabajo 2.md",
-    "Linear Transformatión.md",
     "Preposiciones.md",
     "Trabajo practico Unidad 3 Arquitectura.md",
     "Algoritmo y estructuras de datos/Sistemas de numeracion.md",
