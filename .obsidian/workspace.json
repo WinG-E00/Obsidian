@@ -32,8 +32,7 @@
               "title": "Diff: conflict-files-obsidian-git  (Index)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,7 +227,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7dd304b650a3bd4e",
+  "active": "ff57479d0db73b91",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Nota de prueba para git en pendrive.md",
