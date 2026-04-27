@@ -188,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f45e47c71995dea1",
@@ -292,12 +291,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 216.5,
-    "collapsed": true
+    "width": 216.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -313,7 +311,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a272c92aef092dc5",
+  "active": "985190bfc32713fe",
   "lastOpenFiles": [
     "Untitled 4.md",
     "PRE TEST INgles.md",
