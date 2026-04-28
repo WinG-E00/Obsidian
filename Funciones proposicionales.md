@@ -27,5 +27,6 @@ Aquí la variable suele ser un número:
 Operaciones con funciones proposicionales
 [[Negacion Funcion proposicional]]
 
+[[Funcion]]
 
 #preposiciones_flashcard/funciones_preposicionales
