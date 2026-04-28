@@ -1,11 +1,9 @@
 Como niego cuantificadores?
 ;;
+Cuales son los cuantificadores?
+los que dicen para todo o existe almenos uno
+![[Pasted image 20260428104258.png]]
+
 <!--SR:!2026-04-28,1,230-->
-
-| $\forall$ (Todo)   | $\exists$ (Existe) |
-| ------------------ | ------------------ |
-| $\exists$ (Existe) | $\forall$ (Todo)   |
-
-
 
 #preposiciones_flashcard
