@@ -6,4 +6,4 @@ los que dicen para todo o existe almenos uno
 
 <!--SR:!2026-04-28,1,230-->
 
-#preposiciones_flashcard
+#preposiciones_flashcard/funciones_preposicionales/negacion/negacion_cuantificador
