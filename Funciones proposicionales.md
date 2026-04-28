@@ -28,4 +28,4 @@ Operaciones con funciones proposicionales
 [[Negacion Funcion proposicional]]
 
 
-#preposiciones_flashcard
+#preposiciones_flashcard/funciones_preposicionales
