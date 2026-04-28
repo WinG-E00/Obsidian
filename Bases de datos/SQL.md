@@ -4,6 +4,7 @@ Una base de datos SQL seria basicamente una base de datos que almacena su inform
 Las bases de datos SQL se manipulan con este lenguaje que esta compuesto por dos partes
 El lenguaje de definicion de datos [[DDL]]
 y el lenguaje de manejo de datos [[DML]]
+Despues tambien existe el [[DQL]]
 <!--SR:!2026-04-15,1,170-->
 
 
