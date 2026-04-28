@@ -4,7 +4,7 @@ Una **función proposicional** (o enunciado abierto) es una expresión que conti
 En términos simples: es un "molde" de proposición que se vuelve verdadero o falso solo cuando le das contenido a la variable ($x$).
 ### Ejemplos Matemáticos
 <!--SR:!2026-04-29,1,230-->
-
+___
 Aquí la variable suele ser un número:
 
 - **$P(x): x + 5 = 10$**

@@ -10,4 +10,4 @@ Para poder negar las funciones proposicionales primero tenemos que saber negar c
 
 
 
-#preposiciones_flashcard 
+#preposiciones_flashcard/funciones_preposicionales/negacion 
