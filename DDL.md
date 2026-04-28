@@ -6,6 +6,6 @@ Y cuales existen?
 [[ALTER]]
 [[DROP]]
 [[TRUNCATE]]
-
+[[RENAME]]
 
 #baseDeDatos/sql/DDL
