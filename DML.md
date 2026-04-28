@@ -6,8 +6,6 @@ Estos son los comandos principales del DML
 [[INSERT]]
 [[UPDATE]]
 [[DELETE]]
-[[CREATE]]
-[[DROP]]
 
 
 
