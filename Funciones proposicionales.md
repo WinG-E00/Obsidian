@@ -29,4 +29,4 @@ Operaciones con funciones proposicionales
 
 [[Funcion]]
 
-#preposiciones_flashcard/funciones_preposicionales
+#preposiciones_flashcard/funciones_preposicionales #Tipos
