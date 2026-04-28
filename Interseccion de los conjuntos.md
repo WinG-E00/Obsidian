@@ -12,7 +12,7 @@ ___
 y si no tiene ningun elemento que los una entonces el conjunto es un conjunto disjunto A ∩ B = ∅
 Si pasa eso entonces el conjunto es [[conjunto disjunto]]
 ![[Pasted image 20251213180223.png]]
-<!--SR:!2026-04-26,31,190-->
+<!--SR:!2026-06-25,58,190-->
 
 [[Simbolo]]
  #Relacion #conjuntos_flashcard 

@@ -4,4 +4,4 @@ Los complementos de una interseccion son todos los que estan fuera de la interes
 ![[Pasted image 20251213180825.png]]
 [[Interseccion de los conjuntos]]
 #conjuntos_flashcard #Relacion
-<!--SR:!2026-04-16,21,190--> 
+<!--SR:!2026-06-06,39,190-->

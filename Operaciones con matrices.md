@@ -7,7 +7,7 @@ y cuantas operaciones existen? pues...
 - [[Multiplicacion de una matriz por un escalar]]
 - [[Multiplicacion de matrices]]
 [[Matrices]]
-<!--SR:!2026-04-20,24,210-->
+<!--SR:!2026-06-16,49,210-->
 
 
 

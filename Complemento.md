@@ -1,7 +1,7 @@
 Complemento
 ;;
 Complemento de un conjunto es todo lo que esta fuera de este,
-<!--SR:!2026-04-21,26,210-->
+<!--SR:!2026-06-22,55,210-->
 
 ___
 ![[Pasted image 20260107174522.png]]

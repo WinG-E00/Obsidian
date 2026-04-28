@@ -10,7 +10,7 @@ Un conjunto es un conjunto pues de elementos(cosas) que tienen una caracteristic
 [[Inclusion de conjuntos]]
 [[Complemento de un conjuntowtf]]
 [[Interseccion de los conjuntos]]
-<!--SR:!2026-04-14,18,190-->
+<!--SR:!2026-05-07,9,170-->
 
 #concepto
 #conjuntos_flashcard

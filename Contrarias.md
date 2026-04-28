@@ -4,7 +4,7 @@ simplemente es agregar negativo a las preposiciones
 ___
 * p => q
 * ~p => ~q
-<!--SR:!2026-04-22,26,210-->
+<!--SR:!2026-06-22,55,210-->
 
 
 

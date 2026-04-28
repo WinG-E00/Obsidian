@@ -5,6 +5,6 @@ Los conjuntos con intersección
 ___
 Son los conjuntos que tienen elementos en común
 y se representa como se muestra en la imagen
-<!--SR:!2026-04-14,19,190-->
+<!--SR:!2026-06-03,36,190-->
 
 #conjuntos_flashcard #Relacion 

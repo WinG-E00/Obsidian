@@ -6,7 +6,7 @@ De manera que es una forma de intaccion entre estos
 una caracteristica es que al momento de restarse
  A - B
  El que esta primero se queda y el que esta ultimo se va
-<!--SR:!2026-04-22,27,210-->
+<!--SR:!2026-06-23,56,210-->
 
 ![[Pasted image 20251213182226.png]]
 
