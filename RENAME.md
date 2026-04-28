@@ -10,5 +10,9 @@ ALTER TABLE Cultivos RENAME COLUMN tipo_de_cultivo TO nombre_semilla;
 ```
 
 ```SQL
-
+ALTER TABLE Cultivos RENAME INDEX fk_Cultivos_maquina1_idx TO idx_maquinaria_cultivo;
 ```
+
+
+
+#baseDeDatos/sql/DDL/RENAME
