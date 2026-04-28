@@ -7,4 +7,4 @@ DROP TABLE Productos;
 
 
 
-#base
+#baseDeDatos/sql/DDL/DROP
