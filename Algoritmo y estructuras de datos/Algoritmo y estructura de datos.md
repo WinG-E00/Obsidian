@@ -4,7 +4,7 @@
 
 Ejercicio 2
 
-| Nombre del dato  | Tipo    | Comportamiento | Longitud | Ejemplo              |
+| Nombre del dato  | Tipo    | Comportamiento | Longitud | Valores              |
 | ---------------- | ------- | -------------- | -------- | -------------------- |
 | apellido         | String  | Variable       | 80       | "Gómez"              |
 | nombre           | String  | Variable       | 80       | "Juan"               |
