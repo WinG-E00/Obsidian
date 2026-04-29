@@ -5,6 +5,7 @@ Este es actualmente el chip más avanzado para LoRaWAN. Es un sistema en un solo
 El loRaWan necesita una 
 [[Antena LoRaWan]]
 [[Señal de radio dispositivo que envia la señal]]
+Se puede usar para el desarrollo mas rapido una aplicacion un modulo o placa de desarrollo que ya integre un microcontrolador y el chip de radio en un solo paquete
 
 ___
 [[STM32WLE5CC]]
