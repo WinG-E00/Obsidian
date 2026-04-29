@@ -6,21 +6,21 @@
 - un , nombre: incorrecta, tiene espacio y coma.
 - año: incorrecta, contiene caracter especial ñ.
 - anio: correcta, estilo lower_case.
-- 1nombre: incorrecta, no puede comenzar con número.
-- @pellido: incorrecta, contiene símbolo especial (@).
+- 1nombre: incorrecta, no puede comenzar con numero.
+- @pellido: incorrecta, contiene simbolo especial (@).
 - P,I: incorrecta, contiene coma.
 - PI: correcta, pero no es descriptiva.
 - nùmero1: incorrecta, contiene acento.
 - numero1: correcta, estilo lower_case.
-- Peso_cliente: incorrecta, mayúscula inicial innecesaria.
-- Nombre_alumno: incorrecta, mayúscula inicial innecesaria.
+- Peso_cliente: incorrecta, mayuscula inicial innecesaria.
+- Nombre_alumno: incorrecta, mayuscula inicial innecesaria.
 - Apellido: incorrecta, no sigue convención (mayúscula inicial).
 - ;Estadocivil: incorrecta, contiene símbolo especial (;).
 - Tiene PC: incorrecta, tiene espacio.
-- Tiene_pc: incorrecta, mayúscula inicial innecesaria.
+- Tiene_pc: incorrecta, mayuscula inicial innecesaria.
 - Documento Nacional de Identidad: incorrecta, tiene espacios.
 - DNI: correcta, pero poco descriptiva.
-- Fecha_nacimiento: incorrecta, mayúscula inicial innecesaria.
+- Fecha_nacimiento: incorrecta, mayuscula inicial innecesaria.
 - impuesto iva: incorrecta, tiene espacio.
 - impuesto_iva: correcta, estilo lower_case.
 
