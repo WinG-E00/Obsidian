@@ -6,7 +6,7 @@ C#
 [[real]]
 [[Float]]
 [[double]]
-<!--SR:!2026-04-22,27,210-->
+<!--SR:!2026-05-12,14,190-->
 
 
 #Programacion_flashcard #Tipos 

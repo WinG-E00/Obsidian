@@ -1,7 +1,7 @@
 Que son?
 ;;
 Son espacios donde podes almacenar funciones, que ademas podemos exportarlas como [[Modulos]]
-<!--SR:!2026-03-13,7,190-->
+<!--SR:!2026-05-02,4,170-->
 
 ```ts
 

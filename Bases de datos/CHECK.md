@@ -13,6 +13,6 @@ CREATE TABLE Empleados (
     salario DECIMAL CHECK (salario > 1000) -- REGLA 2: Sueldo mínimo de 1000
 );
 ```
-<!--SR:!2026-04-15,1,170-->
+<!--SR:!2026-05-01,2,170-->
 
 #baseDeDatos #tipos 

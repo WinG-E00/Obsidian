@@ -4,7 +4,7 @@ Cuales son?
 [[===]] Igualdad estricta
 [[!=]]
 [[!==]]
-<!--SR:!2026-04-10,14,210-->
+<!--SR:!2026-05-05,7,190-->
 
 
 [[Typescript operadores]]

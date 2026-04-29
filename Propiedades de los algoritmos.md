@@ -6,7 +6,7 @@ Propiedades de los algoritmos
 4. Un algoritmo debe tener etapas bien definidas y concretas.
 5. Debe ser fácil de entender, codificar y depurar.
 6. Debe hacer uso eficiente de los recursos de la computadora
-<!--SR:!2026-04-01,6,170-->
+<!--SR:!2026-05-01,3,150-->
 
 [[Algoritmo]]
 

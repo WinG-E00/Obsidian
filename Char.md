@@ -11,7 +11,7 @@ ___
 El tipo _char_ es esencial para trabajar con texto y caracteres individuales. Permite realizar operaciones como entrada y salida de datos, comparaciones y manipulaciones de texto de manera eficiente. Además, es la base para construir y manejar **cadenas de texto** en muchos lenguajes de programación.
 ___
 En resumen, **_char_** es un tipo de dato fundamental que facilita el manejo de caracteres en lenguajes como C, siendo clave para tareas relacionadas con texto y datos alfanuméricos.
-<!--SR:!2026-04-07,59,268-->
+<!--SR:!2026-05-29,31,248-->
 
 
 #Tipos 

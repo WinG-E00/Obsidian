@@ -10,7 +10,7 @@ Para escribir un algoritmo deben seguirse un conjunto de pasos básicos
 	b. escribir la primera versión,
 	c. incluir en el léxico nuevos elementos que faltaban,
 	d. escribir la nueva versión del algoritmo y así sucesivamente
-<!--SR:!2026-04-20,25,210-->
+<!--SR:!2026-05-12,14,190-->
 
 
 #Programacion_flashcard #instrucciones

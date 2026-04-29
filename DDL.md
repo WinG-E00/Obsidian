@@ -7,5 +7,6 @@ Y cuales existen?
 [[DROP]]
 [[TRUNCATE]]
 [[RENAME]]
+<!--SR:!2026-04-30,1,210-->
 
 #baseDeDatos/sql/DDL

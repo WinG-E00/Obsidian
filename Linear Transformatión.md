@@ -4,7 +4,7 @@ ___
 Que es?
 ;;
 Es una [[Funcion]] entre dos espacios vectoriales ([[Vector]]) que preserva las operaciones de suma de vectores y multiplicacion por un escalar, es decir, transforma vectores de un espacio (o dicho dentro de una funcion [[Dominio]] ) a otro espacio([[condominio]]), y esta mantiene su estrucutra lineal, lo que significa que las rectas siguen siendo rectas y el origen ([[Punto de aplicacion de un vector]]) el mismo.
-<!--SR:!2026-03-09,3,210-->
+<!--SR:!2026-04-30,2,190-->
 
 
 Clasificación de tipos de transformaciónes lineales
@@ -12,14 +12,14 @@ Clasificación de tipos de transformaciónes lineales
 [[Monomorphism]]
 [[Epimorphism]]
 [[Isomorphism]]
-<!--SR:!2026-03-08,2,170-->
+<!--SR:!2026-05-01,3,170-->
 
 
 Elementos de una transformacion lineal
 ;;
 [[Kernel]]
 [[Index]]
-<!--SR:!2026-03-07,1,130-->
+<!--SR:!2026-04-30,1,130-->
 
 
 Esquema

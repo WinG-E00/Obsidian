@@ -6,6 +6,7 @@ Estos son los comandos principales del DML
 [[INSERT]]
 [[UPDATE]]
 [[DELETE]]
+<!--SR:!2026-04-30,1,210-->
 
 
 

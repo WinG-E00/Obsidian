@@ -5,7 +5,7 @@ Las bases de datos SQL se manipulan con este lenguaje que esta compuesto por dos
 El lenguaje de definicion de datos [[DDL]]
 y el lenguaje de manejo de datos [[DML]]
 Despues tambien existe el [[DQL]]
-<!--SR:!2026-04-15,1,170-->
+<!--SR:!2026-05-01,2,150-->
 
 
 Elementos principales de las SQL
@@ -16,7 +16,7 @@ Elementos principales de las SQL
 [[Indices]]
 [[Relaciones]]
 [[Tipos de datos]]
-<!--SR:!2026-04-15,1,150-->
+<!--SR:!2026-04-30,1,130-->
 
 
 

@@ -10,7 +10,7 @@ Operadores aritmeticos typescript-js
 | `**`     | Exponenciación |
 | `++`     | Incremento     |
 | `--`     | Decremento     |
-<!--SR:!2026-03-17,11,250-->
+<!--SR:!2026-05-04,6,230-->
 
 
 [[Operadores]] #Tipos  #typescript_flashcards #Programacion_flashcard 
