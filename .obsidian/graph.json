@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
-  "search": "Preposiciones",
+  "collapse-filter": true,
+  "search": "path:\"Proyecto Campo\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "#concepto",
@@ -102,6 +102,6 @@
   "repelStrength": 9.89583333333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3473269931978076,
-  "close": false
+  "scale": 0.5008937551711233,
+  "close": true
 }
