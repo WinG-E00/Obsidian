@@ -1,3 +1,4 @@
 [[LoRaWAN]]
 [[Sensor]]
-[[Panel so]]
+[[Panel solar]]
+[[]]
