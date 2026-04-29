@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "Preposiciones",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -11,27 +11,62 @@
       "query": "#concepto",
       "color": {
         "a": 1,
-        "rgb": 57855
+        "rgb": 54783
       }
     },
     {
-      "query": "#Tipos",
+      "query": "#elemento",
       "color": {
         "a": 1,
-        "rgb": 65310
+        "rgb": 16099860
+      }
+    },
+    {
+      "query": "#tipos",
+      "color": {
+        "a": 1,
+        "rgb": 11206400
+      }
+    },
+    {
+      "query": "#operaciones",
+      "color": {
+        "a": 1,
+        "rgb": 16639
+      }
+    },
+    {
+      "query": "#funciones",
+      "color": {
+        "a": 1,
+        "rgb": 16711901
+      }
+    },
+    {
+      "query": "#funcion",
+      "color": {
+        "a": 1,
+        "rgb": 8257914
+      }
+    },
+    {
+      "query": "#nuevo_grupo",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.0560144484385453,
+  "scale": 0.333089562556902,
   "close": false
 }
