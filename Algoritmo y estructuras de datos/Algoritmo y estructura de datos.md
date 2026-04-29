@@ -2,9 +2,9 @@
 - edad: correcta, estilo lower_case.
 - una altura: incorrecta, tiene espacio.
 - Unaaltura: incorrecta, no sigue convención (empieza con mayúscula).
-- Un_nombre: incorrecta, tiene mayúscula inicial innecesaria.
+- Un_nombre: incorrecta, tiene mayuscula inicial innecesaria.
 - un , nombre: incorrecta, tiene espacio y coma.
-- año: incorrecta, contiene carácter especial (ñ).
+- año: incorrecta, contiene caracter especial ñ.
 - anio: correcta, estilo lower_case.
 - 1nombre: incorrecta, no puede comenzar con número.
 - @pellido: incorrecta, contiene símbolo especial (@).
