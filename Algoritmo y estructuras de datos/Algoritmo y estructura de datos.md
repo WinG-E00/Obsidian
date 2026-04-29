@@ -41,5 +41,3 @@ Ejercicio 2
 | carrera          | String  | Variable       | 100      | "Software"           |
 | anio_ingreso     | Integer | Constante      | 4        | 2022                 |
 
-
-#
