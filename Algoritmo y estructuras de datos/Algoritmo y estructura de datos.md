@@ -13,9 +13,9 @@
 - nùmero1: incorrecta, contiene acento.
 - numero1: correcta, estilo lower_case.
 - Peso_cliente: incorrecta, mayuscula inicial innecesaria.
-- Nombre_alumno: incorrecta, mayuscula inicial innecesaria.
-- Apellido: incorrecta, no sigue convención (mayúscula inicial).
-- ;Estadocivil: incorrecta, contiene símbolo especial (;).
+- Nombre_alumno: incorrecta mayuscula inicial innecesaria.
+- Apellido: incorrecta, tiene mayuscula al principio.
+- ;Estadocivil: incorrecta, contiene símbolo especial ;.
 - Tiene PC: incorrecta, tiene espacio.
 - Tiene_pc: incorrecta, mayuscula inicial innecesaria.
 - Documento Nacional de Identidad: incorrecta, tiene espacios.
