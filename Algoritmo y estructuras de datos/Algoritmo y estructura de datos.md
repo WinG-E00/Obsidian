@@ -1,4 +1,28 @@
-
+- _edad: correcta, estilo lower_case (aunque no es común empezar con "_").
+- edad: correcta, estilo lower_case.
+- una altura: incorrecta, tiene espacio.
+- Unaaltura: incorrecta, no sigue convención (empieza con mayúscula).
+- Un_nombre: incorrecta, tiene mayúscula inicial innecesaria.
+- un , nombre: incorrecta, tiene espacio y coma.
+- año: incorrecta, contiene carácter especial (ñ).
+- anio: correcta, estilo lower_case.
+- 1nombre: incorrecta, no puede comenzar con número.
+- @pellido: incorrecta, contiene símbolo especial (@).
+- P,I: incorrecta, contiene coma.
+- PI: correcta, pero no es descriptiva.
+- nùmero1: incorrecta, contiene acento.
+- numero1: correcta, estilo lower_case.
+- Peso_cliente: incorrecta, mayúscula inicial innecesaria.
+- Nombre_alumno: incorrecta, mayúscula inicial innecesaria.
+- Apellido: incorrecta, no sigue convención (mayúscula inicial).
+- ;Estadocivil: incorrecta, contiene símbolo especial (;).
+- Tiene PC: incorrecta, tiene espacio.
+- Tiene_pc: incorrecta, mayúscula inicial innecesaria.
+- Documento Nacional de Identidad: incorrecta, tiene espacios.
+- DNI: correcta, pero poco descriptiva.
+- Fecha_nacimiento: incorrecta, mayúscula inicial innecesaria.
+- impuesto iva: incorrecta, tiene espacio.
+- impuesto_iva: correcta, estilo lower_case.
 
 
 
