@@ -55,18 +55,53 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "#elemento",
+      "color": {
+        "a": 1,
+        "rgb": 16746496
+      }
+    },
+    {
+      "query": "#funciones",
+      "color": {
+        "a": 1,
+        "rgb": 8388863
+      }
+    },
+    {
+      "query": "#funcion",
+      "color": {
+        "a": 1,
+        "rgb": 10879231
+      }
+    },
+    {
+      "query": "#operador",
+      "color": {
+        "a": 1,
+        "rgb": 13311
+      }
+    },
+    {
+      "query": "#operacion",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 0.916666666666667,
+  "lineSizeMultiplier": 0.814583333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.328125,
+  "repelStrength": 9.89583333333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.333089562556902,
+  "scale": 0.12885503788311722,
   "close": false
 }

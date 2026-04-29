@@ -1,13 +1,13 @@
-- _edad: correcta, estilo lower_case (aunque capas empezar con _ no es ideal).
+- _edad: correcta, estilo lower_case aunque capas empezar con _ no es ideal.
 - edad: correcta, estilo lower_case.
 - una altura: incorrecta, tiene espacio.
-- Unaaltura: incorrecta, no sigue convención (empieza con mayúscula).
+- Unaaltura: incorrecta,  empieza con mayúscula.
 - Un_nombre: incorrecta, tiene mayuscula inicial innecesaria.
 - un , nombre: incorrecta, tiene espacio y coma.
 - año: incorrecta, contiene caracter especial ñ.
 - anio: correcta, estilo lower_case.
 - 1nombre: incorrecta, no puede comenzar con numero.
-- @pellido: incorrecta, contiene simbolo especial (@).
+- @pellido: incorrecta, contiene simbolo especial @.
 - P,I: incorrecta, contiene coma.
 - PI: correcta.
 - nùmero1: incorrecta, contiene acento.
