@@ -40,3 +40,6 @@ Ejercicio 2
 | email            | String  | Variable       | 100      | "juan@gmail.com"     |
 | carrera          | String  | Variable       | 100      | "Software"           |
 | anio_ingreso     | Integer | Constante      | 4        | 2022                 |
+
+
+#
