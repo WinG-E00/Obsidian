@@ -1,4 +1,4 @@
-- _edad: correcta, estilo lower_case (aunque no es común empezar con "_").
+- _edad: correcta, estilo lower_case (aunque capas empezar con _ no es ideal).
 - edad: correcta, estilo lower_case.
 - una altura: incorrecta, tiene espacio.
 - Unaaltura: incorrecta, no sigue convención (empieza con mayúscula).
