@@ -1,1 +1,3 @@
 [[LoRaWAN]]
+[[Sensor]]
+[[Panel so]]
