@@ -1,2 +1,4 @@
 Revision de creencias:
-Provocacion de idas: exajeracion
+Provocacion de ideas: exajeracion
+Inversion de ideas
+Punto de entrada:
