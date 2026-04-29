@@ -9,7 +9,7 @@
 - 1nombre: incorrecta, no puede comenzar con numero.
 - @pellido: incorrecta, contiene simbolo especial (@).
 - P,I: incorrecta, contiene coma.
-- PI: correcta, pero no es descriptiva.
+- PI: correcta.
 - nùmero1: incorrecta, contiene acento.
 - numero1: correcta, estilo lower_case.
 - Peso_cliente: incorrecta, mayuscula inicial innecesaria.
@@ -40,4 +40,6 @@ Ejercicio 2
 | email            | String  | Variable       | 100      | "juan@gmail.com"     |
 | carrera          | String  | Variable       | 100      | "Software"           |
 | anio_ingreso     | Integer | Constante      | 4        | 2022                 |
+
+
 
