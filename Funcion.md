@@ -6,7 +6,7 @@ La función esta compuesta por tres elementos el [[Dominio]] que son los valores
 ____
 Las funciones tienen condiciones
 [[condiciones de las funciones]]
-<!--SR:!2026-04-07,11,190-->
+<!--SR:!2026-05-18,20,190-->
 
 
 

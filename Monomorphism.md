@@ -7,7 +7,7 @@ Con inyectiva se refiere a que agrega una dimensión al vector
 ____
 Ejemplo
 ![[Pasted image 20260226094721.png]]
-<!--SR:!2026-03-08,2,150-->
+<!--SR:!2026-04-30,1,130-->
 
 
 

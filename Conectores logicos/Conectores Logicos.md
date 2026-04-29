@@ -1,7 +1,7 @@
 Que son?
 ;;
 Son operadores para utilizar en las preposiciones
-<!--SR:!2026-04-18,22,190-->
+<!--SR:!2026-06-09,42,190-->
 
 * [[Conjuncion]]
 * [[Disyuncion]]

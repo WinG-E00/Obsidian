@@ -2,7 +2,7 @@ Disyuncion excluyente
 ;;
 Esta es solo falsa cuando los dos valores son Iguales
 F y F = F V = V F
-<!--SR:!2026-04-18,22,190-->
+<!--SR:!2026-06-10,43,190-->
 
 [[Simbolo]]
 ![[Pasted image 20251210133046.png]]

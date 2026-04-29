@@ -9,7 +9,7 @@ Son los que comparan los datos para decir si son iguales o desiguales
 [[mayor o igual que]]
 [[Menor que]]
 [[desigualdad estricta]]
-<!--SR:!2026-03-15,9,250-->
+<!--SR:!2026-05-03,5,230-->
 
 
 #Tipos #typescript_flashcards #Tipos

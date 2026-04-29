@@ -1,10 +1,10 @@
 Como niego cuantificadores?
 ;;
+Cuales son los cuantificadores?
+los que dicen para todo o existe almenos uno
+![[Pasted image 20260428104258.png]]
+<!--SR:!2026-05-01,2,190-->
 
-| $\forall$ (Todo)   | $\exists$ (Existe) |
-| ------------------ | ------------------ |
-| $\exists$ (Existe) | $\forall$ (Todo)   |
+<!--SR:!2026-04-28,1,230-->
 
-
-
-#preposiciones_flashcard
+#preposiciones_flashcard/funciones_preposicionales/negacion/negacion_cuantificador

@@ -7,6 +7,6 @@ ___
 Como se suman?
 ![[Pasted image 20260107200505.png]]
 Se suman de la manera en que se muestra en este grafico
-<!--SR:!2026-03-23,17,190-->
+<!--SR:!2026-05-31,33,190-->
 
 #vectores_flashcard #operaciones 

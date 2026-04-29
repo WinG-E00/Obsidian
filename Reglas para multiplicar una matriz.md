@@ -8,6 +8,6 @@ Si la primera matriz en n tiene x cantidad de numeros
 entonces en la m de la otra matriz, tiene que tener esa misma cantidad de numeros
 ![[Pasted image 20260207142549.png]]
 ![[Pasted image 20260204040104.png]]
-<!--SR:!2026-04-15,19,190-->
+<!--SR:!2026-05-08,10,170-->
 
 #regla  #matricesFlashcard 

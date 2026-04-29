@@ -13,6 +13,6 @@ Eso seria basicamente la inclusion o como lo suelen mencionar siempre, esta incl
 ___
 osea estos conjuntos estan incluidos dentro del conjunto principal
 [[Inclusion de conjuntos]]
-<!--SR:!2026-03-31,5,170-->
+<!--SR:!2026-05-08,10,170-->
 
 #Relacion #conjuntos_flashcard 

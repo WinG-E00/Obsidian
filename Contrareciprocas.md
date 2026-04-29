@@ -6,7 +6,7 @@ ___
 - p => q
 - ~q => ~p
 o viceversa
-<!--SR:!2026-04-17,21,190-->
+<!--SR:!2026-06-07,40,190-->
 
 
 #preposiciones_flashcard #operaciones 

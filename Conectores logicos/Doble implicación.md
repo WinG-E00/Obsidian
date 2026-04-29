@@ -5,7 +5,7 @@ osea si los dos valores son verdaderos entonces el resultado es verdadero
 [[Simbolo]]
 ![[Pasted image 20251214152843.png]]
 [[Tabla de valores]]
-<!--SR:!2026-04-20,24,210-->
+<!--SR:!2026-06-17,50,210-->
 
 | p   | q   | p DI q |
 | --- | --- | ------ |

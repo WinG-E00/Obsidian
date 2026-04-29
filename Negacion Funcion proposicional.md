@@ -3,10 +3,11 @@ Como se niega?
 Para poder negar las funciones proposicionales primero tenemos que saber negar cada componente
 [[Negar cuantificadores]]
 [[Negar proposicion]]
+<!--SR:!2026-05-01,2,150-->
 
 
 
 
 
 
-#preposiciones_flashcard 
+#preposiciones_flashcard/funciones_preposicionales/negacion 
