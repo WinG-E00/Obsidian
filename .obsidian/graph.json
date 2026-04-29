@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#concepto",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -60,13 +60,13 @@
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1.2,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.916666666666667,
+  "lineSizeMultiplier": 1.83541666666667,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4116908688981854,
+  "scale": 0.11643367040640712,
   "close": false
 }
