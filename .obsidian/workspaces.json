@@ -487,7 +487,314 @@
       },
       "active": "cf9310ad6528c549",
       "mtime": "2026-04-30T12:07:06-03:00"
+    },
+    "Base de datos": {
+      "main": {
+        "id": "a32c038ae14af042",
+        "type": "split",
+        "children": [
+          {
+            "id": "bfc81509df3e603f",
+            "type": "tabs",
+            "dimension": 50,
+            "children": [
+              {
+                "id": "cbc883f63b959b74",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              },
+              {
+                "id": "c2801cd45299114a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Reglas y automatizacion.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Reglas y automatizacion"
+                }
+              },
+              {
+                "id": "460cbccee124ddee",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Logica y programacion.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Logica y programacion"
+                }
+              },
+              {
+                "id": "c940933608de6d1e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Vistas y rendimiento.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Vistas y rendimiento"
+                }
+              },
+              {
+                "id": "a0e9f23ffe033bd2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Esctruturas de datos.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Esctruturas de datos"
+                }
+              },
+              {
+                "id": "08288879f68aceb4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "VerboDB.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "VerboDB"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1140fe35420f032f",
+            "type": "tabs",
+            "dimension": 50,
+            "children": [
+              {
+                "id": "1e59281859bf49c3",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://gemini.google.com/app/3ca5d1bdd79b16df",
+                    "title": "Anatomía de Sentencias SQL - Google Gemini",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Anatomía de Sentencias SQL - Google Gemini"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3c249583d78e2043",
+        "type": "split",
+        "children": [
+          {
+            "id": "3df43d8fd4f6e203",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e6cb30cc3a8bab2a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "ead76d4a3e37dbb2",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "Mathema",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "e47b132ed53964ed",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "24b0d7c7992efeb8",
+        "type": "split",
+        "children": [
+          {
+            "id": "66470b864a8998b4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6e7243fc01ce9591",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              },
+              {
+                "id": "141199b639df0083",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "a8ef505604fb8a06",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "ce17c8b9b7859d78",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "a6b5b8edf500bf56",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline"
+                }
+              },
+              {
+                "id": "de6a86453c8d7340",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              },
+              {
+                "id": "a36b6d05ee1b2a56",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {},
+                  "icon": "SpacedRepIcon",
+                  "title": "Notes Review Queue"
+                }
+              },
+              {
+                "id": "8a5931d6f064f30f",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {},
+                  "icon": "SpacedRepIcon",
+                  "title": "Notes Review Queue"
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "bases:Create new base": false,
+          "obsidian-spaced-repetition:Review flashcards": false,
+          "copilot:Open Copilot Chat": false,
+          "obsidian-git:Open Git source control": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "de6a86453c8d7340",
+      "mtime": "2026-04-30T14:40:31-03:00"
     }
   },
-  "active": "Geometria/circuloUnitario/mathematica"
+  "active": "Base de datos"
 }
