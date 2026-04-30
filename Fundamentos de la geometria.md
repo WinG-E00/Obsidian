@@ -13,8 +13,10 @@ Teorema de tales
 teorema del seno y coseno
 teorema de la mediatriz
 
-En la circunf
+En la circunferencia
 teorema del angulo inscrito
+
+En el espacio 3D
 
 
 #geometria/fundamentos_axiomas_teoremasxd
