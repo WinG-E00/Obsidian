@@ -19,3 +19,7 @@ cd \
 ![[Pasted image 20260430093346.png]]
 
 
+## Consigna 3
+
+![[Pasted image 20260430093502.png]]
+
