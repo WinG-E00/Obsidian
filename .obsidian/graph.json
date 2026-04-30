@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "tag:#geometria",
+  "collapse-filter": false,
+  "search": "tag:#baseDeDatos",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -103,5 +103,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.35644568978967694,
-  "close": true
+  "close": false
 }
