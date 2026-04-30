@@ -4,7 +4,7 @@ Modifica la estructura de la entidad osea la tabla
 ```SQL
 RENAME TABLE Cultivos TO Plantaciones;
 ```
-<!--SR:!2026-04-30,1,210-->
+<!--SR:!2026-05-01,1,190-->
 
 ```SQL
 ALTER TABLE Cultivos RENAME COLUMN tipo_de_cultivo TO nombre_semilla;

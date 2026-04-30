@@ -12,7 +12,7 @@ Cuales son los operadores que tiene typescript?
 - [[operador nullish]]
 - [[operadores de bits]]
 - [[operadores especiales]]
-<!--SR:!2026-04-30,1,150-->
+<!--SR:!2026-05-01,1,130-->
 
 [[Typescript]]
 

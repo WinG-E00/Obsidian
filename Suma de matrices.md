@@ -22,7 +22,7 @@ Como se suman
 ;;
 #### Como se suman;;
 ![[Pasted image 20260102154629.png]]
-<!--SR:!2026-04-30,34,168-->
+<!--SR:!2026-06-25,56,168-->
 
 que propiedades tiene
 ;;

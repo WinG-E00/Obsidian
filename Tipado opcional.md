@@ -1,7 +1,7 @@
 Caracteristica de typescript
 ;;
 El tipado opcional en typescript se refiere a que a la hora de definir variables o otros tipos, podes elejir si queres que sea de tipado dinamico o tipado estatico
-<!--SR:!2026-04-30,2,170-->
+<!--SR:!2026-05-03,3,170-->
 
 ```ts
 
