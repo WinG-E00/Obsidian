@@ -7,4 +7,8 @@ En trigonometria directo: sirve para calcular cualquier angulo
 Elementos del concepto
 [[Coseno]]
 [[Seno]]
-Secante
+[[Secante]]
+[[Cosecante]]
+[[tangente]]
+[[cotangente]]
+
