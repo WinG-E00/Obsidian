@@ -68,3 +68,5 @@ dir
 
 ![[Pasted image 20260430095453.png]]
 
+![[Pasted image 20260430095518.png]]
+
