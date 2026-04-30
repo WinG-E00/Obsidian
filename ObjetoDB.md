@@ -1,10 +1,10 @@
 Cuales son los objetos que existen dentro de el db?
 ;;
-TABLE
-INDEX
-VIEW
-DATABASE
+[[TABLE]]
+[[INDEX]]
+[[VIEW]]
+[[DATABASE]]
 o
-SCHEMA
+[[SCHEMA]]
 
 #baseDeDatos/sql/DDL
