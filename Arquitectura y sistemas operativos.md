@@ -23,3 +23,9 @@ cd \
 
 ![[Pasted image 20260430093502.png]]
 
+
+![[Pasted image 20260430093618.png]]
+
+
+
+echo Hola Mundo > saludo.txt
