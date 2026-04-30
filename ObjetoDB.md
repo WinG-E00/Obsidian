@@ -1,7 +1,9 @@
 Cuales son los objetos que existen dentro de el db?
 ;;
 Esctruturas de datos
-Vistass y rendimiento
-Logica y prog
+Vistas y rendimiento
+Logica y programacion
+Reglas y automatizacion
+
 
 #baseDeDatos/sql/DDL
