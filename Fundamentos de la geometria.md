@@ -7,7 +7,13 @@ Cuales los los teoremas y axiomas mas importantes de la geometria
 [[	Paralelismo]]
 [[	Continuidad]]
 [[Teoremas]]
-	T
+teorema de pitagoras
+teorema de la suma de Angulos
+Teorema de tales
+teorema del seno y coseno
+teorema de la mediatriz
+
+teorema del angulo inscrito
 
 
 #geometria/fundamentos_axiomas_teoremasxd
