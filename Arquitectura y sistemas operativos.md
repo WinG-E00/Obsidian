@@ -55,3 +55,12 @@ dir
 
 
 ![[Pasted image 20260430094914.png]]
+
+
+
+
+## DESAFIO INTEGRADOR
+![[Pasted image 20260430095119.png]]
+
+
+![[Pasted image 20260430095144.png]]
