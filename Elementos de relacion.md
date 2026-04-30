@@ -1,4 +1,7 @@
 Elementos que tienen la relacion 
 ;;
+[[Angulo]]
+[[Segmento]]
+[[Rayo_semirecta]]
 
-#geometria/Ee
+#geometria/Elementos_de_relacion
