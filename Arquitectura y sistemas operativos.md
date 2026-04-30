@@ -36,4 +36,8 @@ Type saludo.txt
 
 
 dir
+![[Pasted image 20260430093822.png]]
+
+
+## Consigna 4
 
