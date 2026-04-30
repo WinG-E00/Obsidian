@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "Circulo Unitario",
+  "collapse-filter": true,
+  "search": "tag:#geometria",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -102,6 +102,6 @@
   "repelStrength": 9.89583333333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3971467716573235,
-  "close": false
+  "scale": 0.35644568978967694,
+  "close": true
 }
