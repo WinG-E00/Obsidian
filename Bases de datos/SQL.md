@@ -7,6 +7,11 @@ y el lenguaje de manejo de datos [[DML]]
 Despues tambien existe el [[DQL]]
 <!--SR:!2026-05-01,2,150-->
 
+Orden de escritura
+;;
+cual es el orden de escritura de las sentencias
+
+
 
 Elementos principales de las SQL
 ;;
