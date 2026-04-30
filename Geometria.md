@@ -5,7 +5,7 @@ La **geometría** es la ==rama de las matemáticas que se dedica al estudio d
 [[Elementos de relacion]]
 [[Figuras y formas]]
 [[Propiedades clave]]
-[[Axiomas y teoremas]]
+[[Fundamentos de la geometria]]
 
 
 
