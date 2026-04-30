@@ -1,4 +1,5 @@
 [[Vector]]
 [[Matrices]]
+[[Trigonometria]]
 
 #concepto 
