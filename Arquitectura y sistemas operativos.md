@@ -15,4 +15,7 @@ cd ..
 ![[Pasted image 20260430093149.png]]
 
 
-cd 
+cd \
+![[Pasted image 20260430093346.png]]
+
+
