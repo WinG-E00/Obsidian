@@ -47,3 +47,5 @@ dir
 
 
 ## Consigna 5
+![[Pasted image 20260430094814.png]]
+
