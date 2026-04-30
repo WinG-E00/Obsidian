@@ -1,9 +1,9 @@
 Conceptos fundamentales de la geometria.
 ;;
-Punto
-Recta
-Plano
-Espacio
+[[Punto]]
+[[Recta]]
+[[Plano]]
+[[Espacio]]
 
 
 
