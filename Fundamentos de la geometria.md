@@ -13,6 +13,7 @@ Teorema de tales
 teorema del seno y coseno
 teorema de la mediatriz
 
+En la circunf
 teorema del angulo inscrito
 
 
