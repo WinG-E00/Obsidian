@@ -41,3 +41,9 @@ dir
 
 ## Consigna 4
 
+![[Pasted image 20260430094638.png]]
+
+
+
+
+## Consigna 5
