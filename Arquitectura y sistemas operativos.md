@@ -29,3 +29,11 @@ cd \
 
 
 echo Hola Mundo > saludo.txt
+![[Pasted image 20260430093718.png]]
+
+Type saludo.txt
+![[Pasted image 20260430093736.png]]
+
+
+dir
+
