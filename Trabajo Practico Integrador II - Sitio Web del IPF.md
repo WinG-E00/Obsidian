@@ -1,13 +1,13 @@
 
 ## Taller de programación
 ### Año 2026
-### Gaston Encina
+### Gastón Encina
 
-#### Descripcion del proye
-Pagina web sobre el instituto politecnico de formosa en 
+#### Descripción del proyecto
+Pagina web sobre el instituto politécnico de Formosa
 
-#### Tecnologias utilizadas
-Las tecnologias utilizadas en esta pagina web son
+#### Tecnologías utilizadas
+Las tecnologías utilizadas en esta pagina web son
 * HTML
 * Boostrap
 * CSS
