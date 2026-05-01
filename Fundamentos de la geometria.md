@@ -12,6 +12,7 @@ Cuales los los teoremas y axiomas mas importantes de la geometria
 	[[Teorema de tales]]
 	[[teorema del seno y coseno]]
 	[[teorema de la mediatriz]]
+<!--SR:!2026-04-30,1,230-->
 
 En la [[circunferencia]]
 	[[teorema del angulo inscrito]]

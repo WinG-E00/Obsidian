@@ -5,5 +5,6 @@ Cuales son los verbos que existen dentro de el DDL
 [[DROP]]
 [[TRUNCATE]]
 [[RENAME]]
+<!--SR:!2026-05-01,1,230-->
 
 #baseDeDatos/sql/DDL/elementos #elemento 

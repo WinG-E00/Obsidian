@@ -6,7 +6,7 @@ Compartir los datos
 Normas
 restricciones de seguridad
 Integridad
-<!--SR:!2026-04-30,1,170-->
+<!--SR:!2026-04-30,1,150-->
 
  
  #baseDeDatos

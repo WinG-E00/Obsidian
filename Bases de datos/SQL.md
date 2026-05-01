@@ -10,6 +10,7 @@ Despues tambien existe el [[DQL]]
 Orden de escritura
 ;;
 cual es el orden de escritura de las sentencias
+<!--SR:!2026-05-01,1,206-->
 
 
 

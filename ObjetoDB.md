@@ -5,5 +5,6 @@ Cuales son los objetos que existen dentro de el db?
 [[Logica y programacion]]
 [[Reglas y automatizacion]]
 [[seguridad]]
+<!--SR:!2026-05-01,1,230-->
 
 #baseDeDatos/sql/DDL/Objetos
