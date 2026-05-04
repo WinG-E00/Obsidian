@@ -2,4 +2,4 @@
 ;;
 128 caracteres, usando 7 bits.
 
-#flashcard_examen_arquitectura/unidadIV
+#flashcard_examen_arquitectura/unidadRD
