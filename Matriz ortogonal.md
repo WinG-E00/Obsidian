@@ -2,7 +2,7 @@ Matriz ortogonal
 ;;
 Es una matriz que al multiplicarse por su [[Trasposicion de matrices]] da como resultado una [[Matriz identidad]]
 ![[Pasted image 20260103174809.png]]
-<!--SR:!2026-05-04,6,150-->
+<!--SR:!2026-05-07,3,130-->
 
 [[Matrices]]
 
