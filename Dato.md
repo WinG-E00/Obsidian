@@ -5,7 +5,7 @@ ___
 En forma simple:
 ____
 > **Un dato es un valor bruto que describe algo.**
-<!--SR:!2026-05-01,3,148-->
+<!--SR:!2026-05-11,7,168-->
 
 
 [[Tipos de datos]]

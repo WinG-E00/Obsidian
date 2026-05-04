@@ -3,7 +3,7 @@ Como se niega?
 Para poder negar las funciones proposicionales primero tenemos que saber negar cada componente
 [[Negar cuantificadores]]
 [[Negar proposicion]]
-<!--SR:!2026-05-01,2,150-->
+<!--SR:!2026-05-05,3,150-->
 
 
 

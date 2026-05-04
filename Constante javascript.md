@@ -1,7 +1,7 @@
 sintaxis?
 ;;
 const adsad = "Poto";
-<!--SR:!2026-05-02,4,270-->
+<!--SR:!2026-05-16,12,270-->
 
 [[Constante]]
 #javascript_flashcard

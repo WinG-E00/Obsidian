@@ -1,7 +1,7 @@
 Como se escriben?
 ;;
 let es para variable
-<!--SR:!2026-05-01,3,250-->
+<!--SR:!2026-05-13,9,250-->
 
 
 
