@@ -1,2 +1,5 @@
+¿Cuántos caracteres distintos puede representar el código ASCII estándar?
+;;
+128 caracteres, usando 7 bits.
 
-m  kn
+#flashcard_examen_arquitectura/unidadIV
