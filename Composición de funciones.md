@@ -11,7 +11,7 @@ pero si los valores de alguna de estas no son compatibles con los de su dominio 
 :
 y bueno para componer  las funciones se realiza la siguiente operación
 ![[Pasted image 20260103203807.png]]
-<!--SR:!2026-05-06,1,130-->
+<!--SR:!2026-05-07,1,130-->
 
 
 Y bueno ahora resulta que no basta solo con componer la funcion ahora tambien hay que simplificar la ecuacion.... 

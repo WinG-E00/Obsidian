@@ -16,7 +16,7 @@ ___
 1. Eficiente: hablar de eficiencia o complejidad de un algoritmo es evaluar los recursos de cómputo que requiere para
 almacenar datos y para ejecutar operaciones frente al beneficio que ofrece. En cuanto menos recursos requiere será más
 eficiente el algoritmo.
-<!--SR:!2026-05-06,1,150-->
+<!--SR:!2026-05-08,2,150-->
 
 #Caracteristicas
 #Programacion_flashcard 
