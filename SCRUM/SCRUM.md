@@ -5,6 +5,8 @@ Se basa en ciclos de tiempo fijo llamados Sprints 1-4 semanas donde el equipo se
 [[ROLES]]
 [[Artefactos de scrum]]
 [[Ventajas SCRUM]]
+[[Historias de usuario]]
+
 
 
 
