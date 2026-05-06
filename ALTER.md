@@ -8,6 +8,7 @@ ___
 Alter solo funciona en los objetos que fueron creados con [[CREATE]]
 Los cuales son
 [[Esctruturas de datos]]
+<!--SR:!2026-05-05,1,230-->
 
 
 #baseDeDatos/sql/DDL/ALTER
