@@ -6,4 +6,6 @@ Se basa en ciclos de tiempo fijo llamados Sprints 1-4 semanas donde el equipo se
 
 
 
+
+
 #concepto #SCRUM
