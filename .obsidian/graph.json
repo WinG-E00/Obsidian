@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "Instrucciones decla",
+  "search": "gmail",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -102,6 +102,6 @@
   "repelStrength": 9.89583333333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.1918166519517648,
+  "scale": 0.17369046127575818,
   "close": false
 }
