@@ -7,3 +7,4 @@ Largartijas
 
 Extension triceps
 1x12
+2x
