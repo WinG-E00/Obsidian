@@ -4,7 +4,7 @@ Borra toda la entidad xd
 ```SQL
 DROP TABLE Productos;
 ```
-<!--SR:!2026-05-06,1,170-->
+<!--SR:!2026-05-08,1,150-->
 
 
 

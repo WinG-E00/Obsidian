@@ -4,6 +4,6 @@ Cuales son los objetos de regla y automatizacion?
 [[SEQUENCE]]
 [[TYPE]]
 [[DOMAIN]]
-<!--SR:!2026-05-06,1,210-->
+<!--SR:!2026-05-07,1,190-->
 
 #baseDeDatos/sql/DDL/Objetos/ 

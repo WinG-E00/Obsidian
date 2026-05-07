@@ -1,7 +1,7 @@
 Que es?
 ;;
 **CHARACTER(n)** (también conocido como **CHAR(n)**) es un tipo de dato para almacenar cadenas de texto de **longitud fija**.
-<!--SR:!2026-05-01,2,210-->
+<!--SR:!2026-05-13,6,230-->
 
 Aquí tienes sus reglas clave:
 1. **Tamaño estricto:** El número `(n)` define cuántos caracteres guardará **siempre** la columna. Si defines `CHAR(5)`, esa columna siempre ocupará el espacio de 5 caracteres en el disco.

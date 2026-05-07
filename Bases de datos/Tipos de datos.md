@@ -4,7 +4,7 @@ Que tipos de datos acepta?
 [[Alfanumerico]]
 [[Logico]]
 [[Fecha]]
-<!--SR:!2026-05-02,3,230-->
+<!--SR:!2026-05-18,11,250-->
 
 
 
