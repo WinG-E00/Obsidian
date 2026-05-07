@@ -7,4 +7,7 @@ Ejercicio 2
 
 
 Ejercicio 3
+![[../../Pasted image 20260507095529.png]]
+
+
 
