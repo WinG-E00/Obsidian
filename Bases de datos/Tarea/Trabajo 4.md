@@ -12,7 +12,7 @@ Ejercicio 3
 ![[../../Pasted image 20260507095529.png]]
 
 
-Ejercicio 4
+Ejercicio 4 a
 ![[../../Pasted image 20260507095941.png]]
 
 
