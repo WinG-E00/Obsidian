@@ -1,3 +1,5 @@
+Gaston Encina 
+
 Ejercicio 1
 ![[../../Pasted image 20260507092858.png]]
 
@@ -17,4 +19,6 @@ Ejercicio 4
 Ejercicio 4 b
 ![[../../Pasted image 20260507101748.png]]
 
+Ejercicio 4 c
+![[../../Pasted image 20260507103616.png]]
 
