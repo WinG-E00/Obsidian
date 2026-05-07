@@ -22,3 +22,5 @@ Ejercicio 4 b
 Ejercicio 4 c
 ![[../../Pasted image 20260507103616.png]]
 
+Ejercicio 5
+![[../../Pasted image 20260507120854.png]]
