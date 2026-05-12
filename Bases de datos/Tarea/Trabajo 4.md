@@ -31,3 +31,14 @@ Ejercicio 6
 
 Punto 7
 ![[../../Pasted image 20260512121419.png]]
+
+
+Falta el b
+
+
+
+Punto 8
+![[../../Pasted image 20260512123613.png]]
+
+
+Punto 9
