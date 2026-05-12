@@ -7,7 +7,7 @@ pequeños, pero concretos. Tales
 que la suma de estos conceptos
 sintetizados y ordenados nos
 lleve a un resultado final.
-<!--SR:!2026-05-09,5,150-->
+<!--SR:!2026-05-23,12,170-->
 
 
 #Programacion_flashcard #concepto 

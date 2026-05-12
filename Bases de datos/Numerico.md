@@ -5,7 +5,7 @@ Dentro de numerico que tipos de datos existen en bases de datos sql?
 [[Real]]
 [[double precision]]
 [[Serial]]
-<!--SR:!2026-05-01,1,170-->
+<!--SR:!2026-05-09,2,190-->
 
 
 

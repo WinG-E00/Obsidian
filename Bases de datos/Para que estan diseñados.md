@@ -6,7 +6,7 @@ estos
 * dan mecanismos para la gestion de la informacion
 * mantienen la informacion segura
 * proveen mercanimos para que haya una buena concurrencia
-<!--SR:!2026-05-01,2,210-->
+<!--SR:!2026-05-08,1,190-->
 
  
  #baseDeDatos

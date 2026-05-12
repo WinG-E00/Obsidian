@@ -4,13 +4,15 @@ Una base de datos SQL seria basicamente una base de datos que almacena su inform
 Las bases de datos SQL se manipulan con este lenguaje que esta compuesto por dos partes
 El lenguaje de definicion de datos [[DDL]]
 y el lenguaje de manejo de datos [[DML]]
-Despues tambien existe el [[DQL]]
+Despues tambien existe el que es simplemente para hacer consultas de los datos de las bases de datos [[DQL]]
+<!--SR:!2026-05-08,1,212-->
+
 <!--SR:!2026-05-01,2,150-->
 
 Orden de escritura
 ;;
 cual es el orden de escritura de las sentencias
-<!--SR:!2026-05-01,1,206-->
+<!--SR:!2026-05-07,1,186-->
 
 
 
@@ -22,7 +24,7 @@ Elementos principales de las SQL
 [[Indices]]
 [[Relaciones]]
 [[Tipos de datos]]
-<!--SR:!2026-05-01,1,130-->
+<!--SR:!2026-05-09,2,150-->
 
 
 

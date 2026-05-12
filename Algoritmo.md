@@ -10,7 +10,7 @@ Conjunto de reglas, ordenadas de forma lógica, finito y preciso para la soluci�
 de un problema, con utilización o no de un computador.
 ___
 Un **algoritmo** es un **conjunto finito y ordenado de instrucciones claras y precisas** que, al ejecutarse paso a paso, permiten **resolver un problema o realizar una tarea**, partiendo de unos datos de entrada y obteniendo un resultado.
-<!--SR:!2026-05-09,5,130-->
+<!--SR:!2026-05-20,9,150-->
 
 [[Caracteristicas de algoritmos]]
 

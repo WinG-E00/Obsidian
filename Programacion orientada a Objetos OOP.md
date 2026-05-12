@@ -8,7 +8,7 @@ Conceptos principales?
 
 [[Clase]]
 [[Objeto]]
-[[Atributos]]
+[[Atributos_de_POO]]
 [[Metodos]]
 [[Composicion]]
 

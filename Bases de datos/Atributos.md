@@ -1,7 +1,7 @@
 Que son?
 ;;
 Son basicamente las caracteristicas de mi entidad (objeto)
-<!--SR:!2026-04-30,1,190-->
+<!--SR:!2026-05-10,3,210-->
 
 
 Segun que tipo de base de datos hablamos cambian de nombre
@@ -10,7 +10,7 @@ En sql serian
 [[Columna]]
 NoSql
 [[Campo]]
-<!--SR:!2026-05-01,1,130-->
+<!--SR:!2026-05-09,2,150-->
 
 
 

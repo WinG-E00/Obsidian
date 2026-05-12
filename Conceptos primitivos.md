@@ -4,7 +4,7 @@ Conceptos fundamentales de la geometria.
 [[Recta]]
 [[Plano]]
 [[Espacio]]
-<!--SR:!2026-05-01,1,230-->
+<!--SR:!2026-05-05,1,210-->
 
 
 

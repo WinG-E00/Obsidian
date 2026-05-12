@@ -5,7 +5,7 @@ ____
 Los lenguajes compilados necesitan un paso de compilación (_build_) - primero necesitan compilarse manualmente. Necesitas "recompilar" el programa cada vez que necesites hacer un cambio. En nuestro ejemplo del hummus, la traducción completa está escrita antes de que la tengas. Si el autor original decide que quiere usar un distinto aceite de oliva, toda la receta necesitaría ser traducida de nuevo y reenviada a ti.
 ___
 Algunos ejemplos de lenguajes compilados puros son C, C++, Erlang, Haskell, Rust y Go.
-<!--SR:!2026-05-06,41,230-->
+<!--SR:!2026-05-27,21,210-->
 
 
 

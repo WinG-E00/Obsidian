@@ -4,14 +4,14 @@ En SQL existen principalmente ==**8**== **tipos de claves** que sirven para i
 * Identificar: Que no haya dos filas iguales
 * Relacionar: Que se puedan unir una tabla con otra llamando a su clave
 * Proteger: Evita borrar datos importantes por error
-<!--SR:!2026-05-01,1,130-->
+<!--SR:!2026-05-09,2,150-->
 
 
 Cuales existen?
 ;;
 [[Claves Principales]]
 [[Claves de identificacion y unidad]]
-<!--SR:!2026-04-30,1,150-->
+<!--SR:!2026-05-09,2,170-->
 
 
 

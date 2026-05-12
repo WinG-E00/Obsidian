@@ -9,7 +9,7 @@ ___
 Que es?
 Las **estructuras de decisión** (también llamadas **estructuras selectivas**) son **estructuras de control** que permiten a un programa **elegir entre diferentes caminos de ejecución** según se cumpla o no una **condición lógica**.
 ___
-<!--SR:!2026-05-09,5,150-->
+<!--SR:!2026-05-21,10,170-->
 
 [[Estructura de control]]
 [[Estructuras selectivas condicionales]]
