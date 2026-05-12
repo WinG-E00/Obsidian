@@ -4,7 +4,7 @@ Las **estructuras selectivas condicionales** en programación son **estructuras 
 ### Concepto
 Una **estructura selectiva condicional** evalúa una **condición** (expresión lógica que da como resultado verdadero o falso) y, en función de ese resultado, **dirige el flujo del programa por uno u otro camino**.
 ___
-<!--SR:!2026-05-11,13,190-->
+<!--SR:!2026-06-14,34,210-->
 
 [[Estructura de control]]
 [[Estructura de decisión simple]]
