@@ -27,3 +27,7 @@ Ejercicio 5
 
 Ejercicio 6
 ![[../../Pasted image 20260512120247.png]]
+
+
+Punto 7
+![[../../Pasted image 20260512121419.png]]
