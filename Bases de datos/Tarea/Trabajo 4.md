@@ -43,4 +43,6 @@ Punto 8
 
 Punto 9
 SELECT * FROM establecimiento_parcela_cultivo Where Establecimiento =838
-I
+![[../../Pasted image 20260512125817.png]]
+
+
