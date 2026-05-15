@@ -12,4 +12,4 @@
 * Users
 * Main features:
 
-The 
+Hyprland is a window manager app 
