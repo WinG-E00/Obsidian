@@ -19,3 +19,5 @@ The main features of hyprland are
 * Dynamic tiling engine
 * Infinite Virtual Workspaces
 * Advance windows and layer rules
+
+
