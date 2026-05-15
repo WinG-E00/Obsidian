@@ -12,4 +12,4 @@
 * Users
 * Main features:
 
-Hyprland is a window manager app where the purpose is to manage more eficiently the windows of the computer, and is designed for his 
+Hyprland is a window manager app where the purpose is to manage more eficiently the windows of the computer his users 
