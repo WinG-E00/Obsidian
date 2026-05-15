@@ -1,4 +1,4 @@
 
 ## Reading Comprehension 
-1. study planner
+1. Study planner
 2. 
