@@ -21,3 +21,5 @@ The main features of hyprland are
 * Advance windows and layer rules
 
 
+
+## Actividad 3
