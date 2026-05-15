@@ -6,4 +6,4 @@ Whatsapp
 
 
 
-people use youtube to watch videos
+People use youtube to watch videos
