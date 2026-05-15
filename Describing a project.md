@@ -15,4 +15,7 @@
 Hyprland is a window manager app where the purpose is to manage more eficiently the windows of the computer his users can manage multiple windows at once more easly
 
 The main features of hyprland are
-Fluid physics based animations
+* Fluid physics based animations
+* Dynamic tiling engine
+* Infinite Virtual Workspaces
+* Advance windows and layer rules
