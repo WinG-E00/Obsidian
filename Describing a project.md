@@ -3,4 +3,5 @@
 1. Study planner
 2. The people that uses the aplication is the students
 3. The students can organize homework, examns, and study schedules.
-4. Yes the app send notifications reminders to their u
+4. Yes the app send notifications reminders to the students
+5. 
