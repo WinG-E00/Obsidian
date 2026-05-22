@@ -13,4 +13,4 @@ La verda tampoco quiero meterme mucho en esto por que es algo que realmente no m
 
 y pues bueno yo creo que el amor es algo muy bonito para los humanos ya sea cualquier tipo de amor, es algo que puede hacerte sentir vivo y puede hacer que aprecies mil veces mas un momento que quizas puede parecer insignificante para otros, pero que para ti es muy importante.
 
-pero no todo es tan bueno, el amar te expone, te hace vulnerable 
+pero no todo es tan bueno, el amor te expone, te hace vulnerable 
