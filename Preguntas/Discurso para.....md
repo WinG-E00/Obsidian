@@ -9,3 +9,4 @@ La verda no se muy bien que paso pero tampoco puedo decir que lo que te dije no 
 y bueno si es asi losiento, 
 
 Y despues
+La verda tampoco quiero meterme mucho en esto por que es algo que realmente no me in
