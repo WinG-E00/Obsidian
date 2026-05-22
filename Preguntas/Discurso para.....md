@@ -6,3 +6,6 @@ Queria decirte unas palabras
 
 
 La verda no se muy bien que paso pero tampoco puedo decir que lo que te dije no pudo haberte afectado... 
+y bueno si es asi losiento, 
+
+Y despues
