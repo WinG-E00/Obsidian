@@ -13,4 +13,4 @@ La verda tampoco quiero meterme mucho en esto por que es algo que realmente no m
 
 y pues bueno yo creo que el amor es algo muy bonito para los humanos ya sea cualquier tipo de amor, es algo que puede hacerte sentir vivo y puede hacer que aprecies mil veces mas un momento que quizas puede parecer insignificante para otros, pero que para ti es muy importante.
 
-pero el amar tiene sus defectos, el amor te hace vulnerable, te muestras  tal como eres y eso implica que 
+pero el amar tiene sus defectos, el amor te hace vulnerable, te muestras  tal como eres y eso implica que le das el pode
