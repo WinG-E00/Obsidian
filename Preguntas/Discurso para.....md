@@ -1,4 +1,3 @@
 
 Hola
 sam
-intuyo que
