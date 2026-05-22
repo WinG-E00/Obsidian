@@ -9,4 +9,5 @@ La verda no se muy bien que paso pero tampoco puedo decir que lo que te dije no 
 y bueno si es asi losiento.
 
 Y despues
-La verda tampoco quiero meterme mucho en esto por que es algo que realmente no me incumbe y realmente no se ningun lado de la historia, nose si hay buenos y malos o malos o buenos, o tambien puede ser que no haya ningun malo y simpl  asi que solo voy a hablar desde mi experiencia de lo que para mi es el amor
+La verda tampoco quiero meterme mucho en esto por que es algo que realmente no me incumbe y realmente no se ningun lado de la historia, nose si hay buenos y malos o malos o buenos, o tambien puede ser que no haya ningun malo y simplemente sea algo que por nuestra naturaleza como humanos es innevitable, por que nadie es perfecto,  asi que solo voy a hablar desde mi experiencia de lo que para mi es el amor
+
