@@ -11,8 +11,9 @@ Cuales son mis habilidades?
 
 Bienes?
 [[Moto]]
+[[Computadora]]
 
 
 
 Hacia adonde quiero avanzar
-3Millones
+[[3Millones]]
