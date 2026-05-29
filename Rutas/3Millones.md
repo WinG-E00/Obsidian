@@ -12,5 +12,3 @@ para invertir
 [[Invertir]]
 
 
-Hacia donde quiero ir despues de esto?
-[[Posible ruta UBER Auto]]
