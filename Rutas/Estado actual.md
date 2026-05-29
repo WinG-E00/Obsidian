@@ -16,4 +16,4 @@ Bienes?
 
 
 Hacia adonde quiero avanzar
-[[3Millones]]
+[[Ruta intermedia 1 Millon]]
