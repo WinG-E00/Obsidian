@@ -3,5 +3,16 @@ Estoy con la capacidad de hacer
 
 
 Cuales son mis habilidades?
-Dibujo basico
-programacion super bas
+[[Dibujo basico]]
+[[programacion super basico]]
+
+
+
+
+Bienes?
+[[Moto]]
+
+
+
+Hacia adonde quiero avanzar
+3Millones
