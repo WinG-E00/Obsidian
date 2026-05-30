@@ -10,3 +10,6 @@ ___
     - Textos con números (SQL los convierte automáticamente).
 - **Excepción:** En motores como SQL Server, el `+` entre textos une palabras (concatena), no suma.
 ---
+
+
+#
