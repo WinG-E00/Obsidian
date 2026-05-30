@@ -16,5 +16,10 @@ LAS clausulas que existen dentro de las consultas DQL son
 Voy a explicar cada una de ellas en su seccion correspondente.
 ___
 [[Expresiones en el DQL]]
+Funciones SQL
+Operadores SQL
+Comparadores SQL
+
+
 
 #LenguajeSQL/DQL
