@@ -7,7 +7,8 @@ SELECT cantidad
 --- Nombres de varias columnas
 SELECT cantidad, precio
 
-SEL
+--- Columnas sin resultados duplicados
+SELECT DISTINCT producto FROM carrito;
 
 --- Traer todas las columnas de la tabla
 SELECT * 
@@ -25,6 +26,9 @@ SELECT AVG(precio)
 SELECT min(precio)
 -- max devuelve el mayor
 SELECT max(precio)
+
+
+--- Funciones de texto
 
 
 
