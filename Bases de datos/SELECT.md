@@ -5,6 +5,13 @@ Que se puede poner en el select?
 SELECT cantidad
 
 --- Nombres de varias columnas
-SELECT 
+SELECT cantidad, precio
+
+--- Traer todas las columnas de la tabla
+SELECT * 
+
+--- Expresiones matematicas
+
+[[SELECT]]
 
 ```
