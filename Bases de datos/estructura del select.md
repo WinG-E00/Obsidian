@@ -1,7 +1,7 @@
 [[SELECT]]
 [[FROM]]
-[[JOIN]]
 [[WHERE]]
+[[JOIN]]
 [[GROUP BY]]
 [[HAVING]]
 [[ORDER BY]]
