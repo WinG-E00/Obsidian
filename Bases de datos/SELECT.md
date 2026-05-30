@@ -29,6 +29,7 @@ SELECT max(precio)
 
 
 --- Funciones de texto
+SELECT NOW(fecha)
 
 
 
