@@ -5,16 +5,7 @@ Es el lenguaje de las bases de datos relacionales para hacer consultas a la base
 ___
 Su palabara es en sql
 
-Anatomia del SELECt
+Anatomia del SELEC
 ___
-[[SELECT]]
 
-[[Operador/Objeto de sentencia DQL]]
-[[comodin*]]
-	[[Identificadores]]
-	[[Literales(Valores constantes)]]
-	[[Expresiones y operadores]]
-	[[Funciones]]
-
-[[JOIN]]
 
