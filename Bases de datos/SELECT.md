@@ -10,8 +10,9 @@ SELECT cantidad, precio
 --- Traer todas las columnas de la tabla
 SELECT * 
 
---- Expresiones matematicas
+--- Expresiones matematicas con las columnas
+SELECT cantidad * *
 
-[[SELECT]]
+
 
 ```
