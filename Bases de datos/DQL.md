@@ -12,4 +12,7 @@ LAS clausulas que existen dentro de las consultas DQL son
 [[HAVING]]
 [[ORDER BY]]
 [[LIMIT]]
-Voy a explicar cada un
+Voy a explicar cada una de ellas en su seccion correspondente.
+
+
+#LenguajeSQL/DQL
