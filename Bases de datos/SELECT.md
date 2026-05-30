@@ -16,8 +16,11 @@ SELECT cantidad * precio FROM ventas;
 --- Funciones de agregacion osea funciones que calculan
 -- suma toda la columna
 SELECT SUM(precio)
---
-SELECT 
+-- ME saca el Avarage de todos los resultados
+SELECT AVG(precio)
+--- devuelve el valor mas pequeño de la columna
+S
+
 
 
 
