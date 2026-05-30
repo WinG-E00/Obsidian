@@ -30,6 +30,7 @@ SELECT max(precio)
 
 --- Funciones de texto
 SELECT NOW(fecha)
+SELECT CONCAT(producto, ' ', cliente)
 
 
 
