@@ -5,10 +5,11 @@ Es el lenguaje de las bases de datos relacionales para hacer consultas a la base
 ___
 En el sql existen diferentes tipos de cosas que vas a encontrar
 LAS clausulas que existen dentro de las consultas DQL son 
-SELECT
-FROM
-WHERE
-GROUP BY
-HAVING
-ORDER BY
-LIMIT
+[[SELECT]]
+[[FROM]]
+[[WHERE]]
+[[GROUP BY]]
+[[HAVING]]
+[[ORDER BY]]
+[[LIMIT]]
+Voy a explicar cada un
