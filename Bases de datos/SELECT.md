@@ -7,6 +7,8 @@ SELECT cantidad
 --- Nombres de varias columnas
 SELECT cantidad, precio
 
+SEL
+
 --- Traer todas las columnas de la tabla
 SELECT * 
 
