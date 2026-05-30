@@ -4,3 +4,4 @@ DATA QUERY LENGUAJE
 Es el lenguaje de las bases de datos relacionales para hacer consultas a la base de datos
 ___
 
+[[estructura del select]]
