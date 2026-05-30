@@ -11,7 +11,13 @@ SELECT cantidad, precio
 SELECT * 
 
 --- Expresiones matematicas con las columnas
-SELECT cantidad * *
+SELECT cantidad * precio FROM ventas;
+
+--- Funciones de agregacion osea funciones que calculan
+-- suma toda la columna
+SELECT SUM(precio)
+--
+SELECT 
 
 
 
