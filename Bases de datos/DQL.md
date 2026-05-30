@@ -15,6 +15,6 @@ LAS clausulas que existen dentro de las consultas DQL son
 [[LIMIT]]
 Voy a explicar cada una de ellas en su seccion correspondente.
 ___
-Expresiones
+[[Expresiones en el DQL]]
 
 #LenguajeSQL/DQL
