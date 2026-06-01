@@ -12,7 +12,9 @@ constante, la pendiente se mantiene igual a lo largo del tiempo
 es creciente la pendiente en el eje y 
 ![[../Pasted image 20260601163046.png]]
 
- Creciente, la pendiente asciende el eje y
-f(x)
+
+
+R: 2 x -3 y = 6: Es creciente
+ ![[../Pasted image 20260601163125.png]]
 ![[../Pasted image 20260526162009.png]]
 ![[../Pasted image 20260601160021.png]]
