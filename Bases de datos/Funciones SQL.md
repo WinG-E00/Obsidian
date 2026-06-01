@@ -6,10 +6,14 @@ Cuales son las funciones que existen en sql?
 Count(id);
 
 --- Para sumar los valores de los registros
-SUM(precio)
---- Para sacar el avarage de  
+SUM(precio):
+--- Para sacar el avarage de osea el promedio de una funcion 
 AVG(precios)
 
+---Para encontrar el valor minimo de una columnaç
+Min()
+
+--- Para encontrar 
 
 ```
 
