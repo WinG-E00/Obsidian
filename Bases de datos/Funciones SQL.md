@@ -72,7 +72,8 @@ select Lower(nombres) from tabla;
 --- Convierte los registros selecionados en caracteress a minusculas
 
 
-
+CONCAT()
+--- Basicamente para concatenar cadenas de texto concat()
 
 ```
 
