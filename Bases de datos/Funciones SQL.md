@@ -87,8 +87,15 @@ TRIM(' hola chabalez');
 ```
 
 
- ## Funciones de fecha y hora
- 
+## Funciones de fecha y hora
+
+```SQL
+NOW()
+--- devuelve la fecha y hora actual de la base de datos, now es una funcion que no re
+
+
+
+```
 
 
 
