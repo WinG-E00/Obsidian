@@ -42,8 +42,16 @@ SELECT CEILING(-4.3);
 ---  Floor lo mismo que ceiling solo que redonde  hacia abajo floor(4.9) = 4 floor(-4.9) = 5
  
 
-SELECT CE 
+SELECT floor(4.9);
+SELECT floor(-4.9);
 
+
+
+---Power potencia, basicamente es la funcion para la potencia
+SELECT ()
+
+
+ 
 ```
 
 
