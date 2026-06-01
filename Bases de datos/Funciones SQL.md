@@ -81,7 +81,8 @@ SUBSTRING('Hola Mundo',1,4);
 
 
 
-
+TRIM(' hola chabalez');
+--- Sirve para **eliminar espacios en blanco al inicio y al final de un texto. resultado = "hola chabalez"
 
 ```
 
