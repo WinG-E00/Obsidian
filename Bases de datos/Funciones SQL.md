@@ -93,8 +93,12 @@ TRIM(' hola chabalez');
 NOW()
 --- devuelve la fecha y hora actual de la base de datos, now es una funcion que no recibe ningun parametro
 
-CURRENT_DATE;
+SELECT CURRENT_DATE;
 --- deevuelve solo la fecha actual, sin la hora
+
+YEAR() / MONTH() / DAY() 
+-- Devuelve partes de la fecha
+
 
 
 
