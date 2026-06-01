@@ -33,7 +33,7 @@ ROUND(precios,2);
 ROUND(4.5555,2);
 
 
---- CEIL 
+--- CEIL / CEILING() redondea hacia arriba, 
 
 
 ```
