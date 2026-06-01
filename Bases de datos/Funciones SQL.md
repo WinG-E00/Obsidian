@@ -13,11 +13,13 @@ AVG(precios)
 ---Para encontrar el valor minimo de una columnaç
 Min()
 
---- Para encontrar 
+--- Para encontrar el valor maximo de una columna
+MAX
 
 ```
 
-```
-```
+
+
+
 
 #LenguajeSQL 
