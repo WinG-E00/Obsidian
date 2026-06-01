@@ -54,10 +54,20 @@ SELECT POWER(4)
 
 --- SQRT() Es para la raiz cuadrada
 Para calcular la raiz cuadrada 
-SELEECT SQRT(precios);
+SELECT SQRT(precios);
  
 ```
 
 
 
+## Funciones de texto
+
+
+
+
+
+
+
 #LenguajeSQL 
+
+
