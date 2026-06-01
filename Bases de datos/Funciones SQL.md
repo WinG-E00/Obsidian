@@ -76,6 +76,12 @@ CONCAT(precios, nombres)
 --- Basicamente para concatenar cadenas de texto concat("hola", " chau"); = hola chau tambien se puede concatenar varios registros de disintas columnas
 
 
+SUBSTRING('Hola Mundo',1,4);
+-- Resultado = Hola
+
+
+
+
 
 ```
 
