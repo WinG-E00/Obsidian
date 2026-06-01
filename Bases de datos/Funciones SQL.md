@@ -1,5 +1,6 @@
 Cuales son las funciones que existen en sql?
 ;;
+## Funciones de agregacion
 ```SQL
 
 ---Para contar cuantas filas tiene una columna
@@ -11,14 +12,21 @@ SUM(precio):
 AVG(precios)
 
 ---Para encontrar el valor minimo de una columnaç
-Min()
+Min(precios);
 
 --- Para encontrar el valor maximo de una columna
-MAX
+MAX(precios);
+
+
 
 ```
 
 
+## Funciones numericas
+
+```
+
+```
 
 
 
