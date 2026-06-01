@@ -33,7 +33,9 @@ ROUND(precios,2);
 ROUND(4.5555,2);
 
 
---- CEIL / CEILING() redondea hacia arriba, 
+--- CEIL / CEILING() redondea hacia arriba, basciamente si por ejemplo tenes 4.3 te devuelve 5, osea lo redondea hacia arriba,  a excepcion de que sean numeros negativ
+
+SELECT CEILING(4.3)
 
 
 ```
