@@ -21,4 +21,6 @@ es creciente la pendiente en el eje ey
 
 
  Creciente, la pendiente asciende el eje y
+f(x)
 ![[../Pasted image 20260526162009.png]]
+![[../Pasted image 20260601160021.png]]
