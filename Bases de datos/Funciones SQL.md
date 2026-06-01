@@ -51,6 +51,9 @@ SELECT floor(-4.9);
 SELECT POWER(4)
 
 
+
+--- SQRT() Es para la raiz cuadrada
+
  
 ```
 
