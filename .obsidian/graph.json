@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "path:\"Bases de datos/MYSQL\"  ",
+  "collapse-filter": false,
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -102,6 +102,6 @@
   "repelStrength": 9.89583333333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.45020810597815464,
+  "scale": 8,
   "close": false
 }
