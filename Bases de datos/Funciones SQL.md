@@ -26,7 +26,10 @@ MAX(precios);
 
 ```SQL
 --- ABS devuelve el valor absoluto de un numero sin importan si es negativo o no, ademas te puede convertir todos los valores de una columna tambien no solo numeros
-ABS()
+ABS(precios);
+
+---Roudn es para redondear los valores
+ROUND()
 
 ```
 
