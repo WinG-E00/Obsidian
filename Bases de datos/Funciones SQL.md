@@ -3,7 +3,7 @@ Cuales son las funciones que existen en sql?
 ```SQL
 
 ---Para contar cuantas filas tiene una columna
-Count(id)
+Count(id);
 
 --- Para sumar los valores de los registros
 SUM(precio)
@@ -13,6 +13,8 @@ AVG(precios)
 
 ```
 
+```
 
+```
 
 #LenguajeSQL 
