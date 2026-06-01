@@ -6,7 +6,9 @@ Cuales son las funciones que existen en sql?
 Count(id)
 
 --- Para sumar los valores de los registros
-SUM()
+SUM(precio)
+--- Para sacar el avarage de  
+AVG(precios)
 
 
 ```
