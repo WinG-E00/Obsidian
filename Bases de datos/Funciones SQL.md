@@ -63,9 +63,12 @@ SELECT SQRT(precios);
 ## Funciones de texto
 ```SQL
 --- Para devolver la longitud del texto
-select LENGHT(precios) from tabla;
+select LENGHT(nombres) from tabla;
 
+select upper(nombres) from tabla;
+--- convierte los o el registro en caracteres a mayuscula
 
+select Lower(no)
 
 
 ```
