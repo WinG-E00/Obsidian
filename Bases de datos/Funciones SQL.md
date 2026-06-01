@@ -91,7 +91,7 @@ TRIM(' hola chabalez');
 
 ```SQL
 NOW()
---- devuelve la fecha y hora actual de la base de datos, now es una funcion que no re
+--- devuelve la fecha y hora actual de la base de datos, now es una funcion que no recibe ningun parametro
 
 
 
