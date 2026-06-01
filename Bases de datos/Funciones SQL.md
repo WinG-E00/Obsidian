@@ -48,7 +48,7 @@ SELECT floor(-4.9);
 
 
 ---Power potencia, basicamente es la funcion para la potencia
-SELECT ()
+SELECT POWER(4)
 
 
  
