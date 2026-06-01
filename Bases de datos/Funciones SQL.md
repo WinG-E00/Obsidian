@@ -61,7 +61,9 @@ SELECT SQRT(precios);
 
 
 ## Funciones de texto
+```
 
+```
 
 
 
