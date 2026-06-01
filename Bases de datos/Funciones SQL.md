@@ -39,7 +39,10 @@ SELECT CEILING(4.3);
 SELECT CEILING(-4.3);
 
 
----  Floor lo mismo que  
+---  Floor lo mismo que ceiling solo que redonde  hacia abajo floor(4.9) = 4 floor(-4.9) = 5
+ 
+
+SELECT CE 
 
 ```
 
