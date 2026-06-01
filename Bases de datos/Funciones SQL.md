@@ -28,7 +28,7 @@ MAX(precios);
 --- ABS devuelve el valor absoluto de un numero sin importan si es negativo o no, ademas te puede convertir todos los valores de una columna tambien no solo numeros
 ABS(precios);
 
----Roudn es para redondear los valores
+---Roudn es para redondear los valores toma dos valores de entrada, el numero o columan con los numeros y el 
 ROUND()
 
 ```
