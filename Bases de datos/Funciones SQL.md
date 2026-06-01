@@ -25,7 +25,7 @@ MAX(precios);
 ## Funciones numericas
 
 ```SQL
-
+--- ABS devuelve el valor absoluto de un numero sin impo
 
 ```
 
