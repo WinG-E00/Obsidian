@@ -94,7 +94,9 @@ NOW()
 --- devuelve la fecha y hora actual de la base de datos, now es una funcion que no recibe ningun parametro
 
 CURRENT_DATE;
---- deevuelve
+--- deevuelve solo la fecha actual, sin la hora
+
+
 
 
 
