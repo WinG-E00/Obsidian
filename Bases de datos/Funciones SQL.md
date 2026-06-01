@@ -24,7 +24,8 @@ MAX(precios);
 
 ## Funciones numericas
 
-```
+```SQL
+
 
 ```
 
