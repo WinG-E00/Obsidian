@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "Matematica",
+  "search": "Funcion",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -102,6 +102,6 @@
   "repelStrength": 9.89583333333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.24809654987331944,
+  "scale": 0.2905595547989128,
   "close": false
 }
