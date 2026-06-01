@@ -61,7 +61,12 @@ SELECT SQRT(precios);
 
 
 ## Funciones de texto
-```
+```SQL
+--- Para devolver la longitud del texto
+select LENGHT(precios) from tabla;
+
+
+
 
 ```
 
