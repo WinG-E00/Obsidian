@@ -73,7 +73,7 @@ select Lower(nombres) from tabla;
 
 
 CONCAT(precios, nombres)
---- Basicamente para concatenar cadenas de texto concat("hola", " chau"); = hola chau tambien se puede concatenar variosregistros de disintas columnas
+--- Basicamente para concatenar cadenas de texto concat("hola", " chau"); = hola chau tambien se puede concatenar varios registros de disintas columnas
 
 
 
