@@ -87,6 +87,10 @@ TRIM(' hola chabalez');
 ```
 
 
+ ## Funciones de fecha y hora
+ 
+
+
 
 
 
