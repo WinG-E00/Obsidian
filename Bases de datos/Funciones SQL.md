@@ -68,7 +68,10 @@ select LENGHT(nombres) from tabla;
 select upper(nombres) from tabla;
 --- convierte los o el registro en caracteres a mayuscula
 
-select Lower(no)
+select Lower(nombres) from tabla;
+--- Convierte los registros selecionados en caracteress a minusculas
+
+
 
 
 ```
