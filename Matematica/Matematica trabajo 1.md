@@ -2,7 +2,6 @@
 Ejercicio 1
 a)
 Funcion decreciente, la pendiente desciende en el eje y 
-![[../Pasted image 20260526161421.png]]
 
 Creciente, la pentendiente asciende en el eje y
 ![[../Pasted image 20260526161555.png]]
