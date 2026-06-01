@@ -7,7 +7,7 @@ Funcion decreciente, la pendiente desciende en el eje y
 Creciente, la pentendiente asciende en el eje y
 ![[../Pasted image 20260526161555.png]]
 
-
+111
 
 
 constante, la pendiente se mantiene igual a lo largo del tiempo
