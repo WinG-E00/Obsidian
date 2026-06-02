@@ -67,3 +67,6 @@ FROM usuarios;
 -- ✔ Mejora legibilidad y reduce escritura (especialmente en JOINs)
 
 ```
+
+
+#LenguajeSQL
