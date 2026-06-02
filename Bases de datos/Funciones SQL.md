@@ -111,7 +111,7 @@ YEAR() / MONTH() / DAY()
 ## Funciones de conversion
 ```
 --- Funcion para convertir el tipo de dato
-SELECT cast
+SELECT cast(123 AS VARCHART)
 
 ```
 
