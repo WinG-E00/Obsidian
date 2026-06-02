@@ -41,6 +41,9 @@ var
 
 
 ## Ejercicio 9
+![[../Pasted image 20260602103825.png]]
+
+Ejercicio 10
 
 
 
