@@ -30,6 +30,8 @@ var
 ## Ejercicio 6
 ![[../Pasted image 20260602100410.png]]
 
+## Ejercicio 7
+![[../Pasted image 20260602102400.png]]
 
 
 
