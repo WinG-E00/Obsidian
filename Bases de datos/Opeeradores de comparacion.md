@@ -19,4 +19,4 @@ y son
 
 
 
-#LenguajeSQL
+#LenguajeSQL #Tipos 

@@ -10,4 +10,4 @@ OR  -- al menos una condición debe cumplirse
 NOT -- niega una condición
 ```
 
-#LenguajeSQL 
+#LenguajeSQL #Tipos 

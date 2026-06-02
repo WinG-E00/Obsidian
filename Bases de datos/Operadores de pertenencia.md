@@ -15,5 +15,5 @@ NOT IN  -- no está dentro de una lista
 
 
 
-#LenguajeSQL 
+#LenguajeSQL #Tipos 
 

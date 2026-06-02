@@ -10,4 +10,4 @@ Cuales son los operadores que existen en el Lenguaje SQL
 [[operadores de concatenacion]]
 [[operadores de conjunto]]
 
-#LenguajeSQL 
+#LenguajeSQL #Tipos 
