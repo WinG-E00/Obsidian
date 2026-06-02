@@ -14,7 +14,7 @@ Una vez tenemos la primera fila de la matriz resultante llena, pasamos a la segu
 ![[Pasted image 20260102162257.png]]
 Por último, multiplicamos **la segunda fila por la segunda columna**. Siempre con el mismo procedimiento: multiplicamos uno a uno cada elemento de la segunda fila por cada elemento de la segunda columna, y sumamos los resultados:
 ![[Pasted image 20260102162327.png]]
-<!--SR:!2026-05-31,33,198-->
+<!--SR:!2026-06-02,1,178-->
 
 [[Caractersiticas de el resultado de la matriz multiplicada]]
 <!--SR:!2026-02-12,2,200-->
