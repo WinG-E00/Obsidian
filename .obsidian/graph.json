@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "Matrices",
-  "showTags": true,
+  "search": "",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -102,6 +102,6 @@
   "repelStrength": 9.89583333333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4451882540665654,
+  "scale": 0.667782381099848,
   "close": false
 }
