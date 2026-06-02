@@ -6,4 +6,4 @@ mismo numero filas
 Columnas = B
 ![[Pasted image 20260207143255.png]]
 #matricesFlashcard #Caracteristicas
-<!--SR:!2026-05-09,4,150-->
+<!--SR:!2026-06-02,1,130-->

@@ -26,7 +26,7 @@ Como se suman
 
 que propiedades tiene
 ;;
-<!--SR:!2026-05-09,11,170-->
+<!--SR:!2026-06-29,27,190-->
 
 - [[Propiedad asociativa]]
 - [[Propiedad conmutativa]]
