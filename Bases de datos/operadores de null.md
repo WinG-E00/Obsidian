@@ -13,4 +13,4 @@ Select * from tables where tables.nombre Is NOT NULL
 ```
 
 
-#LenguajeSQL
+#LenguajeSQL #Tipos

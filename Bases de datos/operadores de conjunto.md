@@ -44,4 +44,4 @@ SELECT nombre FROM proveedores;
 ```
 
 
-#LenguajeSQL 
+#LenguajeSQL #Tipos
