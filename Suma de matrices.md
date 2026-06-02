@@ -1,7 +1,7 @@
 Como sumo matrices?
 ;;
 Pues primero tiene complir ciertas condiciones
-<!--SR:!2026-06-02,97,248-->
+<!--SR:!2026-07-21,49,228-->
 
 Condiciones
 #### Regla fundamental de la suma de matrices
