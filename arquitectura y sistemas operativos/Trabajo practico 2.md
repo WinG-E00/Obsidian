@@ -37,6 +37,8 @@ var
 
 
 ## Ejercicio 8
+![[../Pasted image 20260602103133.png]]
+
 
 
 
