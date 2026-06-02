@@ -19,7 +19,7 @@ ___
 [[Funciones SQL]]
 [[Operadores SQL]]
 [[Comparadores SQL]]
-[[Predicados]]
+[[Predicados SQL]]
 [[ALIAS]]
 [[subconsultas]]
 [[JOINS]]
