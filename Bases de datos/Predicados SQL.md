@@ -78,3 +78,6 @@ WHERE edad > 18 AND pais = 'Argentina';
 -- Un predicado NO es solo un operador
 -- Es TODA la condición completa que filtra filas
 ```
+___
+Estos serian los operadores que se usan en los predicados
+[[Opeera]]
