@@ -7,7 +7,7 @@ Cuales son los operadores que existen en el Lenguaje SQL
 [[operadores de rango]]
 [[operadores de null]]
 [[operadores de texto]]
-[[operadores de concatenacion]]
+[[Operador de patron]]
 [[operadores de conjunto]]
 
 #LenguajeSQL #Tipos 
