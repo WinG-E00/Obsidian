@@ -82,3 +82,7 @@ ___
 Estos serian los operadores que se usan en los predicados
 [[Opeeradores de comparacion]]
 [[operadores de null]]
+[[Operador de patron]]
+[[Operadores de pertenencia]]
+[[operadores de rango]]
+[[Opeeradores de comparacion]]
