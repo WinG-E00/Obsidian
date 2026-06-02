@@ -108,6 +108,10 @@ YEAR() / MONTH() / DAY()
 
 
 
+## Funciones de conversiono
+
+
+
 
 
 
