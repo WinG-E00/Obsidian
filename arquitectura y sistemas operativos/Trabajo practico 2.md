@@ -17,6 +17,8 @@ var
 
 ![[../Pasted image 20260602095723.png]]
 
+![[../Pasted image 20260602095823.png]]
+
 
 
 
