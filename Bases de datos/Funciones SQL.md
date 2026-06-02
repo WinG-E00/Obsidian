@@ -110,8 +110,108 @@ YEAR() / MONTH() / DAY()
 
 ## Funciones de conversion
 ```
---- Funcion para convertir el tipo de dato
-SELECT cast(123 AS VARCHART)
+-- ==========================
+-- TEXTO -> NÚMERO
+-- ==========================
+
+-- Texto a entero con signo
+SELECT CAST('123' AS SIGNED);
+
+-- Texto a entero sin signo
+SELECT CAST('123' AS UNSIGNED);
+
+-- Texto a decimal
+SELECT CAST('123.45' AS DECIMAL(10,2));
+
+-- Texto a float
+SELECT CAST('123.45' AS FLOAT);
+
+-- Texto a double
+SELECT CAST('123.45' AS DOUBLE);
+
+
+-- ==========================
+-- NÚMERO -> TEXTO
+-- ==========================
+
+-- Entero a texto
+SELECT CAST(123 AS CHAR);
+
+-- Decimal a texto
+SELECT CAST(123.45 AS CHAR);
+
+-- Float a texto
+SELECT CAST(3.1416 AS CHAR);
+
+
+-- ==========================
+-- NÚMERO -> NÚMERO
+-- ==========================
+
+-- Decimal a entero (pierde la parte decimal)
+SELECT CAST(123.99 AS SIGNED);
+
+-- Entero a decimal
+SELECT CAST(123 AS DECIMAL(10,2));
+
+-- Float a entero
+SELECT CAST(15.8 AS SIGNED);
+
+-- Entero a float
+SELECT CAST(15 AS FLOAT);
+
+
+-- ==========================
+-- TEXTO -> FECHA Y HORA
+-- ==========================
+
+-- Texto a fecha
+SELECT CAST('2026-06-02' AS DATE);
+
+-- Texto a hora
+SELECT CAST('15:30:00' AS TIME);
+
+-- Texto a fecha y hora
+SELECT CAST('2026-06-02 15:30:00' AS DATETIME);
+
+
+-- ==========================
+-- FECHA Y HORA -> TEXTO
+-- ==========================
+
+-- Fecha a texto
+SELECT CAST(CURDATE() AS CHAR);
+
+-- Hora a texto
+SELECT CAST(CURTIME() AS CHAR);
+
+-- Fecha y hora a texto
+SELECT CAST(NOW() AS CHAR);
+
+
+-- ==========================
+-- FECHA Y HORA -> FECHA Y HORA
+-- ==========================
+
+-- Datetime a fecha (descarta la hora)
+SELECT CAST(NOW() AS DATE);
+
+-- Datetime a hora (descarta la fecha)
+SELECT CAST(NOW() AS TIME);
+
+
+-- ==========================
+-- EJEMPLOS INVÁLIDOS
+-- ==========================
+
+-- Error o advertencia: "Hola" no es un número
+SELECT CAST('Hola' AS SIGNED);
+
+-- Error o advertencia: formato de fecha inválido
+SELECT CAST('perro' AS DATE);
+
+-- Error o advertencia: no representa un decimal
+SELECT CAST('abc' AS DECIMAL(10,2));
 
 ```
 
