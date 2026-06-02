@@ -7,5 +7,7 @@ Para que se usa el operador null
 IS NULL     -- el valor es nulo
 IS NOT NULL -- el valor no es nulo
 
+Select * from tables where tables.nombre Is NULL
+
 ```
 
