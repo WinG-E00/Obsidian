@@ -1,2 +1,11 @@
 Ejercicio 1
 ![[../Pasted image 20260602094638.png]]
+
+
+Ejercicio 2
+
+etc
+![[../Pasted image 20260602094835.png]]
+
+var
+![[../Pasted image 20260602094911.png]]
