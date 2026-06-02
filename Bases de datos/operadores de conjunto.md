@@ -42,3 +42,6 @@ SELECT nombre FROM proveedores;
 -- ⚠️ En Oracle se usa:
 -- MINUS en lugar de EXCEPT
 ```
+
+
+#LenguajeSQL 
