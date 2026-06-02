@@ -9,3 +9,13 @@ etc
 
 var
 ![[../Pasted image 20260602094911.png]]
+
+
+
+## Ejercicio 3
+![[../Pasted image 20260602095609.png]]
+
+
+
+
+
