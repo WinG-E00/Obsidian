@@ -21,9 +21,6 @@ var
 
 
 ## Ejercicio 4
-![[../Pasted image 20260602095907.png]]
-
-
 
 
 
