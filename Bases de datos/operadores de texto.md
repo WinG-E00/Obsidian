@@ -8,3 +8,6 @@ Cuales son? son pocos, para que sirven?
 SELECT nombre || ' ' || apellido AS nombre_completo
 FROM usuarios;
 ```
+
+
+#Tipos #LenguajeSQL 
