@@ -86,3 +86,5 @@ Estos serian los operadores que se usan en los predicados
 [[Operadores de pertenencia]]
 [[operadores de rango]]
 [[Opeeradores de comparacion]]
+[[Operadores Logicos SQL]]
+[[operadores de conjunto]]
