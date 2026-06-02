@@ -32,7 +32,11 @@ var
 
 ## Ejercicio 7
 ![[../Pasted image 20260602102400.png]]
+![[../Pasted image 20260602102521.png]]
 
+
+
+## Ejercicio 8
 
 
 
