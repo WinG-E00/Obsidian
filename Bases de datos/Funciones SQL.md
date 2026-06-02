@@ -243,6 +243,10 @@ SELECT CAST('perro' AS DATE);         -- Error o advertencia
 ```
 
 
+
+
+
+
 #LenguajeSQL 
 
 
