@@ -40,6 +40,10 @@ var
 ![[../Pasted image 20260602103133.png]]
 
 
+## Ejercicio 9
+
+
+
 
 
 
