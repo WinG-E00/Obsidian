@@ -109,113 +109,138 @@ YEAR() / MONTH() / DAY()
 
 
 ## Funciones de conversion
+
+
 ```
--- ==========================
--- TEXTO -> NÚMERO
--- ==========================
-
--- Texto a entero con signo
-SELECT CAST('123' AS SIGNED);
-
--- Texto a entero sin signo
-SELECT CAST('123' AS UNSIGNED);
-
--- Texto a decimal
-SELECT CAST('123.45' AS DECIMAL(10,2));
-
--- Texto a float
-SELECT CAST('123.45' AS FLOAT);
-
--- Texto a double
-SELECT CAST('123.45' AS DOUBLE);
+-- ==========================================
+-- CAST() EN MARIADB / MYSQL
+-- ==========================================
+-- CAST() sirve para convertir un valor de un tipo de dato a otro.
+--
+-- Sintaxis:
+-- CAST(valor AS tipo)
+-- ==========================================
 
 
--- ==========================
--- NÚMERO -> TEXTO
--- ==========================
+-- ==========================================
+-- SIGNED
+-- ==========================================
+-- Convierte a un número entero CON signo.
+-- Puede ser positivo o negativo.
 
--- Entero a texto
-SELECT CAST(123 AS CHAR);
-
--- Decimal a texto
-SELECT CAST(123.45 AS CHAR);
-
--- Float a texto
-SELECT CAST(3.1416 AS CHAR);
+SELECT CAST('123' AS SIGNED);   -- Resultado: 123
+SELECT CAST('-123' AS SIGNED);  -- Resultado: -123
 
 
--- ==========================
--- NÚMERO -> NÚMERO
--- ==========================
+-- ==========================================
+-- UNSIGNED
+-- ==========================================
+-- Convierte a un número entero SIN signo.
+-- Se utiliza para valores que nunca serán negativos
+-- como IDs, stock, edades, etc.
 
--- Decimal a entero (pierde la parte decimal)
-SELECT CAST(123.99 AS SIGNED);
-
--- Entero a decimal
-SELECT CAST(123 AS DECIMAL(10,2));
-
--- Float a entero
-SELECT CAST(15.8 AS SIGNED);
-
--- Entero a float
-SELECT CAST(15 AS FLOAT);
+SELECT CAST('123' AS UNSIGNED); -- Resultado: 123
 
 
--- ==========================
--- TEXTO -> FECHA Y HORA
--- ==========================
+-- ==========================================
+-- CHAR
+-- ==========================================
+-- Convierte cualquier valor a texto.
 
--- Texto a fecha
+SELECT CAST(123 AS CHAR);       -- Resultado: '123'
+SELECT CAST(15.5 AS CHAR);      -- Resultado: '15.5'
+SELECT CAST(NOW() AS CHAR);     -- Resultado: '2026-06-02 12:34:56'
+
+
+-- ==========================================
+-- DECIMAL(M,D)
+-- ==========================================
+-- Número decimal exacto.
+--
+-- M = cantidad total de dígitos.
+-- D = cantidad de decimales.
+
+SELECT CAST('123.45' AS DECIMAL(10,2)); -- Resultado: 123.45
+SELECT CAST(100 AS DECIMAL(10,2));      -- Resultado: 100.00
+
+
+-- ==========================================
+-- FLOAT
+-- ==========================================
+-- Número decimal aproximado.
+-- Menos preciso que DECIMAL.
+
+SELECT CAST('3.14' AS FLOAT); -- Resultado: 3.14
+
+
+-- ==========================================
+-- DOUBLE
+-- ==========================================
+-- Número decimal aproximado con mayor precisión.
+
+SELECT CAST('3.141592653589793' AS DOUBLE);
+
+
+-- ==========================================
+-- DATE
+-- ==========================================
+-- Convierte un texto a fecha.
+
 SELECT CAST('2026-06-02' AS DATE);
 
--- Texto a hora
+
+-- ==========================================
+-- TIME
+-- ==========================================
+-- Convierte un texto a hora.
+
 SELECT CAST('15:30:00' AS TIME);
 
--- Texto a fecha y hora
+
+-- ==========================================
+-- DATETIME
+-- ==========================================
+-- Convierte un texto a fecha y hora.
+
 SELECT CAST('2026-06-02 15:30:00' AS DATETIME);
 
 
--- ==========================
--- FECHA Y HORA -> TEXTO
--- ==========================
+-- ==========================================
+-- EJEMPLOS DE CONVERSIONES COMUNES
+-- ==========================================
 
--- Fecha a texto
-SELECT CAST(CURDATE() AS CHAR);
+-- Texto -> Entero
+SELECT CAST('500' AS SIGNED);
 
--- Hora a texto
-SELECT CAST(CURTIME() AS CHAR);
+-- Texto -> Decimal
+SELECT CAST('99.99' AS DECIMAL(10,2));
 
--- Fecha y hora a texto
+-- Entero -> Texto
+SELECT CAST(500 AS CHAR);
+
+-- Decimal -> Texto
+SELECT CAST(99.99 AS CHAR);
+
+-- Texto -> Fecha
+SELECT CAST('2026-12-25' AS DATE);
+
+-- Datetime -> Texto
 SELECT CAST(NOW() AS CHAR);
 
 
--- ==========================
--- FECHA Y HORA -> FECHA Y HORA
--- ==========================
-
--- Datetime a fecha (descarta la hora)
-SELECT CAST(NOW() AS DATE);
-
--- Datetime a hora (descarta la fecha)
-SELECT CAST(NOW() AS TIME);
-
-
--- ==========================
+-- ==========================================
 -- EJEMPLOS INVÁLIDOS
--- ==========================
+-- ==========================================
+-- Estas conversiones no tienen sentido porque
+-- el valor no puede interpretarse como el tipo
+-- solicitado.
 
--- Error o advertencia: "Hola" no es un número
-SELECT CAST('Hola' AS SIGNED);
+SELECT CAST('Hola' AS SIGNED);        -- Error o advertencia
+SELECT CAST('abc' AS DECIMAL(10,2));  -- Error o advertencia
+SELECT CAST('perro' AS DATE);         -- Error o advertencia
 
--- Error o advertencia: formato de fecha inválido
-SELECT CAST('perro' AS DATE);
-
--- Error o advertencia: no representa un decimal
-SELECT CAST('abc' AS DECIMAL(10,2));
 
 ```
-
-
 
 
 #LenguajeSQL 
