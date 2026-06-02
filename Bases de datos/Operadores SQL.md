@@ -1,8 +1,8 @@
 Cuales son los operadores que existen en el Lenguaje SQL
 ;;
-[[Operadores aritmeticos]]
+[[Operadores aritmeticos SQL]]
 [[Opeeradores de comparacion]]
-[[Operadores Logicos]]
+[[Operadores Logicos SQL]]
 [[Operadores de pertenencia]]
 [[operadores de rango]]
 [[operadores de null]]
