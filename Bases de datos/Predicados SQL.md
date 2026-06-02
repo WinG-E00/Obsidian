@@ -80,4 +80,5 @@ WHERE edad > 18 AND pais = 'Argentina';
 ```
 ___
 Estos serian los operadores que se usan en los predicados
-[[Opeera]]
+[[Opeeradores de comparacion]]
+[[operadores de null]]
