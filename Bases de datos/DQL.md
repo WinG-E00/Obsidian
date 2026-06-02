@@ -18,7 +18,6 @@ ___
 [[Expresiones en el DQL]]
 [[Funciones SQL]]
 [[Operadores SQL]]
-[[Comparadores SQL]]
 [[Predicados SQL]]
 [[ALIAS]]
 [[subconsultas]]
