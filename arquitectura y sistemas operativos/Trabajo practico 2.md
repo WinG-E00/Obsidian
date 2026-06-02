@@ -15,6 +15,7 @@ var
 ## Ejercicio 3
 ![[../Pasted image 20260602095609.png]]
 
+![[../Pasted image 20260602095723.png]]
 
 
 
