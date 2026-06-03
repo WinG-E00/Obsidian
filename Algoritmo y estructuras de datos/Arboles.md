@@ -18,3 +18,9 @@ Para comprender mejor que es un árbol comenzaremos explicando como está estru
 **Nodo Hoja:** Son todos aquellos nodos que no tienen hijos, los cuales siempre se encuentran en los extremos de la estructura.
 
 **Nodo Rama:** Estos son todos aquellos nodos que no son la raíz  y que ademas tiene al menos un hijo.
+
+
+
+
+Biografia
+https://www.oscarblancarteblog.com/2014/08/22/estructura-de-datos-arboles/
