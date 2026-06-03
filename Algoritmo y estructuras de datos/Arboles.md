@@ -20,6 +20,8 @@ Para comprender mejor que es un árbol comenzaremos explicando como está estru
 **Nodo Rama:** Estos son todos aquellos nodos que no son la raíz  y que ademas tiene al menos un hijo.
 
 
+Recursivo
+
 
 
 Biografia
