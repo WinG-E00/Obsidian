@@ -7,3 +7,4 @@ Caratula
 
 Hay que hacer en pseint?
 Arboles esquema grafico
+15 minutos
