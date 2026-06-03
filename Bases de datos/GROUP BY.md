@@ -168,3 +168,5 @@ SELECT nombre, departamento, COUNT(*)
 FROM empleados
 GROUP BY departamento;
 ```
+
+ #LenguajeSQL
