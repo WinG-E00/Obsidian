@@ -1,7 +1,7 @@
 que puede ir en el WHERE
 ;;
 Que hace where?
-Basicamente te dice 
+Basicamente te dice En donde la condicion se compla, seria como crear una tabla apartir de que la condicion del where se cumpla
 ```SQL
 
 -- =========================================
