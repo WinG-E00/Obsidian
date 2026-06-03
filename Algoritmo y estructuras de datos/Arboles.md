@@ -23,6 +23,8 @@ Para comprender mejor que es un árbol comenzaremos explicando como está estru
 Recursivo
 
 
+[[Tipos de arboles]]
+
 
 Biografia
 https://www.oscarblancarteblog.com/2014/08/22/estructura-de-datos-arboles/
