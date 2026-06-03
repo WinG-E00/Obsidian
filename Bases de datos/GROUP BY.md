@@ -1,6 +1,6 @@
 Que hace?
 ;;
 ```SQl
-Que hace 
+--Que hace group by? Basicamente filtra grupos que ya fueron armados
 
 ```
