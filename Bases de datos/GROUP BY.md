@@ -8,4 +8,5 @@ osea basicamente te dice, agarrame este valor 5 y todos los que tengan 5 en mis 
 ___
 Entonces aqui se pueden usar columas
 [[../Expresiones|Expresiones]]
-[[Expresiones mate]]
+[[Expresiones en el DQL]]
+troo
