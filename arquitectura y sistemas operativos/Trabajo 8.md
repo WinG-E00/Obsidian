@@ -5,3 +5,6 @@ Actividad 1
 
 Actividad 2
 ![[../Pasted image 20260604092957.png]]
+
+Actividad 3
+
