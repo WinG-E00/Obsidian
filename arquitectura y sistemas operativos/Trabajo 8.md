@@ -6,6 +6,11 @@ Actividad 1
 Actividad 2
 ![[../Pasted image 20260604092957.png]]
 
+
+Actividad 3
+
+
+
 Actividad 4
 ![[../Pasted image 20260604093812.png]]
 
@@ -31,3 +36,4 @@ Actividad 9
 
 Actividad 10
 ![[../Pasted image 20260604095105.png]]
+![[../Pasted image 20260604095206.png]]
