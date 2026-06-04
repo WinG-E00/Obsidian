@@ -15,3 +15,8 @@ Actividad 5
 
 Actividad 6
 ![[../Pasted image 20260604094321.png]]
+
+Actividad 7
+![[../Pasted image 20260604094613.png]]
+
+Actividad 8
