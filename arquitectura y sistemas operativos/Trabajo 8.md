@@ -20,3 +20,8 @@ Actividad 7
 ![[../Pasted image 20260604094613.png]]
 
 Actividad 8
+![[../Pasted image 20260604094730.png]]
+
+
+
+Actividad 9
