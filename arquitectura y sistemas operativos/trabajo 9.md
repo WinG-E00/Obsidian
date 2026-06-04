@@ -15,6 +15,12 @@ Ejercicio 4
 
 
 Ejercicio 5
+![[../Pasted image 20260604105354.png]]
+
+Ejercicio 6
+
+
+
 
 
 
