@@ -28,3 +28,5 @@ Actividad 9
 
 ![[../Pasted image 20260604094730.png]]
 ![[../Pasted image 20260604094757.png]]
+
+Actividad 10
