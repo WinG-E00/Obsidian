@@ -6,8 +6,9 @@ Actividad 1
 Actividad 2
 ![[../Pasted image 20260604092957.png]]
 
-Actividad 3
+Actividad 4
 ![[../Pasted image 20260604093812.png]]
 
 
-
+Actividad 5
+![[../Pasted image 20260604093921.png]]
