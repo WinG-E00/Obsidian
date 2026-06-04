@@ -30,3 +30,4 @@ Actividad 9
 ![[../Pasted image 20260604094757.png]]
 
 Actividad 10
+![[../Pasted image 20260604095105.png]]
