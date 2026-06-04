@@ -8,7 +8,7 @@ Actividad 2
 
 
 Actividad 3
-
+![[../Pasted image 20260604095450.png]]
 
 
 Actividad 4
