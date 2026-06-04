@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1780587058592,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1780583320856,
+          "path": "Bases de datos/MYSQL/SQL.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1780583320856,
+          "path": "Bases de datos/DQL.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1780583320856,
+          "path": "Bases de datos/ORDER BY.md"
+        }
+      ],
+      "title": "4 de junio de 2026 12:30"
+    }
+  ]
+}
