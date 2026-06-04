@@ -1,1 +1,4 @@
-Cultivo e
+Cultivo en 0
+
+Falta tabla departamentos
+Codigo localidad
