@@ -25,6 +25,9 @@ Ejercicio 7
 ![[../Pasted image 20260604105929.png]]
 
 Ejercicio 8
+![[../Pasted image 20260604110305.png]]
+
+Ejercicio 9
 
 
 
