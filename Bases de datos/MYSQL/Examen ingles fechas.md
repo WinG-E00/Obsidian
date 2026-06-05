@@ -10,8 +10,10 @@ Email breve
 	objetivos a futuros
 	Tiene un modelo xd
 
-
+Descripcion de un app
 Functions
+Features
+
 
 
 
