@@ -7,4 +7,4 @@
 Responses
 The team develop an aplication for a coffee shop
 
-Firts they analyzed 
+Firts they analyzed the client requeriments of a coffee shop, 
