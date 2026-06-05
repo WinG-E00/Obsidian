@@ -11,5 +11,8 @@ Email breve
 	Tiene un modelo xd
 
 
+Speaking
+	Exposicion
+	Soporte visual?
+		Creacion de una ficha en donde se presenta un new app
 
-Parte oral
