@@ -11,6 +11,11 @@ Email breve
 	Tiene un modelo xd
 
 
+Functions
+
+
+
+
 Speaking
 	Exposicion
 	Soporte visual?
