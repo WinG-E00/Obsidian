@@ -4,7 +4,11 @@
 4. What did they create?
 5. What did they do finally?
 
-DDEv
+Important keywords
+Develop
+Analyzed
+Design
+Created and implemented
 
 
 
