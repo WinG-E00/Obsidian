@@ -16,7 +16,7 @@ Speaking
 	Soporte visual?
 		Creacion de una ficha en donde se presenta un new app
 		Se describe la aplicacion xd
-	
+
 
 
 
