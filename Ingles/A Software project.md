@@ -24,7 +24,11 @@ The team develop an aplication for a coffee shop
 
 Firts they analyzed the client requeriments for a coffee shop.
 
-They designed
+They designed the interfaces that will gonna be necesary for the app.
+
+They created the app for the coffee shoop
+
+Finally, they 
 
 
 
