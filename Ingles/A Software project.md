@@ -20,7 +20,7 @@ tested and deployed
 
 
 Responses
-The team develop an aplication for a coffee shop
+The team developed an aplication for a coffee shop
 
 Firts they analyzed the client requeriments for a coffee shop.
 
