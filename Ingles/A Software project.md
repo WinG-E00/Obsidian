@@ -28,7 +28,9 @@ They designed the interfaces that will gonna be necesary for the app.
 
 They created the app for the coffee shoop
 
-Finally, they 
+Finally, they tested the application and deployed.
+
+
 
 
 
