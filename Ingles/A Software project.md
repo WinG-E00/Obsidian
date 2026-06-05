@@ -4,4 +4,7 @@
 4. What did they create?
 5. What did they do finally?
 
-Responess
+Responses
+The team develop an aplication for a coffee shop
+
+Firts they analyzed 
