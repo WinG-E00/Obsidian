@@ -4,8 +4,11 @@
 
 Parte escrita
 Email breve
-presentacion
-
+	Presentacion
+	Almenos 10 lineas(Renglones)
+	cosas personales
+	objetivos a futuros
+	Tiene un modelo xd
 
 
 Parte oral
