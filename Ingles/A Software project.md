@@ -22,11 +22,9 @@ tested and deployed
 Responses
 The team develop an aplication for a coffee shop
 
-Firts they analyzed the client requeriments of a coffee shop, things like a menu for all the types of coffes, other like the requiments can be that the clients gonna require a section for the status of the delivery, and other necesities that the client will have 
+Firts they analyzed the client requeriments for a coffee shop.
 
-
-
-
+They designed
 
 
 
