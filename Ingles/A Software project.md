@@ -7,4 +7,4 @@
 Responses
 The team develop an aplication for a coffee shop
 
-Firts they analyzed the client requeriments of a coffee shop, things like a menu for all the types of coffees
+Firts they analyzed the client requeriments of a coffee shop, things like a menu for all the types of coffes, other of the requiments can be that the clients m
