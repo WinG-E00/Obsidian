@@ -31,6 +31,8 @@ b)
 c)
 ![[../Pasted image 20260606182112.png]]
 
+d)
+![[../Pasted image 20260606182643.png]]
 
 
 
