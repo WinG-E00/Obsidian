@@ -23,6 +23,9 @@ Es creciente
 ![[../Pasted image 20260601163235.png]]
 
 2)
+a)![[../Pasted image 20260606175351.png]]
+
+
 
 
 
