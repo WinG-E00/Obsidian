@@ -24,7 +24,8 @@ Es creciente
 
 2)
 a)![[../Pasted image 20260606175351.png]]
-
+b)
+![[../Pasted image 20260606180433.png]]
 
 
 
