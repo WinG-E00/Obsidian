@@ -33,9 +33,10 @@ c)
 
 d)
 ![[../Pasted image 20260606182643.png]]
+e)
+![[../Pasted image 20260606183008.png]]
 
-
-
+f)
 
 
 
