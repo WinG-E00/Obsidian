@@ -21,3 +21,16 @@ R: 2 x -3 y = 6: Es creciente
 
 Es creciente
 ![[../Pasted image 20260601163235.png]]
+
+2)
+
+
+
+
+
+
+
+
+
+
+
