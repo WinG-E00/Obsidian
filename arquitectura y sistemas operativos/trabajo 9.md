@@ -31,6 +31,11 @@ Ejercicio 9
 ![[../Pasted image 20260607182029.png]]
 
 Ejercicio 10
+ps aux
+![[../Pasted image 20260607182119.png]]
+
+![[../Pasted image 20260607182146.png]]
+
 
 
 
