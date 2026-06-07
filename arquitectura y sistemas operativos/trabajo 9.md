@@ -36,14 +36,17 @@ ps aux
 
 ![[../Pasted image 20260607182146.png]]
 
-ejercicio 10
+Ejercicio 10
 ![[../Pasted image 20260607182301.png]]
 
-Ejercico 11
+Ejercicio 11
 ![[../Pasted image 20260607182317.png]]
 
 Ejercicio 12
 ![[../Pasted image 20260607182410.png]]
+
+Ejercicio 13
+![[../Pasted image 20260607182626.png]]
 
 
 
