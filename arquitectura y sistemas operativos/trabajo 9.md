@@ -39,7 +39,11 @@ ps aux
 ejercicio 10
 ![[../Pasted image 20260607182301.png]]
 
+Ejercico 11
 ![[../Pasted image 20260607182317.png]]
+
+Ejercicio 12
+![[../Pasted image 20260607182410.png]]
 
 
 
