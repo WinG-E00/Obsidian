@@ -36,6 +36,7 @@ ps aux
 
 ![[../Pasted image 20260607182146.png]]
 
+ejercicio 10
 
 
 
