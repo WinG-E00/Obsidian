@@ -32,7 +32,7 @@ Finally, they tested the application and deployed.
 
 
 
-first we analyzzed the requirements
+first we analyzed the requirements
 second we designed the interface
 
 
