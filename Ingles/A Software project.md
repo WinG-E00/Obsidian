@@ -66,6 +66,10 @@ Terraria
 Terraria is a sandbox game for creatives and persistent person in this game we have to create our houses, equiment and Weapons to fight bosses
 
 
+First we thinked about the engine that we will use
+Then 
+
+
 
 
 
