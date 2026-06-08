@@ -70,7 +70,8 @@ First we thinked about the engine that we will use
 Then we designed the sprites of the characters of the game
 After that, we created the pyshics of the game
 After, we created the scripts for the game
-And after that, 
+And after that, we designed the Assets
+After, we created the AI
 
 
 
