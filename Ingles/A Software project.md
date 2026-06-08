@@ -44,7 +44,23 @@ fourth we deployed the application.
 	2. We tested (test) the software.
 	3. The developer fixed (fix) the bug.
 	4. They deployed (deploy) the project.
-	5. The analyst  (analyze) the requirements.
+	5. The analyst analized (analyze) the requirements.
+
+
+
+# Describe a Software Project
+Consigna:
+Imaginen que desarrollaron una aplicación para gestionar reservas de hotel.
+Utilicen:
+● 8 palabras del vocabulario técnico.
+● 4 verbos en pasado simple.
+● First, Then, After that y Finally.
+Presenten su proyecto a la clase.
+
+
+
+
+
 
 
 
