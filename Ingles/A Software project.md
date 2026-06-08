@@ -61,7 +61,9 @@ Presenten su proyecto a la clase.
 
 First Then After that Finally
 
-Aplicacion para 
+Terraria
+
+Terraria is a sandbox game for creatives and 
 
 
 
