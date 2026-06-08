@@ -70,7 +70,9 @@ First Then After that Finally
 - **Scripting** – Programación de acciones y lógica del juego.
 - **Assets** – Recursos del juego (modelos, sonidos, texturas, etc.).
 
-T
+Terraria
+
+Terraria es 
 
 
 
