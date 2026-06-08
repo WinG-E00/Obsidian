@@ -32,7 +32,7 @@ Finally, they tested the application and deployed.
 
 
 
-___ we tested the software.
+cuard we tested the software.
 ___ we designed the interface.
 ___ we deployed the application.
  first we analyzed the requirements.
