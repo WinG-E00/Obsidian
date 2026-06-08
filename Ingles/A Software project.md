@@ -40,11 +40,11 @@ fourth we deployed the application.
 
 ## Completar con pasado simple
 	Completar los espacios.
-	1. The team ______ (develop) a web application.
-	2. We ______ (test) the software.
-	3. The developer ______ (fix) the bug.
-	4. They ______ (deploy) the project.
-	5. The analyst ______ (analyze) the requirements.
+	1. The team 22 (develop) a web application.
+	2. We tested (test) the software.
+	3. The developer fixed (fix) the bug.
+	4. They deployed (deploy) the project.
+	5. The analyst  (analyze) the requirements.
 
 
 
