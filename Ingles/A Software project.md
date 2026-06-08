@@ -33,9 +33,9 @@ Finally, they tested the application and deployed.
 
 
 ___ we tested the software.
-● ___ we designed the interface.
-● ___ we deployed the application.
-● ___ we analyzed the requirements.
+___ we designed the interface.
+___ we deployed the application.
+ first we analyzed the requirements.
 
 
 
