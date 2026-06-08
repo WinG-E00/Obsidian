@@ -59,6 +59,18 @@ Presenten su proyecto a la clase.
 
 
 
+First Then After that Finally
+
+- **Engine (motor gráfico)** – Software base donde se construye el juego (ej: Unity, Unreal Engine).
+- **Sprites** – Imágenes 2D que representan personajes u objetos.
+- **Physics engine** – Sistema que simula gravedad, colisiones y movimiento realista.
+- **Rendering** – Proceso de generar las imágenes finales que ves en pantalla.
+- **Collision detection** – Detección de choques entre objetos del juego.
+- **AI (Artificial Intelligence)** – Sistema que controla enemigos o NPCs.
+- **Scripting** – Programación de acciones y lógica del juego.
+- **Assets** – Recursos del juego (modelos, sonidos, texturas, etc.).
+
+
 
 
 
