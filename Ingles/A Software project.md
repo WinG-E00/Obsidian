@@ -63,7 +63,9 @@ First Then After that Finally
 
 Terraria
 
-Terraria is a sandbox game for creatives and 
+Terraria is a sandbox game for creatives and persistent person in this game we have to create our houses, equiment and Weapons to fight bosses
+
+
 
 
 
