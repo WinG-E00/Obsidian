@@ -63,14 +63,13 @@ First Then After that Finally
 
 Terraria
 
-Terraria is a sandbox game for creatives and persistent person in this game we have to create our houses, equiment and Weapons to fight bosses
+Terraria is a sandbox game for creatives and persistent person, in this game we have to create our houses, equiment and Weapons to fight bosses
 
 
-First we thinked about the engine that we will use
+First we thought about the engine that we will use
 Then we designed the sprites of the characters of the game
 After that, we created the pyshics of the game
-Then, we created the collision detection of the game
-After, we created the scripts for the game
+Then, we created the collision detection of the game  andwe created the scripts for the game
 And after that, we designed the Assets
 After, we created the AI for the enemies of the game
 
