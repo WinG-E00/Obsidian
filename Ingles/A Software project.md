@@ -69,9 +69,12 @@ Terraria is a sandbox game for creatives and persistent person, in this game we 
 First we thought about the engine that we will use
 Then we designed the sprites of the characters of the game
 After that, we created the pyshics of the game
-Then, we created the collision detection of the game  andwe created the scripts for the game
+Then, we created the collision detection of the game  and we created the scripts.
 And after that, we designed the Assets
-After, we created the AI for the enemies of the game
+Finally, we created the AI for the enemies of the game
+
+
+
 
 
 
