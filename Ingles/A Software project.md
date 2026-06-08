@@ -32,10 +32,21 @@ Finally, they tested the application and deployed.
 
 
 
-cuard we tested the software.
-___ we designed the interface.
-___ we deployed the application.
+Fourth we tested the software.
+second we designed the interface.
+fourth we deployed the application.
  first we analyzed the requirements.
+
+
+## Completar con pasado simple
+	Completar los espacios.
+	1. The team ______ (develop) a web application.
+	2. We ______ (test) the software.
+	3. The developer ______ (fix) the bug.
+	4. They ______ (deploy) the project.
+	5. The analyst ______ (analyze) the requirements.
+
+
 
 
 
