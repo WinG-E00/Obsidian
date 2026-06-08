@@ -32,11 +32,10 @@ Finally, they tested the application and deployed.
 
 
 
-first we analyzed the requirements
-second we designed the interface
-
-
-
+___ we tested the software.
+● ___ we designed the interface.
+● ___ we deployed the application.
+● ___ we analyzed the requirements.
 
 
 
