@@ -2,7 +2,7 @@
 
 
 
-Actividad A
+### Actividad A
 
 Ejercicio 1
 ![[../Pasted image 20260609100340.png]]
@@ -16,7 +16,7 @@ Ejercicio 3
 ![[../Pasted image 20260609101116.png]]
 
 
-Actividad B
+### Actividad B
 Ejercicio 1
 ![[../Pasted image 20260609101909.png]]
 
