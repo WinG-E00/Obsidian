@@ -45,5 +45,16 @@ Ejercicio D
 Ejercicio 1
 ![[../Pasted image 20260609105201.png]]
 Ejercicio 2
+![[../Pasted image 20260609105401.png]]
+
+Ejercicio 3
+
+
+
+
+
+
+
+
 
 
