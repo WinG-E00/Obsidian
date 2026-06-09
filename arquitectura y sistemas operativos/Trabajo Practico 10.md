@@ -1,6 +1,6 @@
 ## Arquitectura y sistemas operativos
 
-
+Gaston Encina
 
 ### Actividad A
 
