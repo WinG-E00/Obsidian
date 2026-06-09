@@ -38,7 +38,7 @@ Ejercicio 2
 Ejercicio 3
 ![[../Pasted image 20260609102904.png]]
 
-![[../Pasted image 20260609103928.png]]
+![[../Pasted image 20260609104829.png]]
 
 
 
