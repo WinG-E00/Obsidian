@@ -40,6 +40,7 @@ Ejercicio 3
 
 ![[../Pasted image 20260609104829.png]]
 
+Ejercicio D
 
 
 
