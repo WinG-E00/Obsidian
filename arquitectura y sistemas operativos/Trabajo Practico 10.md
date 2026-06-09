@@ -43,5 +43,7 @@ Ejercicio 3
 Ejercicio D
 
 Ejercicio 1
+![[../Pasted image 20260609105201.png]]
+Ejercicio 2
 
 
