@@ -10,4 +10,5 @@ Ejercicio 1
 
 
 Ejercicio 2
+![[../Pasted image 20260609101036.png]]
 
