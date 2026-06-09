@@ -50,6 +50,7 @@ Ejercicio 2
 Ejercicio 3
 ![[../Pasted image 20260609105518.png]]
 
+Ejercicio 4
 
 
 
