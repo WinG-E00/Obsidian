@@ -28,7 +28,16 @@ Ejercicio 3
 
 
 ### Actividad C
+
+Ejercicio 1
 ![[../Pasted image 20260609102439.png]]
+
+Ejercicio 2
+![[../Pasted image 20260609102532.png]]
+
+Ejercicio 3
+
+
 
 
 
