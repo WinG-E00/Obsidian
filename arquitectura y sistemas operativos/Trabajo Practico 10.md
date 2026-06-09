@@ -51,7 +51,13 @@ Ejercicio 2
 
 Ejercicio 3
 
-r
+![[../Pasted image 20260609110520.png]]
+
+scp -P 2222 alumnotest@127.0.0.1:/home
+
+
+
+
 
 
 
