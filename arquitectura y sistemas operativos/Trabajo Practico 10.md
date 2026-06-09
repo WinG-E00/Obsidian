@@ -53,7 +53,8 @@ Ejercicio 3
 
 ![[../Pasted image 20260609110520.png]]
 
-scp -P 2222 alumnotest@127.0.0.1:/home
+scp -P 2222 alumnotest@127.0.0.1:/home/alumnotest/respuesta.txt respuesta.txt
+
 
 
 
