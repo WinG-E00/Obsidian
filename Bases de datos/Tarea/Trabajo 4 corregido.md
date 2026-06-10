@@ -101,3 +101,4 @@ de una hectarea
 Creo la tabla unidad de medida y le inserto los tipos de unidad
 ![[../../Pasted image 20260609232246.png]]
 
+Ahora agrego a cada productor que tenia su superficie con 250
