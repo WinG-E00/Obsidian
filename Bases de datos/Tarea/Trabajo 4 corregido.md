@@ -38,6 +38,11 @@ a) b)
 Ejercicio 7
 ![[../../Pasted image 20260609212150.png]]
 
+![[../../Pasted image 20260609213837.png]]
+
+
+
+
 
 
 Ejercicio 8
