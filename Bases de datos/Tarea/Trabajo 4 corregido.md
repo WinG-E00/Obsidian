@@ -89,3 +89,7 @@ Ejercicio 10
 
 Parcelas para los 3 productores mas que usaran la unidad de medida 250m
 ![[../../Pasted image 20260609230632.png]]
+
+
+
+Agrego a la tabla establecimiento_parcela_cutivo las parcelas con su respectivo ciu
