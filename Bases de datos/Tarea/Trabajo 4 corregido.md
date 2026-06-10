@@ -70,6 +70,8 @@ Segundo
 
 ![[../../Pasted image 20260609223110.png]]
 
+
+Creo titular
 ![[../../Pasted image 20260609224015.png]]
 
 
