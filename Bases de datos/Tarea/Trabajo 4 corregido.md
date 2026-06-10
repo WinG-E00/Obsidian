@@ -40,7 +40,7 @@ Ejercicio 7
 
 ![[../../Pasted image 20260609213837.png]]
 
-
+![[../../Pasted image 20260609213913.png]]
 
 
 
