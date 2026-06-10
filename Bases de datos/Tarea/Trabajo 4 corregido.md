@@ -56,3 +56,5 @@ Ejercicio 8
 ![[../../Pasted image 20260609213123.png]]
 
 Ejercicio 9
+Primero creo la localidad
+![[../../Pasted image 20260609221624.png]]
