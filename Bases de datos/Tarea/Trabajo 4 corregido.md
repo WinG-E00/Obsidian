@@ -107,4 +107,4 @@ Ahora agrego a cada productor que tenia su superficie con 250metros cuadrados y 
 
 
 
-El punto 11 lo estoy terminando pero se me termina el tiempo para la entrega asi que termino el trabajo p
+El punto 11 lo estoy terminando pero se me termina el tiempo para la entrega del trabajo asi que termino el trabajo primero, Recordando que el 11 es opcional pero necesario para la normalizacion
