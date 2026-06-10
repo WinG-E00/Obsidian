@@ -28,3 +28,10 @@ Ejercicio 4 C
 
 Ejercicio 5
 ![[../../Pasted image 20260609210723.png]]
+
+Ejercicio 6
+
+a) b)
+![[../../Pasted image 20260609211331.png]]
+
+
