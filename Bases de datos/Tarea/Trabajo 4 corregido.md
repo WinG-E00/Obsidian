@@ -42,7 +42,7 @@ Ejercicio 7
 
 ![[../../Pasted image 20260609213913.png]]
 
-
+![[../../Pasted image 20260609214819.png]]
 
 
 Ejercicio 8
@@ -55,4 +55,4 @@ Ejercicio 8
 
 ![[../../Pasted image 20260609213123.png]]
 
-
+Ejercicio 9
