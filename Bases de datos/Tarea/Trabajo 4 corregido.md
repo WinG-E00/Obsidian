@@ -75,3 +75,10 @@ Creo titular
 ![[../../Pasted image 20260609224015.png]]
 
 
+REgistro mis parcelas
+![[../../Pasted image 20260609224450.png]]
+
+![[../../Pasted image 20260609224514.png]]
+
+
+
