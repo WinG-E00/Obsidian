@@ -45,6 +45,6 @@ Ejercicio 8
 250 Hectareas de mani? irracional?
 ![[../../Pasted image 20260609212638.png]]
 
-
+![[../../Pasted image 20260609213020.png]]
 
 
