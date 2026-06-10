@@ -20,4 +20,7 @@ Ejercicio 4
 
 
 Ejercicio 4 b
+![[../../Pasted image 20260609210110.png]]
 
+
+Ejercicio 4 C
