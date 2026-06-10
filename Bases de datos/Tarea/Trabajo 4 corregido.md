@@ -81,4 +81,5 @@ REgistro mis parcelas
 ![[../../Pasted image 20260609224514.png]]
 
 
+Ejercicio 10
 
