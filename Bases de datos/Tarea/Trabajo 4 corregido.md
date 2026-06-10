@@ -1,4 +1,4 @@
-
+Trabajo 4 corregido 
 1
 ![[../../Pasted image 20260609113806.png]]
 ![[../../Pasted image 20260609114035.png]]
@@ -107,5 +107,4 @@ Ahora agrego a cada productor que tenia su superficie con 250metros cuadrados y 
 
 
 
-
-
+El punto 11 lo estoy terminando pero se me termina el tiempo para la entrega asi que termino el trabajo p
