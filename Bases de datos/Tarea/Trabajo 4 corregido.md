@@ -87,4 +87,5 @@ Ejercicio 10
 
 ![[../../Pasted image 20260609225748.png]]
 
-Parcelas para los 3 productores mas que usara
+Parcelas para los 3 productores mas que usaran la unidad de medida 250m
+![[../../Pasted image 20260609230632.png]]
