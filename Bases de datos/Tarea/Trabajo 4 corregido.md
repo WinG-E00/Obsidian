@@ -41,3 +41,9 @@ Ejercicio 7
 
 
 Ejercicio 8
+
+250 Hectareas de mani? irracional?
+![[../../Pasted image 20260609212638.png]]
+
+
+
