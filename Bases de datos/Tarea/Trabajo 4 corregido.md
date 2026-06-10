@@ -86,3 +86,5 @@ Ejercicio 10
 
 
 ![[../../Pasted image 20260609225748.png]]
+
+Parcelas para los 3 productores mas que usara
