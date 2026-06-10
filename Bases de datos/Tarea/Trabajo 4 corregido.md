@@ -101,4 +101,11 @@ de una hectarea
 Creo la tabla unidad de medida y le inserto los tipos de unidad
 ![[../../Pasted image 20260609232246.png]]
 
-Ahora agrego a cada productor que tenia su superficie con 250
+Ahora agrego a cada productor que tenia su superficie con 250metros cuadrados y le asigno a la columna unidad de medida el tipo 3 que es la medida para los metros cuadrados
+
+![[../../Pasted image 20260609232923.png]]
+
+
+
+
+
