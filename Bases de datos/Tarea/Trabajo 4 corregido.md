@@ -48,3 +48,6 @@ Ejercicio 8
 ![[../../Pasted image 20260609213020.png]]
 
 
+![[../../Pasted image 20260609213123.png]]
+
+
