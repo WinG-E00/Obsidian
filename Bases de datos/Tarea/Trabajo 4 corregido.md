@@ -64,4 +64,9 @@ Primero creo la localidad
 
 
 
+Segundo
+![[../../Pasted image 20260609223056.png]]
+
+
+![[../../Pasted image 20260609223110.png]]
 
