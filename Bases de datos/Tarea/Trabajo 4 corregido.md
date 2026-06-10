@@ -57,4 +57,8 @@ Ejercicio 8
 
 Ejercicio 9
 Primero creo la localidad
-![[../../Pasted image 20260609221624.png]]
+![[../../Pasted image 20260609221809.png]]
+
+
+
+
