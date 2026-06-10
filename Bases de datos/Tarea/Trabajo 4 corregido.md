@@ -35,3 +35,9 @@ a) b)
 ![[../../Pasted image 20260609211331.png]]
 
 
+Ejercicio 7
+![[../../Pasted image 20260609212150.png]]
+
+
+
+Ejercicio 8
