@@ -60,5 +60,5 @@ Primero creo la localidad
 ![[../../Pasted image 20260609221809.png]]
 
 
-
+![[../../Pasted image 20260609222216.png]]
 
