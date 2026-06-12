@@ -1,0 +1,2 @@
+
+necesito proar como escrbio con las otras parte s de mi mano sea relmente  puedo escrbir bien pero relamente  me confundo un poco cuando escribo asi e como si estuviera escrbiendo un poco raro realmente pero bueno creao que me puedoacostumbrar si es que 
