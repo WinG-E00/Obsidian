@@ -99,6 +99,16 @@ Finally, we created the AI for the enemies of the game
 For develop the game we chose a engine
 
 XNA Framework_, this is a game engine that runs on Visual Studio.
+![[../Pasted image 20260614010711.png]]
+
+
+
+Then we designed the sprites of the characters of the game
+![[../Pasted image 20260614010746.png]]
+
+
+After that, we created the pyshics of the game
+
 
 
 
