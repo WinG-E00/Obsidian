@@ -91,7 +91,9 @@ Finally, we created the AI for the enemies of the game
 
 3 Terraria weapons
 ![[../Pasted image 20260614010336.png]]
+![[../Pasted image 20260614010420.png]]
 
 
 
 
+For develop the game we chose a engine
