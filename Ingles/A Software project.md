@@ -108,8 +108,11 @@ Then we designed the sprites of the characters of the game
 
 
 After that, we created the pyshics of the game
+![[../Pasted image 20260614010824.png]]
 
 
+
+![[../Pasted image 20260614010909.png]]
 
 
 
