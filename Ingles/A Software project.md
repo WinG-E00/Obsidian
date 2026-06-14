@@ -117,3 +117,7 @@ Then, we created the collision detection of the game  and we created the scripts
 
 And after that, we designed the Assets
 ![[../Pasted image 20260614010959.png]]
+
+
+Finally, we created the AI for the enemies of the game
+![[../Pasted image 20260614011100.png]]
