@@ -81,8 +81,12 @@ Finally, we created the AI for the enemies of the game
 
 
 
-2
+2 A sandbox game
 ![[../Pasted image 20260614010145.png]]
+
+![[../Pasted image 20260614010230.png]]
+
+![[../Pasted image 20260614010253.png]]
 
 
 
