@@ -75,7 +75,11 @@ Finally, we created the AI for the enemies of the game
 
 
 
+1
+![[../Pasted image 20260614005952.png]]
 
+
+2
 
 
 
