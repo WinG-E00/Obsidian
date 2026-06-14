@@ -111,8 +111,9 @@ After that, we created the pyshics of the game
 ![[../Pasted image 20260614010824.png]]
 
 
-
+Then, we created the collision detection of the game  and we created the scripts.
 ![[../Pasted image 20260614010909.png]]
+![[../Pasted image 20260614010924.png]]
 
-
-
+And after that, we designed the Assets
+![[../Pasted image 20260614010959.png]]
