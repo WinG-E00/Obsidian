@@ -89,7 +89,8 @@ Finally, we created the AI for the enemies of the game
 ![[../Pasted image 20260614010253.png]]
 
 
-
+3 Terraria weapons
+![[../Pasted image 20260614010336.png]]
 
 
 
