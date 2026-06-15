@@ -23,8 +23,16 @@ paso 7
 sudo reboot
 
 
-Para ver las distribuciones
+Para ver las distribuciones instaladas
 brl status
+
+
+Para instalar las distrubuciones
+sudo brl fetch arch
+
+
+
+Para ejecutar un 
 
 
 ```
