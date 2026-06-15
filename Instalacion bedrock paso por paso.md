@@ -32,7 +32,9 @@ sudo brl fetch arch
 
 
 
-Para ejecutar un 
+Para ejecutar una distribucion y ocupar sus herramientas
+
+sudo strat arch pacman -S firefox
 
 
 ```
