@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#",
+  "search": "#concepto",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -102,6 +102,6 @@
   "repelStrength": 9.4921875,
   "linkStrength": 1,
   "linkDistance": 204,
-  "scale": 0.12347706697996508,
+  "scale": 0.2778234007049214,
   "close": false
 }
