@@ -17,6 +17,12 @@ paso 5 otorgar permisos de ejecucion al script
 chmod +x bedrock-linux-0.7.29-x86_64.sh
 
 Paso 6 ejecutar el script con permisos de administrador
+sudo ./bedrock-linux-0.7.29-x86_64.sh --hijack
+
+paso 7
+sudo reboot
+
+
 
 
 ```
