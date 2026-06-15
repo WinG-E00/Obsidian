@@ -23,8 +23,8 @@ paso 7
 sudo reboot
 
 
-
-
+Para ver las distribuciones
+brl status
 
 
 ```
