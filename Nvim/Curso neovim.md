@@ -8,3 +8,12 @@
 | Comunidad            | Muy pequeña, mantenido por una persona                               | Activa y creciente                             | Pequeña, enfocada en software libre         |
 | Filosofía            | Libertad de mezclar ecosistemas                                      | Declarativo y reproducible                     | Software libre, reproducible y ético        |
 | Apto para producción | No recomendado                                                       | Sí, usado en servidores                        | Limitado, más experimental                  |
+CriterioBedrock LinuxNixOSGuixFacilidad de usoDifícil — requiere conocimiento avanzado de Linux y gestión de estratosDifícil — lenguaje Nix con curva de aprendizaje pronunciadaMuy difícil — requiere conocer Scheme/Guile además del sistemaConsumo de RAMMuy bajo de base — depende de lo que instales encimaBajo a medio — el sistema base es eficienteBajo — similar a NixOS en consumo basePropósitoMezclar múltiples distros en un solo sistemaSistema reproducible y declarativo para desarrollo y producciónSistema 100% libre, reproducible y éticamente alineado con GNUEntorno visualNinguno por defecto — instalas lo que quieras desde cualquier estratoNinguno por defecto — configurable desde configuration.nixNinguno por defecto — configurable mediante Guile
+
+
+|Criterio|Bedrock Linux|NixOS|Guix|
+|---|---|---|---|
+|Facilidad de uso|Difícil — requiere conocimiento avanzado de Linux y gestión de estratos|Difícil — lenguaje Nix con curva de aprendizaje pronunciada|Muy difícil — requiere conocer Scheme/Guile además del sistema|
+|Consumo de RAM|Muy bajo de base — depende de lo que instales encima|Bajo a medio — el sistema base es eficiente|Bajo — similar a NixOS en consumo base|
+|Propósito|Mezclar múltiples distros en un solo sistema|Sistema reproducible y declarativo para desarrollo y producción|Sistema 100% libre, reproducible y éticamente alineado con GNU|
+|Entorno visual|Ninguno por defecto — instalas lo que quieras desde cualquier estrato|Ninguno por defecto — configurable desde configuration.nix|Ninguno por defecto — configurable mediante Guile|
