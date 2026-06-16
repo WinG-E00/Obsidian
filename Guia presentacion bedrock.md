@@ -1,14 +1,5 @@
 
 
-
-
-
-
-
-
-
-
-
 | Introducción + historia + motivación 3 min            | 3 mins |
 | ----------------------------------------------------- | ------ |
 | Características + interfaz gráfica + requisitos 3 min | 3 mins |
