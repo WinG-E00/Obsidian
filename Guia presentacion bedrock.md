@@ -17,6 +17,8 @@ Casos de usos
 - Distro hopper
 - Desarrollador , sysadmin
 - El entusiasta
+
+
 Entornos
 - Hogar 
 - Programacion
