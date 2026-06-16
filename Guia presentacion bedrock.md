@@ -18,7 +18,7 @@ Casos de usos
 - Desarrollador , sysadmin
 - El entusiasta
 
-
+z
 Entornos
 - Hogar 
 - Programacion
