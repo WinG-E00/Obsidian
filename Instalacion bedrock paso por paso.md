@@ -38,3 +38,5 @@ sudo strat arch pacman -S firefox
 
 
 ```
+
+mi bro que nzcio un año anr
