@@ -75,5 +75,37 @@ a este proceso se lo conoce como hijack
 
 
 
+**Comando principal: `brl`**
+
+|Comando|Descripción|
+|---|---|
+|`brl list`|Lista todos los estratos instalados|
+|`brl which`|Consulta qué estrato provee un objeto o comando|
+|`brl fetch <distro>`|Descarga e instala un nuevo estrato desde una distro|
+|`brl import`|Importa un estrato desde una fuente local en disco|
+|`brl remove`|Elimina un estrato o alias|
+|`brl rename`|Renombra un estrato|
+|`brl copy`|Copia un estrato|
+|`brl status`|Consulta el estado de un estrato|
+|`brl enable`|Habilita un estrato|
+|`brl disable`|Deshabilita un estrato|
+|`brl repair`|Repara un estrato dañado|
+|`brl hide`|Oculta un estrato|
+|`brl show`|Muestra un estrato oculto|
+|`brl alias`|Crea un alias para un estrato|
+|`brl deref`|Desreferencia un alias de estrato|
+|`brl apply`|Aplica cambios de configuración|
+|`brl update`|Actualiza Bedrock Linux|
+|`brl version`|Muestra la versión de Bedrock|
+|`brl report`|Genera un reporte del sistema|
+|`brl tutorial`|Lanza el tutorial interactivo de Bedrock|
+
+**Comando secundario: `strat`**
+
+|Comando|Descripción|
+|---|---|
+|`strat <estrato> <comando>`|Ejecuta un comando de un estrato específico|
+|`strat arch pacman`|Ejemplo: usa pacman del estrato Arch|
+|`strat debian apt`|Ejemplo: usa apt del estrato Debian|
 
 
