@@ -26,3 +26,18 @@ Entornos
 
 
 Comparacion
+
+|Criterio|Bedrock Linux|Gentoo|Linux From Scratch|
+|---|---|---|---|
+|Enfoque principal|Mezclar múltiples distros en un solo sistema|Sistema compilado desde fuente con máxima personalización|Construir un sistema Linux completamente desde cero de forma manual|
+|Base|Se instala sobre una distro existente|Distro independiente con su propio ecosistema|No tiene base, se construye pieza por pieza|
+|Gestión de paquetes|Usa los gestores nativos de cada distro (apt, pacman, AUR...)|Portage — descarga y compila código fuente con USE flags|Sin gestor de paquetes por defecto, todo es manual|
+|Repositorios|Acceso nativo a todos los repos de cada distro|packages.gentoo.org + overlays de la comunidad|Sin repositorios, el usuario busca y descarga cada fuente|
+|Personalización|Alta — elegís qué distros y paquetes mezclar|Muy alta — controlás cada característica de cada paquete|Total — construís exactamente lo que querés desde cero|
+|Curva de aprendizaje|Alta|Muy alta|Extrema|
+|Comunidad|Muy pequeña, mantenido por una persona|Grande y activa|Pequeña, orientada al aprendizaje|
+|Propósito|Flexibilidad de ecosistema|Sistema optimizado y personalizado para uso diario|Educativo — entender Linux desde adentro|
+|Consumo de RAM|Muy bajo de base|Bajo — depende de lo que instales|Mínimo — solo lo que vos ponés|
+|Entorno visual|Ninguno por defecto|Ninguno por defecto|Ninguno por defecto|
+|Apto para producción|No recomendado|Sí, con experiencia suficiente|No, es principalmente educativo|
+|Tiempo de instalación|Moderado|Alto — compilar lleva horas|Muy alto — días dependiendo de la experiencia|
