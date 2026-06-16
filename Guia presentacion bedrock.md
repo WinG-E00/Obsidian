@@ -13,3 +13,8 @@
 Puntos importantes que voy a tocar
 
 Casos de usos
+- Usuario tecnico avanzado
+- Distro hopper
+- Desarrollador , sysadmin
+- El entusiasta
+- 
