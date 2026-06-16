@@ -57,11 +57,7 @@ Curiosidades
 Todas las versiones de Bedrock Linux llevan el nombre de personajes de las series de televisión de Nickelodeon Avatar: The Last Airbender y The Legend of Korra.
 
   
-  
-
 - Dato curioso 2: 
-    
-
 Bedrock Linux no hace mucho por sí solo; más bien, es la base sobre la que se asientan partes de otras distribuciones de Linux. Las ideas iniciales para el nombre buscaban reflejar este hecho. Otros nombres propuestos fueron "Foundation Linux", "Frame Linux" y "Scaffolding Linux". La elección se hizo sin tener en cuenta la serie de televisión Los Picapiedra ni el videojuego Minecraft.
 
   
