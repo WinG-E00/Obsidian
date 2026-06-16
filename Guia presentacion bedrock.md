@@ -42,10 +42,36 @@ Comparacion
 |Apto para producción|No recomendado|Sí, con experiencia suficiente|No, es principalmente educativo|
 |Tiempo de instalación|Moderado|Alto — compilar lleva horas|Muy alto — días dependiendo de la experiencia|
 
+Comparacion
 
-|Criterio|Bedrock Linux|Gentoo|Linux From Scratch|
-|---|---|---|---|
-|Facilidad de uso|Difícil — requiere conocimiento avanzado de Linux y gestión de estratos|Difícil — compilación, USE flags y configuración manual|Extremadamente difícil — todo se hace a mano sin asistencia automatizada|
-|Consumo de RAM|Muy bajo de base — depende de lo que instales encima|Bajo — solo corre lo que vos compilaste e instalaste|Mínimo — únicamente lo que vos pusiste en el sistema|
-|Propósito|Mezclar múltiples distros en un solo sistema|Sistema optimizado y personalizado para uso diario|Educativo — aprender cómo funciona Linux desde adentro|
-|Entorno visual|Ninguno por defecto — instalas lo que quieras desde cualquier estrato|Ninguno por defecto — instalás un entorno de escritorio manualmente via Portage|Ninguno por defecto — debés construirlo e instalarlo completamente a mano|
+| Criterio         | Bedrock Linux                                                           | Gentoo                                                                          | Linux From Scratch                                                        |
+| ---------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Facilidad de uso | Difícil — requiere conocimiento avanzado de Linux y gestión de estratos | Difícil — compilación, USE flags y configuración manual                         | Extremadamente difícil — todo se hace a mano sin asistencia automatizada  |
+| Consumo de RAM   | Muy bajo de base — depende de lo que instales encima                    | Bajo — solo corre lo que vos compilaste e instalaste                            | Mínimo — únicamente lo que vos pusiste en el sistema                      |
+| Propósito        | Mezclar múltiples distros en un solo sistema                            | Sistema optimizado y personalizado para uso diario                              | Educativo — aprender cómo funciona Linux desde adentro                    |
+| Entorno visual   | Ninguno por defecto — instalas lo que quieras desde cualquier estrato   | Ninguno por defecto — instalás un entorno de escritorio manualmente via Portage | Ninguno por defecto — debés construirlo e instalarlo completamente a mano |
+
+
+Curiosidades
+- Dato curioso 1: 
+Todas las versiones de Bedrock Linux llevan el nombre de personajes de las series de televisión de Nickelodeon Avatar: The Last Airbender y The Legend of Korra.
+
+  
+  
+
+- Dato curioso 2: 
+    
+
+Bedrock Linux no hace mucho por sí solo; más bien, es la base sobre la que se asientan partes de otras distribuciones de Linux. Las ideas iniciales para el nombre buscaban reflejar este hecho. Otros nombres propuestos fueron "Foundation Linux", "Frame Linux" y "Scaffolding Linux". La elección se hizo sin tener en cuenta la serie de televisión Los Picapiedra ni el videojuego Minecraft.
+
+  
+
+- Dato curioso 3:  
+    Bedrock linux no tiene una imagen ISO de instalación como otras distros tradicionales, Bedrock se ejecuta a partir de un script en una distro base el cual es el siguiente:
+    
+
+         Run the script as root with the --hijack flag:
+
+sh ./bedrock-linux-release-arch.sh --hijack
+
+a este proceso se lo conoce como hijack
