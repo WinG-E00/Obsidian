@@ -40,4 +40,5 @@ sudo strat arch pacman -S firefox
 ```
 
 
-ESt
+le cambie eso xd
+ el click xd
