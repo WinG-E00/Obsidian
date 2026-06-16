@@ -40,3 +40,4 @@ sudo strat arch pacman -S firefox
 ```
 
 
+ESt
