@@ -41,3 +41,11 @@ Comparacion
 |Entorno visual|Ninguno por defecto|Ninguno por defecto|Ninguno por defecto|
 |Apto para producción|No recomendado|Sí, con experiencia suficiente|No, es principalmente educativo|
 |Tiempo de instalación|Moderado|Alto — compilar lleva horas|Muy alto — días dependiendo de la experiencia|
+
+
+|Criterio|Bedrock Linux|Gentoo|Linux From Scratch|
+|---|---|---|---|
+|Facilidad de uso|Difícil — requiere conocimiento avanzado de Linux y gestión de estratos|Difícil — compilación, USE flags y configuración manual|Extremadamente difícil — todo se hace a mano sin asistencia automatizada|
+|Consumo de RAM|Muy bajo de base — depende de lo que instales encima|Bajo — solo corre lo que vos compilaste e instalaste|Mínimo — únicamente lo que vos pusiste en el sistema|
+|Propósito|Mezclar múltiples distros en un solo sistema|Sistema optimizado y personalizado para uso diario|Educativo — aprender cómo funciona Linux desde adentro|
+|Entorno visual|Ninguno por defecto — instalas lo que quieras desde cualquier estrato|Ninguno por defecto — instalás un entorno de escritorio manualmente via Portage|Ninguno por defecto — debés construirlo e instalarlo completamente a mano|
