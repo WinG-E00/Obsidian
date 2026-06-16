@@ -71,3 +71,9 @@ Bedrock Linux no hace mucho por sí solo; más bien, es la base sobre la que se 
 sh ./bedrock-linux-release-arch.sh --hijack
 
 a este proceso se lo conoce como hijack
+
+
+
+
+
+
