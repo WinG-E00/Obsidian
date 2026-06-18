@@ -12,3 +12,8 @@ Despues edite la cod_loca en donde tenia el valor de 7004
 
 Ejercicio 2 
 ![[Pasted image 20260618114336.png]]
+
+
+Ejercicio 3
+Primero inserto a el profe leonardo taquini  en la tabla titulares
+![[Pasted image 20260618115429.png]]
