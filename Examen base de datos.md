@@ -23,3 +23,5 @@ con titular_nro 2358
 Despues 
 primero creo el establecimiento con algondon
 ![[Pasted image 20260618120733.png]]
+
+despues el de pomelo
