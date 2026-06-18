@@ -34,7 +34,9 @@ Ejercicio 6
 ![[Pasted image 20260618124120.png]]
 
 
-Ejercicio 7
+Ejercicio 3
 Primero creo unidad de medida
 ![[Pasted image 20260618124803.png]]
 
+
+Ejercicio 7
