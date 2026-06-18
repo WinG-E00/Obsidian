@@ -16,4 +16,5 @@ Ejercicio 2
 
 Ejercicio 3
 Primero inserto a el profe leonardo taquini  en la tabla titulares
-![[Pasted image 20260618115429.png]]
+![[Pasted image 20260618115429.png]] 
+con titular_nro 2358
