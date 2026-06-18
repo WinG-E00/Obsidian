@@ -25,3 +25,7 @@ primero creo el establecimiento con algondon
 ![[Pasted image 20260618120733.png]]
 
 despues el de pomelo
+![[Pasted image 20260618120953.png]]
+
+
+y ahora lo asocio con mi titular
