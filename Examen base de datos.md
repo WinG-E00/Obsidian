@@ -10,4 +10,5 @@ Despues edite la cod_loca en donde tenia el valor de 7004
 ![[Pasted image 20260618113205.png]]
 ![[Pasted image 20260618113228.png]]
 
-Ejercicio 2 Tema 2 Orden 
+Ejercicio 2 
+![[Pasted image 20260618114336.png]]
