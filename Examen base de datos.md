@@ -24,4 +24,5 @@ Despues
 primero creo el establecimiento con algondon y pomelo
 ![[Pasted image 20260618122139.png]]
 
-y ahora lo asocio con mi titular
+y ahora lo asocio el establecimiento con mi titular
+![[Pasted image 20260618122757.png]]
