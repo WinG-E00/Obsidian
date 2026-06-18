@@ -4,8 +4,11 @@ Base creada con el nombre de la fecha y campo01
 tabla de establecimientos importada
 ![[Pasted image 20260618112452.png]]
 ![[Pasted image 20260618112514.png]]
-Despues l 
+Despues le di al boton de importar y se termino de importar
 
-
+Despues edite la cod_loca en donde tenia el valor de 7004
 ![[Pasted image 20260618111218.png]]
 
+
+
+Ejercicio 2
