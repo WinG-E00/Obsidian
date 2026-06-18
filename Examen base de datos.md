@@ -8,5 +8,6 @@ Despues le di al boton de importar y se termino de importar
 
 Despues edite la cod_loca en donde tenia el valor de 7004
 ![[Pasted image 20260618113205.png]]
+![[Pasted image 20260618113228.png]]
 
-Ejercicio 2
+Ejercicio 2 Tema 2 Orden 
