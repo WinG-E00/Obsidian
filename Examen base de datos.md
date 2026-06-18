@@ -18,3 +18,7 @@ Ejercicio 3
 Primero inserto a el profe leonardo taquini  en la tabla titulares
 ![[Pasted image 20260618115429.png]] 
 con titular_nro 2358
+
+
+Despues 
+primero creo el establecimiento con algondon
