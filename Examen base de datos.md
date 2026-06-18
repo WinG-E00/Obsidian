@@ -26,3 +26,6 @@ primero creo el establecimiento con algondon y pomelo
 
 y ahora lo asocio el establecimiento con mi titular
 ![[Pasted image 20260618122757.png]]
+
+Ejercicio 5
+![[Pasted image 20260618123912.png]]
