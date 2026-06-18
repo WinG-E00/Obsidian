@@ -29,3 +29,6 @@ y ahora lo asocio el establecimiento con mi titular
 
 Ejercicio 5
 ![[Pasted image 20260618123912.png]]
+
+Ejercicio 6
+![[Pasted image 20260618124120.png]]
