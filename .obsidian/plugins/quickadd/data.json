@@ -11,10 +11,43 @@
         "id": "bbb3ee17-eda6-4775-a0b0-23f6144106d7",
         "commands": [
           {
+            "name": "Untitled Template Choice",
+            "type": "NestedChoice",
+            "id": "412376f9-e385-4562-90a3-679f7f1c3b35",
+            "choice": {
+              "id": "239a26c3-df0d-43c6-b783-add537c82d0f",
+              "name": "Untitled Template Choice",
+              "type": "Template",
+              "command": false,
+              "templatePath": "OldNotes/script wrapped.js",
+              "fileNameFormat": {
+                "enabled": false,
+                "format": ""
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
             "name": "script wrapped",
             "type": "UserScript",
-            "id": "2594162a-17c8-4d5b-a9ac-04f50c620638",
-            "path": "script wrapped.js",
+            "id": "ad251a3d-f9af-4734-9d69-1a3de4df5ee5",
+            "path": "OldNotes/script wrapped.js",
             "settings": {}
           }
         ]
