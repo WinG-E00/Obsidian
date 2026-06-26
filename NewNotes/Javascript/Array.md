@@ -1,0 +1,22 @@
+## Metodos
+[[map]]
+[[filter]]
+[[slice]]
+
+[[push]]
+[[pop]]
+[[unshift]]
+[[shift]]
+[[splice]]
+[[sort]]
+[[reverse]]
+
+[[find]]
+[[findIndex]]
+[[includes]]
+[[indexOf]]
+[[some]]
+[[every]]
+
+[[forEach]]
+[[reduce]]

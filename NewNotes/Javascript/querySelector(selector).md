@@ -1,0 +1,1 @@
+querySelector("#id, .clase, div > p")

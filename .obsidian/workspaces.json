@@ -1,293 +1,40 @@
 {
   "workspaces": {
-    "Geometria/circuloUnitario/mathematica": {
+    "Estudio de Javascript": {
       "main": {
-        "id": "a32c038ae14af042",
+        "id": "60877b38848e2d28",
         "type": "split",
         "children": [
           {
-            "id": "bfc81509df3e603f",
+            "id": "fb2b8317bd9d6000",
             "type": "tabs",
-            "dimension": 48.86535552193646,
             "children": [
               {
-                "id": "90184c0a0852e588",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              },
-              {
-                "id": "a79486166221f5a2",
+                "id": "7b97a6175ba38de5",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Coseno.md",
+                    "file": "NewNotes/Javascript/DOM.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Coseno"
+                  "title": "DOM"
                 }
               },
               {
-                "id": "f60aa040cb3dc275",
+                "id": "71e9502bb8350682",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Teorema de Pitagoras.md",
+                    "file": "NewNotes/Javascript/document.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Teorema de Pitagoras"
-                }
-              },
-              {
-                "id": "688852484e1c34f8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Mathematics.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Mathematics"
-                }
-              },
-              {
-                "id": "7254ab9cee14e3e3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Geometria.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Geometria"
-                }
-              },
-              {
-                "id": "cf9310ad6528c549",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Fundamentos de la geometria.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Fundamentos de la geometria"
-                }
-              },
-              {
-                "id": "414987f1505a7e76",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Propiedades clave.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Propiedades clave"
-                }
-              },
-              {
-                "id": "3227a5b838d65b8f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Figuras y formas.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Figuras y formas"
-                }
-              },
-              {
-                "id": "231ff95f62251a78",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Elementos de relacion.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Elementos de relacion"
-                }
-              },
-              {
-                "id": "d8b07c67344f8bf4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Conceptos primitivos.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Conceptos primitivos"
-                }
-              },
-              {
-                "id": "daf3163cc3b8d0ae",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Mathematics.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Mathematics"
-                }
-              },
-              {
-                "id": "9f5b712662827549",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Trigonometria.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Trigonometria"
-                }
-              },
-              {
-                "id": "93199edabf2939fb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Algoritmo y estructuras de datos/Sistemas de numeracion.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Sistemas de numeracion"
-                }
-              },
-              {
-                "id": "b96acf19bfb408b7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Algoritmo y estructuras de datos/Algoritmo y estructura de datos.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Algoritmo y estructura de datos"
-                }
-              },
-              {
-                "id": "e775791682c82aa2",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              },
-              {
-                "id": "71f00edfcc83d0d5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Arquitectura y sistemas operativos TP 5.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Arquitectura y sistemas operativos TP 5"
-                }
-              }
-            ],
-            "currentTab": 5
-          },
-          {
-            "id": "200a0418de614bc3",
-            "type": "tabs",
-            "dimension": 51.13464447806354,
-            "children": [
-              {
-                "id": "caa2e77d1d92f22e",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://www.google.com/search?sca_esv=74837c4673692df8&sxsrf=ANbL-n55du2x4_UwQE9z1lre6Ri5gpG51Q%3A1777489346323&ei=wlXyaea1EefD5OUP7IXiiQ8&iflsig=AFdpzrgAAAAAafJj0nCogJ8Xvrl0Rx5CHvwRIMOIJtM1&uact=5&sclient=gws-wiz&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3p-ML-906rRL_m6h4jR-tdAeyw6pOVABma0FfM0NmtARdcuGnZVoiSrEQCt2b10nLmwmT1dasrScerQpt4E6jHtRrpXwxf-1k02VNl6kp7wO3C8TkoRLBBZ1LJZoHIeFL1DwSjslhoTqPz9yOA3Wnl8PhLApZPv4OGwQY8aVA2rGR-si2w&ntc=1&mtid=RFfzae_1Auqt5OUP9Ob_yAM&ved=2ahUKEwjQj6bx1JWUAxVyPbkGHSUwFh0Qoo4PegYIAQgAEAU&q=Que+es+el+circulo+unitario%3F&mstk=AUtExfDnO6azivHf8CrxEKl-_Lcn6mVWJYfcLe5HDxqsA7rR5jym1U_Ic5tSroUsz-sxrsvUXPM-Zu8xVHCGdDNVTDIA12CvxxfMtEjfbh9cTe4JuDGaIqF2y_6JIiXEjh94ehSw5EBY31xMTKwvM-2W1V4_loUzQsL_jfEmpwVRdXuZANuiQnXC5QFvkGsSvipojbH2bhjMddp61PbGbkCOdGzITfCAfdQXEqQXWyk2Lgl-Ygh2kUkyPciPWPJkYArT7J2UHC8jcx-a2vREJEkjS8D5knC5MvbsNQYllMaelqptXDv48qDbAn5DHWF4tnNQt5a0P7aA7dUHqJCQZl8eZl25NvO19QSGmA&csuir=1&udm=50",
-                    "title": "Que es el circulo unitario? - Google Search",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Que es el circulo unitario? - Google Search"
-                }
-              },
-              {
-                "id": "6c5ebeae33c2aae3",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://www.formulasexplicadas.com/circulo-unitario/",
-                    "title": "▷ Círculo unitario",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "▷ Círculo unitario"
-                }
-              },
-              {
-                "id": "774bb83a26392807",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://es.khanacademy.org/math/trigonometry/trigonometry-right-triangles/xfefa5515:ratios-in-right-triangles/a/getting-ready-for-right-triangles-and-trigonometry",
-                    "title": "Preparación para triángulos rectángulos y trigonometría (artículo) | Khan Academy",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Preparación para triángulos rectángulos y trigonometría (artículo) | Khan Academy"
-                }
-              },
-              {
-                "id": "c9f7cb870cedc357",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://www.google.com/search?q=Khan+academy+es+gratis%3F&sca_esv=f123ee124c2aed74&sxsrf=ANbL-n7eiropRRmtYM1jIUDy56Er_L-7bA%3A1777555912594&source=hp&ei=yFnzadDDIsn35OUP-dOqyAI&iflsig=AFdpzrgAAAAAafNn2EiPxX4Md0JjwocNezfWQFXKbiYy&ved=0ahUKEwjQx_Ll15WUAxXJO7kGHfmpCikQ4dUDCB4&uact=5&oq=Khan+academy+es+gratis%3F&gs_lp=Egdnd3Mtd2l6IhdLaGFuIGFjYWRlbXkgZXMgZ3JhdGlzPzIIEAAYgAQYywEyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yCxAAGIAEGIoFGIYDMgsQABiABBiKBRiGAzILEAAYgAQYigUYhgMyCxAAGIAEGIoFGIYDMgsQABiABBiKBRiGAzIIEAAYgAQYogRI_R5QAFi2HHACeACQAQCYAcgBoAGdGqoBBjIuMjIuMbgBA8gBAPgBAZgCG6ACjhuoAgrCAgQQIxgnwgIKECMYgAQYigUYJ8ICCxAAGIAEGIoFGJECwgILEC4YgAQYigUYkQLCAgsQLhiABBjHARjRA8ICBRAAGIAEwgIFEC4YgATCAg0QIxieBhjwBRjqAhgnwgIHECMY6gIYJ8ICDRAjGPAFGMkCGOoCGCfCAhAQIxidBhjoBhjdBRjqAhgnwgIQEC4YgAQYigUYQxjHARjRA8ICEBAuGEMYxwEY0QMYgAQYigXCAgoQABiABBiKBRhDwgIKEC4YgAQYigUYQ8ICChAuGEMYgAQYigXCAg8QLhiABBgKGAsYxwEY0QPCAgkQABiABBgKGAvCAgUQABjvBZgDBPEFqoLQ3MATP-2SBwYyLjI0LjGgB9vIAbIHBjAuMjQuMbgHhRvCBwgwLjIxLjUuMcgHT4AIAQ&sclient=gws-wiz",
-                    "title": "Khan academy es gratis? - Google Search",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Khan academy es gratis? - Google Search"
+                  "title": "document"
                 }
               }
             ]
@@ -296,15 +43,15 @@
         "direction": "vertical"
       },
       "left": {
-        "id": "3c249583d78e2043",
+        "id": "5b6726eb953b7369",
         "type": "split",
         "children": [
           {
-            "id": "3df43d8fd4f6e203",
+            "id": "c450372fa89a14a1",
             "type": "tabs",
             "children": [
               {
-                "id": "e6cb30cc3a8bab2a",
+                "id": "432da5d26f7f1eeb",
                 "type": "leaf",
                 "state": {
                   "type": "file-explorer",
@@ -317,12 +64,12 @@
                 }
               },
               {
-                "id": "ead76d4a3e37dbb2",
+                "id": "0aa6ee0c6b8a1247",
                 "type": "leaf",
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "Mathema",
+                    "query": "",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -334,588 +81,7 @@
                 }
               },
               {
-                "id": "e47b132ed53964ed",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {},
-                  "icon": "lucide-bookmark",
-                  "title": "Bookmarks"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "horizontal",
-        "width": 200
-      },
-      "right": {
-        "id": "24b0d7c7992efeb8",
-        "type": "split",
-        "children": [
-          {
-            "id": "66470b864a8998b4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6e7243fc01ce9591",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks"
-                }
-              },
-              {
-                "id": "141199b639df0083",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-going-out",
-                  "title": "Outgoing links"
-                }
-              },
-              {
-                "id": "a8ef505604fb8a06",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-tags",
-                  "title": "Tags"
-                }
-              },
-              {
-                "id": "ce17c8b9b7859d78",
-                "type": "leaf",
-                "state": {
-                  "type": "all-properties",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-archive",
-                  "title": "All properties"
-                }
-              },
-              {
-                "id": "a6b5b8edf500bf56",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "followCursor": false,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "Outline"
-                }
-              },
-              {
-                "id": "de6a86453c8d7340",
-                "type": "leaf",
-                "state": {
-                  "type": "git-view",
-                  "state": {},
-                  "icon": "lucide-ghost",
-                  "title": "git-view"
-                }
-              },
-              {
-                "id": "a36b6d05ee1b2a56",
-                "type": "leaf",
-                "state": {
-                  "type": "review-queue-list-view",
-                  "state": {},
-                  "icon": "SpacedRepIcon",
-                  "title": "Notes Review Queue"
-                }
-              },
-              {
-                "id": "8a5931d6f064f30f",
-                "type": "leaf",
-                "state": {
-                  "type": "review-queue-list-view",
-                  "state": {},
-                  "icon": "SpacedRepIcon",
-                  "title": "Notes Review Queue"
-                }
-              }
-            ],
-            "currentTab": 6
-          }
-        ],
-        "direction": "horizontal",
-        "width": 300,
-        "collapsed": true
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "switcher:Open quick switcher": false,
-          "graph:Open graph view": false,
-          "canvas:Create new canvas": false,
-          "daily-notes:Open today's daily note": false,
-          "templates:Insert template": false,
-          "command-palette:Open command palette": false,
-          "bases:Create new base": false,
-          "obsidian-spaced-repetition:Review flashcards": false,
-          "copilot:Open Copilot Chat": false,
-          "obsidian-git:Open Git source control": false,
-          "workspaces:Manage workspace layouts": false
-        }
-      },
-      "active": "cf9310ad6528c549",
-      "mtime": "2026-04-30T12:07:06-03:00"
-    },
-    "Base de datos": {
-      "main": {
-        "id": "a32c038ae14af042",
-        "type": "split",
-        "children": [
-          {
-            "id": "bfc81509df3e603f",
-            "type": "tabs",
-            "dimension": 50,
-            "children": [
-              {
-                "id": "cbc883f63b959b74",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              },
-              {
-                "id": "c2801cd45299114a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Reglas y automatizacion.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Reglas y automatizacion"
-                }
-              },
-              {
-                "id": "460cbccee124ddee",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Logica y programacion.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Logica y programacion"
-                }
-              },
-              {
-                "id": "c940933608de6d1e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Vistas y rendimiento.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Vistas y rendimiento"
-                }
-              },
-              {
-                "id": "a0e9f23ffe033bd2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Esctruturas de datos.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Esctruturas de datos"
-                }
-              },
-              {
-                "id": "08288879f68aceb4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "VerboDB.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "VerboDB"
-                }
-              }
-            ]
-          },
-          {
-            "id": "1140fe35420f032f",
-            "type": "tabs",
-            "dimension": 50,
-            "children": [
-              {
-                "id": "1e59281859bf49c3",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://gemini.google.com/app/3ca5d1bdd79b16df",
-                    "title": "Anatomía de Sentencias SQL - Google Gemini",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Anatomía de Sentencias SQL - Google Gemini"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "3c249583d78e2043",
-        "type": "split",
-        "children": [
-          {
-            "id": "3df43d8fd4f6e203",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e6cb30cc3a8bab2a",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical",
-                    "autoReveal": false
-                  },
-                  "icon": "lucide-folder-closed",
-                  "title": "Files"
-                }
-              },
-              {
-                "id": "ead76d4a3e37dbb2",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "Mathema",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  },
-                  "icon": "lucide-search",
-                  "title": "Search"
-                }
-              },
-              {
-                "id": "e47b132ed53964ed",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {},
-                  "icon": "lucide-bookmark",
-                  "title": "Bookmarks"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 200
-      },
-      "right": {
-        "id": "24b0d7c7992efeb8",
-        "type": "split",
-        "children": [
-          {
-            "id": "66470b864a8998b4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6e7243fc01ce9591",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks"
-                }
-              },
-              {
-                "id": "141199b639df0083",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-going-out",
-                  "title": "Outgoing links"
-                }
-              },
-              {
-                "id": "a8ef505604fb8a06",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-tags",
-                  "title": "Tags"
-                }
-              },
-              {
-                "id": "ce17c8b9b7859d78",
-                "type": "leaf",
-                "state": {
-                  "type": "all-properties",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-archive",
-                  "title": "All properties"
-                }
-              },
-              {
-                "id": "a6b5b8edf500bf56",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "followCursor": false,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "Outline"
-                }
-              },
-              {
-                "id": "de6a86453c8d7340",
-                "type": "leaf",
-                "state": {
-                  "type": "git-view",
-                  "state": {},
-                  "icon": "git-pull-request",
-                  "title": "Source Control"
-                }
-              },
-              {
-                "id": "a36b6d05ee1b2a56",
-                "type": "leaf",
-                "state": {
-                  "type": "review-queue-list-view",
-                  "state": {},
-                  "icon": "SpacedRepIcon",
-                  "title": "Notes Review Queue"
-                }
-              },
-              {
-                "id": "8a5931d6f064f30f",
-                "type": "leaf",
-                "state": {
-                  "type": "review-queue-list-view",
-                  "state": {},
-                  "icon": "SpacedRepIcon",
-                  "title": "Notes Review Queue"
-                }
-              }
-            ],
-            "currentTab": 5
-          }
-        ],
-        "direction": "horizontal",
-        "width": 300
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "switcher:Open quick switcher": false,
-          "graph:Open graph view": false,
-          "canvas:Create new canvas": false,
-          "daily-notes:Open today's daily note": false,
-          "templates:Insert template": false,
-          "command-palette:Open command palette": false,
-          "bases:Create new base": false,
-          "obsidian-spaced-repetition:Review flashcards": false,
-          "copilot:Open Copilot Chat": false,
-          "obsidian-git:Open Git source control": false,
-          "workspaces:Manage workspace layouts": false
-        }
-      },
-      "active": "de6a86453c8d7340",
-      "mtime": "2026-04-30T14:40:31-03:00"
-    },
-    "SQL": {
-      "main": {
-        "id": "a32c038ae14af042",
-        "type": "split",
-        "children": [
-          {
-            "id": "bfc81509df3e603f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cbc883f63b959b74",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Vista gráfica"
-                }
-              },
-              {
-                "id": "e4f254bba9b82788",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Bases de datos/MYSQL/SQL.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "SQL"
-                }
-              },
-              {
-                "id": "4b2479033d2436c9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Bases de datos/DQL.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "DQL"
-                }
-              },
-              {
-                "id": "1e9b1d0b28847470",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Bases de datos/Funciones SQL.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Funciones SQL"
-                }
-              },
-              {
-                "id": "1670129150617ecd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Bases de datos/Expresiones en el DQL.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Expresiones en el DQL"
-                }
-              }
-            ],
-            "currentTab": 3
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "3c249583d78e2043",
-        "type": "split",
-        "children": [
-          {
-            "id": "3df43d8fd4f6e203",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e6cb30cc3a8bab2a",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical",
-                    "autoReveal": false
-                  },
-                  "icon": "lucide-folder-closed",
-                  "title": "Explorador de archivos"
-                }
-              },
-              {
-                "id": "ead76d4a3e37dbb2",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "Mathema",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  },
-                  "icon": "lucide-search",
-                  "title": "Search"
-                }
-              },
-              {
-                "id": "e47b132ed53964ed",
+                "id": "75513c894206c90f",
                 "type": "leaf",
                 "state": {
                   "type": "bookmarks",
@@ -932,15 +98,15 @@
         "collapsed": true
       },
       "right": {
-        "id": "24b0d7c7992efeb8",
+        "id": "86a3efcee573a90c",
         "type": "split",
         "children": [
           {
-            "id": "66470b864a8998b4",
+            "id": "d52ff4fbad42edb1",
             "type": "tabs",
             "children": [
               {
-                "id": "6e7243fc01ce9591",
+                "id": "5dbb1427c5be1f1e",
                 "type": "leaf",
                 "state": {
                   "type": "backlink",
@@ -958,7 +124,7 @@
                 }
               },
               {
-                "id": "141199b639df0083",
+                "id": "fef6522111399739",
                 "type": "leaf",
                 "state": {
                   "type": "outgoing-link",
@@ -971,7 +137,7 @@
                 }
               },
               {
-                "id": "a8ef505604fb8a06",
+                "id": "211334cd777f1ac0",
                 "type": "leaf",
                 "state": {
                   "type": "tag",
@@ -986,7 +152,7 @@
                 }
               },
               {
-                "id": "ce17c8b9b7859d78",
+                "id": "00b67225c30938f3",
                 "type": "leaf",
                 "state": {
                   "type": "all-properties",
@@ -1000,7 +166,7 @@
                 }
               },
               {
-                "id": "a6b5b8edf500bf56",
+                "id": "5070150d76481823",
                 "type": "leaf",
                 "state": {
                   "type": "outline",
@@ -1014,27 +180,7 @@
                 }
               },
               {
-                "id": "de6a86453c8d7340",
-                "type": "leaf",
-                "state": {
-                  "type": "git-view",
-                  "state": {},
-                  "icon": "git-pull-request",
-                  "title": "Source Control"
-                }
-              },
-              {
-                "id": "a36b6d05ee1b2a56",
-                "type": "leaf",
-                "state": {
-                  "type": "review-queue-list-view",
-                  "state": {},
-                  "icon": "SpacedRepIcon",
-                  "title": "Cola de notas a revisar"
-                }
-              },
-              {
-                "id": "8a5931d6f064f30f",
+                "id": "5ea2f1ba3b31f5a4",
                 "type": "leaf",
                 "state": {
                   "type": "review-queue-list-view",
@@ -1044,7 +190,7 @@
                 }
               }
             ],
-            "currentTab": 6
+            "currentTab": 5
           }
         ],
         "direction": "horizontal",
@@ -1053,22 +199,22 @@
       },
       "left-ribbon": {
         "hiddenItems": {
-          "switcher:Abrir selector rápido": false,
-          "graph:Abrir vista gráfica": false,
-          "canvas:Crear nuevo lienzo": false,
-          "daily-notes:Abrir la nota de hoy": false,
-          "templates:Insertar plantilla": false,
-          "command-palette:Abrir paleta de comandos": false,
-          "workspaces:Gestionar disposiciones de espacio de trabajo": false,
-          "bases:Crear nueva base": false,
-          "obsidian-spaced-repetition:Revisar Tarjetas": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "bases:Create new base": false,
+          "obsidian-spaced-repetition:Review flashcards": false,
           "copilot:Open Copilot Chat": false,
           "obsidian-git:Open Git source control": false
         }
       },
-      "active": "a36b6d05ee1b2a56",
-      "mtime": "2026-06-01T15:19:17-03:00"
+      "active": "7b97a6175ba38de5",
+      "mtime": "2026-06-24T19:25:51+00:00"
     }
   },
-  "active": "SQL"
+  "active": "Estudio de Javascript"
 }

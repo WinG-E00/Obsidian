@@ -1,0 +1,1 @@
+La propiedad value es una propiedad del objeto [[HTMLInputElement]]

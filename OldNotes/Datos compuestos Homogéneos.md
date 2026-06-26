@@ -2,7 +2,7 @@ que son y cuales son?
 ;;
 Son Datos que contienen elementos del mismo tipo
 Lista de datos compuestos homogéneos
-* [[Array]]
+* [[../NewNotes/Javascript/Array]]
 * [[Vector]]
 * [[Matrices]]
 * [[string]]
