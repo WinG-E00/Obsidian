@@ -12,7 +12,10 @@ fun Saludar(hola: String) = hola + "OK";
 
 // Por lo que esto se puede escribir de dos formas
 fun sumar(numero1: Int) = numero1 + 15;
-fun sumar(numero1:Int):  = 
+
+//Un detalle es que a las funciones s
+fun sumar(numero1:Int): Int = numero1 + 15;
+
 ```
 
 
