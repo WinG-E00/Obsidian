@@ -3,8 +3,8 @@ Ademas son de una sola linea
 
 
 
-
-
-```Kotline
+```Kotlin
 fun NombreFuncion(): String = "OK"
 ```
+
+
