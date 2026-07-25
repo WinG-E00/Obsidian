@@ -7,7 +7,13 @@ fun NombreFuncion(): String = "OK"
 
 
 
+```Kotline
+
+```
+
 
 
 
 #Funcion 
+
+[[Funciones Kotline]]
