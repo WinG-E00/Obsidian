@@ -13,7 +13,7 @@ fun Saludar(hola: String) = hola + "OK";
 // Por lo que esto se puede escribir de dos formas
 fun sumar(numero1: Int) = numero1 + 15;
 
-//Un detalle es que a las funciones s
+//Un detalle es que a las funciones siempre hay que escribirle el tipo de dato que le entra
 fun sumar(numero1:Int): Int = numero1 + 15;
 
 ```
