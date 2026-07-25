@@ -6,8 +6,9 @@ fun NombreFuncion(): String = "OK"
 ```
 
 
-
-```Kotline
+Estas funciones son de tipado dinamico pero tambien pueden ser de tipado estatico
+```Kotlin
+fu
 
 ```
 
