@@ -10,5 +10,5 @@
   "connectOnStart": true,
   "autoHideStatusBar": true,
   "privacyMode": false,
-  "themeStyle": "default-new-dark"
+  "themeStyle": "catppuccin-macchiato"
 }
