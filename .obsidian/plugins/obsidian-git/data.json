@@ -1,10 +1,10 @@
 {
   "commitMessage": "vault backup: {{date}}",
-  "autoCommitMessage": "Auto commit",
+  "autoCommitMessage": "Auto commit Obsidian",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 1,
-  "autoPushInterval": 2,
+  "autoPushInterval": 3,
   "autoPullInterval": 3,
   "autoPullOnBoot": false,
   "autoCommitOnlyStaged": false,
