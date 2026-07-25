@@ -10,7 +10,9 @@ Las funciones de kotline tienen la capacidad de realizar una inferencia para ded
 ```Kotlin
 fun Saludar(hola: String) = hola + "OK";
 
+// Por lo que esto se puede escribir de dos formas
 fun sumar(numero1: Int) = numero1 + 15;
+fun sumar(numero1:Int):  = 
 ```
 
 
