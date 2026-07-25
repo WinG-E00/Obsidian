@@ -8,7 +8,7 @@ fun NombreFuncion(): String = "OK"
 
 Estas funciones son de tipado dinamico pero tambien pueden ser de tipado estatico
 ```Kotlin
-fu
+fun Saludar(hola: String) = "OK";
 
 ```
 
