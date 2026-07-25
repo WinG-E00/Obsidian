@@ -6,7 +6,7 @@ fun NombreFuncion(): String = "OK"
 ```
 
 
-Estas funciones son de tipado dinamico pero tambien pueden ser de tipado estatico
+Las funciones de kotline tienen la capacidad de realizar una inferencia para deducir el tipo de dato que tiene tu funcion y asi al compilar le dice al programa que tipo de dato tendra la funcion en base a el codigo que escribiste
 ```Kotlin
 fun Saludar(hola: String) = "OK";
 
