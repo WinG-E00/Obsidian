@@ -11,8 +11,7 @@ Se supone que para Tener exito a la hora de dejar algo primero tengo que hacerlo
 
 
 ## Hacerlo poco atractivo
-Hacer que meterme a las redes sociales sea el equivalente a sentir que estoy de
-
+Hacer que meterme a las redes sociales sea el equivalente a sentir que estoy desperdiciando mi tiempo.
 
 ## Hacerlo Dificil
 
@@ -21,6 +20,9 @@ En la computadora ya esta...
 En la vida real osea los celulares, Tengo que...
 Instalar bloqueadores en los celulares.
 Ponerlos en una caja aparte afuera de mi pieza.
+
+
+## 
 
 
 
