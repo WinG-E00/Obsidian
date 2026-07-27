@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "path:NewNotes/Kotline  ",
   "showTags": false,
   "showAttachments": false,
@@ -103,5 +103,5 @@
   "linkStrength": 1,
   "linkDistance": 204,
   "scale": 0.5635929180871331,
-  "close": true
+  "close": false
 }
