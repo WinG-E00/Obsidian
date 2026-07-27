@@ -23,7 +23,7 @@ fun useFoo() = listOf(
 De lo contrario si le defines unos valores default a la funcion si te deja usarla agregando un solo valor a la funcion, pero bueno tenes que usar los [[Named arguments]]
 ```kotlin
 //Funcion con valores default
-fun foo(name: String, number: Int, toUpperCase: Boolean) = 
+fun foo(name: String, number: Int = 42, toUpperCase: Boolean = fal) = 
 	(if(toUpperCase == true) name.uppercase() else name ) + " $number"
 	
 
