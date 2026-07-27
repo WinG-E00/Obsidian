@@ -213,7 +213,8 @@
         }
       },
       "active": "7b97a6175ba38de5",
-      "mtime": "2026-06-24T19:25:51+00:00"
+      "mtime": "2026-06-24T19:25:51+00:00",
+      "workspaces-plus:settings-v1": {}
     }
   },
   "active": "Estudio de Javascript"
