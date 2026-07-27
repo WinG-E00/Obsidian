@@ -1,4 +1,8 @@
 
+Imagina que tenes una funcion
+
+```kotlin
+
+```
 
 
-Default arguments
