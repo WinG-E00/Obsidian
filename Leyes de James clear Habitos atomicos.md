@@ -1,8 +1,11 @@
 
 
 # Leyes
-## º1 Hacerlo visible
+## º 1 Hacerlo visible
+## º 2 Hacerlo atractivo
+## º 3 Hacerlo facil
 
+## º 4 Hacerlo satisfactorio
 
 
 
