@@ -14,7 +14,8 @@ Se supone que para Tener exito a la hora de dejar algo primero tengo que hacerlo
 En la computadora ya esta...
 
 En la vida real osea los celulares, Tengo que...
-Instalar bloqueadores en los celualres
+Instalar bloqueadores en los celulares.
+Ponerlos en una caja aparte afuera de mi pieza.
 
 
 
