@@ -5,4 +5,8 @@
 ## 1 º Hacerlo Invisible
 
 
-## º Hacerlo Poco at
+## 2 º Hacerlo Poco atractivo
+
+## 3 º Hacerlo Dificil
+
+## 4 º Hacerlo insatisfactorio
