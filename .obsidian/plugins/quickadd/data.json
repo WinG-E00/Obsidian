@@ -57,7 +57,7 @@
       "id": "dc336039-652f-49e3-8e04-ecd9b8ae990e",
       "name": "Configurar texto",
       "type": "Macro",
-      "command": true,
+      "command": false,
       "runOnStartup": false,
       "macro": {
         "name": "Configurar texto",
@@ -77,7 +77,7 @@
       "id": "6250c914-a1b9-4c7c-9bf1-4436971792e4",
       "name": "Pegar texto rapido",
       "type": "Macro",
-      "command": true,
+      "command": false,
       "runOnStartup": false,
       "macro": {
         "name": "Pegar texto rapido",
