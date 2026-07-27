@@ -1,5 +1,5 @@
 {
-  "showVaultName": false,
+  "showVaultName": true,
   "showCurrentFileName": true,
   "showFolderName": true,
   "showConnectionTimer": true,
