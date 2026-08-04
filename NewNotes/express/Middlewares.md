@@ -1,1 +1,4 @@
 Los midlewares seran las funciones en las que vas a poder manejar la data que llega de las rutas, las rutas pueden usar metodos
+
+POST
+GET
