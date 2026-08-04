@@ -1,2 +1,2 @@
 ## Esto seria basicamente el nombre de el router en mi proyecto
-el router contiene rutas y midlqueres
+el router contiene rutas y cada ruta contiene mi
