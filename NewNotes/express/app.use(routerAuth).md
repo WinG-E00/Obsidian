@@ -3,3 +3,6 @@ el router contiene rutas y cada ruta contiene midleware los midlewares pueden es
 
 [[Middlewares]]
 
+
+Metodos de las rutas
+
