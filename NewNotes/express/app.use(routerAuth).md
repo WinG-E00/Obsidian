@@ -5,4 +5,8 @@ el router contiene rutas y cada ruta contiene midleware los midlewares pueden es
 
 
 Metodos de las rutas
-
+GET
+POST
+PUT
+PATCH
+DELETE
