@@ -5,7 +5,7 @@
   "tickingVolume": 0.048,
   "alarmVolume": 1,
   "timerToggleLocation": "Ribbon icon",
-  "widgetVisible": true,
+  "widgetVisible": false,
   "widgetAnchor": "Bottom right",
   "widgetXOffset": 20,
   "widgetYOffset": 40
