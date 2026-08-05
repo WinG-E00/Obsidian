@@ -1,9 +1,10 @@
 
 Esto es para crear
-```
-Para crear la base de datos
+```js
+//Para crear la base de datos
 use alumnos
 
+db.alumnos.insertOne({})
 
 
 ```
