@@ -12,3 +12,6 @@ Ejemplo de sistema
 | Elemento   | Es un sistema | Objetivo                   | Componentes relacionados            |
 | ---------- | ------------- | -------------------------- | ----------------------------------- |
 | Televeison | Si            | Reproducir imagen y sonido | Display, placa electronica, carcasa |
+
+Que objetivo busca alcanzar
+	Mostrar una imagen o un video  
