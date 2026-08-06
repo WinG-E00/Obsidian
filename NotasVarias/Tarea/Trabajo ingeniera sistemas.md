@@ -9,7 +9,10 @@ Ejemplo de sistema
 ## Television
 
 
-| Entrada    | Proceso | Salidas                    |                                     |
-| ---------- | ------- | -------------------------- | ----------------------------------- |
-| Televeison | Si      | Reproducir imagen y sonido | Display, placa electronica, carcasa |
+| Entrada                  | Proceso | Salidas | Retroalimentacion |
+| ------------------------ | ------- | ------- | ----------------- |
+| Television               |         |         |                   |
+| 1 0 1 0 1 0 1 1 0  10 01 |         |         |                   |
+
+
 
