@@ -9,6 +9,6 @@ Ejemplo de sistema
 ## Television
 
 
-| Elemento | Sistema | Objetivo | Componentes relacionados |
-| -------- | ------- | -------- | ------------------------ |
-|          |         |          |                          |
+| Elemento   | Es un sistema | Objetivo                   | Componentes relacionados            |
+| ---------- | ------------- | -------------------------- | ----------------------------------- |
+| Televeison | Si            | Reproducir imagen y sonido | Display, placa electronica, carcasa |
