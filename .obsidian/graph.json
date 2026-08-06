@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "Funcion",
+  "search": "path:\"OldNotes/Algoritmo y estructuras de datos\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -102,6 +102,6 @@
   "repelStrength": 9.4921875,
   "linkStrength": 1,
   "linkDistance": 204,
-  "scale": 0.008187188193573452,
+  "scale": 0.12386511922777375,
   "close": false
 }
