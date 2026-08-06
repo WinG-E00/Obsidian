@@ -1,6 +1,9 @@
 
-
-
 ## Tipos de operaciones Crud
+[[GET]]
 
-GET
+[[POST]]
+
+[[PUT]]
+
+[[DELETE]]
