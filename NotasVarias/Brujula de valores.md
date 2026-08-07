@@ -15,7 +15,7 @@ Este
 Secreto
 
 Oeste
-considero que puedo ganar la hackaton en octubre siempre  y cuando 
+considero que puedo ganar la hackaton en octubre siempre  y cuando sigua una rutina 
 
 
 
