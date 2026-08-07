@@ -1,5 +1,7 @@
 
 Norte
+«¡Cree en ti mismo! No en el mí que cree en ti, ni en el tú que cree en mí. ¡Cree en el tú... que cree en ti mismo!»
+Frase que mas 
 Creer en mi mismo
 
 Sur
