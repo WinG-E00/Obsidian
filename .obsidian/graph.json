@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "path:NewNotes/Kotlin  ",
   "showTags": false,
   "showAttachments": false,
