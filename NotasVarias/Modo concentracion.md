@@ -12,3 +12,5 @@ que deberia hacer para comenzar ese modo?
 
 ## Como entrar en el estado?
 Primero, si voy a escuchar musica solo tengo permitido escuchar la misma musica en loop...
+
+Necesito un ritual de iniciacion
