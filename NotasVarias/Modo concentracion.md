@@ -9,4 +9,6 @@ Y el otro problema es que no tengo ese modo...
 que deberia hacer para comenzar ese modo?
 
 
-Primero 
+
+## Como entrar en el estado?
+Primero, si voy a escuchar musica solo tengo permitido escuchar la misma musica en loop...
