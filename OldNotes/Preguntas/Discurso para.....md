@@ -1,12 +1,10 @@
 
-Holas xd
-sam
 Solo en caso de que estes mal
 Queria dedicarte unas palabras
 
 
 La verdad no se muy bien que paso pero tampoco puedo decir que lo que te dije no pudo haberte afectado... 
-y bueno si es asi losiento.
+y bueno si es asi lo siento.
 
 
 Y despues
