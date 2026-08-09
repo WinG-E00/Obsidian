@@ -14,3 +14,5 @@ Si
 y estas dispuesto a sacrificar todo eso?....
 
 Pues no siento que pierda tanto, solo pierdo 2 meses
+
+Pero weno quiero aprender kotlin por que siento que quizas sea util
