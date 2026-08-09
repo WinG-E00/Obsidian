@@ -1,4 +1,3 @@
-
 Lo unico capas de cambiar la realidad del presente
 es el pasado
 
