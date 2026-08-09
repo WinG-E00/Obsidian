@@ -7,4 +7,5 @@ Es el presente
 
 Entonces...
 Debes avanzar
-Hacia una version del futuro, 
+Con cada accion, hacia el destino que quieres llegar, cada decision tomada, cada accion hecha, 
+el problema es que no puedes determinar el futuro por medio de tu imaginacion, pero si puedes saber que
