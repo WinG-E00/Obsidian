@@ -7,4 +7,4 @@ Es el presente
 Entonces...
 Debes avanzar
 Con cada accion, hacia el destino que quieres llegar, cada decision tomada, cada accion hecha, 
-el problema es que no puedes determinar el futuro por medio de tu imaginacion, pero si puedes saber que quieres conseguir, entonces, solo debes hacer lo que pienses que te llevara a ese camino, y si no lo hace, entonces solo cambias el rumbo, pero debes hacerlo, con la mayor de tus fuerzas, no debes perder la fuerza.
+el problema es que no puedes determinar el futuro por medio de tu imaginacion, pero si puedes saber que quieres conseguir, entonces, solo debes hacer lo que pienses que te llevara a ese camino, y si no lo hace, entonces solo cambias el rumbo, pero debes hacerlo, con la mayor de tus fuerzas, no debes perder la determinacion.

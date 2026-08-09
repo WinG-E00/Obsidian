@@ -1,7 +1,7 @@
 Metodos y propiedades de array
 ;;
 ## Propiedades
-![[../../Pasted image 20260626051918.png]]
+![[../../OldNotes/Pasted image 20260626051918.png]]
 
 ## Metodos
 
