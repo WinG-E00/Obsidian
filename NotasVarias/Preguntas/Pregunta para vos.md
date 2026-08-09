@@ -13,4 +13,4 @@ Si
 
 y estas dispuesto a sacrificar todo eso?....
 
-Pues no siento que pierda tanto,
+Pues no siento que pierda tanto, solo pierdo 2 meses
