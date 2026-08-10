@@ -15,4 +15,4 @@ backlog
 
 
 
-we finish the project in the plataform of git, that means that now we have to merge the code with the main branch and Deploy the application, we already check the bugs and we have to 
+we finish the project in the plataform of git, that means that now we have to merge the code with the main branch and Deploy the application, we already check the bugs and we have to use the backlog cloud disk but 
