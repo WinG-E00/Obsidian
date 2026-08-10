@@ -1,1 +1,0 @@
-Como funcionan las comparaciones
