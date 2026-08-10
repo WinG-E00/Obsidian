@@ -15,4 +15,7 @@ Necesito un ritual de iniciacion
 
 Recito lo siguiente
 
-Estoy preparado ppa
+Estoy preparado para que el mundo me importe un carajo
+Estoy preparado para enfocarme solo en esto
+Estoy preparado para ser el mejor.
+
