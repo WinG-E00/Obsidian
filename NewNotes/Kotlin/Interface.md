@@ -15,10 +15,6 @@ fun procesarSaludo(entrada: Saludar){
 		is despedida -> { println(entrada.despedida + 1) }
 	}
 }
-
-
-
-
 ```
 
 
