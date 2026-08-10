@@ -14,3 +14,7 @@ gastonencinawj_db_user
 imtSwnGUPNREycgA
 
 mongodb+srv://gastonencinawj_db_user:imtSwnGUPNREycgA@cluster0.rx0sszk.mongodb.net/
+
+
+gastonencinawj_db_user
+PYcyLrDwZwJycbqv
