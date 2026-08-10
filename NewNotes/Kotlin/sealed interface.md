@@ -22,7 +22,10 @@ fun obtenerMensaje(entrada: Saludar): String = when (entrada) {
 
 
 
-fun queComidaEs 
+fun queComidaEs(entrada: Comida): String = when (entrada) {
+	is 
+	
+}
 
 
 ```
