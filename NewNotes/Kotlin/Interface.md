@@ -5,9 +5,13 @@
 
 
 interface Saludar
-
 class Hola(val saludo: String): Saludar
-class Adios()
+class Adios(val despedida: Int): Saludar
+
+
+fun p
+
+
 
 
 ```
