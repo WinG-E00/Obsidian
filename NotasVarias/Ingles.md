@@ -12,3 +12,7 @@ Deploy
 Bug
 Blocker
 backlog
+
+
+
+we finish the project in the plataform of git, that means that no
