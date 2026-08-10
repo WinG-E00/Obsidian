@@ -7,7 +7,7 @@ Para que sirve?
 
 class pepito
 
-fun pepito.salta() {
+fun pepito.salta() {2
 	println("Pepito salto")
 }
 
