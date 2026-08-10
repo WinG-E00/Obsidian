@@ -19,4 +19,9 @@ fun procesarSaludo(entrada: Saludar){
 
 Úsala si las clases hijas necesitan **compartir código o estado** (por ejemplo, si querés que todas tengan una propiedad común con una implementación por defecto o un constructor base).
 
-Interface tiene una forma de hacer que cu
+Interface tiene una forma de hacer que al crear un class Hola(val saludo: String) : Saludar
+solo se pueda hacer dentro de un mismo archivo y que los demas no puedan cambiar esas clases....
+esto es con 
+[[Sealead]]
+
+
