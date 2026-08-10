@@ -9,7 +9,7 @@ class Hola(val saludo: String): Saludar
 class Adios(val despedida: Int): Saludar
 
 
-fun p
+fun procesarSaludo(saludo: Saludar): Saludar = 
 
 
 
