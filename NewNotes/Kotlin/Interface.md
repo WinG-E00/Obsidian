@@ -22,6 +22,6 @@ fun procesarSaludo(entrada: Saludar){
 Interface tiene una forma de hacer que al crear un class Hola(val saludo: String) : Saludar
 solo se pueda hacer dentro de un mismo archivo y que los demas no puedan cambiar esas clases....
 esto es con 
-[[Sealead]]
+[[sealed interface]]
 
 
