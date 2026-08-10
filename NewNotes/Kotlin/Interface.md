@@ -11,7 +11,8 @@ class Adios(val despedida: Int): Saludar
 
 fun procesarSaludo(entrada: Saludar): Saludar = {
 	when (entrada) {
-		is saludo -> printIn("Saluda")
+		is saludo -> printIn("Saluda ${entrada}")
+		is despedida -> println(entrada + 1)
 	}
 }
 
