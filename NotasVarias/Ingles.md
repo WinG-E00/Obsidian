@@ -15,4 +15,4 @@ backlog
 
 
 
-we finish the project in the plataform of git, that means that no
+we finish the project in the plataform of git, that means that now we have to merge the code with the main branch and Deploy the application, we already check the bugs 
