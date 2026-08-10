@@ -6,4 +6,9 @@ Pensamos que un error en el codigo es mas peligroso para un proyecto de software
 
 
 
-Write sentences wi
+Write sentences with the following words
+Merge 
+Deploy
+Bug
+Blocker
+backlog
