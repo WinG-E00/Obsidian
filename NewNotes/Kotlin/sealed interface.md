@@ -23,9 +23,15 @@ fun obtenerMensaje(entrada: Saludar): String = when (entrada) {
 
 
 fun queComidaEs(entrada: Comida): String = when (entrada) {
-	is 
-	
+	is comidaChina -> { println("Pero mira nada mas chaval") }
+	is comidaEspanlo -> { println("Te dije que pararas de comer") }	
 }
+
+
+
+
+
+
 
 
 ```
