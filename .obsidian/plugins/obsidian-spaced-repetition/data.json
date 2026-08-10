@@ -19,7 +19,7 @@
       "#flashcard_examen_tlp",
       ""
     ],
-    "convertFoldersToDecks": false,
+    "convertFoldersToDecks": true,
     "burySiblingCards": false,
     "randomizeCardOrder": null,
     "flashcardCardOrder": "DueFirstRandom",
