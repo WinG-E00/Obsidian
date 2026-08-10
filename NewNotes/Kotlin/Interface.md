@@ -9,7 +9,11 @@ class Hola(val saludo: String): Saludar
 class Adios(val despedida: Int): Saludar
 
 
-fun procesarSaludo(saludo: Saludar): Saludar = 
+fun procesarSaludo(entrada: Saludar): Saludar = {
+	when (entrada) {
+		is saludo -> printIn("Saluda")
+	}
+}
 
 
 
