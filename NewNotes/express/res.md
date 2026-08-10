@@ -1,6 +1,6 @@
 
 Cuales son los metodos y propiedades que tiene res
 
+```js
 
-res.send()
-res.json()
+``` 
