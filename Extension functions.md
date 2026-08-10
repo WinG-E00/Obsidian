@@ -7,7 +7,9 @@ Para que sirve?
 
 class pepito
 
-fun pepito.salta(): String 
+fun pepito.salta(): String {
+	return println("Pepito salto")
+}
 
 
 
