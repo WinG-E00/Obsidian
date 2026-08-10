@@ -1,7 +1,14 @@
 Para que sirve?
 ;;
 ```kotlin
-//Imagina que te
+//Imagina que tenes una clase con un monton de metodos pero te falta uno
+//Entonces lo queres agregar, para eso sirven las extension functions
+// se usa asi
+
+class pepito
+
+fun pepito.salta(): String 
+
 
 
 ```
