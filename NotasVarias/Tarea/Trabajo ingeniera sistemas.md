@@ -48,7 +48,7 @@ Interna/Automática:** Sensores térmicos que ajustan el ventilador/disipación,
 
 ## Actividad 2
 
-
+![[../../Pasted image 20260811102435.png]]
 
 
 
