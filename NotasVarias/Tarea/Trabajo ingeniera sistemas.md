@@ -36,3 +36,15 @@ Transformación de los impulsos eléctricos en patrones de luz (píxeles) y onda
 
 Salidas: imagen proyectada en la pantalla, ondas de audio.
 
+**¿Qué retroalimentación recibe?:**
+
+Directa: La respuesta visual/auditiva del usuario al presionar el control (si el volumen está muy alto o el canal no le gusta, envía un nuevo comando para ajustar o cambiar).
+
+Interna/Automática:** Sensores térmicos que ajustan el ventilador/disipación, o sensores de luz ambiental que autorregulan el brillo de la pantalla.
+
+
+
+
+
+## Actividad 2
+
