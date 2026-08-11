@@ -55,6 +55,7 @@ Interna/Automática:** Sensores térmicos que ajustan el ventilador/disipación,
 ## Actividad 3
 
 a. 
-	1.
-	2.
-	3.
+	1. Personas
+	2. Internet
+	3. Luz
+
