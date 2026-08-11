@@ -26,3 +26,9 @@ Objetivo: Mostrar imagen o reproduccir un video con sonido
 
 Componentes principales: display, placa, fuente, parlantes, carcasa
 
+Entradas: Bluetooth, wifi, cables
+
+Proceso principal: - Captura de la señal de entrada por el sintonizador o puerto correspondiente.
+- Decodificación y procesamiento de los datos de audio y video mediante el procesador central.
+    
+- Transformación de los impulsos eléctricos en patrones de luz (píxeles) y ondas sonoras.
