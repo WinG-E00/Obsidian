@@ -6,7 +6,7 @@ Ejemplo de sistema
 
 
 
-## Televisi
+## Television
 
 
 | Entrada                  | Proceso                                                                    | Salidas          | Retroalimentacion                                                                                                                                                                                                                                                                                                                                                                                               |
