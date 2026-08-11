@@ -62,4 +62,15 @@ a.
 b 
 Con personas intercambia entrada y salida de datos, con el control por ejemplo se le dice a la television que accion hacer para luego mostrar un video o algo mas
 Con el internet, intercambia datos
-Con la luz la pantalla emite una luz para luego darle una forma mediante millon
+Con la luz la pantalla emite una luz para luego darle una forma mediante miles de pixeles
+
+
+
+## Actividad 4
+
+1. ¿Qué ocurriría si uno de sus componentes principales dejara de funcionar?
+	La funcionalidad principal de
+
+2. ¿El sistema podría alcanzar igualmente su objetivo? ¿Por qué?
+
+3. ¿Qué cambio del entorno podría afectar su funcionamiento?
