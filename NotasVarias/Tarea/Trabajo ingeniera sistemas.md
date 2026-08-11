@@ -19,4 +19,10 @@ Ejemplo de sistema
 
 
 
-Activida
+Actividad 1
+Sistema elegido: television
+
+Objetivo: Mostrar imagen o reproduccir un video con sonido
+
+Componentes principales: display, placa, fuente, parlantes, carcasa
+
