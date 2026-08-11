@@ -1,4 +1,4 @@
-Ejemplo de sistema
+[[]]Ejemplo de sistema
 • ¿Qué objetivo busca alcanzar?
 • ¿Qué componentes lo forman?
 • ¿Cómo se relacionan esos componentes?
