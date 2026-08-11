@@ -76,4 +76,6 @@ Con la luz la pantalla emite una luz para luego darle una forma mediante miles d
 	SI el display se rompe ya no emite video, si da sonido pero deja de funcionar para la funcionalidad principal para la que fue creado.
 
 3. ¿Qué cambio del entorno podría afectar su funcionamiento?
-	Si hay una luz excesiva en el entorno, 
+	Si hay una luz excesiva en el entorno, como por ejemplo una linterna con muchos lumenes apuntando a ella se sobrepondria a la imagen de la tv y ya no se podria ver.
+
+
