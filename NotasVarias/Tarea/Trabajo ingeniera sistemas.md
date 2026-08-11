@@ -59,3 +59,5 @@ a.
 	2. Internet
 	3. Luz
 
+b Con personas intercambia entrada y salida de datos, con el control por ejemplo se le dice a la television que accion hacer para luego mostrar un video o algo mas
+
