@@ -69,8 +69,10 @@ Con la luz la pantalla emite una luz para luego darle una forma mediante miles d
 ## Actividad 4
 
 1. ¿Qué ocurriría si uno de sus componentes principales dejara de funcionar?
-	La funcionalidad principal de
+	El sistema deja de funcionar,
+	
 
 2. ¿El sistema podría alcanzar igualmente su objetivo? ¿Por qué?
+3. 
 
 3. ¿Qué cambio del entorno podría afectar su funcionamiento?
