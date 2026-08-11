@@ -73,6 +73,7 @@ Con la luz la pantalla emite una luz para luego darle una forma mediante miles d
 	
 
 2. ¿El sistema podría alcanzar igualmente su objetivo? ¿Por qué?
-3. 
+	SI el display se rompe ya no emite video, si da sonido pero deja de funcionar para la funcionalidad principal para la que fue creado.
 
 3. ¿Qué cambio del entorno podría afectar su funcionamiento?
+	Si hay una luz excesiva en el entorno, 
