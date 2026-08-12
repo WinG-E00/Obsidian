@@ -8,6 +8,9 @@ ArrayList
 
 Sobre [[Conjuntos]]
 
+Sobre [[rangos]]
+
+Sobre vistas de mapas
 
 
 ```kotlin
