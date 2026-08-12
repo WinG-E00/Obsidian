@@ -24,7 +24,7 @@ val misCanciones = listOf(
 )
 
 
-class ListaSega(val segaDisk: "String")
+class ListaSega(val segaDisk: "String", val listaCanciones: )
 
 
 
