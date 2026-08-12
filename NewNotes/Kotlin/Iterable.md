@@ -9,4 +9,4 @@ public interface Iterable<out T> {
 ```
 
 
-Para hacer que una [[Tipos ]]
+Para hacer que una [[Tipos de clases de kotlin]] clase de kotlin se pueda iterar primero tenemos que 
