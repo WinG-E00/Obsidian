@@ -1,3 +1,9 @@
 Cuales son las tipos de clases en kotlin?
 ;;
-## Clases normales
+
+clases normales
+data class
+sealed classs
+enum class
+abstract class
+open clases 
