@@ -16,6 +16,10 @@ Al momento de decirle a una clase que se va a poder iterar
 data class Cancion(val nombre: String, val artista: String, val duracionEnMinutos: Double)
 
 
+// creacion de lista de canciones manualmente
+val miscanci
+
+
 
 val cancionsitas: List<String> = listOf("Megaman", "Green hill", "megaman 2")
 
