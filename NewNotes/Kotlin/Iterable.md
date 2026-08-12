@@ -24,7 +24,10 @@ val misCanciones = listOf(
 )
 
 
-class ListaSega(val segaDisk: "String", val cancion: Cancion)
+class ListaSega(val segaDisk: "String", val cancion: Cancion): Iterable<Cancion>{
+	
+	
+}
 
 
 
