@@ -3,6 +3,10 @@
 En kotlin podes iterar sobre los siguientes elementos
 [[Colecciones Kotline]]
 List 
+MutableList
+ArrayList
+
+Sobre [[Conjuntos]]
 
 
 
