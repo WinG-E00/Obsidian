@@ -11,3 +11,6 @@ public interface Iterable<out T> {
 
 Para hacer que una [[Tipos de clases de kotlin]] clase de kotlin se pueda iterar primero tenemos que formar a la clase para que pueda iterar sobre un tipo de dato que le indiquemos adentro de el interfaz Iterable<Tipodedatoquedevuelve>
 
+Al mommento de decirle a una clase que se va a poder iterar
+
+``` ko
