@@ -17,11 +17,11 @@ data class Cancion(val nombre: String, val artista: String, val duracionEnMinuto
 
 
 // creacion de lista de canciones manualmente
-val miscanci
+val misCanciones = listOf(
+	Cancion("Sonic Hero",)
+)
 
 
-
-val cancionsitas: List<String> = listOf("Megaman", "Green hill", "megaman 2")
 
 class canciones(val nombre: String, val listaCanciones: List<cancionsitas> )
 ```
