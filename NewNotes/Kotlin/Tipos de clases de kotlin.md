@@ -6,4 +6,6 @@ data class
 sealed classs
 enum class
 abstract class
-open clases 
+open clases
+value class
+clases anid
