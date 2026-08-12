@@ -4,6 +4,7 @@ Primero hay que indentificar que tipo de restriccion necesita para eso hay que i
 
 Funcion Racional
 Funcion logaritmica
+Funciones escalares
 
 
 
