@@ -14,6 +14,10 @@ Sobre vistas de mapas, en si no se puede iterar sobre solo los mapas pero si sob
 
 Arreglos
 
+[[Clases personalizadas]]
+
+
+
 ```kotlin
 public interface Iterable<out T> {
 	public operator fun iterator(): Iterator<T>
