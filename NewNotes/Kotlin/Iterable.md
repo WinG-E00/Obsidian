@@ -18,8 +18,12 @@ data class Cancion(val nombre: String, val artista: String, val duracionEnMinuto
 
 // creacion de lista de canciones manualmente
 val misCanciones = listOf(
-	Cancion("Sonic Hero",)
+	Cancion("Sonic Hero", "Sega", 5.4),
+	Cancion("Sonic Mania", "Sega", 3.5),
+	Cancion("Green Hill", "Sega", 2.5)
 )
+
+
 
 
 
