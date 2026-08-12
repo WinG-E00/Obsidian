@@ -24,10 +24,10 @@ val misCanciones = listOf(
 )
 
 
+class ListaSega(val segaDisk: "String")
 
 
 
-class canciones(val nombre: String, val listaCanciones: List<cancionsitas> )
 ```
 
 
