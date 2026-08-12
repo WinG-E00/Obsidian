@@ -13,7 +13,7 @@ Para hacer que una [[Tipos de clases de kotlin]] clase de kotlin se pueda iterar
 
 Al momento de decirle a una clase que se va a poder iterar
 ```kotlin
-class canciones(val nombre: String, )
+class canciones(val nombre: String, val listaCanciones: )
 ```
 
 
