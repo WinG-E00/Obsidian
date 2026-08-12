@@ -4,5 +4,9 @@ La interface de Iterable por dentro solo una funcion que se puede editar para qu
 
 ```kotlin
 public interface Iterable<out T> {
+	public operator fun iterator(): Iterator<T>
 }
 ```
+
+
+Para hacer que una [[Tipos ]]
