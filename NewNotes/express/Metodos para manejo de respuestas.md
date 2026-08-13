@@ -1,5 +1,7 @@
-.send(body)
-.json
-.sendFile(path)
-.render(view)
-.redirect()
+[[.send(body)]]
+[[.json]]
+[[.sendFile(path)]]
+[[.render(view)]]
+[[.redirect()]]
+[[.status()]]
+

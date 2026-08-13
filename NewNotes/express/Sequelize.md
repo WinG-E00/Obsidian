@@ -27,3 +27,6 @@ Cuales son los metodos de sequelize
 
 
 [[Metodos para manejo de respuestas]]
+
+
+[[Metodos para parametors y datos de la peticion]]
