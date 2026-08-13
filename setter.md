@@ -14,6 +14,6 @@ class PropertyExample() {
 
 
 /*
-de esta manera cuando alguien cree una clase con esas propiedades entonces yo podre 
+de esta manera cuando alguien cree una clase con esas propiedades entonces el lenguaje automaticamente pasara la informacion que le hayas asing
 */ 
 ```
