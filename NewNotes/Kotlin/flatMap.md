@@ -4,3 +4,5 @@ flat map es un metodo de la interfaz de [[Iterable]] y bueno basicamente funcion
 
 
 ```
+
+pertenece a la libreria [[stdlib]] de kotlin
