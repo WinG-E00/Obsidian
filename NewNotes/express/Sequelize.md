@@ -19,5 +19,9 @@ Cuales son los metodos de sequelize
 #### Metodos de configuracion de servidor
 
 .set
+.get
+
+
+Metodos de inicializacion del servidor
 
 
