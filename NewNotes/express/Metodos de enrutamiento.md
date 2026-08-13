@@ -2,12 +2,12 @@
 Metodos 
 
 
-app.post()
+[[app.post()]]
 
-app.get()
+[[app.get()]]
 
-app.put
+[[app.put]]
 
-app.patch
+[[app.patch]]
 
-app.delete
+[[app.delete]]
