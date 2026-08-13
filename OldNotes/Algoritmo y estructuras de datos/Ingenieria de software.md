@@ -35,3 +35,6 @@ El sistema educativo
 
 ## Punto 3
 
+Elementos del sistema solar
+
+Planetas, Estrella, sal
