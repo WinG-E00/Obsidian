@@ -1,4 +1,4 @@
-Basicamente un metodo de enrutamiento en express 
+Basicamente un metodo de enrutamiento en express es una puerta por la que 
 
 Metodos 
 
