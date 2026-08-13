@@ -1,0 +1,4 @@
+[[.post]]
+[[.put]]
+[[.delete]]
+[[.all]]
