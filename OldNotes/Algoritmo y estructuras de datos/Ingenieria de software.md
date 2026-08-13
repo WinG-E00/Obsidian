@@ -86,4 +86,10 @@ El objetivo común de la computadora es procesar datos de manera rápida, eficie
 
 ## Rigidos
 El sistema solar:
-El sistema solar es un sistema solar por que tiene un comportamiento determinado, no incluye ningun factor humano o psicologico, es un sistema que simplemente es por si solo, es un sistema que solo esta ahi para cumplir una fun
+El sistema solar es un sistema solar por que tiene un comportamiento determinado, no incluye ningun factor humano o psicologico, es un sistema que simplemente es por si solo, es un sistema que solo esta ahi para cumplir una funcion, respetar las leyes fisicas.
+
+
+## Flexibles
+
+**El sistema educativo**
+El sistema educativo es un sistema flexible ya que este necesita adaptarse en todo momento y en to
