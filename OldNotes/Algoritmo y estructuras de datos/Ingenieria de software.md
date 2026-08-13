@@ -40,3 +40,6 @@ Planetas, Estrella, satelites, Sol
 
 
 Interacciones
+Interaccion mediante la gravedad,
+Interaccion radioactiva
+Interaccion Electromagnetica
