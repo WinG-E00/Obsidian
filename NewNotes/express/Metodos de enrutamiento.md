@@ -1,3 +1,4 @@
+Basicamente un metodo de enrutamiento en express 
 
 Metodos 
 
@@ -11,3 +12,4 @@ Metodos
 [[app.patch]]
 
 [[app.delete]]
+
