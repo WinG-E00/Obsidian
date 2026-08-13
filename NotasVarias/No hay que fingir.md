@@ -1,1 +1,1 @@
-La verdad es que creo que una persona no tiene que cambiar su forma de ser por estrar frente a otras personas puesto que esto le cambiar su forma de ser por querer 
+La verdad es que creo que una persona no tiene que cambiar su forma de ser por estrar frente a otras personas puesto que esto le cambiar su forma de ser por querer ser parte de algo, pero igualmente no esta mal querer ser parte de algo y algunas veces si no eres parte de ese algo de la misma manera que lo hacen los demas algunas personas pueden recharte y la verdad para el sistema limbico humano eso es dol
