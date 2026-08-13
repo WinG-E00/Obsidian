@@ -5,7 +5,7 @@ http://localhost:3000/test
 
 De esta manera los metodos serian la intencion de las visitas y bueno dentro de casi cualquier tipo de sistema como este existen las operaciones [[CRUD]]
 
-en el caso de expre
+en el caso de express esta seria la manera dejar en claro la intencion de cada visita
 
 Metodos
 [[app.post()]]
