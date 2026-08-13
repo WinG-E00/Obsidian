@@ -10,17 +10,22 @@ val juan: Persona{
 	nombre: "Juan"
 }
 
-val juan: Persona = {
+val Albertito: Persona = {
 	nombre: "Alberto"
 }
 
-{
+val Ignacio: Persona = {
 	nombre: "Ignacio"
 }
 
-{
+val Pedrito: Persona = {
 	nombre: "pedro"
 
+
+y queres meterlos a una lista
+
+
+val Personas: List 
 
 * /
 
