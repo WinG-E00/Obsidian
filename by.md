@@ -1,1 +1,1 @@
-[[]]
+el by a la hora de crear [[propiedades kotlin]]
