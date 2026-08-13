@@ -13,6 +13,7 @@ class PropertyExample() {
 }
 
 
-/*de esta manera cuando alguien *7
- 
+/*
+de esta manera cuando alguien cree una clase con esas propiedades entonces yo podre 
+*/ 
 ```
