@@ -25,5 +25,5 @@ esto es con
 [[sealed interface]]
 
 
-Tambien existen
+
 
