@@ -25,7 +25,11 @@ val Pedrito: Persona = {
 y queres meterlos a una lista
 
 
-val Personas: List 
+val Personas: ListOf<Persona> = [juan, Albertito, Ignacio, Pedrito]
+y luego queres hacer un 
+
+Personas
+
 
 * /
 
