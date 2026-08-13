@@ -18,4 +18,3 @@ Preparar una diapositiva por cada sistema elegido para subiir al classroom y exp
 ## Desarrollo
 
 Sistema solar
-Sistema cardinal
