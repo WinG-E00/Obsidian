@@ -113,3 +113,10 @@ el sistema solar puede parecer un sistema cerrado por que siempre responde a el 
 El Sistema Solar se organiza de manera concéntrica alrededor del **Sol**, una estrella central que mantiene a todo el conjunto unido por gravedad y que abarca desde los cuatro planetas rocosos interiores (**Mercurio, Venus, la Tierra y Marte**) separados por el cinturón de asteroides, pasando por los cuatro planetas gigantes gaseosos y helados (**Júpiter, Saturno, Urano y Neptuno**), hasta culminar en los confines exteriores formados por el Cinturón de Kuiper y la Nube de Oort, donde habitan planetas enanos y cometas que marcan la frontera con el espacio interestelar.
 
 
+#### Computadora
+
+Las computadoras existen dentro de redes y sistemas tecnológicos mayores Las computadoras son sistemas abiertos que intercambian datos con el entorno Las funciones de una computadora dependen de su estructura de hardware y software
+
+#### Sistema educativo
+
+Los sistemas educativos existen dentro de estructuras sociales y políticas mayores Los sistemas educativos son sistemas abiertos que interactúan con la comunidad Las funciones de un sistema educativo dependen de su estructura institucional y curricular
