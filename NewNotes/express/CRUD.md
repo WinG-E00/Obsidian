@@ -1,6 +1,6 @@
 
 ## Tipos de operaciones Crud
-[[GET]]
+[[../../get()]]
 
 [[POST]]
 

@@ -8,7 +8,7 @@ Los midlewares pueden acceder a los datos que se manejan en las rutas, estos son
 
 
 [[POST]]
-[[GET]]
+[[../../get()]]
 [[PATCH]]
 [[PUT]]
 
