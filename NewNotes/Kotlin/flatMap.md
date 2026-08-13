@@ -31,7 +31,7 @@ y luego queres hacer un
 Personas.filter(persona::nombre)
 
 esto te va a dar algo como
-
+[[juan], [Alberto], [Ignacio], ]
 
 * /
 
