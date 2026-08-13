@@ -1,0 +1,1 @@
+La verdad es que creo que una persona no tiene que cambiar su forma de ser por estrar frente a otras personas puesto que esto le cambiar su forma de ser por querer 
