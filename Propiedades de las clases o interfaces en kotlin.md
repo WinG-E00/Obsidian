@@ -4,7 +4,6 @@ Bueno basicamente para declarar una propiedad en una clase o interfaz en kotlin 
 [[val]]: para las propiedades de solo lectura
 [[var]]: para las propiedades modificables
 
-Las propiedades de clases en kotlin se les puede meter algo llamado 
-
+Las propiedades de clases en kotlin se les puede meter algo llamado [[setter]]  o configurador dicho en español
 [[NewNotes/Kotlin/Tipos de clases de kotlin|Tipos de clases de kotlin]]
 [[NewNotes/Kotlin/Interface|Interface]]
