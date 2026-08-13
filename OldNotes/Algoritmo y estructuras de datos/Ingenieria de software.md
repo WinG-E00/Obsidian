@@ -47,3 +47,14 @@ Interaccion Electromagnetica
 
 **Objetivo en comun** 
 Mantener la **estabilidad dinámica, el equilibrio gravitacional y la conservación del momento angular** a lo largo del tiempo, operando como un macro-organizado conjunto de materia en constante intercambio de energía bajo las leyes de la termodinámica y la mecánica celeste.
+
+
+
+## Sistema educativo
+
+Elementos del sistema educativo
+Instituciones, Material didactico, Profesores, Alumnos
+
+
+
+
