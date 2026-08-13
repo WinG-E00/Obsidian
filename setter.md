@@ -14,6 +14,9 @@ class PropertyExample() {
 
 
 /*
-de esta manera cuando alguien cree una clase con esas propiedades entonces el lenguaje automaticamente pasara la informacion que le hayas asing
+de esta manera cuando alguien cree una clase con esas propiedades entonces el lenguaje automaticamente pasara la informacion que le hayas asingando a esa propiedad y entonces hara la funcion que le hayas puesto dentro del set
 */ 
 ```
+
+
+21
