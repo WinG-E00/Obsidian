@@ -72,6 +72,11 @@ Los elementos de una computadora son
 Procesador, placa madre, memorias ram, fuente de poder, teclado, mouse, pantalla, Software(Sistema operativo)
 
 
+**Interacciones**
+Las interacciones físicas dentro de una computadora ocurren mediante la transmisión de señales eléctricas a alta velocidad a través de los buses de datos en la placa madre, conectando eléctricamente a la CPU con la memoria RAM, los dispositivos de almacenamiento y el resto del hardware. A nivel lógico y operativo, el software de sistema y los controladores (drivers) median entre los programas de aplicación y los componentes físicos, traduciendo instrucciones de código en estímulos eléctricos para que el hardware ejecute operaciones aritméticas y lógicas. Asimismo, se produce una interacción bidireccional y continua entre el usuario y el sistema a través de los periféricos de entrada y salida, donde los comandos introducidos actúan como estímulos que el sistema procesa para devolver una respuesta tangible en pantalla o mediante otros dispositivos.
+
+
+
 
 
 
