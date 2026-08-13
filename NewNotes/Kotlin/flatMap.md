@@ -37,6 +37,9 @@ como esto puede difiultar muchas cosas a la hora de programar podes hacer esto
 
 Personas.filter(Persona::nombre).flatMap(Persona::nombre)
 
+
+
+
 * /
 
 ```
