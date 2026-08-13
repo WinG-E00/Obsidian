@@ -89,7 +89,7 @@ El sistema solar:
 El sistema solar es un sistema solar por que tiene un comportamiento determinado, no incluye ningun factor humano o psicologico, es un sistema que simplemente es por si solo, es un sistema que solo esta ahi para cumplir una funcion, respetar las leyes fisicas.
 
 **Computadora**
-Una computadora es un sistema rigido ya que este responde a un comportamiento determinado, y aunque puede hacer una muy alta variedad de cosas, no puede hacer nada mas 
+Una computadora es un sistema rigido ya que este responde a un comportamiento determinado, y aunque puede hacer una muy alta variedad de cosas mediante el software, 
 ## Flexibles
 
 **El sistema educativo**
