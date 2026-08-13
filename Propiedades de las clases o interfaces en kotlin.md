@@ -4,6 +4,7 @@ Bueno basicamente para declarar una propiedad en una clase o interfaz en kotlin 
 [[val]]: para las propiedades de solo lectura
 [[var]]: para las propiedades modificables
 
+Las propiedades de clases en kotlin se les puede meter algo llamado 
 
 [[NewNotes/Kotlin/Tipos de clases de kotlin|Tipos de clases de kotlin]]
 [[NewNotes/Kotlin/Interface|Interface]]
