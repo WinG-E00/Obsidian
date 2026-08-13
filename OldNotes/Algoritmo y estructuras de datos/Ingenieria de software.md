@@ -82,4 +82,4 @@ El objetivo común de la computadora es procesar datos de manera rápida, eficie
 
 
 
-4
+4.
