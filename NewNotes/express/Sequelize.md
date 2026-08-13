@@ -1,3 +1,6 @@
 
-Metodos de app
-use()
+## Metodos de app
+
+
+
+##### Metodos de enrutamiento
