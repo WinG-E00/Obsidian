@@ -56,8 +56,7 @@ Mantener la **estabilidad dinámica, el equilibrio gravitacional y la conservaci
 Instituciones, Material didactico, Profesores, Alumnos, Directivos
 
 **Interacciones**
-Los profesores Interactuan con los alumnnos enseñandoles, a su ves los profesores usan las instituciones para enseñar a los alumnos en ellas, y los directivos organizan como se distribuye y el contenido, y los alumnos 
-
+Los profesores Interactuan con los alumnnos enseñandoles, a su ves los profesores usan las instituciones para enseñar a los alumnos en ellas, y los directivos organizan como se distribuye y organizan los espacios y normas de este, y los profesores formulan el material didactivo
 
 
 
