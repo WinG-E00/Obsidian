@@ -1,4 +1,4 @@
-[[]]Que es un setter y como se usa?
+Que es un setter y como se usa?
 ;;
 
 Bueno basicamente un setter es un configurador que hace basicamente que cuando alguien asigna un valor a la propiedad de esa interfaz o clase haga que se realize cualquier tipo de funcion que hayas configurado
