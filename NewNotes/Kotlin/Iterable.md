@@ -35,4 +35,4 @@ class ListaSega(val segaDisk: "String", val cancion: Cancion): Iterable<Cancion>
 
 
 
-Metodos de Iterable
+[[Metodos de Iterable]]
