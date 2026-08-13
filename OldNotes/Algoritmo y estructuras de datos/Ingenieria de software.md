@@ -69,7 +69,8 @@ El objetivo en comun de todas las partes de este sistema es mantener y formar el
 
 **Elementos**
 Los elementos de una computadora son
-Procesador, placa madre, memorias ram, fuente de poder, teclado, mouse, pantalla, 
+Procesador, placa madre, memorias ram, fuente de poder, teclado, mouse, pantalla, Software(Sistema operativo)
+
 
 
 
