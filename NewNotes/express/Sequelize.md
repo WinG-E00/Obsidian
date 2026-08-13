@@ -14,6 +14,10 @@ Cuales son los metodos de sequelize
 
 #### Metodos de modularizacion
 
+.Router()
 
+#### Metodos de configuracion de servidor
+
+.set
 
 
