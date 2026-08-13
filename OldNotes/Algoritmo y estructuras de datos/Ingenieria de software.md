@@ -92,4 +92,4 @@ El sistema solar es un sistema solar por que tiene un comportamiento determinado
 ## Flexibles
 
 **El sistema educativo**
-El sistema educativo es un sistema flexible ya que este necesita adaptarse en todo momento y en to
+El sistema educativo es un sistema flexible ya que este necesita adaptarse en todo momento para poder ofrecer informacion util para la sociedad
