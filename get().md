@@ -1,0 +1,1 @@
+get es parecido a [[setter]] [[Set]] y bueno esta incluido en la manera en la que se crean las propieadedes de una [[NewNotes/Kotlin/Tipos de clases de kotlin|Tipos de clases de kotlin]] 
