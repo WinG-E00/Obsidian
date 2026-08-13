@@ -59,6 +59,16 @@ Instituciones, Material didactico, Profesores, Alumnos, Directivos
 Los profesores Interactuan con los alumnnos enseñandoles, a su ves los profesores usan las instituciones para enseñar a los alumnos en ellas, y los directivos organizan como se distribuye y organizan los espacios y normas de este, y los profesores formulan el material didactivo.
 
 **Objectivo en comun**
-El objetivo en comun 
+El objetivo en comun de todas las partes de este sistema es mantener y formar el conocimiento que la humanidad fue creando a lo largo de todos los años
+
+
+
+
+## Computadora como sistema
+
+
+**Elementos**
+Los elementos de una computadora son
+
 
 
