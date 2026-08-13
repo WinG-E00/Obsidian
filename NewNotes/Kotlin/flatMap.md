@@ -2,7 +2,15 @@ flat map es un metodo de la interfaz de [[Iterable]] y bueno basicamente funcion
 
 ```kotlin
 
-// En kotlin vos podes usar esto
+/* En kotlin vos podes usar esto sobre una lista que contenga muchas propiedades que vengan de muchos objetos 
+
+Si tenes varios objetos con una propiedad en comun
+
+{}
+
+
+
+* /
 
 ```
 
