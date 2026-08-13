@@ -77,7 +77,9 @@ Las interacciones físicas dentro de una computadora ocurren mediante la transmi
 
 
 **Objetivo en comun**
+El objetivo común de la computadora es procesar datos de manera rápida, eficiente y precisa para transformarlos en información útil, respondiendo directamente al propósito de diseño para el cual fue construida por el ser humano.
 
 
 
 
+4
