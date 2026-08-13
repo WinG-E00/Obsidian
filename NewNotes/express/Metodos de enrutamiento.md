@@ -1,9 +1,13 @@
 
 Metodos 
-[[.post]]
 
 
-[[.put]]
-[[.delete]]
-[[.all]]
+app.post()
 
+app.get()
+
+app.put
+
+app.patch
+
+app.delete
