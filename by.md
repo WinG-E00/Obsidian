@@ -9,3 +9,5 @@ val clase1(val datoqueentra: () -> ) {
 
 
 ```
+
+entonces se supone que lo que hace asignar este 
