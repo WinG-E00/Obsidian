@@ -6,6 +6,6 @@ Componentes principales de map
 [[map.entries]]
 
 
-metodos de los mao
+[[metodos de los maps]]
 
 
