@@ -28,7 +28,7 @@ y queres meterlos a una lista
 val Personas: ListOf<Persona> = [juan, Albertito, Ignacio, Pedrito]
 y luego queres hacer un 
 
-Personas
+Personas.filter()
 
 
 * /
