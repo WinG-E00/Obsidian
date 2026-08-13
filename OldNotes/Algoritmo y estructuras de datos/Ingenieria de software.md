@@ -37,4 +37,4 @@ El sistema educativo
 
 Elementos del sistema solar
 
-Planetas, Estrella, sal
+Planetas, Estrella, satelites, Sol
