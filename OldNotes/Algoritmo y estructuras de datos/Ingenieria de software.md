@@ -83,3 +83,7 @@ El objetivo común de la computadora es procesar datos de manera rápida, eficie
 
 
 4.
+
+## Rigidos
+El sistema solar:
+El sistema solar es un sistema solar por que 
