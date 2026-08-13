@@ -34,6 +34,7 @@ El sistema educativo
 
 ## Punto 3
 
+# Sistema solar
 **Elementos del sistema solar**
 Planetas, Estrella, satelites, Sol, 
 
@@ -51,12 +52,10 @@ Mantener la **estabilidad dinámica, el equilibrio gravitacional y la conservaci
 
 ## Sistema educativo
 
-Elementos del sistema educativo
+**Elementos del sistema educativo**
 Instituciones, Material didactico, Profesores, Alumnos
 
+**Interacciones**
 
 
 
-## Punto 3
-
-Elementos o componentes
