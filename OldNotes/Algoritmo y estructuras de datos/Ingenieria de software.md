@@ -26,3 +26,6 @@ Computadora
 El Sistema Solar es el conjunto de cuerpos que giran alrededor del Sol. Está conformado por planetas, satélites, asteroides, cometas.
 
 ![[../../Pasted image 20260813092932.png]]
+
+
+El sistema educativo
