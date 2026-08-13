@@ -72,3 +72,5 @@ Los elementos de una computadora son
 Procesador, placa madre, memorias ram, fuente de poder, teclado, mouse, pantalla, 
 
 
+
+
