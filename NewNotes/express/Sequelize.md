@@ -4,7 +4,7 @@ Cuales son los metodos de sequelize
 
 
 
-##### Metodos de enrutamiento
+##### [[Metodos de enrutamiento]]
 
 [[.post]]
 [[.put]]
@@ -12,16 +12,18 @@ Cuales son los metodos de sequelize
 [[.all]]
 
 
-#### Metodos de modularizacion
+#### [[Metodos de modularizacion]]
 
 .Router()
 
-#### Metodos de configuracion de servidor
+#### [[Metodos de configuracion de servidor]]
 
 .set
 .get
 
 
-Metodos de inicializacion del servidor
+#### [[Metodos de inicializacion del servidor]]
 
 
+
+[[Metodos para manejo de respuestas]]
