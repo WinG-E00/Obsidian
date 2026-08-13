@@ -31,7 +31,11 @@ y luego queres hacer un
 Personas.filter(persona::nombre)
 
 esto te va a dar algo como
-[[juan], [Alberto], [Ignacio], ]
+[[juan], [Alberto], [Ignacio], [pedro]]
+
+como esto puede difiultar muchas cosas a la hora de programar podes hacer esto
+
+Personas.filter(Persona::nombre).flatMap(Persona::nombre)
 
 * /
 
