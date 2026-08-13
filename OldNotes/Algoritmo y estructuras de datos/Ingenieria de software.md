@@ -35,11 +35,15 @@ El sistema educativo
 
 ## Punto 3
 
-Elementos del sistema solar
-Planetas, Estrella, satelites, Sol
+**Elementos del sistema solar**
+Planetas, Estrella, satelites, Sol, 
 
 
-Interacciones
+**Interacciones**
 Interaccion mediante la gravedad,
 Interaccion radioactiva
 Interaccion Electromagnetica
+
+
+**Objetivo en comun** 
+Mantener la **estabilidad dinámica, el equilibrio gravitacional y la conservación del momento angular** a lo largo del tiempo, operando como un macro-organizado conjunto de materia en constante intercambio de energía bajo las leyes de la termodinámica y la mecánica celeste.
