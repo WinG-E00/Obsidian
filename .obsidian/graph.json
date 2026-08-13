@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:NewNotes/Kotlin/s",
+  "search": "path:NewNotes/Kotlin/Exten",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -102,6 +102,6 @@
   "repelStrength": 9.4921875,
   "linkStrength": 1,
   "linkDistance": 204,
-  "scale": 0.715403934035191,
+  "scale": 0.5980737703890555,
   "close": false
 }
