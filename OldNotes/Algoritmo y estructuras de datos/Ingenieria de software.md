@@ -17,6 +17,7 @@ Preparar una diapositiva por cada sistema elegido para subiir al classroom y exp
 
 ## Desarrollo
 
+## Punto 1
 Sistema solar
 Sistema educativo
 Computadora
@@ -24,8 +25,6 @@ Computadora
 
 ## Sistema solar
 El Sistema Solar es el conjunto de cuerpos que giran alrededor del Sol. Está conformado por planetas, satélites, asteroides, cometas.
-
-![[../../Pasted image 20260813092932.png]]
 
 
 El sistema educativo
@@ -58,3 +57,6 @@ Instituciones, Material didactico, Profesores, Alumnos
 
 
 
+## Punto 3
+
+Elementos o componentes
