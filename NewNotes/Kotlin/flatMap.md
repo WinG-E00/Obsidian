@@ -6,8 +6,20 @@ flat map es un metodo de la interfaz de [[Iterable]] y bueno basicamente funcion
 
 Si tenes varios objetos con una propiedad en comun
 
-{}
+val juan: Persona{
+	nombre: "Juan"
+}
 
+val juan: Persona = {
+	nombre: "Alberto"
+}
+
+{
+	nombre: "Ignacio"
+}
+
+{
+	nombre: "pedro"
 
 
 * /
