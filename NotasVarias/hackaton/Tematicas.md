@@ -18,7 +18,7 @@ Evaluan las ideas....
 
 Habilidades de habla...
 
-Pero3
+Pero
 
 
 
