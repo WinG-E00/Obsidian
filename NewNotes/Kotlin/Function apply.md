@@ -6,7 +6,10 @@ Explicacion
 ```kotlin
 
 
+// En esta parte se le indica que la funcion puede aceptar cualquier tipo de parametro
+fun <T> 
+
 // 
-fun >
+fun <T> T.myApply
 
 ```
