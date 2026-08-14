@@ -28,3 +28,9 @@ Que es el req, el req basicamente es la informacion que trae consigo cualquier p
   }
 }
 ``` 
+
+
+Lo bueno que tiene esto es que basicamente el req al comportarse como un objeto podemos acceder a sus propiedades mediante el punto entonces puedes acceder a cualquier propiedad de el req de esta manera dentro de tu controlador
+
+
+req.body.prec
