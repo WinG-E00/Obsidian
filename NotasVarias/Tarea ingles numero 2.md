@@ -49,5 +49,33 @@ Write True or False for each statement based on the text.
 4. Product owners always understand complex technical words. False
 5. Explaining problems clearly helps build trust with business managers. True
 6. GitHub is a tool used by developers for pull requests. True
-7. Developers only communicate using written text, never speaking. ______
-8. Good communication can improve the final design of the software. ______
+7. Developers only communicate using written text, never speaking. False
+8. Good communication can improve the final design of the software. True
+
+
+
+
+
+
+Match the technical term on the left with its definition on the right.
+______
+
+______
+
+1. Client ______
+2. Database ______
+3. Pull request ______
+4. Feature ______
+• A) A system that stores and organizes data.
+• B) A short daily meeting to discuss progress.
+• C) A group of workers that uses flexible and fast methods.
+• D) A specific function or part of a software program.
+• E) An error or mistake in a computer program.
+• F) A person or company that pays for a service or product.
+• G) Text inside the code to explain how it works.
+• H) A way to submit code changes for review on tools like GitHub.
+
+| 1. Agile team      |     |
+| ------------------ | --- |
+| 1. Stand-up ______ |     |
+| 1. Code comment    |     |
