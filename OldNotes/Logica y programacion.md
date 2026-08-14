@@ -1,7 +1,7 @@
 Cuales son los objetos de logica y progrmacion?
 ;;
 [[PROCEDURE]]
-[[FUNCTION]]
+[[../NewNotes/Kotlin/Function apply]]
 [[TRIGGER]]
 [[PACKAGE]]
 <!--SR:!2026-05-07,1,190-->
