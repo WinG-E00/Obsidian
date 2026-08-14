@@ -17,3 +17,6 @@ When a developer communicates clearly the team finishes takss faster
 A) To talk to product owners
 B) To help other developers maintain the software
 C) To replace tools like Slack
+
+
+The main purpose of technical documentation is 
