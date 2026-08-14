@@ -15,7 +15,7 @@ fun <K, V> buildMutableMap(build: HashMap<K, V>.() -> Unit): Map<K, V> {
 
 
 
-fun <K,V
+fun <K,V> nombreDeLaFuncion
 
 ```
 
