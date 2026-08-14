@@ -18,7 +18,9 @@ Evaluan las ideas....
 
 Habilidades de habla...
 
-3
+Pero
+
+
 
 
 vender idea......
