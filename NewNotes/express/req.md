@@ -38,3 +38,5 @@ Lo bueno que tiene esto es que basicamente el req al comportarse como un objeto 
 
 req.body.precio y esto te mostrara el precio de el json que mandaste en la visita....
 
+
+
