@@ -7,3 +7,8 @@ Cuales son los metodos y propiedades que tiene res
 
 
 ``` 
+
+
+## Metodos del objeto res
+res.send
+res.
