@@ -22,7 +22,8 @@ C) To replace tools like Slack
 The main purpose of technical documentation is help other developers to maintain the softeware
 
 4. Why is tracking errors difficult without clear documentation?
-
-A) Because code comments are too long
 B) Because fixing bugs becomes harder
-C) Because clients do not like text
+
+5. Who are the non-technical people mentioned in the text?
+A) Software engineers
+B) Product owners and clients
