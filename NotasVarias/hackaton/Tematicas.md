@@ -8,3 +8,15 @@ misma rama
 
 
 La propuesta de valor....
+
+
+Una problematica
+
+Nosotros buscamos la solucion a esa problematica y tiene que ser innovadora
+
+Evaluan las ideas....
+
+Habilidades de habla...
+
+
+
