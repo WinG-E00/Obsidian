@@ -8,6 +8,8 @@ De esta manera los metodos serian la intencion de las visitas y bueno dentro de 
 en el caso de express esta seria la manera dejar en claro la intencion de cada visita
 
 Metodos
+
+
 [[app.post()]]
 
 [[app.get()]]
