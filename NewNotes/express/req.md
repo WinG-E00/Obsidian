@@ -40,3 +40,6 @@ req.body.precio y esto te mostrara el precio de el json que mandaste en la visit
 
 
 
+## [[Metodos de req]]
+
+
