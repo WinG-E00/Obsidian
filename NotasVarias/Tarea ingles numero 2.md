@@ -11,3 +11,9 @@ A) The project goals become confusing
 B) The team finishes tasks faster
 C) The database stops working
 
+When a developer communicates clearly the team finishes takss faster
+
+3. What is the main purpose of technical documentation?
+A) To talk to product owners
+B) To help other developers maintain the software
+C) To replace tools like Slack
