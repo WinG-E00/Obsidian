@@ -69,3 +69,7 @@ Write True or False for each statement based on the text.
 | Database ______     | A) A system that stores and organizes data.                      |
 | Pull request ______ | H) A way to submit code changes for review on tools like GitHub. |
 | Feature ______      | D) A specific function or part of a software program.            |
+
+
+
+El primer parrafo dice basicamente que la comunicacion efectiva es muy importar
