@@ -37,3 +37,8 @@ B) Slack
 
 
 
+8. What is a benefit of polite messages on collaboration tools?
+B) They create a positive environment
+
+
+
