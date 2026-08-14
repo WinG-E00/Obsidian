@@ -47,7 +47,7 @@ Write True or False for each statement based on the text.
 2. Daily stand-up meetings happen once a week in agile teams.False
 3. Code comments help other team members understand the software. True
 4. Product owners always understand complex technical words. False
-5. Explaining problems clearly helps build trust with business managers. 
-6. GitHub is a tool used by developers for pull requests. ______
+5. Explaining problems clearly helps build trust with business managers. True
+6. GitHub is a tool used by developers for pull requests. True
 7. Developers only communicate using written text, never speaking. ______
 8. Good communication can improve the final design of the software. ______
