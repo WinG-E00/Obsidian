@@ -19,4 +19,4 @@ B) To help other developers maintain the software
 C) To replace tools like Slack
 
 
-The main purpose of technical documentation is 
+The main purpose of technical documentation is help other developers to maintain the softeware
