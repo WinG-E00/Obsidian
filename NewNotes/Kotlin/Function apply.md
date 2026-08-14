@@ -10,6 +10,9 @@ Explicacion
 fun <T> 
 
 // 
-fun <T> T.myApply
+fun <T> T.myApply(f:
 
 ```
+
+
+[[Extension functions]]
