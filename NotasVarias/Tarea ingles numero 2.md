@@ -25,5 +25,15 @@ The main purpose of technical documentation is help other developers to maintain
 B) Because fixing bugs becomes harder
 
 5. Who are the non-technical people mentioned in the text?
-A) Software engineers
 B) Product owners and clients
+
+
+How should developers explain complex problems to clients?
+A) Using simple words
+
+
+7. Which platforms do developers use for quick chat messages?
+B) Slack
+
+
+
