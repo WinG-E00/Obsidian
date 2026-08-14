@@ -1,5 +1,8 @@
 Que es el req, el req basicamente es la informacion que trae consigo cualquier peticion [[CRUD]]
 
+
+Y bueno esta son las propiedades del req
+#### Propiedades del req
 ```javascript
 // Esta seria la estructura de cualquier peticion req
 {
