@@ -10,28 +10,28 @@ Cuales son los metodos y propiedades que tiene res
 
 
 ## Propiedades principales de res
-res.locals
-res.headersSent
-res.app
-res.req
+[[res.locals]]
+[[res.headersSent]]
+[[res.app]]
+[[res.req]]
 
 
 
 ## Metodos del objeto res
-res.send
-res.json
-res.end
-res.sendStatus
+r[[es.send]]
+[[res.json]]
+[[res.end]]
+[[res.sendStatus]]
 
-res.status()
-res.set()
-res.get
-res.type
+[[res.status()]]
+[[res.set()]]
+[[res.get]]
+[[res.type]]
 
-res.sendFile()
-res.download
-res.redirect
+[[res.sendFile()]]
+[[res.download]]
+[[res.redirect]]
 
-res.cookie()
-res.clearCookie()
-res.render()
+[[res.cookie()]]
+[[res.clearCookie()]]
+[[res.render()]]
