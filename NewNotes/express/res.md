@@ -19,3 +19,11 @@ res.status()
 res.set()
 res.get
 res.type
+
+res.sendFile()
+res.download
+res.redirect
+
+res.cookie()
+res.clearCookie()
+res.render()
