@@ -9,6 +9,14 @@ Cuales son los metodos y propiedades que tiene res
 ``` 
 
 
+## Propiedades principales de res
+res.locals
+res.headersSent
+res.app
+res.req
+
+
+
 ## Metodos del objeto res
 res.send
 res.json
