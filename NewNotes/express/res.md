@@ -11,4 +11,11 @@ Cuales son los metodos y propiedades que tiene res
 
 ## Metodos del objeto res
 res.send
-res.
+res.json
+res.end
+res.sendStatus
+
+res.status()
+res.set()
+res.get
+res.type
