@@ -30,6 +30,10 @@ El Sistema Solar es el conjunto de cuerpos que giran alrededor del Sol. Está co
 El sistema educativo
 
 
+## Punto 2
+
+![[../../Pasted image 20260818095039.png]]
+
 
 
 ## Punto 3
