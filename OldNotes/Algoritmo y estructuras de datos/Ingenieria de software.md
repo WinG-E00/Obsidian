@@ -34,6 +34,7 @@ El sistema educativo
 
 ![[../../Pasted image 20260818095039.png]]
 
+![[../../Pasted image 20260818100315.png]]
 
 
 ## Punto 3
