@@ -36,7 +36,7 @@ El sistema educativo
 
 ![[../../Pasted image 20260818100315.png]]
 
-
+![[../../Pasted image 20260818100843.png]]
 ## Punto 3
 
 # Sistema solar
