@@ -12,7 +12,7 @@ de cada sistema.
 5- Identificar las 3 premisas de la TGS  
   
 Preparar una diapositiva por cada sistema elegido para subiir al classroom y exponer en clase1
-
+Entorno
 
 
 ## Desarrollo

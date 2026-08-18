@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "Sistemas",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -102,6 +102,6 @@
   "repelStrength": 9.51181850576078,
   "linkStrength": 1,
   "linkDistance": 227,
-  "scale": 0.05470513498227902,
-  "close": true
+  "scale": 0.271816890719004,
+  "close": false
 }
