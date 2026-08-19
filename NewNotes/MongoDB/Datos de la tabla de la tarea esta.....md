@@ -13,6 +13,10 @@ calificacion
 
 
 2000 documentos
-inicial 17mil
 
+
+
+inicial 17mil
 primario 67mil
+secundario 64mil
+superior 11mil
