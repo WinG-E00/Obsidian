@@ -1,6 +1,7 @@
 Que se supone que son las funciones genericas?
 ;;
 Una funcion s
+<!--SR:!2026-08-22,3,250-->
 
 
 

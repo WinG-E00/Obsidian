@@ -24,6 +24,7 @@ y bueno como ante ultimo le decimos a nuestra funcion principal que retornara de
 despues adentro simplemente eats ejecutando la funcion que creaste 
 */
 ```
+<!--SR:!2026-08-22,3,250-->
 
 
 [[Extension functions]]
