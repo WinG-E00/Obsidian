@@ -9,6 +9,5 @@
   "workspaces-plus",
   "morgen-tasks",
   "obsidian-tasks-plugin",
-  "obsidian-spaced-repetition",
-  "chatgpt-md"
+  "obsidian-spaced-repetition"
 ]
