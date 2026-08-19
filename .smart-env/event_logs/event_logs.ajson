@@ -27,3 +27,6 @@
 "event_logs:milestones:first_achieved": {"key":"milestones:first_achieved","ct":3,"first_at":1787152357240,"last_at":1787170168350,"class_name":"EventLog","event_sources":{"onboarding_events":3}},
 "event_logs:sources:import_completed": {"key":"sources:import_completed","ct":2,"first_at":1787152357248,"last_at":1787170167170,"class_name":"EventLog","event_sources":{"process_source_import_queue":2}},
 "event_logs:connections:opened": {"key":"connections:opened","ct":2,"first_at":1787170168350,"last_at":1787170168451,"class_name":"EventLog"},
+"event_logs:connections:opened": {"key":"connections:opened","ct":3,"first_at":1787170168350,"last_at":1787170672027,"class_name":"EventLog"},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1,"first_at":1787170671729,"last_at":1787170671729,"class_name":"EventLog","event_sources":{"active-leaf-change":1}},
+"event_logs:connections:get_results": {"key":"connections:get_results","ct":1,"first_at":1787170672027,"last_at":1787170672027,"class_name":"EventLog"},
