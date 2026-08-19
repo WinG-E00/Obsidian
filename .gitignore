@@ -1,3 +1,9 @@
 .obsidian/eotkdpsvr.json
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
