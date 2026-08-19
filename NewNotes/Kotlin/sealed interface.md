@@ -35,3 +35,4 @@ fun queComidaEs(entrada: Comida): String = when (entrada) {
 
 
 ```
+<!--SR:!2026-08-22,3,250-->

@@ -1,6 +1,7 @@
 que es?
 ;;
 Un hashMap es un tipo de clase que guarda cosas con clave valor
+<!--SR:!2026-08-22,3,250-->
 
 ```kotlin
 

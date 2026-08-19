@@ -16,6 +16,7 @@ fun procesarSaludo(entrada: Saludar){
 	}
 }
 ```
+<!--SR:!2026-08-22,3,250-->
 
 Úsala si las clases hijas necesitan **compartir código o estado** (por ejemplo, si querés que todas tengan una propiedad común con una implementación por defecto o un constructor base).
 

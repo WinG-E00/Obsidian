@@ -15,5 +15,6 @@ numeros.filter {aqui va a el objeto que seria una referencia, it > y la condicio
 val pares = numeros.filter { it % 2 == 0 } 
 // Resultado: [4-6]
 ```
+<!--SR:!2026-08-22,3,250-->
 
 filter pertenece a la libreria [[stdlib]]
