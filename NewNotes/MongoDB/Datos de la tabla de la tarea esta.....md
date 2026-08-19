@@ -10,3 +10,9 @@ Padron
 carreara
 materia
 calificacion
+
+
+2000 documentos
+inicial 17mil
+
+primario 67mil
