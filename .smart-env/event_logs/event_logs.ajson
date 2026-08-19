@@ -18,3 +18,5 @@
 "event_logs:embedding:completed": {"key":"embedding:completed","ct":1,"first_at":1787152357240,"last_at":1787152357240,"class_name":"EventLog","event_sources":{"process_embed_queue":1}},
 "event_logs:milestones:first_achieved": {"key":"milestones:first_achieved","ct":2,"first_at":1787152357240,"last_at":1787152357248,"class_name":"EventLog","event_sources":{"onboarding_events":2}},
 "event_logs:sources:import_completed": {"key":"sources:import_completed","ct":1,"first_at":1787152357248,"last_at":1787152357248,"class_name":"EventLog","event_sources":{"process_source_import_queue":1}},
+"event_logs:pro_plugins:viewed": {"key":"pro_plugins:viewed","ct":2,"first_at":1787152500779,"last_at":1787152504082,"class_name":"EventLog","event_sources":{"smart_plugins_list":2}},
+"event_logs:smart_plugins:browse": {"key":"smart_plugins:browse","ct":2,"first_at":1787152500777,"last_at":1787152504081,"class_name":"EventLog","event_sources":{"env_status_component":2}},
