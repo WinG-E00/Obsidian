@@ -7,7 +7,9 @@ const modelito1 = sequelize.define('modelito1', {
 	
 	id: {
 		type: DataType.INTEGER
-	}
+	},
+	
+	include: 
 
 })
 
