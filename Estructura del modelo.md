@@ -10,12 +10,14 @@ const NombreDelModelo = sequelize.define('NombreDelModelo,{
 		propiedad2: tipo2,
 	},
 	atributo2: {
+		atributoxd: elatributo,
+		atributoasdasd: elotroatributo
 	}
 	
 	
 	
 	
-})
+});
 
 
 ```
