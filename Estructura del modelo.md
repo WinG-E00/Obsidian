@@ -15,6 +15,11 @@ const NombreDelModelo = sequelize.define('NombreDelModelo,{
 	}
 	
 	
+	include: [
+		model: User,
+		
+	]
+	
 	
 	
 });
@@ -22,6 +27,7 @@ const NombreDelModelo = sequelize.define('NombreDelModelo,{
 
 ```
 
-
+Siento el unico parametro obligatorio el nombre del modelo que quiero incluir
+y como lo vamos a llamar co
 Como usar el [[include]] dentro del modelo?
 ;;
