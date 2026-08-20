@@ -15,6 +15,6 @@ Para poder usar el include hay que definirlo dentro de algun atributo del modelo
 	})
 
 ```
+___
+y que puede ir dentro del include?
 
-
-y que puede ir dentro del i
