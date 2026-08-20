@@ -6,7 +6,14 @@ Ejemplo de include trayendo atributos
 
 const modelo = sequelize.define('modelo', {
 
-	id: {}
+	id: {
+		type: DataTypes.INTEGER
+	},
+	
+	include: [{
+		model:
+	
+	}]
 
 })
 
