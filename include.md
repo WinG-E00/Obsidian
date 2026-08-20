@@ -1,1 +1,1 @@
-Como se usa el include dentro de cada metodo o 
+Como se usa el include dentro de cada [[Metodos de consulta]]
