@@ -9,7 +9,13 @@ const modelito1 = sequelize.define('modelito1', {
 		type: DataType.INTEGER
 	},
 	
-	include: 
+	include: [{
+		model: modelito2,
+		as: 'modelito2xd',
+		
+		attributes: [id, nombre],
+		
+	}]
 
 })
 
