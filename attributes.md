@@ -11,7 +11,12 @@ const modelo = sequelize.define('modelo', {
 	},
 	
 	include: [{
-		model:
+		model: modelo2,
+		as: 'elmodelo2',
+		
+		attributes: ['id', 'nombre']
+		
+		
 	
 	}]
 
