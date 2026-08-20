@@ -8,9 +8,13 @@ Para poder usar el include hay que definirlo dentro de algun atributo del modelo
 	const Modeloxd = sequelize.define('Modeloxd',{
 	
 		id: {
-			nosequevaaca: 
+			nosequevaaca: algovaaca,
+			include:[]
 		}
 	
 	})
 
 ```
+
+
+y que puede ir dentro del i
