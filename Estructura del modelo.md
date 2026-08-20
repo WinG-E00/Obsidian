@@ -32,7 +32,7 @@ y como lo vamos a llamar con el parametro as
 ___
 Despues podemos usar parametros opcionales dentro del include que traeran esos datos especificos dentro del include
 [[attributes]]
-[[where]]
+[[where en include]]
 [[required]]
 [[include(anidado)]]
 
