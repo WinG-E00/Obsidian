@@ -23,4 +23,5 @@ const NombreDelModelo = sequelize.define('NombreDelModelo,{
 ```
 
 
-Como usar el
+Como usar el [[include]] dentro del modelo?
+;;
