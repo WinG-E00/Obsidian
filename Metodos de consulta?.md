@@ -1,5 +1,8 @@
 Cuales son los metodos de consulta al [[NewNotes/Sequelize/Modelo|Modelo]] que tiene sequelize
 ;;
-findAll()
-findOne()
-F
+[[findAll()]]
+[[findOne()]]
+[[findByPk()]]
+[[findAndCountAll()]]
+[[finOrCreate()]]
+[[findOrBuild()]]
