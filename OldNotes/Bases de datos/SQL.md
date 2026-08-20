@@ -24,7 +24,7 @@ Elementos principales de las SQL
 [[Indices]]
 [[Relaciones]]
 [[Tipos de datos]]
-<!--SR:!2026-05-09,2,150-->
+<!--SR:!2026-08-20,1,130-->
 
 
 
