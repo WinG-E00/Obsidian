@@ -19,9 +19,10 @@
   "gitignore_exclusions": [
     ".obsidian/eotkdpsvr.json\r",
     ".obsidian/workspace.json\r",
-    ".obsidian/workspace-mobile.json\r"
+    ".obsidian/workspace-mobile.json\r",
+    ".smart-env"
   ],
-  "gitignore_exclusions_updated_at": 1787152303755,
+  "gitignore_exclusions_updated_at": 1787187374533,
   "language": "en",
   "re_import_wait_time": 13,
   "smart_chat_threads": {
