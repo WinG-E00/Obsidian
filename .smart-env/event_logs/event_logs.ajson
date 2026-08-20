@@ -28,3 +28,4 @@
 "event_logs:sources:imported": {"key":"sources:imported","ct":729,"first_at":1787152306811,"last_at":1787227691515,"class_name":"EventLog"},
 "event_logs:sources:import_progress": {"key":"sources:import_progress","ct":11,"first_at":1787152306812,"last_at":1787227691515,"class_name":"EventLog","event_sources":{"process_source_import_queue":11}},
 "event_logs:sources:import_completed": {"key":"sources:import_completed","ct":4,"first_at":1787152357248,"last_at":1787227691588,"class_name":"EventLog","event_sources":{"process_source_import_queue":4}},
+"event_logs:sources:created": {"key":"sources:created","ct":1,"first_at":1787228051997,"last_at":1787228051997,"class_name":"EventLog","event_sources":{"obsidian:vault.create":1}},
