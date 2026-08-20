@@ -21,3 +21,6 @@ const NombreDelModelo = sequelize.define('NombreDelModelo,{
 
 
 ```
+
+
+Como usar el
