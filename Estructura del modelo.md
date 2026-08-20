@@ -31,3 +31,5 @@ Siento el unico parametro obligatorio el nombre del modelo que quiero incluir
 y como lo vamos a llamar con el parametro as
 Como usar el [[include]] dentro del modelo?
 ;;
+
+
