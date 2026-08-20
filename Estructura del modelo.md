@@ -29,7 +29,11 @@ const NombreDelModelo = sequelize.define('NombreDelModelo,{
 
 Siento el unico parametro obligatorio el nombre del modelo que quiero incluir
 y como lo vamos a llamar con el parametro as
-Como usar el [[include]] dentro del modelo?
-;;
+___
+Despues podemos usar parametros opcionales dentro del include que traeran esos datos especificos dentro del include
+[[attributes]]
+[[where]]
+[[required]]
+[[include(anidado)]]
 
 
