@@ -17,7 +17,7 @@ const NombreDelModelo = sequelize.define('NombreDelModelo,{
 	
 	include: [
 		model: User,
-		
+		as: 'usuarios'
 	]
 	
 	
@@ -28,6 +28,6 @@ const NombreDelModelo = sequelize.define('NombreDelModelo,{
 ```
 
 Siento el unico parametro obligatorio el nombre del modelo que quiero incluir
-y como lo vamos a llamar co
+y como lo vamos a llamar con el parametro as
 Como usar el [[include]] dentro del modelo?
 ;;
