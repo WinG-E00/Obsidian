@@ -15,6 +15,10 @@ const modelito1 = sequelize.define('modelito1', {
 		
 		attributes: [id, nombre],
 		
+		where: {
+			estado: 'aprobado'
+		}
+		
 	}]
 
 })
