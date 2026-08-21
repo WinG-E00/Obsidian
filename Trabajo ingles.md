@@ -8,9 +8,12 @@ Read the dialogue and write T (True) or F (False).
 
 
 **Activity B: Match the Synonyms (Unir los sinónimos)**
+**Match the words with the same meaning.**
 
-
-
+1. Start |. A. Repair
+2. Check | B. Finished
+3. Fix | C. Begin
+4. Done | D. Look at / Inspect
 
 **Student A:** Hi expert developer Benjamin, do you want to work on the drugstore web application that we thought of before?
 
