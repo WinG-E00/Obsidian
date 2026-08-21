@@ -20,3 +20,6 @@ Version inefectiva
 Buenas tardes banco financiero galicia, queria hacer un pedido para financiar un proyecto
 
 **Organizacion financiera**
+Y cuando estas pidiendo joven emprendedor?
+
+Estoy pidiendo 100 millones de pesos...
