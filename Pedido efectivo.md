@@ -9,6 +9,6 @@
 
 Version inefectiva
 
-| Un emprendedor |     |
-| -------------- | --- |
-|                |     |
+| Un emprendedor | a una organizc |
+| -------------- | -------------- |
+|                |                |
