@@ -9,9 +9,11 @@
 
 Version inefectiva
 
-| Un emprendedor              | a una organizacion financiera                     |
-| --------------------------- | ------------------------------------------------- |
-| que pide?                   | Pide un 100 millones de pesos                     |
-| Para cuando?                | En un plazo de 1 año                              |
-| Condiciones de satisfaccion | Se producen 1000 unidades con el software yahecho |
-|                             |                                                   |
+| Un emprendedor              | a una organizacion financiera                   |
+| --------------------------- | ----------------------------------------------- |
+| que pide?                   | Pide un 100 millones de pesos                   |
+| Para cuando?                | En un plazo de 1 año                            |
+| Condiciones de satisfaccion | Se producen 1000 unidades con el software listo |
+| Compromiso                  | Realizar 83 unidades por mes                    |
+
+Emprendedor
