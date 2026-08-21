@@ -15,3 +15,5 @@ vamos a ver que podemos estudiar ahora para poder resolver la problema que nos p
 Primero para empezar
 
 El stack se divide en 
+
+Front ent
