@@ -23,3 +23,8 @@ Buenas tardes banco financiero galicia, queria hacer un pedido para financiar un
 Y cuando estas pidiendo joven emprendedor?
 
 Estoy pidiendo 100 millones de pesos...
+
+En un plazo de 1 año 
+y te lo voy a devolver cuando consiga ganancias a fin de año 
+
+por supuesto unicamente te devolvere el dinero cuando use todas mis ganancias en otros proyectos que tengo
