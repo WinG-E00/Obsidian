@@ -10,10 +10,10 @@ Read the dialogue and write T (True) or F (False).
 **Activity B: Match the Synonyms (Unir los sinónimos)**
 **Match the words with the same meaning.**
 
-1. Start |. A. Repair
-2. Check | B. Finished
-3. Fix | C. Begin
-4. Done | D. Look at / Inspect
+1. Start |. C. Begin
+2. Check | . Fix | A. Repair 
+3. Done | D. Look at / Inspect B. Finished
+3
 
 
 
