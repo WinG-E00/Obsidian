@@ -51,3 +51,5 @@ Como consecuencia, nuestro equipo necesita un presupuesto de 100 millones para d
 
 vendiendoze cada unidad a 50 mil por lo que daria como retorno de la inversion de un 900%
 
+**Emprendedor**
+El presupuesto necesita ser entregado el el plazo de un año dividiendose en los 12 meses del año por lo que el
