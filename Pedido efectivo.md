@@ -55,4 +55,5 @@ vendiendoze cada unidad a 50 mil por lo que daria como retorno de la inversion d
 El presupuesto necesita ser entregado el el plazo de un año dividiendose en los 12 meses del año por lo que la entrega anual seria de 8333333 mensuales, con la condicion de que por cada mes se produzcan 1666 unidades que seran entregadas a nuestros clientes pudiendo concretar la devolucion del dinero incluido los intereses en el mismo plazo del mes.
 
 
-Organizacion financiera
+**Organizacion financiera**
+Me interesa mucho su oferta, hablare con los ejecutivos de nuestra organizacion para que podamos concordar los detalles de su oferta
