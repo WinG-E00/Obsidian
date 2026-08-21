@@ -15,6 +15,10 @@ Read the dialogue and write T (True) or F (False).
 3. Fix | C. Begin
 4. Done | D. Look at / Inspect
 
+
+
+
+
 **Student A:** Hi expert developer Benjamin, do you want to work on the drugstore web application that we thought of before?
 
 **Student B:** Yes, of course. I'm going to work on the backend of the application. What do you want to work on?
