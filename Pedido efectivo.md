@@ -38,3 +38,9 @@ Tomatela de aca enfermito
 
 **Version Efectiva**
 
+**Emprendedor**
+Buenas tardes señor Francismo horacio Escalante, Vengo el dia de hoy a ofrecerle una propuesta de ganancias.
+
+**Organizacion financiera**
+Oh que tal Horacio rodrigez
+
