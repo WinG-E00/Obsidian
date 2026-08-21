@@ -20,11 +20,11 @@ Read the dialogue and write T (True) or F (False).
 Activity C: Fill in the Blanks (Completar los espacios)
 Complete the sentences with a word from the box.
 testing | agree | problem | fix
-1. We need to talk because we don't _______________ on the color of the
+1. We need to talk because we don't agree on the color of the
 application.
-2. My computer has a _______________ and it is very slow today.
-3. Don't worry, the developer can _______________ the code in ten minutes.
-4. The team is _______________ the app to find errors before the launch.
+2. My computer has a  problem  and it is very slow today.
+3. Don't worry, the developer can fix the code in ten minutes.
+4. The team is testing the app to find errors before the launch.
 
 
 
