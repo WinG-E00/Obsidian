@@ -44,3 +44,5 @@ Buenas tardes señor Francismo horacio Escalante, Vengo el dia de hoy a ofrecerl
 **Organizacion financiera**
 Oh que tal Horacio Rodrigez, que propuesta viene a ofrecerme?
 
+**Emprendedor**
+Como vera estoy desarrollando un prototipo para un modelo de negocio relacionado al sector ganadero, este consiste en suplir las necesidades primordiales tales como la gestion de agua en los campos
