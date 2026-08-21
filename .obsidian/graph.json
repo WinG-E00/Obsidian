@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": " ",
+  "search": " Temas",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -102,6 +102,6 @@
   "repelStrength": 9.51181850576078,
   "linkStrength": 1,
   "linkDistance": 227,
-  "scale": 0.05803619061553541,
+  "scale": 0.3400876915423124,
   "close": false
 }
