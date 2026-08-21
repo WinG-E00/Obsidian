@@ -1,7 +1,7 @@
 
 
-| Un emprendedor                | Organizacion financiera |
-| ----------------------------- | ----------------------- |
-| Financiacion para un proyecto |                         |
-| Para el año 2027              |                         |
-|                               |                         |
+| Quien pide     | a quien pide    |
+| -------------- | --------------- |
+| Que pide       | Accion concreta |
+| Condiciones    |                 |
+| tipo de pedido |                 |
