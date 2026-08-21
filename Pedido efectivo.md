@@ -42,5 +42,5 @@ Tomatela de aca enfermito
 Buenas tardes señor Francismo horacio Escalante, Vengo el dia de hoy a ofrecerle una propuesta de ganancias.
 
 **Organizacion financiera**
-Oh que tal Horacio rodrigez
+Oh que tal Horacio Rodrigez, que propuesta viene a ofrecerme?
 
