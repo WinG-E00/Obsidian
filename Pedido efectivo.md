@@ -5,3 +5,10 @@
 | Que pide       | Accion concreta |
 | Condiciones    |                 |
 | tipo de pedido |                 |
+
+
+Version inefectiva
+
+| Un emprendedor |     |
+| -------------- | --- |
+|                |     |
