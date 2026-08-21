@@ -13,7 +13,18 @@ Read the dialogue and write T (True) or F (False).
 1. Start |. C. Begin
 2. Check | . Fix | A. Repair 
 3. Done | D. Look at / Inspect B. Finished
-3
+
+
+
+**Part 2: Production Exercises (Producción)**
+Activity C: Fill in the Blanks (Completar los espacios)
+Complete the sentences with a word from the box.
+testing | agree | problem | fix
+1. We need to talk because we don't _______________ on the color of the
+application.
+2. My computer has a _______________ and it is very slow today.
+3. Don't worry, the developer can _______________ the code in ten minutes.
+4. The team is _______________ the app to find errors before the launch.
 
 
 
