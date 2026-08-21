@@ -1,2 +1,5 @@
 
 Educacion
+Finanzas
+seguridad
+agricultura
