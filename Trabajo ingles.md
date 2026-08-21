@@ -10,4 +10,6 @@ Activity B: Match the Synonyms (Unir los sinónimos)
 
 
 Studen A:Hi expert developer benjamin, you wanna work in the drugstore web aplication that we think before?
-Studen B:
+Studen B:Yes, off course, i gonna work in the back end of the application¿In what do you want to work?
+
+Studen A: I gonna in the front end and 
