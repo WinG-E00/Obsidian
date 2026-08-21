@@ -6,3 +6,8 @@ Read the dialogue and write T (True) or F (False).
 2. Maria did not make any changes to the code yesterday. (____)
 3. The team needs a very complex website for tomorrow. (____)
 Activity B: Match the Synonyms (Unir los sinónimos)
+
+
+
+Studen A:
+Studen B:
