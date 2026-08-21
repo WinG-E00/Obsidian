@@ -9,5 +9,5 @@ Activity B: Match the Synonyms (Unir los sinónimos)
 
 
 
-Studen A:Hi expert developer benjamin, you wanna work in the drugstore web aplication 
+Studen A:Hi expert developer benjamin, you wanna work in the drugstore web aplication that we think before?
 Studen B:
