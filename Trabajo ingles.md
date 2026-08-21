@@ -9,11 +9,12 @@ Activity B: Match the Synonyms (Unir los sinónimos)
 
 
 
-Studen A:Hi expert developer benjamin, you wanna work in the drugstore web aplication that we think before?
-Studen B:Yes, off course, i gonna work in the back end of the application¿In what do you want to work?
+**Student A:** Hi expert developer Benjamin, do you want to work on the drugstore web application that we thought of before?
 
-Studen A: I gonna work in the front end and the financial part of the application.
+**Student B:** Yes, of course. I'm going to work on the backend of the application. What do you want to work on?
 
-Studen B: Alright its fine, we gonna work in that way.
+**Student A:** I'm going to work on the frontend and the financial part of the application.
 
-Steden A: Alright then, we can start tomorrow
+**Student B:** Alright, that's fine. We're going to work that way.
+
+**Student A:** Alright then, we can start tomorrow.
