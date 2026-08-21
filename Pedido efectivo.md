@@ -45,4 +45,6 @@ Buenas tardes señor Francismo horacio Escalante, Vengo el dia de hoy a ofrecerl
 Oh que tal Horacio Rodrigez, que propuesta viene a ofrecerme?
 
 **Emprendedor**
-Como vera estoy desarrollando un prototipo para un modelo de negocio relacionado al sector ganadero, este consiste en suplir las necesidades primordiales de los dueños de campo tales como la gestion de agua, necesidad que si no se trata puede acarrear perdidas impor 
+Como vera estoy desarrollando un prototipo para un modelo de negocio relacionado al sector ganadero, este consiste en suplir las necesidades primordiales de los dueños de campo tales como la gestion de agua, necesidad que si no se trata puede acarrear perdidas importantes a el dueños de campo, por lo que evitaran a toda costa.
+
+Como consecuencia, nuestro equipo necesita un presupuesto de 100 millones 
