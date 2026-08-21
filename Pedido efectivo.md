@@ -27,4 +27,14 @@ Estoy pidiendo 100 millones de pesos...
 En un plazo de 1 año 
 y te lo voy a devolver cuando consiga ganancias a fin de año 
 
-por supuesto unicamente te devolvere el dinero cuando use todas mis ganancias en otros proyectos que tengo
+por supuesto unicamente te devolvere el dinero cuando use todas mis ganancias en otros proyectos que tengo.
+
+
+**Organizacion financiera**
+Tomatela de aca enfermito
+
+
+
+
+**Version Efectiva**
+
