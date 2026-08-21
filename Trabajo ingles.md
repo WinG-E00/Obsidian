@@ -14,4 +14,6 @@ Studen B:Yes, off course, i gonna work in the back end of the application¿In wh
 
 Studen A: I gonna work in the front end and the financial part of the application.
 
-Studen B: Alright its fine, we 
+Studen B: Alright its fine, we gonna work in that way.
+
+Steden A: Alright then, we can start tomorrow
