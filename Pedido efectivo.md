@@ -49,4 +49,5 @@ Como vera estoy desarrollando un prototipo para un modelo de negocio relacionado
 
 Como consecuencia, nuestro equipo necesita un presupuesto de 100 millones para desarrolar las 20mil unidades que nuestro equipo necesita producir.
 
-vendiendoze cada unidad a 50 mil por lo que daria como retorno una ganancia de 
+vendiendoze cada unidad a 50 mil por lo que daria como retorno de la inversion de un 900%
+
