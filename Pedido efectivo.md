@@ -16,4 +16,7 @@ Version inefectiva
 | Condiciones de satisfaccion | Se producen 1000 unidades con el software listo |
 | Compromiso                  | Realizar 83 unidades por mes                    |
 
-Emprendedor
+**Emprendedor**
+Buenas tardes banco financiero galicia, queria hacer un pedido para financiar un proyecto
+
+**Organizacion financiera**
