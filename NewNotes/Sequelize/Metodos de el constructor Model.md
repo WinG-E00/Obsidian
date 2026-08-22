@@ -12,3 +12,5 @@ Cuales son los metodos que tiene la clase Model?
 [[get()]]
 [[remove()]]
 
+
+todos estos metodos se pueden usar en los controladores para poder 
