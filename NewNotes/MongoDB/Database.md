@@ -18,3 +18,7 @@ Solo que esta ves se aplican de manera diferente
 [[Metodos de update]]
 [[metodos de borrado]]
 
+
+
+## Operadores 
+
