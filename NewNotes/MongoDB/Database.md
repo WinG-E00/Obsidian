@@ -8,3 +8,9 @@ Un [[document Mongodb]] que seria el registro individual, algo asi como un json 
 y por ultimo tenemos a los [[field]] que seria como la clave valo
 
 ## Metodos esenciales de Mongo db
+
+Los metodfos son lo mismo que el [[../express/CRUD|CRUD]]
+
+Solo que esta ves se aplican de manera diferente
+
+Metodos de creacion Insertar datos
