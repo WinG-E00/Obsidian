@@ -33,10 +33,11 @@ password
 
 ## Sensor de bebederos
 
-| id  | water_level | longitud | latitud | bateria |
-| --- | ----------- | -------- | ------- | ------- |
-|     |             |          |         |         |
-
+| id  | water_level | longitud | latitud |     |
+| --- | ----------- | -------- | ------- | --- |
+|     |             |          |         |     |
+id
+water_
 
 
 ## Cow sensors
