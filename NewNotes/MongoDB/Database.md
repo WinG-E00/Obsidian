@@ -13,7 +13,7 @@ Los metodfos son lo mismo que el [[../express/CRUD|CRUD]]
 
 Solo que esta ves se aplican de manera diferente
 
-Metodos de creacion mongodb
-Metodos de consulta
-Metodos de update
-metodos de borrado
+[[Metodos de creacion mongodb]]
+[[Metodos de consulta]]
+[[Metodos de update]]
+[[metodos de borrado]]
