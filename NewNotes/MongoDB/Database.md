@@ -5,4 +5,4 @@ Esta posee [[colecciones Mongodb]], que serian el equivalente una tabla de Sql
 
 Un [[document Mongodb]] que seria el registro individual, algo asi como un json que contiene informacion de algo
 
-y por ultimo tenemos a los [[field]] que seria como la clave valor
+y por ultimo tenemos a los [[field]] que seria como la clave valo
