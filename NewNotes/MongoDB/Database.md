@@ -1,4 +1,4 @@
-que es?
+[[]]que es?
 ;;
 Literalmente es la base de datos,
 Esta posee [[colecciones Mongodb]], que serian el equivalente una tabla de Sql
