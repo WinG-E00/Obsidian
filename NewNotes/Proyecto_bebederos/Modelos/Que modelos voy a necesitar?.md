@@ -7,6 +7,16 @@
 | --- | ---- | ----- | -------- | -------- |
 |     |      |       |          |          |
 |     |      |       |          |          |
+
+id
+user
+gmail
+password
+
+
+
+
+
 ## Perfil del usuario
 
 | id  | perfil |     |
