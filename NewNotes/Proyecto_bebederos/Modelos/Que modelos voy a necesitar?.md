@@ -37,7 +37,9 @@ password
 | --- | ----------- | -------- | ------- | --- |
 |     |             |          |         |     |
 id
-water_
+water_level
+longitud
+latitud
 
 
 ## Cow sensors
