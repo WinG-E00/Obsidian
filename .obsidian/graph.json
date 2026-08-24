@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "estructura ",
+  "search": "path:NewNotes  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -102,6 +102,6 @@
   "repelStrength": 9.51181850576078,
   "linkStrength": 1,
   "linkDistance": 227,
-  "scale": 0.10825281927600085,
+  "scale": 0.05015405405300257,
   "close": false
 }
