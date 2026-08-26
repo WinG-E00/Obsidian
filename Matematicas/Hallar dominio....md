@@ -5,4 +5,5 @@ Img f(x)
 C+
 C-
 Cº
-Intervalo Cre
+Intervalo Crecimiento
+Intervalo Decrecimiento
