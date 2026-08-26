@@ -1,7 +1,7 @@
 Que contiene la interfaz iterable y que se puede hacer con ella?
 ;;
 La interface de Iterable por dentro solo una funcion que se puede editar para que funcione en cualquier clase
-<!--SR:!2026-08-22,3,250-->
+<!--SR:!2026-08-28,2,230-->
 
 ```kotlin
 public interface Iterable<out T> {
