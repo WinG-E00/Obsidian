@@ -20,5 +20,11 @@ Ventas y administracion
 
 Ventas
 	Mostrador de perfumeria
-	Mostrador de medicamentos
-	
+	Mostrador de medicamentos y deposito
+		Seccion de Reposicion
+		Seccion de Expedicion
+	Administraccion
+		Contabilidad
+		Personal
+
+
