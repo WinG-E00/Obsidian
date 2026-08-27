@@ -30,4 +30,4 @@ Ventas
 
 ### Expectativas
 	Control de inventario de medicamentos drogas y otras cosas
-	
+	Control de caja y de la informacino que de ella se desprende
