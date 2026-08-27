@@ -15,8 +15,10 @@ plazo maximo de 2 meses
 
 **Estructura Jerargica**
 
+Gerente general
+Ventas y administracion
 
-|     |     |
-| --- | --- |
-|     |     |
-
+Ventas
+	Mostrador de perfumeria
+	Mostrador de medicamentos
+	
