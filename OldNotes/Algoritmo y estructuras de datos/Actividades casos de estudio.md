@@ -32,5 +32,8 @@ Ventas
 	Control de inventario de medicamentos drogas y otras cosas
 	Control de caja y de la informacion que sale de esto, ejemplo efectivo descuentos y cosas asi
 	Control de inventario paar perfumeria y cosmetica
-	informacino de deuda con provedors y drogeria 
+	Informacion de deuca con provedores y drogerias a partir de pedidos pedidos xd
+
+
+
 
