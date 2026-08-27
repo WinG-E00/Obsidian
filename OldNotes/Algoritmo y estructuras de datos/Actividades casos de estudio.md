@@ -28,3 +28,6 @@ Ventas
 		Personal
 
 
+### Expectativas
+	Control de inventario de medicamentos drogas y otras cosas
+	
