@@ -33,4 +33,6 @@ Could you clarify what is the problem of the funcionality?
 
 That makes sense, we can not fix the functionality if i don't explaint to you what is failing
 
-Can i add something? I think that we have to elim
+Can i add something? I think that we have to delete this new functionality
+
+Okey let me move to the next topic, we can create the new functionality.
