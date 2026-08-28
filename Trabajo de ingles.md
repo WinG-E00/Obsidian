@@ -25,4 +25,6 @@
 
 Okey team let's get started
 
-Front my point of view this application need a 
+Front my point of view this application need a urgent reformation
+
+How about fixing the problem of the new 
