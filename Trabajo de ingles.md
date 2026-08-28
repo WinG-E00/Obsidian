@@ -1,9 +1,22 @@
-A
+- **A. Opening a meeting:** Let's get started.
+    
+- **B. Giving opinions:** From my point of view...
+    
+- **C. Making suggestions:** How about...?
+    
+- **D. Asking for clarification:** Could you clarify that?
+    
+- **E. Agreeing and disagreeing:**
+    
+    - _Agreeing:_ That makes sense.
+        
+    - _Disagreeing:_ I see your point, but...
+        
+- **F. Interrupting politely:** Can I add something?
+    
+- **G. Managing the meeting:** Let me move on to the next topic.
+    
+- **H. Closing the meeting:** Let's summarize the main points.
 
-b
-c
-d
-e
-f
-g
-h
+
+
