@@ -1,2 +1,6 @@
 
-**salud, educación, producción y medio ambiente, seguridad y sociedad, y economía**.
+salud,
+educación
+producción
+medio ambiente
+seguridad y sociedad y economía**.
