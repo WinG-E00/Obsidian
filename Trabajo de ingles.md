@@ -33,4 +33,4 @@ Could you clarify what is the problem of the funcionality?
 
 That makes sense, we can not fix the functionality if i don't explaint to you what is failing
 
-Can i add something?
+Can i add something? I think that we have to elim
