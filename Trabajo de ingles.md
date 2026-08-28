@@ -40,4 +40,4 @@ Can i add something? I think that we have to delete this new functionality
 Okey let me move to the next topic, we can cre
 ate a solution for the new users that can not add their email.
 
-Aright brother see you at the next meeting bra
+Alright brother see you at the next meeting.
