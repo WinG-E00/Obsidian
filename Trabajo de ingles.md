@@ -29,4 +29,6 @@ Front my point of view this application need a urgent reformation
 
 How about fixing the problem of the new functionality
 
-How about 
+Could you clarify what is the problem of the funcionality?
+
+That makes sense, we can not fix the functional
