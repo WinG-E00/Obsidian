@@ -1,2 +1,3 @@
 Mi experiencia trabajando en grupo....
 
+Cuando trabajo en equipo si no hay 
