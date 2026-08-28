@@ -35,4 +35,6 @@ That makes sense, we can not fix the functionality if i don't explaint to you wh
 
 Can i add something? I think that we have to delete this new functionality
 
-Okey let me move to the next topic, we can create the new functionality.
+Okey let me move to the next topic, we can create a solution for the new users that can not add their email.
+
+Let's summarize the main points.
