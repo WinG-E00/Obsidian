@@ -1,3 +1,3 @@
 Mi experiencia trabajando en grupo....
 
-Cuando trabajo en equipo si no hay 
+La verdad no me importa, si tengo que trabajar en grupo trabajo en grupo si el grupo no hace nada agarro y hago todo yo o si no si trabajo en un grupo donde la gente hace las co
