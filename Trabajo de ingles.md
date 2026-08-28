@@ -27,4 +27,6 @@ Okey team let's get started
 
 Front my point of view this application need a urgent reformation
 
-How about fixing the problem of the new 
+How about fixing the problem of the new functionality
+
+How about 
