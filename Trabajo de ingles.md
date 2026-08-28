@@ -31,4 +31,6 @@ How about fixing the problem of the new functionality
 
 Could you clarify what is the problem of the funcionality?
 
-That makes sense, we can not fix the functional
+That makes sense, we can not fix the functionality if i don't explaint to you what is failing
+
+Can i add something?
