@@ -1,3 +1,5 @@
+**GRUPO**: Encina Gaston, Encina Benjamin
+
 - **A. Opening a meeting:** Let's get started.
     
 - **B. Giving opinions:** From my point of view...
@@ -35,6 +37,7 @@ That makes sense, we can not fix the functionality if i don't explaint to you wh
 
 Can i add something? I think that we have to delete this new functionality
 
-Okey let me move to the next topic, we can create a solution for the new users that can not add their email.
+Okey let me move to the next topic, we can cre
+ate a solution for the new users that can not add their email.
 
 Aright brother see you at the next meeting bra
