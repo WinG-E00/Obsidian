@@ -16,4 +16,6 @@
 **Hombros**
 	Elevaciones laterales de hombro con mancuerna o polea
 	 Press militar con mancuernas o Barra
-	 
+	 Elevaciones traseras... para el deltoides posterior
+
+
