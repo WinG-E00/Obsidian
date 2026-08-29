@@ -37,5 +37,6 @@
 	 Elevaciones traseras... para el deltoides posterior
 	 Extenciones lumbares en banco
 	BICEPS
-		
+		CURL PRINCIPAL
+			CURL INCLINADO CON MANCUERNAS
 	 
