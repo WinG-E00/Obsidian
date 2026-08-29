@@ -1,7 +1,4 @@
 
-Todo esto va a ser en 
-
-
 
 # PUSH
 
@@ -9,8 +6,6 @@ Todo esto va a ser en
 **Pectorales**
 	Press inclinado con mancuernas
 	Press horizontal con mancuernas
-
-
 
 
 **Hombros**
