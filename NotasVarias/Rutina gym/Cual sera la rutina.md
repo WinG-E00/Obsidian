@@ -54,5 +54,4 @@
 	SENTADILLAS
 	HIP trust
 	Glute kickback en polea si hay maquina de abduccion usar..
-	
-	
+	Zancadas
