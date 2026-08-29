@@ -36,4 +36,6 @@
 	Jalones verticales- Jalon al pecho con agarre neutro no ancho... o chin ups
 	 Elevaciones traseras... para el deltoides posterior
 	 Extenciones lumbares en banco
+	BICEPS
+		
 	 
