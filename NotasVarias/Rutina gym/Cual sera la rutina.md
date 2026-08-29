@@ -32,3 +32,6 @@
 
 
 ## Pull
+
+	Remo, en barra o con mancuerna
+	Jalones verticales- Jalon al pecho
