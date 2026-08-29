@@ -41,5 +41,6 @@
 			CURL INCLINADO CON MANCUERNAS, banco o polea
 		CURL CONCENTRADO
 			Unilateral en banco inclinado...
-			
+		CURL NEUTRO
+			Curl de martillo
 	 
