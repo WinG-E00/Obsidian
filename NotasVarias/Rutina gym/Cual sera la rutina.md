@@ -3,7 +3,7 @@
 
 
 
-## PUSH
+# PUSH
 
 
 **Pectorales**
@@ -30,7 +30,7 @@
 
 
 
-## Pull
+# Pull
 
 	Remo, en barra o con mancuerna
 	Jalones verticales- Jalon al pecho con agarre neutro no ancho... o chin ups
@@ -43,4 +43,10 @@
 			Unilateral en banco inclinado...
 		CURL NEUTRO
 			Curl de martillo
-	 
+	ANTEBRAZOS SI PINTA....
+
+
+
+# LEGS
+
+	
