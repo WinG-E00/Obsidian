@@ -19,3 +19,5 @@
 	 Elevaciones traseras... para el deltoides posterior
 
 
+**Triceps**
+
