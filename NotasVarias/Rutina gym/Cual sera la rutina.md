@@ -39,5 +39,7 @@
 	BICEPS
 		CURL PRINCIPAL
 			CURL INCLINADO CON MANCUERNAS, banco o polea
+		CURL CONCENTRADO
+			Unilateral en banco inclinado...
 			
 	 
