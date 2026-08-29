@@ -16,7 +16,7 @@
 **Hombros**
 	Elevaciones laterales de hombro con mancuerna o polea
 	 Press militar con mancuernas o Barra
-	 Elevaciones traseras... para el deltoides posterior
+	
 
 
 **Triceps**
@@ -35,3 +35,5 @@
 
 	Remo, en barra o con mancuerna
 	Jalones verticales- Jalon al pecho con agarre neutro no ancho... o chin ups
+	 Elevaciones traseras... para el deltoides posterior
+	 
