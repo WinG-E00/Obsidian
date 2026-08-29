@@ -34,4 +34,4 @@
 ## Pull
 
 	Remo, en barra o con mancuerna
-	Jalones verticales- Jalon al pecho
+	Jalones verticales- Jalon al pecho con agarre neutro no ancho... o chin ups
