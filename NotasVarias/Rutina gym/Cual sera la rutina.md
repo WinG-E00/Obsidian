@@ -23,3 +23,8 @@
 
 	Extenciones hacia abajo - cabeza media y corta
 	Extenciones hacia arriba con polea, cabeza larga
+	Patada de triceps a un brazo
+	Extenciones unilaterales
+
+
+
