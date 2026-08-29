@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "Hack",
   "showTags": false,
   "showAttachments": false,
@@ -92,12 +92,12 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -2,
   "nodeSizeMultiplier": 0.883968098958333,
   "lineSizeMultiplier": 1.64520670572917,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.331512056063666,
   "repelStrength": 9.51181850576078,
   "linkStrength": 1,
