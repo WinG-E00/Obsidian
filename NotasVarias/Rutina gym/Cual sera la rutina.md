@@ -49,4 +49,6 @@
 
 # LEGS
 
-	
+	Ejercicio de cuadriceps...
+	Isquiotibiales EJERCICIO DE ISQUIOTIBIALES... osea el biceps femoral
+	SENTADILLAS
