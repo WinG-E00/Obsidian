@@ -38,5 +38,6 @@
 	 Extenciones lumbares en banco
 	BICEPS
 		CURL PRINCIPAL
-			CURL INCLINADO CON MANCUERNAS
+			CURL INCLINADO CON MANCUERNAS, banco o polea
+			
 	 
