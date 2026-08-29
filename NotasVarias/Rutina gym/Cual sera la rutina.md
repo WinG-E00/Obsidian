@@ -24,8 +24,7 @@
 	Extenciones hacia abajo - cabeza media y corta
 	Extenciones hacia arriba con polea, cabeza larga
 	Patada de triceps a un brazo
-	Extenciones unilaterales
-
+	Extenciones hacia arriba unilaterales
 
 
 
@@ -36,4 +35,5 @@
 	Remo, en barra o con mancuerna
 	Jalones verticales- Jalon al pecho con agarre neutro no ancho... o chin ups
 	 Elevaciones traseras... para el deltoides posterior
+	 Extenciones lumbares en banco
 	 
