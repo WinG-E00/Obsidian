@@ -21,5 +21,5 @@
 
 **Triceps**
 
-	Extenciones hacia abajo
-	 
+	Extenciones hacia abajo - cabeza media y corta
+	Extenciones hacia arriba con polea, cabeza larga
