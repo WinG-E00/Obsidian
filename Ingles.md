@@ -9,7 +9,7 @@
 **Have you ever used GitHub?**
 **Have you ever failed a subject?**
 
-Yes, I created a website.
+Yes, I have created a website.
 Yes,  I have written a program.
 Yes, I have used python.
 Yes, I have worked on a team project.
@@ -43,4 +43,7 @@ Responder:
 4. A small website and a simple aplication.
 5. He use github as a tool to share code
 6. Yes they found several bugs
-7. 
+7. Most of the main features.
+
+
+
