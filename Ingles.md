@@ -59,7 +59,9 @@ Deben incluir:
 
 It wasent what i expected
 I haved fun
-I have  
+I have met many people
+
+I haven't 
 
 
 
