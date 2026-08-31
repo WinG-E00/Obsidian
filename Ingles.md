@@ -10,7 +10,7 @@
 • Have you ever failed a subject?
 
 Yes I created a website
-Yes I have writen a program
+Yes I have written a program
 Yes, I have used python
 Yes, I have worked on a team project
 Yes I have fixed a programming error
