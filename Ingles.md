@@ -50,3 +50,12 @@ Most of the main features.
 
 
 
+### Producción final: "My Developer Experience"
+Escribir oraciones sobre sus experiencias como estudiantes de la carrera
+Deben incluir:
+• 3 oraciones afirmativas.
+• 3 oraciónes negativas.
+
+
+
+
