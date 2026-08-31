@@ -57,7 +57,7 @@ Deben incluir:
 • 3 oraciónes negativas.
 
 
-It wasent what i expected
+I have 
 I haved fun
 I have met many people
 
