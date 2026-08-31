@@ -12,7 +12,7 @@ Para los relacionales
 [[Oracle Database]]
 [[Microsoft SQL Server]]
 Para no relacionales
-[[MongoDB]]
+[[../../NewNotes/MongoDB/MongoDB]]
 [[Cassandra]]
 [[Redis]]
 <!--SR:!2026-05-12,5,190-->
