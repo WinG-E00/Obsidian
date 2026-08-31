@@ -57,9 +57,9 @@ Deben incluir:
 • 3 oraciónes negativas.
 
 
+I have a program
+I have studied 
 I have 
-I haved fun
-I have met many people
 
 I have never 
 
