@@ -39,5 +39,6 @@ Responder:
 
 
 1, 2
-The student mentioned 2 projects, a small website and a simple aplication.
-
+3. The student mentioned 2 projects, 
+4. A small website and a simple aplication.
+5. 
