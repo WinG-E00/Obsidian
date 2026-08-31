@@ -1,3 +1,4 @@
 jsonwebtoken
 cookie-parser
-b
+bcryptjs bcrypt
+cors
