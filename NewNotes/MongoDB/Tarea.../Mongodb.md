@@ -8,5 +8,4 @@ secundario
 
 Matricula
 
-
-C
+Cuantos alumnos de primer grado hay?
