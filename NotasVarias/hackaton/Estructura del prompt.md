@@ -1,4 +1,4 @@
-- **Rol (Persona):** Dile a ChatGPT quién debe ser (ej. _"Actúa como un consultor de marketing experto en SEO"_). Esto acota su vasto conocimiento al área que necesitas. [[1](https://www.cursosfemxa.es/blog/prompts-chatgpt), [2](https://www.youtube.com/watch?v=VOX3YZwBtbw&t=24)]
+[[]]- **Rol (Persona):** Dile a ChatGPT quién debe ser (ej. _"Actúa como un consultor de marketing experto en SEO"_). Esto acota su vasto conocimiento al área que necesitas. [[1](https://www.cursosfemxa.es/blog/prompts-chatgpt), [2](https://www.youtube.com/watch?v=VOX3YZwBtbw&t=24)]
 
 - **Contexto:** Explica la situación de fondo, el problema o quién es el público final (ej. _"Tengo una tienda online de ropa sustentable en Argentina y quiero atraer clientes jóvenes"_).
 
