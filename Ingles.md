@@ -39,4 +39,5 @@ Responder:
 
 
 1, 2
-The student mentioned 2 projects, 
+The student mentioned 2 projects, a small website and a simple aplication.
+
