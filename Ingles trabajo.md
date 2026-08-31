@@ -59,9 +59,11 @@ Deben incluir:
 
 I have a program
 I have studied 
-I have 
+I have created a database
 
-I have never 
+
+
+I have never  created a 
 
 
 
