@@ -61,7 +61,7 @@ It wasent what i expected
 I haved fun
 I have met many people
 
-I haven't 
+I have never 
 
 
 
