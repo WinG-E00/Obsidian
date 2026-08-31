@@ -18,7 +18,7 @@ Yes, I have used github.
 Yes, I have failed a subject.
 
 1. I have written a program. (write)
-2. We have builded a website. (build)
+2. We have build a website. (build)
 3. She has found the bug. (find)
 4. They have tested the application. (test)
 5. He has learned Python. (learn)
