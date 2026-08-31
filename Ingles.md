@@ -9,4 +9,8 @@
 • Have you ever used GitHub?
 • Have you ever failed a subject?
 
-Yes i hav
+Yes i created a website
+Yes i have write a program
+Yes, i have use python
+Yes, i have work on a team project
+Have
