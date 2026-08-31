@@ -57,5 +57,9 @@ Deben incluir:
 • 3 oraciónes negativas.
 
 
+It wasent what i expected
+It 
+it was weird
+
 
 
