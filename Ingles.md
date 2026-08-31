@@ -41,4 +41,6 @@ Responder:
 1, 2
 3. The student mentioned 2 projects, 
 4. A small website and a simple aplication.
-5. 
+5. He use github as a tool to share code
+6. Yes they found several bugs
+7. 
