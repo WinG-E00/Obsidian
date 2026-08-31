@@ -64,7 +64,7 @@ I have created a database
 
 
 I have never  created a desktop app
-I have never develop a game
+I have never developed a game
 I have never repair a official application
 
 
