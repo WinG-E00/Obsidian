@@ -1,4 +1,4 @@
-[[Ingles]]
+[[../NotasVarias/Ingles]]
 [[conjuncion]]
 [[pronombres]]
 [[preposictions]]
