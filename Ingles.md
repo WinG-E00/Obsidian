@@ -27,6 +27,7 @@ We haven't finished our biggest project yet, but we have already completed
 most of the main features.
 Comprensión
 Responder:
+
 3. How many types of projects has the student mentioned?
 4. What has the student created?
 5. What tool have they used?
@@ -34,3 +35,7 @@ Responder:
 6. Have they found bugs?
 7. Have they finished the biggest project?
 8. What have they completed?
+
+
+
+1, 2
