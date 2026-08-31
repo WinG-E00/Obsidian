@@ -24,3 +24,5 @@ seguridad y sociedad, y economía**.
 ## Contexto
 Tendremos que definir que contexto tendremos para nuestra aplicacion eso implicaria que elijamos las skills necesarias para que el frontend entienda las peticiones del backend por ejemplo
 
+
+
