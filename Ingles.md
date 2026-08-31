@@ -42,14 +42,11 @@ Responder:
 7. Have they finished the biggest project?
 8. What have they completed?
 
-
-
-1, 2
-3. The student mentioned 2 projects, 
-4. A small website and a simple aplication.
-5. He use github as a tool to share code
-6. Yes they found several bugs
-7. Most of the main features.
+The student mentioned 2 projects, 
+A small website and a simple aplication.
+He use github as a tool to share code
+Yes they found several bugs
+Most of the main features.
 
 
 
