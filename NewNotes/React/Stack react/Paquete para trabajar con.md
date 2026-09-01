@@ -47,6 +47,13 @@ alias: {
 
 ``` 
 
+#### Dependencias para la libreria
+```js
+npm install -D tailwindcss postcss autoprefixer
+//archivos de configuracion
+npx tailwindcss init -p
+``` 
+
 
 ## Ejecutar
 ```js
@@ -54,11 +61,6 @@ alias: {
 npx shadcn@latest init -t [framework]
 ```
 
-#### Dependencias para la libreria
-```js
-npm install -D tailwindcss postcss autoprefixer
-//archivos de configuracion
-npx tailwindcss init -p
-``` 
+
 
 
