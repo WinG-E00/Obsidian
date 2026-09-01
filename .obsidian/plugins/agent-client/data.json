@@ -110,6 +110,14 @@
   },
   "savedSessions": [
     {
+      "sessionId": "ses_fa0cec383ffezN398uYd74LvbB",
+      "agentId": "opencode",
+      "cwd": "/home/winje/obsidian/Obsidian",
+      "title": "Podes hacerme una guia paso por paso en este ar...",
+      "createdAt": "2026-09-01T23:04:22.200Z",
+      "updatedAt": "2026-09-01T23:04:22.204Z"
+    },
+    {
       "sessionId": "ses_fa12697b4ffeS2npAHl5RqYXsK",
       "agentId": "opencode",
       "cwd": "/home/winje/obsidian/Obsidian",
