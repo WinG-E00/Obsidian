@@ -5,7 +5,7 @@
   "cwd": "/home/winje/obsidian/Obsidian",
   "title": "Te pregunto vos podes hacer dentro de mi carpet...",
   "createdAt": "2026-09-01T21:25:05.832Z",
-  "updatedAt": "2026-09-01T21:25:05.832Z",
+  "updatedAt": "2026-09-01T21:28:02.720Z",
   "messages": [
     {
       "id": "196f4ff7-6a2b-4ee8-9664-5992a8ff14d8",
@@ -430,7 +430,1460 @@
         }
       ],
       "timestamp": "2026-09-01T21:24:57.887Z"
+    },
+    {
+      "id": "cf9a8cf8-89ff-43dc-af50-c5666bfcb22c",
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": "Gracias sos increible, es literalmente lo que siempre soñe...\n\npodrias hacer que cada metodo este en archivos vinculados llamados metodos y de ahi salgan los metodos propios de cada objeto y tambien otro archivo para propiedades y que de ahi salga el arbol de 3 propiedades?"
+        }
+      ],
+      "timestamp": "2026-09-01T21:25:48.882Z"
+    },
+    {
+      "id": "13f3db25-1f4c-49bd-8edf-6334ed17a0fb",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "agent_thought",
+          "text": "The user wants me to restructure the graph. Currently each object note has methods and properties inline. They want:\n- Each object note links to a \"methods\" file and a \"properties\" file\n- The methods file links out to individual method notes\n- The properties file links out to a tree of 3 properties\n\nSo the structure would be:\n- `Array.md` → links to `Array - Métodos` and `Array - Propiedades`\n- `Array - Métodos.md` → links to individual method notes (map, filter, push, etc.)\n- `Array - Propiedades.md` → links to individual property notes (length, index, prototype)\n\nWait, let me re-read: \"podrias hacer que cada metodo este en archivos vinculados llamados metodos y de ahi salgan los metodos propios de cada objeto y tambien otro archivo para propiedades y que de ahi salga el arbol de 3 propiedades?\"\n\nSo:\n- For each object, a file called \"métodos\" (methods) → from there come the individual methods of each object\n- Another file for \"propiedades\" → from there comes the tree of 3 properties\n\nSo structure per object X:\n- `X.md` → links `[[X - Métodos]]` and `[[X - Propiedades]]`\n- `X - Métodos.md` → links to individual method notes, e.g. `[[map]]`, `[[filter]]`, ...\n- `X - Propiedades.md` → links to 3 property notes, e.g. `[[length]]`, `[[index]]`, `[[prototype]]`\n\nBut should individual methods/properties be separate notes? The user said \"cada metodo este en archivos vinculados llamados metodos\" - each method in linked files called methods. Hmm, parse: \"que cada metodo este en archivos vinculados llamados métodos y de ahí salgan los métodos propios de cada objeto\". \n\nInterpretation: for each object, create a linked file named \"métodos\" (methods), and from that file branch out the individual methods of each object. Similarly a file \"propiedades\" for properties, from which branches the tree of 3 properties.\n\nSo yes, individual method notes and property notes would be created. That's a lot of notes (5 objects × 6 methods = 30 method notes, 5 × 3 = 15 property notes). That's 45 + 10 + 5 + Objetos + javascript = 62 notes. That's a lot but the user asked. Hmm, but wait — the user previously wanted to keep it limited to 5 objects so the map isn't too extensive. Now they want method/property trees too. That's their choice.\n\nBut wait, should I create individual notes for each method? The methods for each object repeat (e.g., length property). Also, if I create a note for each method, they'd be shared or per-object? \n\nLet me think about the naming. We already have existing notes in the vault like `NewNotes/Javascript/Array.md`, `querySelector(selector).md`, `map`? Let me check existing method notes. Actually the vault has `asSequence().md`, `get().md`, `forEach.md`, `remove.md`, `querySelector(selector).md`, `removeEventListener().md`. And `NewNotes/Javascript/` contains HTMLInputElement, Array, remove, querySelector(selector), removeEventListener, forEach, DOM, etc.\n\nThe user wants \"archivos vinculados llamados metodos\" — files called methods. I think per-object would be cleaner: `Array - Métodos.md`, `String - Métodos.md`, etc. And from there individual method notes.\n\nNow, should individual method notes contain content? Probably a short description. And properties notes with descriptions.\n\nAlso, should the method/property notes have wikilinks that connect them to the methods index? Yes.\n\nBut there's a concern about ambiguity of names like `map`, `length`, `push` — probably no conflicts. `Array` might conflict. `Object` — is there an existing note? Probably not. Let me check for potential name conflicts among the wikilinks I'd use: map, filter, push, pop, etc. Let me search the vault.\n\nActually, let me be careful about creating a huge number of files. The user explicitly asked though. Let me re-read once more.\n\n\"podrias hacer que cada metodo este en archivos vinculados llamados metodos y de ahi salgan los metodos propios de cada objeto y tambien otro archivo para propiedades y que de ahi salga el arbol de 3 propiedades?\"\n\nTranslation: \"could you make each method be in linked files called methods and from there come out the methods proper to each object and also another file for properties and from there comes out the tree of 3 properties?\"\n\nSo per object:\n- A linked file \"métodos\" → from it, the object's own methods branch out (as links)\n- Another file \"propiedades\" → from it, the tree of 3 properties comes out\n\nSo the method list and property list files, each linking to individual notes. Whether individual notes need unique content — brief description is good.\n\nGiven the volume, I'll use `[[ia/...]]` path-based wikilinks to avoid ambiguity.\n\nLet me design the graph:\n\nCentral:\n- `javascript.md` → `[[ia/Objetos]]`\n- `Objetos.md` → 5 object notes\n\nPer object (e.g., Array):\n- `Array.md` (the object hub) → `[[ia/Array - Métodos]]` and `[[ia/Array - Propiedades]]`\n  - also link back to Objetos\n\n- `Array - Métodos.md` → lists links to individual method notes:\n  - `[[ia/métodos/push]]`, `[[ia/métodos/map]]`, etc. → one note per method\n\nHmm, but methods repeat across objects (e.g., `map` only in Array; but `slice` also in String). If method notes are shared, a method note has multiple parents? That's fine for graph. But then \"los métodos propios de cada objeto\" — the methods proper to each object. Shared method notes would appear connected to multiple objects. That could actually be nice (a method like `slice` appearing under both Array and String). But it may create cross-links making the map more connected. The user wants a tree-ish structure. \n\nAlternatively, keep method notes unique per object? That duplicates content. I think shared method notes are better and more truthful to JS (methods belong to prototype, not per instance). But the user explicitly said \"salgan los métodos propios de cada objeto\" (the methods proper to each object). \n\nDecision: Create a directory `IA graphs/ia/métodos/` containing one note per method (unique method names across the 5 objects), and `IA graphs/ia/propiedades/` containing one note per property (unique property names). Each method note links back to the method index(es)? Or at least to its object(s).\n\nHmm, wait. Let me reconsider to keep it simpler and match \"tree\" structure. Actually simpler and most faithful to request:\n\nPer object:\n- `Array - Métodos.md` (the \"métodos\" file)\n- `Array - Propiedades.md` (the \"propiedades\" file)\n\nFrom `Array - Métodos.md`, links go to individual method notes. I'll create individual method notes under a `métodos/` subfolder. For shared methods like `slice` (Array & String), I'll create one shared note `métodos/slice.md` linked from both `Array - Métodos.md` and `String - Métodos.md`. That's legit.\n\nProperty notes under `propiedades/` subfolder. Shared ones like `length` (Array & String) and `prototype` (multiple) → one shared note with multiple backlinks.\n\nThis keeps counts manageable:\nMethod notes (unique across objects):\nArray: push, map, filter, reduce, sort, find → 6\nString: toUpperCase, toLowerCase, slice, split, replace, includes → 6 (slice unique name so new)\nObject: keys, values, assign, entries, hasOwnProperty, create → 6\nMath: max, min, random, round, floor, sqrt → 6\nDate: getDate, getFullYear, getTime, toISOString, now, setMonth → 6\n\nTotal 30 method notes.\n\nProperty notes:\nArray: length, index, prototype → length (shared with String), index (unique), prototype (shared)\nString: length (shared), constructor, prototype\nObject: prototype, constructor, __proto__\nMath: PI, E, SQRT2\nDate: prototype, constructor, length\n\nUnique: length, index, prototype, constructor, __proto__, PI, E, SQRT2 → 8 property notes.\n\nPlus the 7 existing notes + 10 index files (X - Métodos, X - Propiedades). Total: 7 + 10 + 30 + 8 = 55 notes. That's a big graph but the user asked for it. Actually the user asked \"cada método este en archivos vinculados\" — in linked files. Yes.\n\nHmm, but maybe I should ask if they want that many? No, they clearly want each method as a linked file. They designed this themselves; it's their dream. Just do it.\n\nWait, but should I reconsider whether the method/property notes should be per-object instead of shared? If shared, `map` note is only linked from `Array - Métodos.md`, so it's per-object effectively except shared ones (slice, and properties length/prototype/constructor). That's fine and creates a nice small tree.\n\nActually for property tree: \"que de ahi salga el arbol de 3 propiedades\" — the tree of 3 properties branches out. So 3 per object.\n\nLet me also think about whether `Object.md` name conflicts. There's no existing Object note. `Math`, `Date`, `String`, `Array` — Array exists elsewhere, that's why I use path links. Fine.\n\nBut wait — the object notes under `ia/`. When `Array.md` in `ia/` links `[[ia/Array - Métodos]]`, the graph connects. Good, all within folder `ia`.\n\nShould I move method/property notes into subfolders `métodos/` and `propiedades/`? Obsidian wikilinks with full path `[[ia/métodos/map]]` work. Subfolders keep things organized. But does the user use the folder named with accent \"métodos\"? Fine on Linux. But could cause issues with path links containing accents? Should be fine. Alternatively use `metodos` and `propiedades` without accents for safety. I'll use no accents to be safe with tooling, but display names can have accents. Actually Obsidian filenames with accents are fine. But let me keep filenames ASCII: `metodos` and `propiedades`.\n\nHmm, wait. Let me reconsider the structure. The user said \"cada metodo este en archivos vinculados llamados metodos\" — maybe they want the methods file to be *named* \"Métodos\" per object, i.e., `Array - Métodos.md`. And individual methods branch out. I'll do:\n\nPer object X:\n- `X.md` → hub: intro + links: `[[ia/X - Métodos]]`, `[[ia/X - Propiedades]]`, and back to `[[ia/Objetos]]`\n- `X - Métodos.md` → a small intro + list of method links\n- `X - Propiedades.md` → intro + list of 3 property links\n\nMethod note `metodos/map.md` → description + backlink to its object's Métodos (I can include `[[ia/Array - Métodos]]`). For shared method `slice`, backlinks to both `Array - Métodos` and `String - Métodos`.\n\nProperty note `propiedades/length.md` → description + backlink to `[[ia/Array - Propiedades]]`, `[[ia/String - Propiedades]]`, `[[ia/Date - Propiedades]]`.\n\nThis will be a lot of file creations. Let me be efficient by writing many files in parallel via multiple Write calls.\n\nLet me check existing vault for name conflicts on the method names, to decide if path links suffice or if bare names conflict. Since I'll use full path links `[[ia/...]]`, ambiguity is avoided regardless. The note filenames themselves: `map`, `filter`, `push`, etc. — unlikely to exist. `.md`. Let me quickly glob to check for any existing notes named like these.\n\nLet me search."
+        },
+        {
+          "type": "text",
+          "text": "\n\n"
+        }
+      ],
+      "timestamp": "2026-09-01T21:25:49.741Z"
+    },
+    {
+      "id": "b22e6779-48de-4971-949a-78783134884f",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_5e889021c53f4ab69a8b8872",
+          "title": "ls \"NewNotes/Javascript/\" && echo \"---\" && ls \"NotasVarias/Flashcards/\" && echo \"---\" && ls \"OldNotes\" | head -50",
+          "status": "completed",
+          "kind": "execute",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian"
+            }
+          ],
+          "rawInput": {
+            "command": "ls \"NewNotes/Javascript/\" && echo \"---\" && ls \"NotasVarias/Flashcards/\" && echo \"---\" && ls \"OldNotes\" | head -50",
+            "cwd": "/home/winje/obsidian/Obsidian"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:26:22.378Z"
+    },
+    {
+      "id": "3d72845f-547c-47e3-89a0-85a7fb420fbe",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_0bca1fd2c7e24e469444221f",
+          "title": "glob",
+          "status": "completed",
+          "kind": "search",
+          "content": [],
+          "locations": [],
+          "rawInput": {
+            "pattern": "**/{map,filter,slice,push,pop,length,prototype,constructor,keys,values,assign,index,__proto__}.md"
+          }
+        },
+        {
+          "type": "agent_thought",
+          "text": "No name conflicts for the method/property notes (no existing map, filter, slice, length, etc. notes). Good. I'll use bare wikilinks? Actually, to be safe and consistent, I already used `[[ia/...]]` paths. But for method notes, bare names like `[[map]]` would be unambiguous. However, mixing is fine. Let me keep using path-prefixed links for consistency? Actually within method indices, I could just use `[[map]]` etc. Simpler. But note: notes live in subfolder `IA graphs/ia/metodos/`. Bare `[[map]]` resolves by filename anywhere in vault, and there are no conflicts. It displays nicer too. But in the graph view it'll still show as node \"map\". Good.\n\nHmm, but one thing: consistency with existing files, e.g. the first `javascript.md` I made links `[[ia/Objetos]]`. Fine.\n\nNow let me plan the full set of files.\n\nObjects: Array, String, Object, Math, Date.\n\nMétodos per object:\n- Array: push, map, filter, reduce, sort, find\n- String: toUpperCase, toLowerCase, slice, split, replace, includes\n- Object: keys, values, assign, entries, hasOwnProperty, create\n- Math: max, min, random, round, floor, sqrt\n- Date: getDate, getFullYear, getTime, toISOString, now, setMonth\n\nShared: slice (Array+String). Others unique.\n\nPropiedades per object:\n- Array: length, index, prototype\n- String: length, constructor, prototype\n- Object: prototype, constructor, __proto__ (I'll name file `__proto__.md`, hmm file with __proto__ name is weird but allowed)\n- Math: PI, E, SQRT2\n- Date: prototype, constructor, length\n\nUnique set: length, index, prototype, constructor, __proto__, PI, E, SQRT2\n\nNow, method notes each contain a description and backlinks to the object's Métodos file(s). Property notes similarly.\n\nLet me write all files. There will be a lot. Let me batch Write calls in parallel groups.\n\nGroup the files to create:\n1. Object hubs (update existing 5) — rewrite each with links to Métodos and Propiedades, keep 3+ methods/properties? The user wants the methods/properties to branch out of the separate files now. So the object hub just has intro + links to `X - Métodos`, `X - Propiedades`, plus backlink to Objetos.\n\nAlso update `Objetos.md`? It's fine as is.\n\n2. Method index files (5): `X - Métodos.md` with links to each method note.\n3. Property index files (5): `X - Propiedades.md` with 3 property links.\n4. 30 method notes in `metodos/`.\n5. 8 property notes in `propiedades/`.\n\nTotal new: 10 + 30 + 8 = 48 new files + 5 edits.\n\nWait, should method names include \"()\" in filenames? Existing vault uses e.g. `querySelector(selector).md`, `forEach.md` (no parens), `get().md`. Mixed. I'll use plain names without parens: `map.md`, `push.md`. Cleaner for graph nodes.\n\nFor Math method notes like `random.md`, `round.md` — `round` could be confused but fine.\n\nAlso property `index` — I'm using it as a property of Array (index/position). That's more of a concept. Fine, keep.\n\nLet me also think about whether the user wanted the object method index only, or method notes with content. Provide short one-line descriptions in each method note with backlinks. Good.\n\nFor `__proto__` filename — a file literally named `__proto__.md`. Creating it via Write should be fine on Linux.\n\nLet me create dirs first: `IA graphs/ia/metodos` and `IA graphs/ia/propiedades`.\n\nNow let me craft content.\n\n**Object hub format** (e.g. Array.md):\n```\n# Array\n\nObjeto que representa una **lista ordenada** de elementos.\n\n## Ramas de este objeto\n\n- [[ia/Array - Métodos]]\n- [[ia/Array - Propiedades]]\n\nConectado desde: [[ia/Objetos]]\n```\n\n**Method index** (`Array - Métodos.md`):\n```\n# Métodos de Array\n\nCada método es una **acción** que puede realizar el objeto Array.\n\n- [[metodos/push]]\n- [[metodos/map]]\n...\n```\nUse `[[metodos/push]]`? Path from root would be `[[IA graphs/ia/metodos/push]]`. Hmm. Relative links: Obsidian supports both relative and path-from-root. `[[ia/metodos/push]]` resolves from root (path without leading folder). Actually Obsidian wikilink paths are relative to vault root. So `[[ia/metodos/push]]` works. But wait, is that right? Obsidian link paths are from the vault root, yes. So `[[ia/metodos/push]]` is correct and works whether I'm in `IA graphs/ia/Objetos.md` etc.\n\nAlternatively use short names `[[push]]` since no conflicts. I'll use `[[metodos/push]]`? Hmm, we established vault-root-relative paths work. But mixing: in the first batch I used `[[ia/Objetos]]`, `[[ia/Array]]`. So path style is from root with `ia/...` prefix. Folder is `IA graphs/ia`, so root path is `ia/metodos/push`. Good, consistent.\n\nLet me reconsider though — maybe cleaner to just use bare names since unique: `[[push]]`. But the method index files would then auto-create correct links. However, if user later creates another `push.md`, conflicts. Unlikely. I'll use bare names for methods (`[[push]]`) to keep files readable... Actually, consistency matters more. The existing object notes use path links. For within the `ia` subtree, I think bare names that are unambiguous is fine and Obsidian-friendly. But `length`, `prototype`, `constructor` are generic and also appear as property notes — still unique filenames across vault. OK.\n\nHmm, decision: use bare wikilinks for methods and properties (they're unique globally), and keep path-based links for objects. Actually wait, there's a subtlety: if I link `[[Array]]` bare it's ambiguous (3 Array notes). So for objects keep paths. For methods/properties no conflicts → bare is fine.\n\nBut hold on: in `Array - Métodos.md`, linking `[[push]]` resolves to `IA graphs/ia/metodos/push.md`. Good.\n\nLet me now also consider: the user said \"llamados metodos\" (files *called* methods). So the index file named \"Array - Métodos\". Good. And \"otro archivo para propiedades\" → \"Array - Propiedades\". Good.\n\nNow content for method notes. Format:\n```\n# push\n\nMétodo del objeto [[ia/Array]].\n\nAgrega uno o más elementos al **final** del array y devuelve la nueva longitud.\n\n```js\narray.push(\"nuevo\");\n```\n```\n\nWait — if the method note links to `[[ia/Array]]`, that adds an edge method→Array (the hub), which is nice: the method branches from Array - Métodos AND connects to Array. Actually that might make the graph more webby. The user wants tree-ish but links to the object hub is nice/understandable. I'll include the backlink to the object's Métodos index instead, since that's the \"branch\" — `[[ia/Array - Métodos]]`. Hmm, which is better for the graph? The method index already links to method notes (downward). A backlink method→index is redundant but confirms hierarchy. In the graph view, bidirectional wikilinks show as single edge typically (Obsidian graph shows edges, not direction). So it's a single edge either way.\n\nTo make the tree clean: object hub → (Métodos, Propiedades); Métodos → each method; Propiedades → each property. If methods also link back to the object hub, it adds more edges (method→Array). The user asked \"de ahi salgan los metodos propios de cada objeto\" — from the métodos file leave the methods. So edge should be between the Métodos file and method notes, matching the structure. I'll link back to the Métodos index (edge Métodos↔method, one edge in graph) and also mention the object via text or `[[ia/Array]]`.\n\nSimplify: in each method note, add \"Pertenece a: [[ia/Array - Métodos]]\". That keeps it attached to the correct branch. For shared ones (slice under Array & String): \"Pertenece a: [[ia/Array - Métodos]] y [[ia/String - Métodos]]\".\n\nProperty notes similarly.\n\nHmm, but actually linking the method back to just the index means the \"object\" node doesn't appear — fine, graph goes Objetos → objeto → Métodos/Propiedades → method/property. Clean tree. Good.\n\nNow content per method note — short description + tiny code example (```js). That's good content that a student would appreciate.\n\nFor property notes:\n\n```\n# length\n\nPropiedad que devuelve la **cantidad de elementos** de un array o la **cantidad de caracteres** de un string.\n\nPertenece a: [[ia/Array - Propiedades]], [[ia/String - Propiedades]], [[ia/Date - Propiedades]]\n```\n\nWait, Date's `.length` is the arity of the Date constructor — different semantic. I'll note that.\n\n`index`: posición de cada elemento, comienza en 0.\n`prototype`: base de herencia.\n`constructor`: función que crea el objeto.\n`__proto__`: referencia al prototipo.\n`PI`, `E`, `SQRT2`: math constants.\n\nNow filenames for method notes: I'll prefix? No, plain names.\n\nOne concern: `keys.md`, `values.md`, `entries.md` — `entries` fine. `create.md` fine. `now.md` fine. `getDate`? I'll name `getDate()`? Existing vault uses parens sometimes. Plain: `getDate.md`, `getFullYear.md`, `getTime.md`, `toISOString.md`, `setMonth.md`, `toUpperCase.md`, `toLowerCase.md`, `getDate` etc.\n\nAlso Math `round.md`, `floor.md`, `max.md`, `min.md`, `random.md`, `sqrt.md`. Careful: `sqrt` fine.\n\nNow let me write everything. I'll produce many Write calls in parallel batches.\n\nLet me first create the folders."
+        },
+        {
+          "type": "text",
+          "text": "\n\n"
+        }
+      ],
+      "timestamp": "2026-09-01T21:26:22.894Z"
+    },
+    {
+      "id": "d5ec57dc-daae-4b93-99f4-5d704be483b4",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_ab5aa7daa37a474da67623b3",
+          "title": "mkdir -p \"IA graphs/ia/metodos\" \"IA graphs/ia/propiedades\"",
+          "status": "completed",
+          "kind": "execute",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian"
+            }
+          ],
+          "rawInput": {
+            "command": "mkdir -p \"IA graphs/ia/metodos\" \"IA graphs/ia/propiedades\"",
+            "cwd": "/home/winje/obsidian/Obsidian"
+          }
+        },
+        {
+          "type": "agent_thought",
+          "text": "Now let me create all the files. First update the 5 object hub notes and create the 10 index files (Métodos/Propiedades per object).\n\nLet me write the object hubs."
+        },
+        {
+          "type": "text",
+          "text": "Now I'll restructure: each object links to its `Métodos` and `Propiedades` files, which branch out to individual notes."
+        }
+      ],
+      "timestamp": "2026-09-01T21:26:50.846Z"
+    },
+    {
+      "id": "3621a5ab-c743-43f2-8a65-de10b9fdc300",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_21bc040b810c4eeb86ceffe0",
+          "title": "IA graphs/ia/Array.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/Array.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# Array\n\nObjeto que representa una **lista ordenada** de elementos. Es uno de los más usados de JavaScript.\n\n## Ramas de este objeto\n\n- [[ia/Array - Métodos]]\n- [[ia/Array - Propiedades]]\n\nConectado desde: [[ia/Objetos]]",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/Array.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:26:53.513Z"
+    },
+    {
+      "id": "1376db39-9b20-4a95-82ba-07e585ec78b3",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_e6e4c24ba27a40e9a8092807",
+          "title": "IA graphs/ia/String.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/String.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# String\n\nObjeto que representa una **cadena de texto** y ofrece herramientas para manipularla.\n\n## Ramas de este objeto\n\n- [[ia/String - Métodos]]\n- [[ia/String - Propiedades]]\n\nConectado desde: [[ia/Objetos]]",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/String.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:26:57.197Z"
+    },
+    {
+      "id": "d8c63257-2549-4c8b-bad8-6f6c9257ee08",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_93e7f67d184347a087b1fe15",
+          "title": "IA graphs/ia/Object.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/Object.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# Object\n\nObjeto que representa la **base de todos los objetos** de JavaScript. Casi todo en JS es un objeto o hereda de `Object`.\n\n## Ramas de este objeto\n\n- [[ia/Object - Métodos]]\n- [[ia/Object - Propiedades]]\n\nConectado desde: [[ia/Objetos]]",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/Object.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:26:57.583Z"
+    },
+    {
+      "id": "f259ce89-2c72-492e-8af0-d6727479609e",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_520b8f892b0540a8971e3030",
+          "title": "IA graphs/ia/Math.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/Math.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# Math\n\nObjeto con **constantes y funciones matemáticas**. No puede instanciarse con `new`: sus métodos y propiedades son estáticos.\n\n## Ramas de este objeto\n\n- [[ia/Math - Métodos]]\n- [[ia/Math - Propiedades]]\n\nConectado desde: [[ia/Objetos]]",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/Math.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:26:57.583Z"
+    },
+    {
+      "id": "329503be-125b-4fdb-b3ad-18c15ac30888",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_bb4ce758e58c4f319a54a1ed",
+          "title": "IA graphs/ia/Date.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/Date.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# Date\n\nObjeto que representa **fechas y horas** en JavaScript, medidas en milisegundos desde el 1 de enero de 1970.\n\n## Ramas de este objeto\n\n- [[ia/Date - Métodos]]\n- [[ia/Date - Propiedades]]\n\nConectado desde: [[ia/Objetos]]",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/Date.md"
+          }
+        },
+        {
+          "type": "text",
+          "text": "Now the method index files that branch out to each method:"
+        }
+      ],
+      "timestamp": "2026-09-01T21:26:57.583Z"
+    },
+    {
+      "id": "1cee5509-1614-41d1-be0b-12055d40eb28",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_e10e0ac720a94b32b7945e59",
+          "title": "IA graphs/ia/Array - Métodos.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/Array - Métodos.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# Métodos de Array\n\nCada método es una **acción** que puede realizar el objeto [[ia/Array]].\n\n| Método | Descripción |\n| ------ | ----------- |\n| [[push]] | Agrega elementos al final del array |\n| [[map]] | Crea un nuevo array aplicando una función a cada elemento |\n| [[filter]] | Filtra elementos según una condición |\n| [[reduce]] | Reduce el array a un único valor |\n| [[sort]] | Ordena los elementos |\n| [[find]] | Busca el primer elemento que cumple una condición |\n| [[slice]] | Extrae una copia de una parte del array |",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/Array - Métodos.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:26:58.631Z"
+    },
+    {
+      "id": "ca237761-6fc8-4982-a582-6c9b8cf0722b",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_0092e238f8914899bb5ca030",
+          "title": "IA graphs/ia/String - Métodos.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/String - Métodos.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# Métodos de String\n\nCada método es una **acción** que puede realizar el objeto [[ia/String]].\n\n| Método | Descripción |\n| ------ | ----------- |\n| [[toUpperCase]] | Convierte a mayúsculas |\n| [[toLowerCase]] | Convierte a minúsculas |\n| [[slice]] | Extrae una parte del texto |\n| [[split]] | Divide el texto en un array |\n| [[replace]] | Reemplaza parte del texto |\n| [[includes]] | Verifica si contiene una subcadena |",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/String - Métodos.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:00.782Z"
+    },
+    {
+      "id": "d387d7ec-6937-4c11-8bca-9cbb3a672aea",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_8025d452deb54342b5f2f917",
+          "title": "IA graphs/ia/Object - Métodos.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/Object - Métodos.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# Métodos de Object\n\nCada método es una **acción** que puede realizar el objeto [[ia/Object]].\n\n| Método | Descripción |\n| ------ | ----------- |\n| [[keys]] | Devuelve las claves como array |\n| [[values]] | Devuelve los valores como array |\n| [[assign]] | Copia propiedades entre objetos |\n| [[entries]] | Devuelve los pares clave-valor |\n| [[hasOwnProperty]] | Verifica si existe una propiedad propia |\n| [[create]] | Crea un objeto con un prototipo dado |",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/Object - Métodos.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:01.697Z"
+    },
+    {
+      "id": "5ba666db-7ffd-498d-9a4c-35d3bd9895a4",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_b437e944ce8d45a1b92582c9",
+          "title": "IA graphs/ia/Math - Métodos.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/Math - Métodos.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# Métodos de Math\n\nCada método es una **función estática** del objeto [[ia/Math]].\n\n| Método | Descripción |\n| ------ | ----------- |\n| [[max]] | Devuelve el número más grande |\n| [[min]] | Devuelve el número más pequeño |\n| [[random]] | Número aleatorio entre 0 y 1 |\n| [[round]] | Redondea al entero más cercano |\n| [[floor]] | Redondea hacia abajo |\n| [[sqrt]] | Calcula la raíz cuadrada |",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/Math - Métodos.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:02.548Z"
+    },
+    {
+      "id": "c2287caf-864d-478e-b719-ccc8cd5890cd",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_1f22e0026576419bb6f8e432",
+          "title": "IA graphs/ia/Date - Métodos.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/Date - Métodos.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# Métodos de Date\n\nCada método es una **acción** que puede realizar el objeto [[ia/Date]].\n\n| Método | Descripción |\n| ------ | ----------- |\n| [[getDate]] | Devuelve el día del mes |\n| [[getFullYear]] | Devuelve el año con 4 dígitos |\n| [[getTime]] | Devuelve los milisegundos desde 1970 |\n| [[toISOString]] | Convierte al formato ISO |\n| [[now]] | Momento actual en milisegundos |\n| [[setMonth]] | Establece el mes |",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/Date - Métodos.md"
+          }
+        },
+        {
+          "type": "text",
+          "text": "And the property index files (tree of 3 properties each):"
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:03.347Z"
+    },
+    {
+      "id": "386f5da4-51be-474b-a5b6-9ee13b1bd2fc",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_d7401b10abf04e49b845c058",
+          "title": "IA graphs/ia/Array - Propiedades.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/Array - Propiedades.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# Propiedades de Array\n\nCada propiedad es un **atributo** que guarda el objeto [[ia/Array]].\n\n| Propiedad | Descripción |\n| --------- | ----------- |\n| [[length]] | Cantidad de elementos |\n| [[index]] | Posición de cada elemento (empieza en 0) |\n| [[prototype]] | Base de herencia del objeto |",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/Array - Propiedades.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:10.714Z"
+    },
+    {
+      "id": "49ea668a-9b82-4778-9243-d3c8ad4c89fc",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_116d5de2dbba4d6daa82fdb2",
+          "title": "IA graphs/ia/String - Propiedades.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/String - Propiedades.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# Propiedades de String\n\nCada propiedad es un **atributo** que guarda el objeto [[ia/String]].\n\n| Propiedad | Descripción |\n| --------- | ----------- |\n| [[length]] | Cantidad de caracteres |\n| [[constructor]] | Función que creó el objeto |\n| [[prototype]] | Base de herencia del objeto |",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/String - Propiedades.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:11.431Z"
+    },
+    {
+      "id": "b8fcef1d-184b-4b53-afa1-2326deb59ad9",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_6dee13dae2e84253b933a077",
+          "title": "IA graphs/ia/Object - Propiedades.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/Object - Propiedades.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# Propiedades de Object\n\nCada propiedad es un **atributo** que guarda el objeto [[ia/Object]].\n\n| Propiedad | Descripción |\n| --------- | ----------- |\n| [[prototype]] | Base para la herencia entre objetos |\n| [[constructor]] | Función usada para crear el objeto |\n| [[__proto__]] | Referencia al prototipo del objeto |",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/Object - Propiedades.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:12.047Z"
+    },
+    {
+      "id": "88b72b86-036c-4769-ba23-2297087a3e03",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_c00fa87034614cb0b87a8239",
+          "title": "IA graphs/ia/Math - Propiedades.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/Math - Propiedades.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# Propiedades de Math\n\nCada propiedad es una **constante estática** del objeto [[ia/Math]].\n\n| Propiedad | Descripción |\n| --------- | ----------- |\n| [[PI]] | Valor de $\\pi$ |\n| [[E]] | Número de Euler |\n| [[SQRT2]] | Raíz cuadrada de 2 |",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/Math - Propiedades.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:12.665Z"
+    },
+    {
+      "id": "903c39e4-e645-4891-abdd-69ef5cca4c88",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_052a2cc13c484c9abd5c3495",
+          "title": "IA graphs/ia/Date - Propiedades.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/Date - Propiedades.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# Propiedades de Date\n\nCada propiedad es un **atributo** del objeto [[ia/Date]].\n\n| Propiedad | Descripción |\n| --------- | ----------- |\n| [[prototype]] | Base de herencia del objeto |\n| [[constructor]] | Función usada para crear el objeto |\n| [[length]] | Cantidad de argumentos de la función Date |",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/Date - Propiedades.md"
+          }
+        },
+        {
+          "type": "agent_thought",
+          "text": "Now the 6 Object method notes (keys, values, assign, entries, hasOwnProperty, create)."
+        },
+        {
+          "type": "text",
+          "text": "Now the individual method notes for `Object`:"
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:13.216Z"
+    },
+    {
+      "id": "715c1fbb-bbb3-4557-b09d-46b662bb1329",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_f4c9d45b8db74a78a11f8d6b",
+          "title": "IA graphs/ia/metodos/keys.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/keys.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# keys\n\nMétodo de [[ia/Object - Métodos]] que devuelve un array con las **claves** (nombres de propiedades) de un objeto.\n\n```js\nconst usuario = { nombre: \"Ana\", edad: 25 };\nObject.keys(usuario); // [\"nombre\", \"edad\"]\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/keys.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:15.015Z"
+    },
+    {
+      "id": "1ddd9561-0f19-4f65-bd64-a042fe87d2d2",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_b7bd6e1219d540488dda9cf6",
+          "title": "IA graphs/ia/metodos/values.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/values.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# values\n\nMétodo de [[ia/Object - Métodos]] que devuelve un array con los **valores** de las propiedades de un objeto.\n\n```js\nconst usuario = { nombre: \"Ana\", edad: 25 };\nObject.values(usuario); // [\"Ana\", 25]\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/values.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:15.650Z"
+    },
+    {
+      "id": "c0dfba7b-db82-4d9e-93be-39a49ffc8463",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_468d04885c1d4dd99c14b028",
+          "title": "IA graphs/ia/metodos/assign.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/assign.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# assign\n\nMétodo de [[ia/Object - Métodos]] que **copia las propiedades** de uno o más objetos a un objeto destino.\n\n```js\nconst destino = {};\nObject.assign(destino, { a: 1 }, { b: 2 }); // { a: 1, b: 2 }\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/assign.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:16.148Z"
+    },
+    {
+      "id": "3864997a-1d85-4b5b-84ed-6e1ae1c0676b",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_f758bcca88bb4fe799c5a4f6",
+          "title": "IA graphs/ia/metodos/entries.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/entries.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# entries\n\nMétodo de [[ia/Object - Métodos]] que devuelve los **pares clave-valor** de un objeto como un array de arrays.\n\n```js\nconst usuario = { nombre: \"Ana\", edad: 25 };\nObject.entries(usuario); // [[\"nombre\", \"Ana\"], [\"edad\", 25]]\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/entries.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:16.965Z"
+    },
+    {
+      "id": "13c7cb7a-f445-4cd8-bc13-0d800116743c",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_bf5b82697ce24ea78a2ebf3e",
+          "title": "IA graphs/ia/metodos/hasOwnProperty.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/hasOwnProperty.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# hasOwnProperty\n\nMétodo de [[ia/Object - Métodos]] que **verifica si el objeto tiene una propiedad propia** (no heredada).\n\n```js\nconst usuario = { nombre: \"Ana\" };\nusuario.hasOwnProperty(\"nombre\"); // true\nusuario.hasOwnProperty(\"toString\"); // false\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/hasOwnProperty.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:17.582Z"
+    },
+    {
+      "id": "aef57235-aebe-4eef-8449-b5fdc35d2221",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_0369203633ba4a3f802967ad",
+          "title": "IA graphs/ia/metodos/create.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/create.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# create\n\nMétodo de [[ia/Object - Métodos]] que **crea un objeto nuevo** usando un objeto dado como prototipo.\n\n```js\nconst persona = { saludar() { return \"Hola\"; } };\nconst ana = Object.create(persona);\nana.saludar(); // \"Hola\"\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/create.md"
+          }
+        },
+        {
+          "type": "text",
+          "text": "Now the `Array` methods:"
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:18.500Z"
+    },
+    {
+      "id": "4789d87d-63ea-4b71-8f1c-1592d59bef49",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_f051d1a66bb246faae0068eb",
+          "title": "IA graphs/ia/metodos/push.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/push.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# push\n\nMétodo de [[ia/Array - Métodos]] que **agrega uno o más elementos al final** del array y devuelve la nueva longitud.\n\n```js\nconst numeros = [1, 2];\nnumeros.push(3); // 3\nnumeros; // [1, 2, 3]\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/push.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:20.965Z"
+    },
+    {
+      "id": "e7098188-05cf-4b13-b9d2-712ca9a0959f",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_cd8a41d675574b21bddc890e",
+          "title": "IA graphs/ia/metodos/map.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/map.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# map\n\nMétodo de [[ia/Array - Métodos]] que **crea un nuevo array** aplicando una función a cada elemento del original. No modifica el original.\n\n```js\nconst numeros = [1, 2, 3];\nnumeros.map((n) => n * 2); // [2, 4, 6]\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/map.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:21.682Z"
+    },
+    {
+      "id": "dee0238f-bfc0-4665-a0c2-e815e311e8be",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_257d072ae7be47758e728dc9",
+          "title": "IA graphs/ia/metodos/filter.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/filter.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# filter\n\nMétodo de [[ia/Array - Métodos]] que **crea un nuevo array solo con los elementos** que cumplen una condición.\n\n```js\nconst numeros = [1, 2, 3, 4];\nnumeros.filter((n) => n % 2 === 0); // [2, 4]\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/filter.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:22.399Z"
+    },
+    {
+      "id": "65d80e58-e68f-4d6f-a8fb-d82609ad9e34",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_3a9d5bab620545f08b3b05e1",
+          "title": "IA graphs/ia/metodos/reduce.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/reduce.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# reduce\n\nMétodo de [[ia/Array - Métodos]] que **reduce todos los elementos a un único valor** aplicando un acumulador.\n\n```js\nconst numeros = [1, 2, 3, 4];\nnumeros.reduce((acum, n) => acum + n, 0); // 10\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/reduce.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:23.132Z"
+    },
+    {
+      "id": "d20d0590-3904-469c-b3f6-80c877ae520d",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_3bc257f8a407431f953c768a",
+          "title": "IA graphs/ia/metodos/sort.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/sort.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# sort\n\nMétodo de [[ia/Array - Métodos]] que **ordena los elementos** del array **modificando el original**.\n\n```js\nconst numeros = [3, 1, 2];\nnumeros.sort(); // [1, 2, 3]\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/sort.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:23.931Z"
+    },
+    {
+      "id": "2a4a6e35-5e19-48ed-85fe-a8b77304111a",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_b918599d315e45858dce70ad",
+          "title": "IA graphs/ia/metodos/find.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/find.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# find\n\nMétodo de [[ia/Array - Métodos]] que **devuelve el primer elemento** que cumple una condición, o `undefined` si no hay ninguno.\n\n```js\nconst numeros = [1, 3, 4, 7];\nconst encontrado = numeros.find((n) => n > 3); // 4\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/find.md"
+          }
+        },
+        {
+          "type": "text",
+          "text": "Now the `String` methods (including the shared `slice`):"
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:24.549Z"
+    },
+    {
+      "id": "bea6f743-6eeb-4dda-b45f-bcc95f8efa59",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_3b62e2150c4847908b98a7f0",
+          "title": "IA graphs/ia/metodos/toUpperCase.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/toUpperCase.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# toUpperCase\n\nMétodo de [[ia/String - Métodos]] que **convierte todo el texto a mayúsculas**.\n\n```js\n\"hola\".toUpperCase(); // \"HOLA\"\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/toUpperCase.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:26.499Z"
+    },
+    {
+      "id": "ce686e81-7951-4891-aa73-c54544fae72a",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_d7d51abaa8ee4c8abd163ea4",
+          "title": "IA graphs/ia/metodos/toLowerCase.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/toLowerCase.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# toLowerCase\n\nMétodo de [[ia/String - Métodos]] que **convierte todo el texto a minúsculas**.\n\n```js\n\"HOLA\".toLowerCase(); // \"hola\"\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/toLowerCase.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:26.999Z"
+    },
+    {
+      "id": "6767f229-7814-44ad-974d-3a8ffc564ede",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_db536187bb494454ba594c5b",
+          "title": "IA graphs/ia/metodos/slice.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/slice.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# slice\n\nMétodo de [[ia/Array - Métodos]] y de [[ia/String - Métodos]] que **extrae una copia de una parte** del array o del texto usando un inicio y un fin.\n\n```js\nconst texto = \"programacion\";\ntexto.slice(0, 4); // \"prog\"\n\nconst numeros = [1, 2, 3, 4];\nnumeros.slice(1, 3); // [2, 3]\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/slice.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:33.565Z"
+    },
+    {
+      "id": "44b0594a-f741-4bd6-b162-fa85dbcc8b4e",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_8755e61ac2cd4c71b30c4c85",
+          "title": "IA graphs/ia/metodos/split.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/split.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# split\n\nMétodo de [[ia/String - Métodos]] que **divide el texto en un array** usando un separador.\n\n```js\n\"a,b,c\".split(\",\"); // [\"a\", \"b\", \"c\"]\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/split.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:34.482Z"
+    },
+    {
+      "id": "4f963177-3a42-4ca0-8b40-f486fa3a9d86",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_336739d404ec4f63b52c1255",
+          "title": "IA graphs/ia/metodos/replace.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/replace.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# replace\n\nMétodo de [[ia/String - Métodos]] que **reemplaza una parte del texto** por otra. Devuelve un texto nuevo (no modifica el original).\n\n```js\n\"hola mundo\".replace(\"mundo\", \"JS\"); // \"hola JS\"\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/replace.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:35.198Z"
+    },
+    {
+      "id": "af73a2e1-9510-4a2d-8858-e6c8ddd15901",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_58b354bb9bf64e21bb67c543",
+          "title": "IA graphs/ia/metodos/includes.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/includes.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# includes\n\nMétodo de [[ia/String - Métodos]] que **verifica si el texto contiene una subcadena** y devuelve `true` o `false`.\n\n```js\n\"javascript\".includes(\"script\"); // true\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/includes.md"
+          }
+        },
+        {
+          "type": "text",
+          "text": "Now the `Math` and `Date` methods:"
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:35.715Z"
+    },
+    {
+      "id": "69caf048-89ca-4688-a27b-8ac5df78428c",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_ff0445fb87ad446babcde664",
+          "title": "IA graphs/ia/metodos/max.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/max.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# max\n\nMétodo de [[ia/Math - Métodos]] que **devuelve el número más grande** de los que se pasan como argumentos.\n\n```js\nMath.max(2, 8, 5); // 8\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/max.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:27:37.549Z"
+    },
+    {
+      "id": "ed99c91a-e92d-433a-85e3-e0a7d8821294",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_99fd2c6205e44b4ca68d456e",
+          "title": "IA graphs/ia/metodos/min.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/min.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# min\n\nMétodo de [[ia/Math - Métodos]] que **devuelve el número más pequeño** de los que se pasan como argumentos.\n\n```js\nMath.min(2, 8, 5); // 2\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/min.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:28:05.391Z"
+    },
+    {
+      "id": "a4adb096-197b-4289-9a8b-74e1692c1a14",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_d0b6d121b41b4c2b9aceb046",
+          "title": "IA graphs/ia/metodos/random.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/random.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# random\n\nMétodo de [[ia/Math - Métodos]] que **devuelve un número aleatorio** mayor o igual a 0 y menor que 1.\n\n```js\nMath.random(); // por ejemplo 0.7345...\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/random.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:28:05.391Z"
+    },
+    {
+      "id": "1f514b18-6327-4974-a0b5-03a657c00ef6",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_79d241e89fde40f7927f915d",
+          "title": "IA graphs/ia/metodos/round.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/round.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# round\n\nMétodo de [[ia/Math - Métodos]] que **redondea un número al entero más cercano**.\n\n```js\nMath.round(3.6); // 4\nMath.round(3.2); // 3\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/round.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:28:05.391Z"
+    },
+    {
+      "id": "eabdca68-ed6c-4a16-b0e4-81cd28882108",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_75b0b0528b7f47ba8a6e9786",
+          "title": "IA graphs/ia/metodos/floor.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/floor.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# floor\n\nMétodo de [[ia/Math - Métodos]] que **redondea un número hacia abajo**, al entero anterior.\n\n```js\nMath.floor(3.9); // 3\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/floor.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:28:05.391Z"
+    },
+    {
+      "id": "619d30c7-4ddd-46d3-b33a-f9d5ec0bd9fc",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_20d8ac466e44436389abd521",
+          "title": "IA graphs/ia/metodos/sqrt.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/sqrt.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# sqrt\n\nMétodo de [[ia/Math - Métodos]] que **calcula la raíz cuadrada** de un número.\n\n```js\nMath.sqrt(16); // 4\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/sqrt.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:28:05.391Z"
+    },
+    {
+      "id": "d1046d7c-fec2-4fc4-be83-9231989a06cf",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_5dd7251b84b2473a89d7c2c7",
+          "title": "IA graphs/ia/metodos/getDate.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/getDate.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# getDate\n\nMétodo de [[ia/Date - Métodos]] que **devuelve el día del mes** (1 a 31) de una fecha.\n\n```js\nconst hoy = new Date();\nhoy.getDate(); // día de hoy\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/getDate.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:28:05.391Z"
+    },
+    {
+      "id": "f8fba7c2-7857-43b4-80e7-fe263c49def3",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_03b7ddaa3bfa44149c56bf14",
+          "title": "IA graphs/ia/metodos/getFullYear.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/getFullYear.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# getFullYear\n\nMétodo de [[ia/Date - Métodos]] que **devuelve el año** de la fecha con 4 dígitos.\n\n```js\nconst fecha = new Date(2026, 0, 1);\nfecha.getFullYear(); // 2026\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/getFullYear.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:28:05.391Z"
+    },
+    {
+      "id": "2f416cad-3ff7-4203-a8e0-7ed9b954aa80",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_570d7601dd8b430bb8771042",
+          "title": "IA graphs/ia/metodos/getTime.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/getTime.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# getTime\n\nMétodo de [[ia/Date - Métodos]] que **devuelve los milisegundos** transcurridos desde el 1 de enero de 1970 (timestamp) hasta la fecha.\n\n```js\nconst fecha = new Date(2026, 0, 1);\nfecha.getTime(); // un número grande en milisegundos\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/getTime.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:28:05.391Z"
+    },
+    {
+      "id": "ff352a46-65c0-4abc-b537-e6ab40a126ef",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_a365b5c299af4410b2c3f8d9",
+          "title": "IA graphs/ia/metodos/toISOString.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/toISOString.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# toISOString\n\nMétodo de [[ia/Date - Métodos]] que **convierte la fecha a su representación ISO 8601**.\n\n```js\nconst fecha = new Date();\nfecha.toISOString(); // \"2026-09-01T...\"\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/toISOString.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:28:05.391Z"
+    },
+    {
+      "id": "305dc323-06aa-4980-9cbd-33e64e2ad647",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_f0fbb5b84d474f6bba89a01d",
+          "title": "IA graphs/ia/metodos/now.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/now.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# now\n\nMétodo de [[ia/Date - Métodos]] que **devuelve el momento actual** en milisegundos desde 1970. Es un método estático.\n\n```js\nDate.now(); // por ejemplo 1759382400000\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/now.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:28:05.391Z"
+    },
+    {
+      "id": "fa1aa763-9574-47b1-8707-9bf0a458c525",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_026bf0376d1849988b9a3c5e",
+          "title": "IA graphs/ia/metodos/setMonth.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/setMonth.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# setMonth\n\nMétodo de [[ia/Date - Métodos]] que **establece el mes** de una fecha (0 = enero, 11 = diciembre).\n\n```js\nconst fecha = new Date();\nfecha.setMonth(5); // deja la fecha en junio\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/metodos/setMonth.md"
+          }
+        },
+        {
+          "type": "agent_thought",
+          "text": "Now the 8 property notes: length, index, prototype, constructor, __proto__, PI, E, SQRT2."
+        },
+        {
+          "type": "text",
+          "text": "Finally, the property notes (the \"tree of 3 properties\" per object):"
+        }
+      ],
+      "timestamp": "2026-09-01T21:28:05.391Z"
+    },
+    {
+      "id": "e2f56ad7-9db8-4a5c-9ec3-8c069973ee18",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_2d6f43fa7620451eadd8cec3",
+          "title": "IA graphs/ia/propiedades/length.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/propiedades/length.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# length\n\nPropiedad de [[ia/Array - Propiedades]] que indica la **cantidad de elementos** de un array, y de [[ia/String - Propiedades]] que indica la **cantidad de caracteres** del texto.\n\nEn [[ia/Date - Propiedades]] representa la cantidad de argumentos esperados por la función `Date` (7).\n\n```js\nconst numeros = [1, 2, 3];\nnumeros.length; // 3\n\n\"hola\".length; // 4\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/propiedades/length.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:28:05.391Z"
+    },
+    {
+      "id": "9d8b8919-5a27-48a8-a788-44f9bc9eea9b",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_9ec98cd63a674cf09baa38c1",
+          "title": "IA graphs/ia/propiedades/index.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/propiedades/index.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# index\n\nPropiedad de [[ia/Array - Propiedades]] que indica la **posición de cada elemento** dentro del array. La posición **empieza en 0**.\n\n```js\nconst numeros = [10, 20, 30];\nnumeros[0]; // 10\nnumeros[2]; // 30\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/propiedades/index.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:28:05.391Z"
+    },
+    {
+      "id": "e78f7e71-5e95-4ffd-982e-98884610e0a0",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_78ea92fb453246e780bdc2ea",
+          "title": "IA graphs/ia/propiedades/prototype.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/propiedades/prototype.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# prototype\n\nPropiedad de [[ia/Array - Propiedades]], [[ia/String - Propiedades]], [[ia/Object - Propiedades]] y [[ia/Date - Propiedades]] que es la **base para la herencia** entre objetos: contiene los métodos que todas las instancias comparten.\n\n```js\nArray.prototype.push; // función compartida por todos los arrays\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/propiedades/prototype.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:28:05.391Z"
+    },
+    {
+      "id": "2b11c71b-168a-496d-9eac-39d6f710f0a9",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_ab5e27f00deb4ae9845b9ace",
+          "title": "IA graphs/ia/propiedades/constructor.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/propiedades/constructor.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# constructor\n\nPropiedad de [[ia/String - Propiedades]], [[ia/Object - Propiedades]] y [[ia/Date - Propiedades]] que es una **referencia a la función** con la que se creó el objeto.\n\n```js\n\"hola\".constructor; // String\n({}).constructor;   // Object\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/propiedades/constructor.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:28:05.391Z"
+    },
+    {
+      "id": "970af84b-fd4b-4ca0-8b9c-df6b846c9163",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_bb1bb0f15e8b4de6b49be368",
+          "title": "IA graphs/ia/propiedades/__proto__.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/propiedades/__proto__.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# __proto__\n\nPropiedad de [[ia/Object - Propiedades]] que es una **referencia al prototipo** del objeto. Es una forma antigua de acceder a la herencia.\n\n```js\nconst persona = { nombre: \"Ana\" };\npersona.__proto__ === Object.prototype; // true\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/propiedades/__proto__.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:28:05.391Z"
+    },
+    {
+      "id": "fad1a006-6581-484e-b309-a36bc20d4d9f",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_712079ce449c411f94a212c9",
+          "title": "IA graphs/ia/propiedades/PI.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/propiedades/PI.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# PI\n\nPropiedad de [[ia/Math - Propiedades]] con el **valor aproximado de $\\pi$** ($3.14159...$). Es una constante estática.\n\n```js\nMath.PI; // 3.141592653589793\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/propiedades/PI.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:28:05.391Z"
+    },
+    {
+      "id": "49e6c680-cb64-452e-a83b-560951c4cd72",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_487b6c279a2648dc807da059",
+          "title": "IA graphs/ia/propiedades/E.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/propiedades/E.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# E\n\nPropiedad de [[ia/Math - Propiedades]] con el **número de Euler** ($2.718...$). Es una constante estática.\n\n```js\nMath.E; // 2.718281828459045\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/propiedades/E.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-01T21:28:05.391Z"
+    },
+    {
+      "id": "2d422002-b636-46d7-9bab-1c8c504212cd",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_81c1d48174aa417394c5e047",
+          "title": "IA graphs/ia/propiedades/SQRT2.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/IA graphs/ia/propiedades/SQRT2.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# SQRT2\n\nPropiedad de [[ia/Math - Propiedades]] con la **raíz cuadrada de 2** ($\\approx 1.414$). Es una constante estática.\n\n```js\nMath.SQRT2; // 1.4142135623730951\n```",
+            "filePath": "/home/winje/obsidian/Obsidian/IA graphs/ia/propiedades/SQRT2.md"
+          }
+        },
+        {
+          "type": "agent_thought",
+          "text": "Now let me verify everything is in place and check the structure. Also confirm all wikilinks resolve (especially that `slice` appears in both Array - Métodos and String - Métodos, and it's linked). Also verify no broken path on `getFullYear`, etc.\n\nLet me list the tree and do a quick grep for any broken links maybe. Obsidian resolves `[[slice]]` to `IA graphs/ia/metodos/slice.md` — good. But wait: `[[slice]]` — there's also `OldNotes` maybe has slice? Let me check if `slice.md` exists elsewhere. Earlier glob for slice only searched specific names — I included slice in that glob and found nothing. Good. But let me double check for anything named like getDate, etc. in OldNotes. Probably fine. The ambiguous-name risk is low.\n\nLet me just show the final tree."
+        },
+        {
+          "type": "text",
+          "text": "Verify the full structure:"
+        }
+      ],
+      "timestamp": "2026-09-01T21:28:05.391Z"
+    },
+    {
+      "id": "a3d30c71-98ba-476f-8092-2ba9612ecabf",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "call_df23e900f4364a5a91f3ecdc",
+          "title": "find \"IA graphs/ia\" -type f -name \"*.md\" | sort && echo \"---\" && echo \"Total: $(find 'IA graphs/ia' -name '*.md' | wc -l) notas\"",
+          "status": "completed",
+          "kind": "execute",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian"
+            }
+          ],
+          "rawInput": {
+            "command": "find \"IA graphs/ia\" -type f -name \"*.md\" | sort && echo \"---\" && echo \"Total: $(find 'IA graphs/ia' -name '*.md' | wc -l) notas\"",
+            "cwd": "/home/winje/obsidian/Obsidian"
+          }
+        },
+        {
+          "type": "text",
+          "text": "Listo. Reestructuré el mapa como árbol. Ahora la escalera es:\n\n- `javascript` → `Objetos` → los 5 objetos (Array, String, Object, Math, Date)\n- Cada objeto se bifurca en 2 ramas:\n  - **`X - Métodos`** → de ahí salen los métodos (1 nota por método, con descripción y ejemplo de código en `metodos/`)\n  - **`X - Propiedades`** → de ahí sale el árbol de 3 propiedades (1 nota por propiedad en `propiedades/`)\n- `slice` (compartido por Array y String) y propiedades compartidas (`length`, `prototype`, `constructor`) aparecen conectadas a ambas ramas.\n\nSon 55 notas en total. Abrí el graph view y filtrá por la carpeta `ia` para ver el árbol completo."
+        }
+      ],
+      "timestamp": "2026-09-01T21:28:05.391Z"
     }
   ],
-  "savedAt": "2026-09-01T21:25:05.841Z"
+  "savedAt": "2026-09-01T21:28:06.196Z"
 }
