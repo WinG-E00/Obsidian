@@ -10,6 +10,10 @@ Ejecutá el siguiente comando y seleccioná la plantilla **React + TypeScript**:
 
 ```bash
 npm create vite@latest
+
+//con esto para que no tenga errores
+npm create vite@latest mi-proyecto-shadcn -- --template react-ts
+
 ```
 
 Al finalizar, entrá a la carpeta del proyecto e instalá las dependencias:
