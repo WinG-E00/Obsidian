@@ -50,6 +50,7 @@ alias: {
 
 ## Ejecutar
 ```js
-// Par
+// Para instalar la libreria en framework hay que poner por ejemplo vite
 npx shadcn@latest init -t [framework]
 ```
+
