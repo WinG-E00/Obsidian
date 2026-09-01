@@ -48,3 +48,8 @@ alias: {
 ``` 
 
 
+## Ejecutar
+```js
+// Par
+npx shadcn@latest init -t [framework]
+```
