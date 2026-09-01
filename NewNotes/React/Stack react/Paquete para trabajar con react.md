@@ -55,7 +55,7 @@ export default defineConfig({
 > Necesitás `@types/node` para que `path` y `__dirname` funcionen:
 >
 > ```bash
-> npm install -D @types/node
+npm install -D @types/node
 > ```
 
 ## 4. Importar Tailwind en los estilos
