@@ -1600,3 +1600,4 @@
 "smart_sources:IA graphs/ia/propiedades/E.md": null,
 "smart_sources:IA graphs/ia/propiedades/SQRT2.md": null,
 "smart_sources:NewNotes/React/Stack react/Untitled.md": null,
+"smart_sources:NewNotes/React/Stack react/Paquete para trabajar con.md": {"class_name":"SmartSource","last_read":{"hash":"x5zoe9","at":1788301143777},"embedding":{"history":[]},"path":"NewNotes/React/Stack react/Paquete para trabajar con.md","last_import":{"mtime":1788301130773,"size":100,"at":1788301143778,"hash":"x5zoe9"},"outlinks":[],"blocks_data":{"#":{"text":null,"length":0,"last_read":{"hash":"x5zoe9","at":1788301143777},"key":"NewNotes/React/Stack react/Paquete para trabajar con.md#","lines":[1,8],"size":100,"should_embed":false}},"block_embedding_selection":{"version":2,"min_chars":200,"max_input_chars":1894,"source_key":"NewNotes/React/Stack react/Paquete para trabajar con.md","requires_reimport":false},"task_lines":[],"tasks":{},"codeblock_ranges":[[3,8]],"outlinks_version":2},
