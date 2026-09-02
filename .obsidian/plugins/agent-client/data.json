@@ -110,6 +110,14 @@
   },
   "savedSessions": [
     {
+      "sessionId": "ses_fa07d575affegjqMala1OSJet2",
+      "agentId": "opencode",
+      "cwd": "/home/winje/obsidian/Obsidian",
+      "title": "Quiero que me expliques un momento\n\ncomo funcio...",
+      "createdAt": "2026-09-02T00:28:02.254Z",
+      "updatedAt": "2026-09-02T00:28:02.257Z"
+    },
+    {
       "sessionId": "ses_fa0cec383ffezN398uYd74LvbB",
       "agentId": "opencode",
       "cwd": "/home/winje/obsidian/Obsidian",
