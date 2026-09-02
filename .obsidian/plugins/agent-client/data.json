@@ -138,7 +138,11 @@
     "opencode": "openai/gpt-5.6-terra-pro"
   },
   "lastUsedModes": {},
-  "lastUsedConfigOptions": {},
+  "lastUsedConfigOptions": {
+    "opencode": {
+      "effort": "max"
+    }
+  },
   "enableFloatingChat": false,
   "floatingButtonImage": "",
   "floatingWindowSize": {
