@@ -103,7 +103,8 @@ Durante la configuración:
 - Te preguntará si querés usar **TypeScript** o no. Seleccioná **No** (para usar JavaScript / JSX).
 - Elegí el estilo y color base que prefieras.
 
-## 7. Agregar componentes
+## 7. Agregar componentesprefieras.
+
 
 Agregá tu primer componente (por ejemplo, `Button`):
 
