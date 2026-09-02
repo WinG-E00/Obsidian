@@ -110,6 +110,14 @@
   },
   "savedSessions": [
     {
+      "sessionId": "ses_f9c249b37ffeFCnNKTaw9Fiip9",
+      "agentId": "opencode",
+      "cwd": "/home/winje/obsidian/Obsidian",
+      "title": "Ves el archivo que esta en tu misma carpeta sta...",
+      "createdAt": "2026-09-02T20:44:00.169Z",
+      "updatedAt": "2026-09-02T20:44:00.173Z"
+    },
+    {
       "sessionId": "ses_f9da59528ffefdBjJ3Lbb3xCPE",
       "agentId": "opencode",
       "cwd": "/home/winje/obsidian/Obsidian",
