@@ -76,6 +76,8 @@ Reemplazá todo el contenido de `src/index.css` con:
 
 En proyectos con JavaScript, se utiliza `jsconfig.json` en la raíz del proyecto para que el editor (VS Code, Cursor, etc.) y las herramientas reconozcan el alias `@/*`.
 
+**CREALA**
+
 Creá o editá el archivo `jsconfig.json` en la raíz:
 
 ```json
