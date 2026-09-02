@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sessionId": "ses_f9da59528ffefdBjJ3Lbb3xCPE",
+  "agentId": "opencode",
+  "cwd": "/home/winje/obsidian/Obsidian",
+  "title": "explica para que sirve este plugin, pero no esc...",
+  "createdAt": "2026-09-02T13:42:50.426Z",
+  "updatedAt": "2026-09-02T13:42:50.426Z",
+  "messages": [
+    {
+      "id": "aec7a9b6-4f47-4c3f-89ed-4c970efee587",
+      "role": "user",
+      "content": [
+        {
+          "type": "text_with_context",
+          "text": "explica para que sirve este plugin, pero no escribas nada en la nota",
+          "autoMentionContext": {
+            "noteName": "MongoDb",
+            "notePath": "IA graphs/MongoDB_IA_Notes/MongoDb.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-02T13:42:49.338Z"
+    }
+  ],
+  "savedAt": "2026-09-02T13:42:50.429Z"
+}
