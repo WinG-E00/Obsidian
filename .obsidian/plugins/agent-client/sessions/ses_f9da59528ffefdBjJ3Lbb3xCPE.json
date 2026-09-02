@@ -5,7 +5,7 @@
   "cwd": "/home/winje/obsidian/Obsidian",
   "title": "explica para que sirve este plugin, pero no esc...",
   "createdAt": "2026-09-02T13:42:50.426Z",
-  "updatedAt": "2026-09-02T13:42:50.426Z",
+  "updatedAt": "2026-09-02T13:42:50.428Z",
   "messages": [
     {
       "id": "aec7a9b6-4f47-4c3f-89ed-4c970efee587",
@@ -21,7 +21,22 @@
         }
       ],
       "timestamp": "2026-09-02T13:42:49.338Z"
+    },
+    {
+      "id": "37ac5055-ec0c-4bed-a72a-44819c2599d4",
+      "role": "user",
+      "content": [
+        {
+          "type": "text_with_context",
+          "text": "explicame que sos un ratito.... pero no escribas nada",
+          "autoMentionContext": {
+            "noteName": "MongoDb",
+            "notePath": "IA graphs/MongoDB_IA_Notes/MongoDb.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-02T13:43:37.075Z"
     }
   ],
-  "savedAt": "2026-09-02T13:42:50.429Z"
+  "savedAt": "2026-09-02T13:46:22.334Z"
 }
