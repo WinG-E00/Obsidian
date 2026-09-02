@@ -7,7 +7,7 @@ Lista de datos compuestos homogéneos
 * [[Matrices]]
 * [[string]]
 * [[Enum]]
-<!--SR:!2026-05-27,16,190-->
+<!--SR:!2026-10-02,30,190-->
 
 
 [[Compuestos]]
