@@ -115,7 +115,7 @@
       "cwd": "/home/winje/obsidian/Obsidian",
       "title": "Ves el archivo que esta en tu misma carpeta sta...",
       "createdAt": "2026-09-02T20:44:00.169Z",
-      "updatedAt": "2026-09-02T20:44:00.173Z"
+      "updatedAt": "2026-09-02T20:44:59.571Z"
     },
     {
       "sessionId": "ses_f9da59528ffefdBjJ3Lbb3xCPE",
@@ -175,7 +175,7 @@
     }
   ],
   "lastUsedModels": {
-    "opencode": "google/gemini-3.7-flash"
+    "opencode": "google/gemini-3.8-flash"
   },
   "lastUsedModes": {},
   "lastUsedConfigOptions": {

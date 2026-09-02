@@ -5,7 +5,7 @@
   "cwd": "/home/winje/obsidian/Obsidian",
   "title": "Ves el archivo que esta en tu misma carpeta sta...",
   "createdAt": "2026-09-02T20:44:00.169Z",
-  "updatedAt": "2026-09-02T20:44:00.169Z",
+  "updatedAt": "2026-09-02T20:44:37.833Z",
   "messages": [
     {
       "id": "a5a71011-e8a7-49e1-b3e2-78027f1a87d0",
@@ -95,7 +95,80 @@
         }
       ],
       "timestamp": "2026-09-02T20:43:53.445Z"
+    },
+    {
+      "id": "caacd2e8-8e32-46d8-a7d0-11c382c4ccef",
+      "role": "user",
+      "content": [
+        {
+          "type": "text_with_context",
+          "text": "Ves el archivo que esta en tu misma carpeta stack react?\n\nves que hay otro archivo llamado \nPaquete para trabajar con react en ts\n\nNecesito que crees una guia muy parecida pero para react con js",
+          "autoMentionContext": {
+            "noteName": "Paquete para trabajar con react en js",
+            "notePath": "NewNotes/React/Stack react/Paquete para trabajar con react en js.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-02T20:44:21.806Z"
+    },
+    {
+      "id": "5245e043-b903-49eb-92df-7769af25c2d6",
+      "role": "user",
+      "content": [
+        {
+          "type": "text_with_context",
+          "text": "Ves el archivo que esta en tu misma carpeta stack react?\n\nves que hay otro archivo llamado \nPaquete para trabajar con react en ts\n\nNecesito que crees una guia muy parecida pero para react con js",
+          "autoMentionContext": {
+            "noteName": "Paquete para trabajar con react en js",
+            "notePath": "NewNotes/React/Stack react/Paquete para trabajar con react en js.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-02T20:44:36.815Z"
+    },
+    {
+      "id": "07ae6db2-9eaf-46fa-b61c-1934d852cc8f",
+      "role": "user",
+      "content": [
+        {
+          "type": "text_with_context",
+          "text": "Ves el archivo que esta en tu misma carpeta stack react?\n\nves que hay otro archivo llamado \nPaquete para trabajar con react en ts\n\nNecesito que crees una guia muy parecida pero para react con js",
+          "autoMentionContext": {
+            "noteName": "Paquete para trabajar con react en js",
+            "notePath": "NewNotes/React/Stack react/Paquete para trabajar con react en js.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-02T20:44:48.839Z"
+    },
+    {
+      "id": "66ca245c-90c9-4ea0-ba14-9c0b33985969",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "Rn7fjsiNC2GjrcA6",
+          "title": "NewNotes/React/Stack react/Paquete para trabajar con react en js.md",
+          "status": "completed",
+          "kind": "edit",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/NewNotes/React/Stack react/Paquete para trabajar con react en js.md"
+            }
+          ],
+          "rawInput": {
+            "content": "# Paquete para trabajar con React (JavaScript)\n\nGuía paso a paso para crear un proyecto **Vite + React + Tailwind + shadcn/ui** usando **JavaScript**.\n\n> Nota: También podés consultar la versión con TypeScript en [[Paquete para trabajar con react en ts]].\n> Documentación oficial: [shadcn/ui — Vite](https://ui.shadcn.com/docs/installation/vite)\n\n## 1. Crear el proyecto con Vite\n\nEjecutá el siguiente comando y seleccioná la plantilla **React** (JavaScript):\n\n```bash\nnpm create vite@latest\n```\n\nPara crearlo directamente con la plantilla de JavaScript:\n\n```bash\nnpm create vite@latest mi-proyecto-shadcn -- --template react\n```\n\nAl finalizar, entrá a la carpeta del proyecto e instalá las dependencias:\n\n```bash\ncd mi-proyecto-shadcn\nnpm install\n```\n\n## 2. Instalar Tailwind CSS\n\nInstalá Tailwind CSS v4 junto con el plugin de Vite:\n\n```bash\nnpm install tailwindcss @tailwindcss/vite\n```\n\n## 3. Configurar Vite\n\nAbrí `vite.config.js` y reemplazá todo su contenido con:\n\n```js\nimport path from \"path\"\nimport tailwindcss from \"@tailwindcss/vite\"\nimport react from \"@vitejs/plugin-react\"\nimport { defineConfig } from \"vite\"\n\n// https://vite.dev/config/\nexport default defineConfig({\n  plugins: [react(), tailwindcss()],\n  resolve: {\n    alias: {\n      \"@\": path.resolve(__dirname, \"./src\"),\n    },\n  },\n})\n```\n\n## 4. Importar Tailwind en los estilos\n\nReemplazá todo el contenido de `src/index.css` con:\n\n```css\n@import \"tailwindcss\";\n```\n\n## 5. Configurar el alias `@/` (jsconfig.json)\n\nEn proyectos con JavaScript, se utiliza `jsconfig.json` en la raíz del proyecto para que el editor (VS Code, Cursor, etc.) y las herramientas reconozcan el alias `@/*`.\n\nCreá o editá el archivo `jsconfig.json` en la raíz:\n\n```json\n{\n  \"compilerOptions\": {\n    \"baseUrl\": \".\",\n    \"paths\": {\n      \"@/*\": [\"./src/*\"]\n    }\n  }\n}\n```\n\n## 6. Inicializar shadcn/ui\n\nEjecutá el CLI de shadcn:\n\n```bash\nnpx shadcn@latest init\n```\n\nDurante la configuración:\n- Te preguntará si querés usar **TypeScript** o no. Seleccioná **No** (para usar JavaScript / JSX).\n- Elegí el estilo y color base que prefieras.\n\n## 7. Agregar componentes\n\nAgregá tu primer componente (por ejemplo, `Button`):\n\n```bash\nnpx shadcn@latest add button\n```\n\nLos componentes se descargarán con extensión `.jsx` dentro de `src/components/ui/`.\n\nPodés agregar más componentes cuando los necesites:\n\n```bash\nnpx shadcn@latest add card dialog table\n```\n\n## 8. Usar un componente\n\nEn `src/App.jsx`:\n\n```jsx\nimport { Button } from \"@/components/ui/button\"\n\nfunction App() {\n  return (\n    <div className=\"flex min-h-svh flex-col items-center justify-center\">\n      <Button>Click me</Button>\n    </div>\n  )\n}\n\nexport default App\n```\n\n## 9. Levantar el servidor de desarrollo\n\n```bash\nnpm run dev\n```\n\n## Resumen\n\n| Paso | Comando | Descripción |\n| --- | --- | --- |\n| 1 | `npm create vite@latest mi-proyecto -- --template react` | Crea el proyecto Vite + React (JS) |\n| 2 | `npm install tailwindcss @tailwindcss/vite` | Instala Tailwind CSS |\n| 3-5 | — | Configuración de `vite.config.js`, `index.css` y `jsconfig.json` |\n| 6 | `npx shadcn@latest init` | Inicializa shadcn/ui (elegir JavaScript) |\n| 7 | `npx shadcn@latest add button` | Agrega componentes `.jsx` |\n| 8-9 | `npm run dev` | Levanta el entorno de desarrollo |\n",
+            "filePath": "/home/winje/obsidian/Obsidian/NewNotes/React/Stack react/Paquete para trabajar con react en js.md"
+          }
+        },
+        {
+          "type": "text",
+          "text": "Ya quedó"
+        }
+      ],
+      "timestamp": "2026-09-02T20:44:55.609Z"
     }
   ],
-  "savedAt": "2026-09-02T20:44:00.175Z"
+  "savedAt": "2026-09-02T20:44:59.571Z"
 }
