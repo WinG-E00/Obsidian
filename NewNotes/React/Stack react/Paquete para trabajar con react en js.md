@@ -38,6 +38,11 @@ npm install tailwindcss @tailwindcss/vite
 
 Abrí `vite.config.js` y reemplazá todo su contenido con:
 
+
+```js
+npm install -D @types/node
+``` 
+
 ```js
 import path from "path"
 import tailwindcss from "@tailwindcss/vite"
