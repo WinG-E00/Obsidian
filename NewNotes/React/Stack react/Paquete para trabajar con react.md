@@ -12,7 +12,7 @@ Ejecutá el siguiente comando y seleccioná la plantilla **React + TypeScript**:
 npm create vite@latest
 
 //con esto para que no tenga errores
-npm create vite@latest mi-proyecto-shadcn -- --template react-ts
+npm create vite@latest mi-proyecto-shadcn -- --template react-js
 
 ```
 
