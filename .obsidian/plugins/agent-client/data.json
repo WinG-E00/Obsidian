@@ -134,7 +134,9 @@
       "updatedAt": "2026-09-01T21:28:06.196Z"
     }
   ],
-  "lastUsedModels": {},
+  "lastUsedModels": {
+    "opencode": "openai/gpt-5.6-terra-pro"
+  },
   "lastUsedModes": {},
   "lastUsedConfigOptions": {},
   "enableFloatingChat": false,
