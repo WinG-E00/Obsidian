@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "path:\"IA graphs\"  ",
+  "collapse-filter": false,
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
