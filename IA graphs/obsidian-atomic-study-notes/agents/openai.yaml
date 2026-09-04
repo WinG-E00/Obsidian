@@ -1,0 +1,6 @@
+interface:
+  display_name: "Obsidian Atomic Study Notes"
+  short_description: "Organiza aprendizaje en notas atómicas enlazadas"
+  default_prompt: "Usa $obsidian-atomic-study-notes para crear una estructura de estudio sobre Python."
+policy:
+  allow_implicit_invocation: false

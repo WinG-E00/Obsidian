@@ -21,6 +21,11 @@
         }
       ],
       "title": "4 de junio de 2026 12:30"
+    },
+    {
+      "type": "folder",
+      "ctime": 1788561589111,
+      "path": "rules"
     }
   ]
 }

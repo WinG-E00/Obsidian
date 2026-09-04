@@ -1,107 +1,51 @@
 {
-  "collapse-filter": false,
-  "search": "",
+  "collapse-filter": true,
+  "search": "path:\"IA graphs\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "#Tipos",
+      "color": {
+        "a": 1,
+        "rgb": 65284
+      }
+    },
     {
       "query": "#concepto",
       "color": {
         "a": 1,
-        "rgb": 54783
-      }
-    },
-    {
-      "query": "#elemento",
-      "color": {
-        "a": 1,
-        "rgb": 16099860
-      }
-    },
-    {
-      "query": "#tipos",
-      "color": {
-        "a": 1,
-        "rgb": 11206400
-      }
-    },
-    {
-      "query": "#operaciones",
-      "color": {
-        "a": 1,
-        "rgb": 16639
+        "rgb": 65471
       }
     },
     {
       "query": "#funciones",
       "color": {
         "a": 1,
-        "rgb": 16711901
+        "rgb": 10029532
       }
     },
     {
-      "query": "#funcion",
+      "query": "",
       "color": {
         "a": 1,
-        "rgb": 8257914
-      }
-    },
-    {
-      "query": "#nuevo_grupo",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "#elemento",
-      "color": {
-        "a": 1,
-        "rgb": 16746496
-      }
-    },
-    {
-      "query": "#funciones",
-      "color": {
-        "a": 1,
-        "rgb": 8388863
-      }
-    },
-    {
-      "query": "#funcion",
-      "color": {
-        "a": 1,
-        "rgb": 10879231
-      }
-    },
-    {
-      "query": "#operador",
-      "color": {
-        "a": 1,
-        "rgb": 13311
-      }
-    },
-    {
-      "query": "#operacion",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
+        "rgb": 5431378
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -2,
-  "nodeSizeMultiplier": 0.883968098958333,
-  "lineSizeMultiplier": 1.64520670572917,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.331512056063666,
-  "repelStrength": 9.51181850576078,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 227,
-  "scale": 0.06693619011158716,
-  "close": true
+  "linkDistance": 250,
+  "scale": 0.15906091373923031,
+  "close": false
 }

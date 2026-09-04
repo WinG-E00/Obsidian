@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "sessionId": "ses_f96732201ffeODY3H4jJfYT0e2",
+  "agentId": "opencode",
+  "cwd": "/home/winje/obsidian/Obsidian",
+  "title": "Necesito que en la carpeta Informacion que esta...",
+  "createdAt": "2026-09-03T23:16:28.467Z",
+  "updatedAt": "2026-09-03T23:16:28.467Z",
+  "messages": [
+    {
+      "id": "9b515140-d733-4410-8a8b-56a8a255884e",
+      "role": "user",
+      "content": [
+        {
+          "type": "text_with_context",
+          "text": "Necesito que en la carpeta Informacion que esta dentro de development me agreges informacion acerca de estos terminos de ia\n\nMCP, RAG, CLI y Agentes de IA\n\nquiero que sea informacion extensa porfavor que explique a detalle que es cada cosa",
+          "autoMentionContext": {
+            "noteName": "git worktrees",
+            "notePath": "NewNotes/development/git worktrees.md"
+          }
+        }
+      ],
+      "timestamp": "2026-09-03T23:14:51.111Z"
+    },
+    {
+      "id": "540f052f-d256-455d-9f18-158edd76197c",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "YsinnO7rtWUetu7b",
+          "title": "glob",
+          "status": "completed",
+          "kind": "search",
+          "content": [],
+          "locations": [],
+          "rawInput": {
+            "pattern": "**/Informacion*"
+          }
+        }
+      ],
+      "timestamp": "2026-09-03T23:14:54.041Z"
+    },
+    {
+      "id": "5cf409fd-b5c4-4cc8-9d19-d3733930e13a",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "lAyxsVLDf6D9Goy5",
+          "title": "glob",
+          "status": "completed",
+          "kind": "search",
+          "content": [],
+          "locations": [],
+          "rawInput": {
+            "pattern": "**/development/**"
+          }
+        }
+      ],
+      "timestamp": "2026-09-03T23:15:01.045Z"
+    },
+    {
+      "id": "0551adb3-0ced-4902-bf7d-e1ff2fa9932f",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "ioYXXXTq5I7lVFRD",
+          "title": "NewNotes/development/Harmeness.md",
+          "status": "completed",
+          "kind": "read",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian/NewNotes/development/Harmeness.md"
+            }
+          ],
+          "rawInput": {
+            "filePath": "/home/winje/obsidian/Obsidian/NewNotes/development/Harmeness.md",
+            "limit": 50
+          }
+        }
+      ],
+      "timestamp": "2026-09-03T23:15:01.045Z"
+    },
+    {
+      "id": "ad5d15a7-c086-4380-a25c-b86f3c51ce45",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "tool_call",
+          "toolCallId": "QGJyHMDNrZuPLMQF",
+          "title": "mkdir -p \"/home/winje/obsidian/Obsidian/NewNotes/development/Informacion\"",
+          "status": "completed",
+          "kind": "execute",
+          "content": [],
+          "locations": [
+            {
+              "path": "/home/winje/obsidian/Obsidian"
+            }
+          ],
+          "rawInput": {
+            "command": "mkdir -p \"/home/winje/obsidian/Obsidian/NewNotes/development/Informacion\"",
+            "cwd": "/home/winje/obsidian/Obsidian"
+          }
+        }
+      ],
+      "timestamp": "2026-09-03T23:15:01.045Z"
+    }
+  ],
+  "savedAt": "2026-09-03T23:16:28.515Z"
+}
