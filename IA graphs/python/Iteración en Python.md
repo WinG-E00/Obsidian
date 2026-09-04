@@ -8,7 +8,9 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/Definición de funciones en Python|Definición de funciones en Python]]"
+  - "[[IA graphs/python/list en Python|list en Python]]"
 parts:
   - "[[IA graphs/python/Iterable en Python|Iterable en Python]]"
   - "[[IA graphs/python/Iterador en Python|Iterador en Python]]"
@@ -23,6 +25,8 @@ contrasts: []
 # Iteración en Python
 
 Forma parte de [[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]].
+
+Antes de estudiar: [[IA graphs/python/Definición de funciones en Python|Definición de funciones en Python]] · [[IA graphs/python/list en Python|list en Python]].
 
 Cómo recorrer y producir datos de forma progresiva.
 
@@ -46,4 +50,4 @@ Iterar significa obtener valores progresivamente. [[IA graphs/python/Iterable en
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/tutorial/datastructures.html).

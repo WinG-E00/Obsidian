@@ -8,7 +8,8 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/Tipos de datos en Python|Tipos de datos en Python]]"
 parts:
   - "[[IA graphs/python/Operadores aritméticos en Python|Operadores aritméticos en Python]]"
   - "[[IA graphs/python/Operadores de comparación en Python|Operadores de comparación en Python]]"
@@ -25,6 +26,8 @@ contrasts: []
 # Expresiones y operadores en Python
 
 Forma parte de [[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]].
+
+Antes de estudiar: [[IA graphs/python/Tipos de datos en Python|Tipos de datos en Python]].
 
 Cómo se combinan valores para obtener resultados.
 
@@ -50,4 +53,4 @@ Una expresión calcula un valor a partir de objetos y operaciones. Las familias 
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/expressions.html).

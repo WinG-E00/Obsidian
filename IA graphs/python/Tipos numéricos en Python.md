@@ -8,7 +8,8 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Tipos de datos en Python|Tipos de datos en Python]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/Variables y asignación en Python|Variables y asignación en Python]]"
 parts:
   - "[[IA graphs/python/int en Python|int en Python]]"
   - "[[IA graphs/python/float en Python|float en Python]]"
@@ -21,6 +22,8 @@ contrasts: []
 # Tipos numéricos en Python
 
 Forma parte de [[IA graphs/python/Tipos de datos en Python|Tipos de datos en Python]].
+
+Antes de estudiar: [[IA graphs/python/Variables y asignación en Python|Variables y asignación en Python]].
 
 Enteros, aproximaciones reales, complejos y valores lógicos.
 
@@ -42,4 +45,4 @@ Para necesidades específicas existen Decimal y Fraction en la biblioteca están
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/library/stdtypes.html).

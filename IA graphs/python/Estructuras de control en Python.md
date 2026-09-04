@@ -8,7 +8,9 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/bool en Python|bool en Python]]"
+  - "[[IA graphs/python/Expresiones y operadores en Python|Expresiones y operadores en Python]]"
 parts:
   - "[[IA graphs/python/Evaluación booleana en Python|Evaluación booleana en Python]]"
   - "[[IA graphs/python/Condicional if en Python|Condicional if en Python]]"
@@ -26,6 +28,8 @@ contrasts: []
 # Estructuras de control en Python
 
 Forma parte de [[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]].
+
+Antes de estudiar: [[IA graphs/python/bool en Python|bool en Python]] · [[IA graphs/python/Expresiones y operadores en Python|Expresiones y operadores en Python]].
 
 Cómo elegir y repetir instrucciones.
 
@@ -52,4 +56,4 @@ Las instrucciones pueden ejecutarse en secuencia, elegir una rama o repetir un b
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/compound_stmts.html).

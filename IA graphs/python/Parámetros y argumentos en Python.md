@@ -8,7 +8,8 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Funciones en Python|Funciones en Python]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/Definición de funciones en Python|Definición de funciones en Python]]"
 parts:
   - "[[IA graphs/python/Clases de parámetros en Python|Clases de parámetros en Python]]"
   - "[[IA graphs/python/Valores por defecto en Python|Valores por defecto en Python]]"
@@ -21,6 +22,8 @@ contrasts: []
 # Parámetros y argumentos en Python
 
 Forma parte de [[IA graphs/python/Funciones en Python|Funciones en Python]].
+
+Antes de estudiar: [[IA graphs/python/Definición de funciones en Python|Definición de funciones en Python]].
 
 El contrato entre la definición y la llamada de una función.
 
@@ -42,4 +45,4 @@ La definición declara parámetros; la llamada proporciona argumentos. [[IA grap
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/tutorial/controlflow.html).

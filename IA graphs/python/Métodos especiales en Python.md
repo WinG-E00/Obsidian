@@ -8,7 +8,9 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Protocolos del modelo de datos en Python|Protocolos del modelo de datos en Python]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/Clases en Python|Clases en Python]]"
+  - "[[IA graphs/python/Métodos y self en Python|Métodos y self en Python]]"
 parts:
   - "[[IA graphs/python/Creación con __new__ en Python|Creación con __new__ en Python]]"
   - "[[IA graphs/python/Representación con repr y str en Python|Representación con repr y str en Python]]"
@@ -23,6 +25,8 @@ contrasts: []
 # Métodos especiales en Python
 
 Forma parte de [[IA graphs/python/Protocolos del modelo de datos en Python|Protocolos del modelo de datos en Python]].
+
+Antes de estudiar: [[IA graphs/python/Clases en Python|Clases en Python]] · [[IA graphs/python/Métodos y self en Python|Métodos y self en Python]].
 
 Puntos de integración entre objetos y operaciones del lenguaje.
 
@@ -46,4 +50,4 @@ Los nombres con doble guion bajo inicial y final corresponden a operaciones reco
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/datamodel.html).

@@ -8,7 +8,9 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/Definición de funciones en Python|Definición de funciones en Python]]"
+  - "[[IA graphs/python/Tipos de datos en Python|Tipos de datos en Python]]"
 parts:
   - "[[IA graphs/python/Anotaciones de funciones y variables en Python|Anotaciones de funciones y variables en Python]]"
   - "[[IA graphs/python/Uniones y valores opcionales en Python|Uniones y valores opcionales en Python]]"
@@ -25,6 +27,8 @@ contrasts: []
 # Anotaciones de tipos en Python
 
 Forma parte de [[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]].
+
+Antes de estudiar: [[IA graphs/python/Definición de funciones en Python|Definición de funciones en Python]] · [[IA graphs/python/Tipos de datos en Python|Tipos de datos en Python]].
 
 Cómo expresar contratos verificables sin cambiar el tipado dinámico.
 
@@ -50,4 +54,4 @@ El tipado dinámico describe cómo ejecuta Python; las [[IA graphs/python/Anotac
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/library/typing.html).

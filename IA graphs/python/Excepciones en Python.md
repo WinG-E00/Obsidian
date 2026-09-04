@@ -8,7 +8,9 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/Definición de funciones en Python|Definición de funciones en Python]]"
+  - "[[IA graphs/python/Estructuras de control en Python|Estructuras de control en Python]]"
 parts:
   - "[[IA graphs/python/Objeto excepción y propagación en Python|Objeto excepción y propagación en Python]]"
   - "[[IA graphs/python/try y except en Python|try y except en Python]]"
@@ -23,6 +25,8 @@ contrasts: []
 # Excepciones en Python
 
 Forma parte de [[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]].
+
+Antes de estudiar: [[IA graphs/python/Definición de funciones en Python|Definición de funciones en Python]] · [[IA graphs/python/Estructuras de control en Python|Estructuras de control en Python]].
 
 Cómo se representan, propagan y manejan los fallos.
 
@@ -46,4 +50,4 @@ Una [[IA graphs/python/Objeto excepción y propagación en Python|excepción]] t
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/tutorial/errors.html).

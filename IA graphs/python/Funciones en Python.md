@@ -8,7 +8,9 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/Variables y asignación en Python|Variables y asignación en Python]]"
+  - "[[IA graphs/python/Estructuras de control en Python|Estructuras de control en Python]]"
 parts:
   - "[[IA graphs/python/Definición de funciones en Python|Definición de funciones en Python]]"
   - "[[IA graphs/python/Retorno de funciones en Python|Retorno de funciones en Python]]"
@@ -24,6 +26,8 @@ contrasts: []
 # Funciones en Python
 
 Forma parte de [[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]].
+
+Antes de estudiar: [[IA graphs/python/Variables y asignación en Python|Variables y asignación en Python]] · [[IA graphs/python/Estructuras de control en Python|Estructuras de control en Python]].
 
 Cómo definir operaciones reutilizables y resolver nombres.
 
@@ -48,4 +52,4 @@ Una función reúne una operación reutilizable y le da un contrato. [[IA graphs
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/tutorial/controlflow.html).

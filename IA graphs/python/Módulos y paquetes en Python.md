@@ -8,7 +8,9 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/Definición de funciones en Python|Definición de funciones en Python]]"
+  - "[[IA graphs/python/Ámbitos de nombres en Python|Ámbitos de nombres en Python]]"
 parts:
   - "[[IA graphs/python/Módulo en Python|Módulo en Python]]"
   - "[[IA graphs/python/import en Python|import en Python]]"
@@ -22,6 +24,8 @@ contrasts: []
 # Módulos y paquetes en Python
 
 Forma parte de [[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]].
+
+Antes de estudiar: [[IA graphs/python/Definición de funciones en Python|Definición de funciones en Python]] · [[IA graphs/python/Ámbitos de nombres en Python|Ámbitos de nombres en Python]].
 
 Cómo se organiza y se carga código entre archivos.
 
@@ -44,4 +48,4 @@ El código se divide en [[IA graphs/python/Módulo en Python|módulos]] con espa
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/import.html).

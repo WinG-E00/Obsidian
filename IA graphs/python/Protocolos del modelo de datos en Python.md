@@ -8,7 +8,9 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/Clases en Python|Clases en Python]]"
+  - "[[IA graphs/python/Métodos y self en Python|Métodos y self en Python]]"
 parts:
   - "[[IA graphs/python/Descriptores en Python|Descriptores en Python]]"
   - "[[IA graphs/python/Acceso dinámico a atributos en Python|Acceso dinámico a atributos en Python]]"
@@ -24,6 +26,8 @@ contrasts: []
 # Protocolos del modelo de datos en Python
 
 Forma parte de [[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]].
+
+Antes de estudiar: [[IA graphs/python/Clases en Python|Clases en Python]] · [[IA graphs/python/Métodos y self en Python|Métodos y self en Python]].
 
 Cómo una clase participa en la sintaxis del lenguaje.
 
@@ -48,4 +52,4 @@ El lenguaje no se limita a operar con tipos incorporados. Busca métodos y mecan
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/datamodel.html).

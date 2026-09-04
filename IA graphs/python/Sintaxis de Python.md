@@ -44,4 +44,4 @@ La sintaxis define cómo reconocer los componentes y bloques de un programa. [[I
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/lexical_analysis.html).

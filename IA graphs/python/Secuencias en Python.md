@@ -8,7 +8,8 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Tipos de datos en Python|Tipos de datos en Python]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/Mutabilidad en Python|Mutabilidad en Python]]"
 parts:
   - "[[IA graphs/python/Indexación en Python|Indexación en Python]]"
   - "[[IA graphs/python/Slicing en Python|Slicing en Python]]"
@@ -23,6 +24,8 @@ contrasts: []
 # Secuencias en Python
 
 Forma parte de [[IA graphs/python/Tipos de datos en Python|Tipos de datos en Python]].
+
+Antes de estudiar: [[IA graphs/python/Mutabilidad en Python|Mutabilidad en Python]].
 
 Contenedores ordenados que se consultan por posición.
 
@@ -46,4 +49,4 @@ Una secuencia ordena elementos por posición. [[IA graphs/python/Indexación en 
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/library/stdtypes.html).

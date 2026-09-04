@@ -9,7 +9,9 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Funciones en Python|Funciones en Python]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/Variables y asignación en Python|Variables y asignación en Python]]"
+  - "[[IA graphs/python/Definición de funciones en Python|Definición de funciones en Python]]"
 parts:
   - "[[IA graphs/python/Resolución de nombres LEGB en Python|Resolución de nombres LEGB en Python]]"
   - "[[IA graphs/python/global en Python|global en Python]]"
@@ -22,6 +24,8 @@ contrasts: []
 # Ámbitos de nombres en Python
 
 Forma parte de [[IA graphs/python/Funciones en Python|Funciones en Python]].
+
+Antes de estudiar: [[IA graphs/python/Variables y asignación en Python|Variables y asignación en Python]] · [[IA graphs/python/Definición de funciones en Python|Definición de funciones en Python]].
 
 Las reglas para localizar y vincular los nombres.
 
@@ -43,4 +47,4 @@ Un ámbito determina dónde se puede resolver una vinculación de nombre. [[IA g
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/executionmodel.html).

@@ -8,7 +8,9 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/Definición de funciones en Python|Definición de funciones en Python]]"
+  - "[[IA graphs/python/Modelo de objetos en Python|Modelo de objetos en Python]]"
 parts:
   - "[[IA graphs/python/Clases en Python|Clases en Python]]"
   - "[[IA graphs/python/Instancias en Python|Instancias en Python]]"
@@ -28,6 +30,8 @@ contrasts: []
 # Orientación a objetos en Python
 
 Forma parte de [[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]].
+
+Antes de estudiar: [[IA graphs/python/Definición de funciones en Python|Definición de funciones en Python]] · [[IA graphs/python/Modelo de objetos en Python|Modelo de objetos en Python]].
 
 Cómo definir tipos propios y distribuir responsabilidades.
 
@@ -56,4 +60,4 @@ Definir [[IA graphs/python/Clases en Python|clases]] permite crear tipos adaptad
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/tutorial/classes.html).

@@ -8,7 +8,9 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Protocolos del modelo de datos en Python|Protocolos del modelo de datos en Python]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/try y except en Python|try y except en Python]]"
+  - "[[IA graphs/python/finally en Python|finally en Python]]"
 parts:
   - "[[IA graphs/python/Sentencia with en Python|Sentencia with en Python]]"
   - "[[IA graphs/python/Gestores con contextlib.contextmanager en Python|Gestores con contextlib.contextmanager en Python]]"
@@ -19,6 +21,8 @@ contrasts: []
 # Gestores de contexto en Python
 
 Forma parte de [[IA graphs/python/Protocolos del modelo de datos en Python|Protocolos del modelo de datos en Python]].
+
+Antes de estudiar: [[IA graphs/python/try y except en Python|try y except en Python]] · [[IA graphs/python/finally en Python|finally en Python]].
 
 Adquisición y liberación estructurada de recursos.
 
@@ -38,4 +42,4 @@ Un gestor de contexto relaciona la entrada a un bloque con la limpieza al salir.
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/compound_stmts.html).

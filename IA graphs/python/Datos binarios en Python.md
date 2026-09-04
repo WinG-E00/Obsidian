@@ -8,7 +8,8 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Tipos de datos en Python|Tipos de datos en Python]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/int en Python|int en Python]]"
 parts:
   - "[[IA graphs/python/bytes en Python|bytes en Python]]"
   - "[[IA graphs/python/bytearray en Python|bytearray en Python]]"
@@ -20,6 +21,8 @@ contrasts: []
 # Datos binarios en Python
 
 Forma parte de [[IA graphs/python/Tipos de datos en Python|Tipos de datos en Python]].
+
+Antes de estudiar: [[IA graphs/python/int en Python|int en Python]].
 
 Bytes y vistas de memoria que se distinguen del texto.
 
@@ -40,4 +43,4 @@ Los datos binarios son unidades de almacenamiento, no texto interpretado automá
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/library/stdtypes.html).

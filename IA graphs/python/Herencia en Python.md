@@ -8,7 +8,9 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Orientación a objetos en Python|Orientación a objetos en Python]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/Clases en Python|Clases en Python]]"
+  - "[[IA graphs/python/Métodos y self en Python|Métodos y self en Python]]"
 parts:
   - "[[IA graphs/python/Subclases y sobrescritura en Python|Subclases y sobrescritura en Python]]"
   - "[[IA graphs/python/super y orden de resolución en Python|super y orden de resolución en Python]]"
@@ -20,6 +22,8 @@ contrasts: []
 # Herencia en Python
 
 Forma parte de [[IA graphs/python/Orientación a objetos en Python|Orientación a objetos en Python]].
+
+Antes de estudiar: [[IA graphs/python/Clases en Python|Clases en Python]] · [[IA graphs/python/Métodos y self en Python|Métodos y self en Python]].
 
 Reutilización y especialización mediante clases base.
 
@@ -40,4 +44,4 @@ La herencia establece que un tipo especializa a otro y participa en su relación
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/tutorial/classes.html).

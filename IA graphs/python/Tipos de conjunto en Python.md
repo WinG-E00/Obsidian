@@ -8,7 +8,8 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Tipos de datos en Python|Tipos de datos en Python]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/Hashabilidad en Python|Hashabilidad en Python]]"
 parts:
   - "[[IA graphs/python/set en Python|set en Python]]"
   - "[[IA graphs/python/frozenset en Python|frozenset en Python]]"
@@ -19,6 +20,8 @@ contrasts: []
 # Tipos de conjunto en Python
 
 Forma parte de [[IA graphs/python/Tipos de datos en Python|Tipos de datos en Python]].
+
+Antes de estudiar: [[IA graphs/python/Hashabilidad en Python|Hashabilidad en Python]].
 
 Colecciones de elementos únicos con operaciones matemáticas.
 
@@ -38,4 +41,4 @@ Los conjuntos representan pertenencia única, sin índices ni orden de inserció
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/library/stdtypes.html).

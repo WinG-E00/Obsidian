@@ -8,7 +8,8 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Iteración en Python|Iteración en Python]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/Bucle for en Python|Bucle for en Python]]"
 parts:
   - "[[IA graphs/python/Comprensiones de listas en Python|Comprensiones de listas en Python]]"
   - "[[IA graphs/python/Comprensiones de diccionarios en Python|Comprensiones de diccionarios en Python]]"
@@ -20,6 +21,8 @@ contrasts: []
 # Comprensiones en Python
 
 Forma parte de [[IA graphs/python/Iteración en Python|Iteración en Python]].
+
+Antes de estudiar: [[IA graphs/python/Bucle for en Python|Bucle for en Python]].
 
 Construcción declarativa de colecciones a partir de recorridos.
 
@@ -40,4 +43,4 @@ Las comprensiones expresan transformación y filtrado como construcción de una 
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/expressions.html).

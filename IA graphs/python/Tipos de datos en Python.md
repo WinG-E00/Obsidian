@@ -8,7 +8,9 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/Variables y asignación en Python|Variables y asignación en Python]]"
+  - "[[IA graphs/python/Mutabilidad en Python|Mutabilidad en Python]]"
 parts:
   - "[[IA graphs/python/None en Python|None en Python]]"
   - "[[IA graphs/python/dict en Python|dict en Python]]"
@@ -24,6 +26,8 @@ contrasts: []
 # Tipos de datos en Python
 
 Forma parte de [[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]].
+
+Antes de estudiar: [[IA graphs/python/Variables y asignación en Python|Variables y asignación en Python]] · [[IA graphs/python/Mutabilidad en Python|Mutabilidad en Python]].
 
 Qué valores existen y qué operaciones permite cada tipo.
 
@@ -48,4 +52,4 @@ Un tipo determina operaciones válidas y reglas de sus valores. Elegir entre [[I
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/library/stdtypes.html).

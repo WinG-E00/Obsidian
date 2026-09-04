@@ -8,7 +8,8 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/Sintaxis de Python|Sintaxis de Python]]"
 parts:
   - "[[IA graphs/python/Variables y asignación en Python|Variables y asignación en Python]]"
   - "[[IA graphs/python/Identidad e igualdad en Python|Identidad e igualdad en Python]]"
@@ -24,6 +25,8 @@ contrasts: []
 # Modelo de objetos en Python
 
 Forma parte de [[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]].
+
+Antes de estudiar: [[IA graphs/python/Sintaxis de Python|Sintaxis de Python]].
 
 Cómo los nombres, los tipos y la identidad explican el comportamiento de los datos.
 
@@ -48,4 +51,4 @@ De estas reglas se deducen [[IA graphs/python/Copia superficial y profunda en Py
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/datamodel.html).

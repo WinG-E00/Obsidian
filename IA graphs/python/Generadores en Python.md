@@ -8,7 +8,9 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Iteración en Python|Iteración en Python]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/Iterador en Python|Iterador en Python]]"
+  - "[[IA graphs/python/Definición de funciones en Python|Definición de funciones en Python]]"
 parts:
   - "[[IA graphs/python/yield en Python|yield en Python]]"
   - "[[IA graphs/python/yield from en Python|yield from en Python]]"
@@ -20,6 +22,8 @@ contrasts: []
 # Generadores en Python
 
 Forma parte de [[IA graphs/python/Iteración en Python|Iteración en Python]].
+
+Antes de estudiar: [[IA graphs/python/Iterador en Python|Iterador en Python]] · [[IA graphs/python/Definición de funciones en Python|Definición de funciones en Python]].
 
 Iteradores que conservan su ejecución entre entregas.
 
@@ -40,4 +44,4 @@ Un generador es un iterador cuyo estado incluye una ejecución suspendida. Se co
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/expressions.html).
