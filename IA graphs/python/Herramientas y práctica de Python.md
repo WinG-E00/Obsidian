@@ -8,7 +8,8 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/Ejecución de un programa en Python|Ejecución de un programa en Python]]"
 parts:
   - "[[IA graphs/python/Entrada y salida por consola en Python|Entrada y salida por consola en Python]]"
   - "[[IA graphs/python/Archivos y open en Python|Archivos y open en Python]]"
@@ -29,6 +30,8 @@ contrasts: []
 # Herramientas y práctica de Python
 
 Forma parte de [[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]].
+
+Antes de estudiar: [[IA graphs/python/Ejecución de un programa en Python|Ejecución de un programa en Python]].
 
 Cómo conectar el lenguaje con archivos, entornos y pruebas.
 
@@ -58,4 +61,4 @@ El lenguaje se vuelve útil al conectarlo con entradas, archivos y proyectos com
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/library/index.html).

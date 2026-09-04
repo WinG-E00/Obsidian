@@ -8,7 +8,10 @@ tags:
   - "estudio"
 up:
   - "[[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]]"
-prerequisites: []
+prerequisites:
+  - "[[IA graphs/python/Definición de funciones en Python|Definición de funciones en Python]]"
+  - "[[IA graphs/python/try y except en Python|try y except en Python]]"
+  - "[[IA graphs/python/Sentencia with en Python|Sentencia with en Python]]"
 parts:
   - "[[IA graphs/python/Corrutinas y async def en Python|Corrutinas y async def en Python]]"
   - "[[IA graphs/python/await en Python|await en Python]]"
@@ -26,6 +29,8 @@ contrasts: []
 # Concurrencia en Python
 
 Forma parte de [[IA graphs/python/Python - Mapa del lenguaje|Python - Mapa del lenguaje]].
+
+Antes de estudiar: [[IA graphs/python/Definición de funciones en Python|Definición de funciones en Python]] · [[IA graphs/python/try y except en Python|try y except en Python]] · [[IA graphs/python/Sentencia with en Python|Sentencia with en Python]].
 
 Cómo coordinar trabajo que espera o se ejecuta simultáneamente.
 
@@ -52,4 +57,4 @@ Concurrencia significa que varias actividades progresan durante un intervalo; pa
 
 ## Referencia
 
-[Documentación oficial de Python 3.14](https://docs.python.org/3.14/reference/index.html).
+[Documentación oficial de Python 3.14](https://docs.python.org/3.14/library/asyncio.html).

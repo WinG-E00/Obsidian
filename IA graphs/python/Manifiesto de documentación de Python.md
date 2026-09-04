@@ -48,7 +48,21 @@ El archivo solicitado `rules/rules_for_notes_creation.md` estaba vacío al inspe
 
 ## Verificación
 
-Pendiente de la comprobación final de archivos y ejemplos. Esta sección se actualizará con el resultado real.
+Verificación realizada el 2026-09-04:
+
+- 190 archivos Markdown con YAML válido y títulos coincidentes con sus archivos.
+- 189 relaciones padre–hijo recíprocas; cada nota salvo la raíz tiene padre directo.
+- Las 190 notas son accesibles desde la raíz siguiendo `parts`, con profundidad máxima de cuatro enlaces jerárquicos.
+- 1054 relaciones dirigidas distintas mediante wikilinks, contando navegación y referencias entre notas.
+- Ningún enlace interno roto ni nota huérfana. Sin ciclos en `parts` ni en `prerequisites`; las relaciones de comparación y navegación pueden ser recíprocas.
+- Tablas con cantidad de columnas consistente y bloques de código correctamente cerrados. Los aliases dentro de tablas usan el separador escapado que requiere Markdown.
+- 161 bloques de ejemplo Python ejecutados por separado con Python 3.14.7: 161 salidas coincidentes, sin fallos ni mensajes de error inesperados.
+
+La ejecución comprueba los bloques completos marcados como ejemplos; las firmas de tablas, fragmentos en línea y comandos de terminal son documentación y no una batería exhaustiva de todas las APIs. No se instalaron dependencias ni se creó un entorno de proyecto para validar las notas.
+
+Se verificaron archivos, propiedades, enlaces, tablas y ejemplos de forma automatizada. No se inspeccionó visualmente la vista de lectura de Obsidian; su presentación final también depende del tema y la configuración del vault.
+
+Enlaces internos pendientes de resolver: ninguno. Para ampliar una interfaz más allá de las operaciones seleccionadas, usá la documentación oficial citada en su nota.
 
 ## Archivos creados
 
