@@ -61,14 +61,14 @@ Los bloques Python muestran código y los bloques de salida muestran el resultad
 
 | Estructura oficial | Rama de estudio |
 |---|---|
-| Análisis léxico | [[IA graphs/python/Sintaxis de Python|Sintaxis]] |
-| Modelo de datos | [[IA graphs/python/Modelo de objetos en Python|Objetos]], [[IA graphs/python/Tipos de datos en Python|tipos]] y [[IA graphs/python/Protocolos del modelo de datos en Python|protocolos]] |
-| Modelo de ejecución | [[IA graphs/python/Ejecución de un programa en Python|Ejecución]], [[IA graphs/python/Ámbitos de nombres en Python|ámbitos]] y [[IA graphs/python/Excepciones en Python|excepciones]] |
-| Sistema de importación | [[IA graphs/python/Módulos y paquetes en Python|Módulos y paquetes]] |
-| Expresiones | [[IA graphs/python/Expresiones y operadores en Python|Operadores]], [[IA graphs/python/Iteración en Python|iteración]] y [[IA graphs/python/Funciones en Python|funciones]] |
+| Análisis léxico | [[IA graphs/python/Sintaxis de Python\|Sintaxis]] |
+| Modelo de datos | [[IA graphs/python/Modelo de objetos en Python\|Objetos]], [[IA graphs/python/Tipos de datos en Python\|tipos]] y [[IA graphs/python/Protocolos del modelo de datos en Python\|protocolos]] |
+| Modelo de ejecución | [[IA graphs/python/Ejecución de un programa en Python\|Ejecución]], [[IA graphs/python/Ámbitos de nombres en Python\|ámbitos]] y [[IA graphs/python/Excepciones en Python\|excepciones]] |
+| Sistema de importación | [[IA graphs/python/Módulos y paquetes en Python\|Módulos y paquetes]] |
+| Expresiones | [[IA graphs/python/Expresiones y operadores en Python\|Operadores]], [[IA graphs/python/Iteración en Python\|iteración]] y [[IA graphs/python/Funciones en Python\|funciones]] |
 | Sentencias simples | Asignación, retorno, importación y manejo de errores en sus ramas |
-| Sentencias compuestas | [[IA graphs/python/Estructuras de control en Python|Control]], [[IA graphs/python/Orientación a objetos en Python|clases]], [[IA graphs/python/Gestores de contexto en Python|contextos]] y [[IA graphs/python/Concurrencia en Python|concurrencia]] |
-| Anotaciones y parámetros de tipo | [[IA graphs/python/Anotaciones de tipos en Python|Tipado]] |
+| Sentencias compuestas | [[IA graphs/python/Estructuras de control en Python\|Control]], [[IA graphs/python/Orientación a objetos en Python\|clases]], [[IA graphs/python/Gestores de contexto en Python\|contextos]] y [[IA graphs/python/Concurrencia en Python\|concurrencia]] |
+| Anotaciones y parámetros de tipo | [[IA graphs/python/Anotaciones de tipos en Python\|Tipado]] |
 
 La clasificación es conceptual, no una herencia de clases: que dos notas tengan el mismo padre de estudio no implica que sus tipos hereden entre sí.
 
