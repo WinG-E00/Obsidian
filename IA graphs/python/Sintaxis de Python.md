@@ -18,7 +18,7 @@ parts:
 related: []
 contrasts: []
 ---
-
+o
 # Sintaxis de Python
 
 Forma parte de [[IA graphs/python/Fundamentos de Python|Fundamentos de Python]].
