@@ -15,8 +15,15 @@ vender idea......
 
 
 **salud
+
+
 educación
+aprendizaje  
+
 producción y medio ambiente
+
+
+
 seguridad y sociedad, y economía**.
 
 
