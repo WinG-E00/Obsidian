@@ -17,10 +17,12 @@ vender idea......
 **salud
 
 
-educación
-aprendizaje lento, informacion especifica poco detellada, poca productividad, mucha dependencia de herramientas tecnologicas, pocos contenidos desarrollados, poca interaccion con los metodos tradicionales de estudio, depencia casi total por ia  
 
-producción y medio ambiente
+educación
+aprendizaje lento, informacion especifica poco detellada, poca productividad, mucha dependencia de herramientas tecnologicas, pocos contenidos desarrollados, poca interaccion con los metodos tradicionales de estudio, depencia casi total por ia. 
+
+
+Producción y medio ambiente
 
 
 
