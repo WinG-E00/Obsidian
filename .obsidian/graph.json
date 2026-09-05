@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"IA graphs\"  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.36021865694448957,
+  "scale": 0.05649115798097383,
   "close": false
 }
