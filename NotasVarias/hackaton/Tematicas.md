@@ -18,7 +18,7 @@ vender idea......
 
 
 educación
-aprendizaje  
+aprendizaje lento, informacion especifica poco detellada, poca productividad, mucha dependencia de herr 
 
 producción y medio ambiente
 
