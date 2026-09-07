@@ -1,4 +1,4 @@
-[[]]Como es la estructura del [[NewNotes/Sequelize/Modelo|Modelo]]
+[[]]Como es la estructura del [[NewNotes/express/sequelize/Sequelize/Modelo|Modelo]]
 ;;
 ```js
 
