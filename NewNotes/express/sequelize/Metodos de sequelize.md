@@ -16,7 +16,7 @@ tags:
 
 ## Consultas
 
-- [[Sequelize - métodos de consulta|Métodos de consulta]] — [[findAll]], [[findOne]], [[findByPk]] y [[findOrCreate]].
+- [[Sequelize - métodos de consulta|Métodos de consulta]] — [[findAll]], [[findOne]], [[findByPk]], [[findOrCreate]] y [[count]].
 - [[Sequelize - operadores y opciones|Operadores y opciones]] — `where`, `Op`, [[include]], `attributes`, `order`, `limit` y `offset`.
 
 ## Escritura de datos
