@@ -7,6 +7,8 @@ secundario
 11001
 
 c.oferta
-101
-102
-110
+101 ini
+102 primario
+110 secundario
+115 superior
+
