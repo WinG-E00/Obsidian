@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:",
+  "search": "path:NewNotes/express  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.042484948517025146,
+  "scale": 0.21490979222924605,
   "close": false
 }
