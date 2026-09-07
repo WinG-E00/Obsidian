@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "path:NewNotes/express/sequelize",
+  "collapse-filter": true,
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6834950338924789,
+  "scale": 0.07251960738459651,
   "close": false
 }
