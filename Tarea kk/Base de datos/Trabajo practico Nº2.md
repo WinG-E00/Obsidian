@@ -17,3 +17,7 @@
 
 
 ### Punto 4
+![[../../Pasted image 20260909101927.png]]
+
+
+### Punto 5
