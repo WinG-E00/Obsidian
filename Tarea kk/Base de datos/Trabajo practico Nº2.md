@@ -37,3 +37,10 @@
 ![[../../Pasted image 20260909103917.png]]
 
 - Tomo el id
+![[../../Pasted image 20260909104224.png]]
+
+y listo
+![[../../Pasted image 20260909104244.png
+
+
+## Punto 9
