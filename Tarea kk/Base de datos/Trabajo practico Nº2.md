@@ -45,3 +45,7 @@ y listo
 
 ## Punto 9
 ![[../../Pasted image 20260909105143.png]]
+
+
+## Punto 10
+
