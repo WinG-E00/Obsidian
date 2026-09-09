@@ -21,3 +21,7 @@
 
 
 ### Punto 5
+![[../../Pasted image 20260909102933.png]]
+
+
+## Punto 6
