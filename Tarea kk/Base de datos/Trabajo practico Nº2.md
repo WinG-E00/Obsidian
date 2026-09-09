@@ -33,3 +33,7 @@
 
 
 ### Punto 8
+
+![[../../Pasted image 20260909103917.png]]
+
+- Tomo el id
