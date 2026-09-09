@@ -28,3 +28,8 @@
 
 ![[../../Pasted image 20260909103155.png]]
 
+## Punto 7 
+![[../../Pasted image 20260909103556.png]]
+
+
+### Punto 8
