@@ -26,6 +26,6 @@ Preparar diapositivas para exponer en clases y subirla a la actividad.
 
 **Obsidian** Pertenece a la categoria de utilitarios por que se caracteriza por ser una aplicacion de apoyo para almacenar informacion en forma de nodos que pueden conectarse entre si para relacionar los conceptos
 
-**Git**: Perte
+**Git**: Pertenece a la categoria de software de 
 
 **Firefox**: Pertenece a la categoria de software de aplicacion, 
