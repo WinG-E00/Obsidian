@@ -23,3 +23,5 @@ Preparar diapositivas para exponer en clases y subirla a la actividad.
 
 3)
 
+
+**Obsidian** Pertenece a la categoria de utilitarios por que se caracteriza 
