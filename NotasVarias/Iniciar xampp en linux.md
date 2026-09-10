@@ -1,7 +1,7 @@
 [[]][[]][[]][[]][[]][[]][[]][[]][[]][[]]
 
 ```bash
-sudo /opt/lampp/lampp start
+5
 
 sudo /opt/lampp/lampp stop
 ```
