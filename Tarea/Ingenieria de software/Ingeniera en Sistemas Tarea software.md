@@ -9,11 +9,17 @@ Preparar diapositivas para exponer en clases y subirla a la actividad.
 
 
 ### Desarrollo
+
+1)
 - Obsidian
 - Git
 - firefox
 
 
-2. Obsidian es una aplicacion de notas que sirve para conectar conceptos en notas 
-3. Git es un programa que sirve para almacenar proyectos en repositorios en la nube.
-4. Firefox es una aplicacion para navegar 
+2)
+1. Obsidian es una aplicacion de notas que sirve para conectar conceptos en notas 
+2. Git es un programa que sirve para almacenar proyectos en repositorios en la nube.
+3. Firefox es una aplicacion para navegar en la web
+
+3)
+
