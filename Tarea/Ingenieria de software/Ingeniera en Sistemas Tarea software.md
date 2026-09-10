@@ -16,4 +16,4 @@ Preparar diapositivas para exponer en clases y subirla a la actividad.
 
 2. Obsidian es una aplicacion de notas que sirve para conectar conceptos en notas 
 3. Git es un programa que sirve para almacenar proyectos en repositorios en la nube.
-4. 
+4. Firefox es una aplicacion para navegar 
