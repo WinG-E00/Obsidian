@@ -14,3 +14,4 @@ Preparar diapositivas para exponer en clases y subirla a la actividad.
 - firefox
 
 
+2. Obsidian es una aplicacion de notas 
