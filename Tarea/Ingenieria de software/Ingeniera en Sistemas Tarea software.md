@@ -28,4 +28,4 @@ Preparar diapositivas para exponer en clases y subirla a la actividad.
 
 **Git**: Git pertenece a la categoria de apoyo al sistema, ya que es un programa que sirve de apoyo al sistema para poder almacenar versiones de un proyecto y poder tener una version en la nube
 
-**Firefox**: 
+**Firefox**: Pertenece a la 
