@@ -30,6 +30,7 @@ Antes de estudiar: [[IA graphs/python/int en Python|int en Python]].
 bool es el tipo que tiene exactamente dos valores: True y False.
 
 Es un subtipo de [[IA graphs/python/int en Python|int]]: `True == 1` y `False == 0`, aunque sus representaciones comunican una decisión lógica. No se puede heredar de `bool`.
+<!--SR:!2026-09-11,1,230-->
 
 `bool(objeto=False, /) -> bool` consulta [[IA graphs/python/Evaluación booleana en Python|el valor de verdad]] del objeto, sin mutarlo. Hereda la interfaz numérica de `int`; no necesita métodos propios para representar sus dos valores. Sus propiedades `real`, `imag`, `numerator` y `denominator` son de solo lectura y siguen la interfaz entera.
 
