@@ -19,6 +19,9 @@ b- Choose the correct option
 5. This interface is friendlier / more friendly than the old interface.
 6. This solution is better / gooder than the previous solution.
 
+
+
+
 This computer is faster
 Python is easier 
 This application is more efficient
@@ -26,3 +29,26 @@ The new processor is more powerful
 This interface is friendlier
 This solution is better 
 
+b- Choose the correct option
+1. This computer is faster / more fast than that computer.
+2. Python is easier / more easy than some languages.
+3. This application is more efficient / efficienter than the old one.
+4. The new processor is more powerful / powerfuler than the previous one.
+5. This interface is friendlier / more friendly than the old interface.
+6. This solution is better / gooder than the previous solution.
+c- Read the text.
+Two Computers
+Computer A has a fast processor and 16 GB of memory. Computer B has a
+slower processor and 8 GB of memory. Computer A is more powerful than
+
+Computer B. However, Computer B is cheaper than Computer A. Computer B
+is also smaller and lighter. For programming, Computer A is better because it
+has more memory and a faster processor.
+
+Answer the questions
+Which computer has more memory?
+Which computer is more powerful?
+Which computer is cheaper?
+Which computer is smaller?
+Which computer is better for programming?
+Why is Computer A better for programming?
