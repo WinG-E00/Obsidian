@@ -19,3 +19,9 @@ b- Choose the correct option
 5. This interface is friendlier / more friendly than the old interface.
 6. This solution is better / gooder than the previous solution.
 
+This computer is faster
+Python is easier 
+This application is more efficient
+The new processor is more powerful 
+This interface is friendlier
+This solution is better 
