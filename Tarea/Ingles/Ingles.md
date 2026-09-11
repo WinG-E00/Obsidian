@@ -42,7 +42,6 @@ c- Read the text.
 Two Computers
 Computer A has a fast processor and 16 GB of memory. Computer B has a
 slower processor and 8 GB of memory. Computer A is more powerful than
-
 Computer B. However, Computer B is cheaper than Computer A. Computer B
 is also smaller and lighter. For programming, Computer A is better because it
 has more memory and a faster processor.
@@ -58,7 +57,10 @@ Which computer is cheaper?
 B
 
 Which computer is smaller?
+Computer b
 
 Which computer is better for programming?
+
+
 Why is Computer A better for programming?
 
