@@ -36,6 +36,8 @@ b- Choose the correct option
 4. The new processor is more powerful / powerfuler than the previous one.
 5. This interface is friendlier / more friendly than the old interface.
 6. This solution is better / gooder than the previous solution.
+
+
 c- Read the text.
 Two Computers
 Computer A has a fast processor and 16 GB of memory. Computer B has a
@@ -47,8 +49,15 @@ has more memory and a faster processor.
 
 Answer the questions
 Which computer has more memory?
+A
+
 Which computer is more powerful?
+A
+
 Which computer is cheaper?
+B
+
 Which computer is smaller?
 Which computer is better for programming?
 Why is Computer A better for programming?
+
