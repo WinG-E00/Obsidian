@@ -11,3 +11,11 @@ a- Complete with the correct comparative form.
 10. A server is usually larger **(large)** than a laptop.
 
 
+b- Choose the correct option
+1. This computer is faster / more fast than that computer.
+2. Python is easier / more easy than some languages.
+3. This application is more efficient / efficienter than the old one.
+4. The new processor is more powerful / powerfuler than the previous one.
+5. This interface is friendlier / more friendly than the old interface.
+6. This solution is better / gooder than the previous solution.
+
