@@ -1,4 +1,5 @@
-a- Complete with the correct comparative form.
+
+A - Complete with the correct comparative form.
 1. A laptop is smaller **(small)** than a desktop computer.
 2. This processor is faster_ (**fast)** than the old one.
 3. Python is easier **(easy)** than some other programming languages.
@@ -11,7 +12,7 @@ a- Complete with the correct comparative form.
 10. A server is usually larger **(large)** than a laptop.
 
 
-b- Choose the correct option
+A - Choose the correct option
 1. This computer is faster / more fast than that computer.
 2. Python is easier / more easy than some languages.
 3. This application is more efficient / efficienter than the old one.
@@ -29,7 +30,7 @@ This solution is better
 
 
 
-b- Choose the correct option
+A - Choose the correct option
 1. This computer is faster / more fast than that computer.
 2. Python is easier / more easy than some languages.
 3. This application is more efficient / efficienter than the old one.
@@ -60,7 +61,7 @@ Which computer is smaller?
 Computer b
 
 Which computer is better for programming?
-
+computer A
 
 Why is Computer A better for programming?
-
+Because has more memory and a faster processor
