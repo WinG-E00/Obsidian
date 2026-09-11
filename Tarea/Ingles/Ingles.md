@@ -58,6 +58,7 @@ Which computer is cheaper?
 B
 
 Which computer is smaller?
+
 Which computer is better for programming?
 Why is Computer A better for programming?
 
