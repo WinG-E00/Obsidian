@@ -1,6 +1,4 @@
-[[]]
-
-
+ENCINA GASTON
 ### Punto 1
 ![[../../Pasted image 20260909100400.png]]
 
@@ -95,3 +93,8 @@ Instituto Santa isabel
 
 Instituto Tecnico San jose
 ![[../../Pasted image 20260914110501.png]]
+
+
+
+## Punto 14
+![[../../Pasted image 20260914111123.png]]
