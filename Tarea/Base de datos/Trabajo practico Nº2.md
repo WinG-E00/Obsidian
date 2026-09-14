@@ -58,3 +58,8 @@ Mis datos en la base de datos
 ![[../../Pasted image 20260914094656.png]]
 
 Extraigo el id y actualizo mi informacion
+![[../../Pasted image 20260914095336.png]]
+
+
+
+## Punto 12
