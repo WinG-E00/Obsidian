@@ -66,3 +66,6 @@ computer A
 Why is Computer A better for programming?
 
 Because has more memory and a faster processor
+
+
+
