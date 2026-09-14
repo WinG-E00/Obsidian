@@ -83,3 +83,7 @@ en la coleccion de matricula
 Instituto Politecnico Formosa
 ![[../../Pasted image 20260914110108.png]]
 
+EPES N º 54 
+![[../../Pasted image 20260914110203.png]]
+
+Felix atilio cabrera
