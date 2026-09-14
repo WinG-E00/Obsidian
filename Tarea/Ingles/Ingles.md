@@ -80,7 +80,7 @@ Playstation/XBox
 ## Windows vs linux
 
 Linux is more secure than windows.
-Linux is more faster than windows.
+Linux is faster than windows.
 Linux is better than Windows
 Linux is more affordable
 Linux is more customizable than Windows
@@ -88,4 +88,5 @@ Linux is more customizable than Windows
 
 ## SSD HDD
 
-SSD are 
+SSD are faster than HDD
+HDD is 
