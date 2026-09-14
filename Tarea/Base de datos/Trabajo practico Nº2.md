@@ -63,3 +63,7 @@ Extraigo el id y actualizo mi informacion
 
 
 ## Punto 12
+12. De las colecciones que tenga a la fecha, eliminar todos los documentos, que no
+son de la provincia de Formosa.
+
+
