@@ -68,4 +68,14 @@ Why is Computer A better for programming?
 Because has more memory and a faster processor
 
 
+d- Compare two technologies: In pairs, write 5 sentences comparing 2 technologies chosen
+Laptop / Desktop computer
+Python / Java
+Windows / Linux
+Smartphone / iPhone
+SSD / HDD
+Playstation/XBox
+
+
+
 
