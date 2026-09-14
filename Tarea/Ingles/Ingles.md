@@ -84,9 +84,8 @@ Linux is faster than windows.
 Linux is better than Windows
 Linux is more affordable 
 Linux is more customizable than Windows
-
-
-## SSD HDD
+Linux is more customizable than Windows
+## SSD vs HDD
 
 SSD are faster than HDD
 HDD is more fragile than an ssd
