@@ -83,8 +83,9 @@ Linux is more secure than windows.
 Linux is more faster than windows.
 Linux is better than Windows
 Linux is more affordable
-Linux is 
+Linux is more customizable than Windows
 
 
-## SDD HDD
+## SSD HDD
 
+SSD are 
