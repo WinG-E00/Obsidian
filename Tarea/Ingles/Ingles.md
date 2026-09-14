@@ -89,4 +89,4 @@ Linux is more customizable than Windows
 ## SSD HDD
 
 SSD are faster than HDD
-HDD is 
+HDD is more fragile than an ssd
