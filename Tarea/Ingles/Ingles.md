@@ -1,4 +1,4 @@
-
+[[]]
 A - Complete with the correct comparative form.
 1. A laptop is smaller **(small)** than a desktop computer.
 2. This processor is faster_ (**fast)** than the old one.
