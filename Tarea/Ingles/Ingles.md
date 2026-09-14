@@ -82,7 +82,7 @@ Playstation/XBox
 Linux is more secure than windows.
 Linux is faster than windows.
 Linux is better than Windows
-Linux is more affordable
+Linux is more affordable 
 Linux is more customizable than Windows
 
 
