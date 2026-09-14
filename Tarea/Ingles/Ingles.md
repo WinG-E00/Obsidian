@@ -79,7 +79,9 @@ Playstation/XBox
 
 ## Windows vs linux
 
-Linux is more se
+Linux is more secure than windows.
+Linux is more faster than windows.
+Linux is 
 
 
 ## SDD HDD
