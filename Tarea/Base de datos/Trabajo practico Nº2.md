@@ -75,4 +75,4 @@ en la coleccion de matricula
 ![[../../Pasted image 20260914101323.png]]
 
 
-## 
+## Punto 13
