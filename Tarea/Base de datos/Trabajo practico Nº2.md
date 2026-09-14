@@ -78,3 +78,8 @@ en la coleccion de matricula
 ## Punto 13
 
 ![[../../Pasted image 20260914105505.png]]
+
+
+Instituto Politecnico Formosa
+![[../../Pasted image 20260914110108.png]]
+
