@@ -93,3 +93,5 @@ Instituto Santa isabel
 ![[../../Pasted image 20260914110350.png]]
 
 
+Instituto Tecnico San jose
+![[../../Pasted image 20260914110501.png]]
