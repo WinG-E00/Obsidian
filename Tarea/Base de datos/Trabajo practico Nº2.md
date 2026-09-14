@@ -88,3 +88,8 @@ EPES N º 54
 
 Felix atilio cabrera
 ![[../../Pasted image 20260914110302.png]]
+
+Instituto Santa isabel
+![[../../Pasted image 20260914110350.png]]
+
+
