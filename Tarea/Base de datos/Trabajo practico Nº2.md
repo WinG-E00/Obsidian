@@ -71,4 +71,8 @@ son de la provincia de Formosa.
 ![[../../Pasted image 20260914101231.png]]
 
 
+en la coleccion de matricula
+![[../../Pasted image 20260914101323.png]]
 
+
+## 
