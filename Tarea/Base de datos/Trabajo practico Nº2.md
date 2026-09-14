@@ -57,4 +57,4 @@ y listo
 Mis datos en la base de datos
 ![[../../Pasted image 20260914094656.png]]
 
-Extraigo el id
+Extraigo el id y actualizo mi informacion
