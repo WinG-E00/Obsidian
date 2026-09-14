@@ -77,4 +77,10 @@ SSD / HDD
 Playstation/XBox
 
 
+## Windows vs linux
+
+Linux is more se
+
+
+## SDD HDD
 
