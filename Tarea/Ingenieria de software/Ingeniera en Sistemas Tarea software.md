@@ -21,6 +21,9 @@ Preparar diapositivas para exponer en clases y subirla a la actividad.
 3. Firefox es una aplicacion para navegar en la web
 
 3)
+Explicacion
+
+
 
 
 Obsidian Pertenece a la categoria de utilitarios por que se caracteriza por ser una aplicacion de apoyo para almacenar informacion en forma de nodos que pueden conectarse entre si para relacionar los conceptos.
