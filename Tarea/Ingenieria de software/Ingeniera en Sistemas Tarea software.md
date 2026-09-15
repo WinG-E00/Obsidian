@@ -29,7 +29,7 @@ Software utilitarios: es el software que esta destinado a resolver una tarea esp
 
 Software de sistema: El software que esta creado para poder realizar la comunicacion con el hardware para que realize una o varias tareas.
 
-Lenguaje de programacion: Son len
+Lenguaje de programacion: Son lenguajes que estan diseñados para poder hablar con la maquina y darle instrucciones.
 
 
 Obsidian Pertenece a la categoria de utilitarios por que se caracteriza por ser una aplicacion de apoyo para almacenar informacion en forma de nodos que pueden conectarse entre si para relacionar los conceptos.
