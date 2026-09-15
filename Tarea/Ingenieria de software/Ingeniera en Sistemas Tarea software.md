@@ -23,7 +23,9 @@ Preparar diapositivas para exponer en clases y subirla a la actividad.
 3)
 #### Explicacion
 
-Software de aplicacion: el software de aplicacion es aquel que es destinado a 
+Software de aplicacion: el software de aplicacion es aquel que es destinado a resolver tareas del dia a dia
+
+Software utilitarios: es el software que esta destinado a resolver una tarea especifica, como el bloc de notas
 
 
 Obsidian Pertenece a la categoria de utilitarios por que se caracteriza por ser una aplicacion de apoyo para almacenar informacion en forma de nodos que pueden conectarse entre si para relacionar los conceptos.
