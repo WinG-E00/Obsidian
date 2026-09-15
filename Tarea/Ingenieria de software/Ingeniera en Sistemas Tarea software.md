@@ -22,6 +22,10 @@ Preparar diapositivas para exponer en clases y subirla a la actividad.
 
 3)
 #### Explicacion
+
+Software de aplicacion: el software de aplicacion es aquel que es destinado a 
+
+
 Obsidian Pertenece a la categoria de utilitarios por que se caracteriza por ser una aplicacion de apoyo para almacenar informacion en forma de nodos que pueden conectarse entre si para relacionar los conceptos.
 
 Git: Pertenece a la categoria de software de aplicacion por que es un programa que sirve para versionar tu codigo y subirlo a la nube, este resuelve la necesidad de guardar tu proyecto o volver hacia atras en caso de que lo necesite.
