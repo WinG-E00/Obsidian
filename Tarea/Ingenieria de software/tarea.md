@@ -1,9 +1,9 @@
 
 
 
-|            | Objetivo                               | Metodos | Procesos | Herramientas |
-| ---------- | -------------------------------------- | ------- | -------- | ------------ |
-| Definicion | Optimizar la revision de los bebederos |         |          |              |
-| Ambito     | Ganadero                               |         |          |              |
-| Proposito  | Solucionar la ineficiente gestion      |         |          |              |
-|            |                                        |         |          |              |
+|            | Objetivo                                  | Metodos | Procesos | Herramientas |
+| ---------- | ----------------------------------------- | ------- | -------- | ------------ |
+| Definicion | Es la meta o el proposito general que el  |         |          |              |
+| Ambito     | Ganadero                                  |         |          |              |
+| Proposito  | Solucionar la ineficiente gestion         |         |          |              |
+|            |                                           |         |          |              |
