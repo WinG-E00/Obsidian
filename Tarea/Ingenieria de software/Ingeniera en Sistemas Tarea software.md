@@ -9,7 +9,6 @@ Preparar diapositivas para exponer en clases y subirla a la actividad.
 
 
 ### Desarrollo
-
 1)
 - Obsidian
 - Git
