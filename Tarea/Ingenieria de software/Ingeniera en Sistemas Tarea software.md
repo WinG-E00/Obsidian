@@ -31,3 +31,5 @@ Obsidian Pertenece a la categoria de utilitarios por que se caracteriza por ser 
 Git: Pertenece a la categoria de software de aplicacion por que es un programa que sirve para versionar tu codigo y subirlo a la nube, este resuelve la necesidad de guardar tu proyecto o volver hacia atras en caso de que lo necesite.
 
 Firefox: Pertenece a la categoria de software de aplicacion, ya que sirve para realizar tareas del dia a dia de todo tipo
+
+
