@@ -5,4 +5,4 @@
 | ---------- | -------------------------------------- | ------- | -------- | ------------ |
 | Definicion | Optimizar la revision de los bebederos |         |          |              |
 | Ambito     | Ganadero                               |         |          |              |
-| Proposito  |                                        |         |          |              |
+| Proposito  | Solucionar la ineficiente gestion      |         |          |              |
