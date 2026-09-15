@@ -28,4 +28,4 @@ Preparar diapositivas para exponer en clases y subirla a la actividad.
 
 **Git**: Pertenece a la categoria de software de o
 
-**Firefox**: Pertenece a la categoria de software de aplicacion, ya que sirve para 
+**Firefox**: Pertenece a la categoria de software de aplicacion, ya que sirve para realizar tareas del dia a dia de todo tipo
