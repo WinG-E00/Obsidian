@@ -1,6 +1,8 @@
 
 
 
-|            | Objetivo | Metodos |
-| ---------- | -------- | ------- |
-| Definicion |          |         |
+|            | Objetivo | Metodos | Procesos | Herramientas |
+| ---------- | -------- | ------- | -------- | ------------ |
+| Definicion |          |         |          |              |
+| Ambito     |          |         |          |              |
+| Proposito  |          |         |          |              |
