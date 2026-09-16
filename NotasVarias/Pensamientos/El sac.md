@@ -1,2 +1,2 @@
-
-el unico momento en mi vida en que mas progrese fue cuando empeze a sacrificar....q
+[[]]
+el unico momento en mi vida en que mas progrese fue cuando empeze a sacrificar....
