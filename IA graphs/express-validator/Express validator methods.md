@@ -29,7 +29,7 @@ tags:
 - [[isUUID]]
 - [[isDate]]
 - [[isMobilePhone]]
-- [[]]
+- [[isStrongPassword]]
 
 ## Números y valores permitidos
 
