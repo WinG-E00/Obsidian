@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "Paquete para ",
+  "search": "path:\"IA graphs\"/ex",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7023319615912206,
-  "close": true
+  "scale": 0.19672055927420473,
+  "close": false
 }
