@@ -29,6 +29,7 @@ tags:
 - [[isUUID]]
 - [[isDate]]
 - [[isMobilePhone]]
+- [[]]
 
 ## Números y valores permitidos
 
