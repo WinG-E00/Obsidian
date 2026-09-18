@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"IA graphs\"/express-validator",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5936915395992658,
+  "scale": 0.25438183263699793,
   "close": false
 }
