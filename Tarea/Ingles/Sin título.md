@@ -48,7 +48,11 @@ I think i might be get rif of that, i wild just gonna do what ever i think is co
 
 Question 4:
 Erica: 
+And what do you gonna do if people keep talking about you or judge you?
 
+
+Criss:
+People can get his critize
 
 
 
