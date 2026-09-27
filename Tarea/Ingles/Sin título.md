@@ -31,6 +31,6 @@ What do you mean about fit in this enviroment?
 
 
 Criss: 
-Almost any social enviroment
+I mean almost any social environment. It feels like wherever you go, people expect you to put on a mask or act fake just to be accepted, and I’m just over it.
 
 
