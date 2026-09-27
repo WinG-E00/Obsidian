@@ -52,10 +52,17 @@ And what are you gonna do if people keep talking about you or judging you?
 
 
 Criss:
-People can get his critizes in their asses
+That's their problem, not mine. I'd rather be true to myself and judged for it than spend my life living for other people's approval.
 
 
+Question 5:
 
+Erica:
+And do you think that is the correct way of living?
+
+
+Criss:
+Definitly
 
 
 
