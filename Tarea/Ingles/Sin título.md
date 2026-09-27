@@ -76,7 +76,8 @@ Because
 
 Being yourselft is always better than triying to be someone else
 and
-Do what whatever you want to do is always more 
+Do what whatever you want to do is always more important than do what people expect you to do.
+
 
 
 
