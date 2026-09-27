@@ -25,16 +25,16 @@ Erica:
 Tell me Criss, what's happening with you?
 
 Criss:
-Well, I'm tired of this social environment where you sometimes have to act a certain way just to 'fit in' somewhere. And I don't want to fit in.
+Well, **I have realized** that I'm tired of this social environment... where you sometimes have to act a certain way just to 'fit in' somewhere. And I don't want to fit in.
 
 
 Question 2:
 Erica: 
 What do you mean about fit in this enviroment?
 
-
 Criss: 
 I mean almost any social environment. It feels like wherever you go, people expect you to put on a mask or act fake just to be accepted, and I’m just over it.
+
 
 
 Question 3:
@@ -44,6 +44,8 @@ And what do you gonna do about that?
 
 Criss:
 I think i might be get rif of that, i wild just gonna do what ever i think is correct, and if get wrong in something i will just correct myselft, reconoct the erros, and move on.
+
+
 
 
 Question 4:
