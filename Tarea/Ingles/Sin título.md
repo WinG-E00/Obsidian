@@ -71,7 +71,11 @@ Well, i think if that is the only way you see to really live you life, you must 
 
 
 Criss:
-Alright i will grab this 
+Alright i will grab this way of living with all my forces, and i will stay true to myself
+
+Because
+
+Being yourselft is always better than tr
 
 
 
