@@ -23,6 +23,6 @@ Erica:
 Tell me Criss, what's happening with you?
 
 Criss:
-Well, i'm a little 
+Well, i'm a little tired 
 
 
