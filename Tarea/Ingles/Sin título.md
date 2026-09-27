@@ -16,3 +16,10 @@ Psychologist:
 Name: Erica
 
 
+Criss: 
+Hi Erica, i must tell you something about what is causin me problems today
+
+Erica:
+Tell me Criss, what's happening with you
+
+
