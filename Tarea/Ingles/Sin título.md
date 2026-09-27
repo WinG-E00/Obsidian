@@ -23,6 +23,14 @@ Erica:
 Tell me Criss, what's happening with you?
 
 Criss:
-Well, I'm tired of this social environment where you sometimes have to act a certain way just to 'fit in' somewhere. And I don't want to fit in."
+Well, I'm tired of this social environment where you sometimes have to act a certain way just to 'fit in' somewhere. And I don't want to fit in.
+
+
+Erica: 
+What do you mean about fit in this enviroment?
+
+
+Criss: 
+
 
 
