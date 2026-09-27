@@ -65,8 +65,13 @@ Definitely. **I have chosen** to be authentic, and that is the best path for me.
 ## The solution
 
 Erica:
-Well, i think if that is the only way you see to really live you life, you must grab that with your hands and never 
+Well, i think if that is the only way you see to really live you life, you must grab that with your hands and never let it go
 
+
+
+
+Criss:
+Alright i will grab this 
 
 
 
