@@ -275,3 +275,4 @@
 "event_logs:sources:reimport_started": {"key":"sources:reimport_started","ct":562,"first_at":1787231372746,"last_at":1790532528522,"class_name":"EventLog","event_sources":{"run_re_import":562}},
 "event_logs:sources:reimport_progress": {"key":"sources:reimport_progress","ct":563,"first_at":1787231372752,"last_at":1790532528526,"class_name":"EventLog","event_sources":{"run_re_import":563}},
 "event_logs:sources:reimport_completed": {"key":"sources:reimport_completed","ct":560,"first_at":1787231374071,"last_at":1790532529958,"class_name":"EventLog","event_sources":{"run_re_import":560}},
+"event_logs:sources:modified": {"key":"sources:modified","ct":32728,"first_at":1787231357742,"last_at":1790532686326,"class_name":"EventLog","event_sources":{"obsidian:vault.modify":3792,"obsidian:workspace.editor-change":28936}},
