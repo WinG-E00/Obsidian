@@ -75,7 +75,9 @@ Alright i will grab this way of living with all my forces, and i will stay true 
 
 Because
 
-Being yourselft is always better than tr
+Being yourselft is always better than triying to be someone else
+and
+Do what whatever you want to do is always more  
 
 
 
