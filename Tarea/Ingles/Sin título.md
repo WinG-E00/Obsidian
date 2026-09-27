@@ -19,7 +19,6 @@ Name: Erica
 Criss: 
 Hi Erica, i must tell you something about what is causin me problems today
 
-
 Question 1:
 Erica:
 Tell me Criss, what's happening with you?
@@ -77,9 +76,7 @@ Because
 
 Being yourselft is always better than triying to be someone else
 and
-Do what whatever you want to do is always more  
-
-
+Do what whatever you want to do is always more 
 
 
 
