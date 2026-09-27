@@ -31,6 +31,6 @@ What do you mean about fit in this enviroment?
 
 
 Criss: 
-
+Almost any social enviroment
 
 
