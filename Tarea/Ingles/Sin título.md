@@ -36,7 +36,6 @@ Criss:
 I mean almost any social environment. It feels like wherever you go, people expect you to put on a mask or act fake just to be accepted, and I’m just over it.
 
 
-
 Question 3:
 Erica: 
 And what do you gonna do about that?
@@ -49,16 +48,13 @@ Question 4:
 Erica: 
 And what are you gonna do if people keep talking about you or judging you?
 
-
 Criss:
 That's their problem, not mine. I'd rather be true to myself and judged for it than spend my life living for other people's approval.
 
 
 Question 5:
-
 Erica:
 And do you think that is the correct way of living?
-
 
 Criss:
 Definitely. **I have chosen** to be authentic, and that is the best path for me.
