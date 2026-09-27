@@ -43,6 +43,6 @@ And what do you gonna do about that?
 
 
 Criss:
-I think i might be get rif of that
+I think i might be get rif of that, i wild just gonna do what ever i think is correct, and if get wrong in something i will just correct myselft, 
 
 
