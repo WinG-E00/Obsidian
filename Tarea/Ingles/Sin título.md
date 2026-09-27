@@ -62,7 +62,7 @@ And do you think that is the correct way of living?
 
 
 Criss:
-Definitely.
+Definitely. **I have chosen** to be authentic, and that is the best path for me.
 
 
 
