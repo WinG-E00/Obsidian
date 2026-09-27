@@ -62,7 +62,7 @@ And do you think that is the correct way of living?
 
 
 Criss:
-Definitly
+Definitely.
 
 
 
