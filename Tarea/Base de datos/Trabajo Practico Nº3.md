@@ -99,7 +99,7 @@ Y otros mas pero si lo saco completo se alarga mucho
 ![[../../Pasted image 20260927224421.png]]
 
 ## Ejercicio 5
-
+![[../../Pasted image 20260927224558.png]]
 
 
 ## Ejercicio 6
