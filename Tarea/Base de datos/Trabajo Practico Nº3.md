@@ -87,6 +87,8 @@ db.padron.aggregate([
 ])
 
 ```
+Aca el resultado es bastante grande asi que voy a pasar el resultado que me dio
+
 
 
 ## Ejercicio 4
