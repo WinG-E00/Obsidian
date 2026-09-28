@@ -88,10 +88,15 @@ db.padron.aggregate([
 
 ```
 Aca el resultado es bastante grande asi que voy a pasar el resultado que me dio
-
-
+![[../../Pasted image 20260927224244.png]]
+![[../../Pasted image 20260927224257.png]]
+![[../../Pasted image 20260927224308.png]]
+Y otros mas pero si lo saco completo se alarga mucho
 
 ## Ejercicio 4
+
+
+
 
 ## Ejercicio 5
 
