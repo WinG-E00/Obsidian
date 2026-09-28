@@ -110,6 +110,15 @@ Y otros mas pero si lo saco completo se alarga mucho
 ## Ejercicio 7
 ![[../../Pasted image 20260927224812.png]]
 ## Ejercicio 8
+En este ejercicio algunos campos no estaban guardados como numeros por lo que me tiraba este error
+**MongoServerError[Location7157723]:** PlanExecutor error during aggregation :: caused by :: only numbers and dates are allowed in an $add expression
+
+
+por lo que se tuvo que convertir cada parte
+
+```js
+``
+
 ![[../../Pasted image 20260927225106.png]]
 
 
