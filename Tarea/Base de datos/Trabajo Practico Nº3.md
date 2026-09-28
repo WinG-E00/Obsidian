@@ -272,7 +272,9 @@ Resultado
 ## Ejercicio 10
 ![[../../Pasted image 20260927225719.png]]
 ![[../../Pasted image 20260927225732.png]]
-
+![[../../Pasted image 20260927225740.png]]
 ## Ejercicio 11
+
+
 
 ## Ejercicio 12
