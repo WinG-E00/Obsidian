@@ -1,8 +1,9 @@
 ## Ejercicio 1
-
+![[../../Pasted image 20260927223038.png]]
 
 
 ## Ejercicio 2
+
 
 ## Ejercicio 3
 
