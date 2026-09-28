@@ -391,3 +391,76 @@ db.getCollection("Matricula Secciones2023").aggregate([
 ![[../../Pasted image 20260927230046.png]]
 
 ## Ejercicio 12
+```js
+db.matricula2025.aggregate([
+  {
+    $match: {
+      provincia: "Formosa"
+    }
+  },
+  {
+    $group: {
+      _id: "$departamento",
+
+      inicial: {
+        $sum: {
+          $add: [
+            { $convert: { input: "$lactantes", to: "int", onError: 0, onNull: 0 } },
+            { $convert: { input: "$deambulantes", to: "int", onError: 0, onNull: 0 } },
+            { $convert: { input: "$s2", to: "int", onError: 0, onNull: 0 } },
+            { $convert: { input: "$s3", to: "int", onError: 0, onNull: 0 } },
+            { $convert: { input: "$s4", to: "int", onError: 0, onNull: 0 } },
+            { $convert: { input: "$s5", to: "int", onError: 0, onNull: 0 } }
+          ]
+        }
+      },
+
+      primario: {
+        $sum: {
+          $add: [
+            { $convert: { input: "$_1", to: "int", onError: 0, onNull: 0 } },
+            { $convert: { input: "$_2", to: "int", onError: 0, onNull: 0 } },
+            { $convert: { input: "$_3", to: "int", onError: 0, onNull: 0 } },
+            { $convert: { input: "$_4", to: "int", onError: 0, onNull: 0 } },
+            { $convert: { input: "$_5", to: "int", onError: 0, onNull: 0 } },
+            { $convert: { input: "$_6", to: "int", onError: 0, onNull: 0 } }
+          ]
+        }
+      },
+
+      secundario: {
+        $sum: {
+          $add: [
+            { $convert: { input: "$_7", to: "int", onError: 0, onNull: 0 } },
+            { $convert: { input: "$_8", to: "int", onError: 0, onNull: 0 } },
+            { $convert: { input: "$_9", to: "int", onError: 0, onNull: 0 } },
+            { $convert: { input: "$_10", to: "int", onError: 0, onNull: 0 } },
+            { $convert: { input: "$_11", to: "int", onError: 0, onNull: 0 } },
+            { $convert: { input: "$_12", to: "int", onError: 0, onNull: 0 } },
+            { $convert: { input: "$_1314", to: "int", onError: 0, onNull: 0 } }
+          ]
+        }
+      },
+
+      superior: {
+        $sum: {
+          $convert: {
+            input: "$_snu",
+            to: "int",
+            onError: 0,
+            onNull: 0
+          }
+        }
+      }
+    }
+  },
+  {
+    $sort: {
+      _id: 1
+    }
+  }
+])
+```
+
+
+![[../../Pasted image 20260927230237.png]]
