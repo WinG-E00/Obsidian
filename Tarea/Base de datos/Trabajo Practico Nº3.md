@@ -12,6 +12,81 @@ resultado
 
 ## Ejercicio 3
 
+```js
+db.padron.aggregate([
+  {
+    $match: {
+      jurisdiccion: "Formosa",
+      modalidad_comun: true
+    }
+  },
+
+  {
+    $group: {
+      _id: "$localidad",
+
+      inicial: {
+        $sum: {
+          $cond: [
+            {
+              $or: [
+                "$comun_nivel_inicial_jardin_maternal",
+                "$comun_nivel_inicial_jardin_infantes"
+              ]
+            },
+            1,
+            0
+          ]
+        }
+      },
+
+      primario: {
+        $sum: {
+          $cond: ["$comun_primario", 1, 0]
+        }
+      },
+
+      secundario: {
+        $sum: {
+          $cond: [
+            {
+              $or: [
+                "$comun_secundario",
+                "$comun_secundario_inet"
+              ]
+            },
+            1,
+            0
+          ]
+        }
+      },
+
+      superior_no_universitario: {
+        $sum: {
+          $cond: [
+            {
+              $or: [
+                "$comun_snu",
+                "$comun_snu_inet",
+                "$comun_snu_cursos"
+              ]
+            },
+            1,
+            0
+          ]
+        }
+      }
+    }
+  },
+
+  {
+    $sort: {
+      _id: 1
+    }
+  }
+])
+
+```
 
 
 ## Ejercicio 4
