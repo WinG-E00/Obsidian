@@ -270,8 +270,8 @@ Como algunos campos vienen vacios se uso convert para cada campo
 Resultado
 ![[../../Pasted image 20260927225459.png]]
 ## Ejercicio 10
-
-
+![[../../Pasted image 20260927225719.png]]
+![[../../Pasted image 20260927225732.png]]
 
 ## Ejercicio 11
 
