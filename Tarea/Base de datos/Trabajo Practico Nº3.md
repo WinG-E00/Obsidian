@@ -103,6 +103,9 @@ Y otros mas pero si lo saco completo se alarga mucho
 
 
 ## Ejercicio 6
+![[../../Pasted image 20260927224650.png]]
+
+
 
 ## Ejercicio 7
 
