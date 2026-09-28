@@ -388,6 +388,6 @@ db.getCollection("Matricula Secciones2023").aggregate([
 
 ```
 
-
+![[../../Pasted image 20260927230046.png]]
 
 ## Ejercicio 12
