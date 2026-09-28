@@ -265,8 +265,10 @@ db.matricula_2025.aggregate([
 
 ```
 
+Como algunos campos vienen vacios se uso convert en cada
 
-
+Resultado
+![[../../Pasted image 20260927225459.png]]
 ## Ejercicio 10
 
 ## Ejercicio 11
