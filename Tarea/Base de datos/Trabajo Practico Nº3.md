@@ -275,6 +275,119 @@ Resultado
 ![[../../Pasted image 20260927225740.png]]
 ## Ejercicio 11
 
+```js
+db.getCollection("Matricula Secciones2023").aggregate([
+  {
+    $match: {
+      CUEanexo: {
+        $in: [
+          340117200, // Politécnico
+          340066700, // J.J. Silva
+          340054700, // Félix Atilio Cabrera
+          340051100, // Santa Isabel
+          340070300  // San José de Clorinda
+        ]
+      }
+    }
+  },
+
+  {
+    $lookup: {
+      from: "padron",
+      localField: "CUEanexo",
+      foreignField: "_id",
+      as: "establecimiento"
+    }
+  },
+
+  {
+    $unwind: "$establecimiento"
+  },
+
+  {
+    $project: {
+      _id: 0,
+
+      establecimiento: "$establecimiento.nombre",
+
+      inicial: {
+        $add: [
+          { $convert: { input: "$lactantes", to: "int", onError: 0, onNull: 0 } },
+          { $convert: { input: "$deambulantes", to: "int", onError: 0, onNull: 0 } },
+          { $convert: { input: "$s2", to: "int", onError: 0, onNull: 0 } },
+          { $convert: { input: "$s3", to: "int", onError: 0, onNull: 0 } },
+          { $convert: { input: "$s4", to: "int", onError: 0, onNull: 0 } },
+          { $convert: { input: "$s5", to: "int", onError: 0, onNull: 0 } }
+        ]
+      },
+
+      primario: {
+        $add: [
+          { $convert: { input: "$_1", to: "int", onError: 0, onNull: 0 } },
+          { $convert: { input: "$_2", to: "int", onError: 0, onNull: 0 } },
+          { $convert: { input: "$_3", to: "int", onError: 0, onNull: 0 } },
+          { $convert: { input: "$_4", to: "int", onError: 0, onNull: 0 } },
+          { $convert: { input: "$_5", to: "int", onError: 0, onNull: 0 } },
+          { $convert: { input: "$_6", to: "int", onError: 0, onNull: 0 } }
+        ]
+      },
+
+      secundario: {
+        $add: [
+          { $convert: { input: "$_7", to: "int", onError: 0, onNull: 0 } },
+          { $convert: { input: "$_8", to: "int", onError: 0, onNull: 0 } },
+          { $convert: { input: "$_9", to: "int", onError: 0, onNull: 0 } },
+          { $convert: { input: "$_10", to: "int", onError: 0, onNull: 0 } },
+          { $convert: { input: "$_11", to: "int", onError: 0, onNull: 0 } },
+          { $convert: { input: "$_12", to: "int", onError: 0, onNull: 0 } },
+          { $convert: { input: "$_1314", to: "int", onError: 0, onNull: 0 } }
+        ]
+      },
+
+      superior_total: {
+        $convert: {
+          input: "$_snu",
+          to: "int",
+          onError: 0,
+          onNull: 0
+        }
+      },
+
+      superior_varones: {
+        $convert: {
+          input: "$v_snu",
+          to: "int",
+          onError: 0,
+          onNull: 0
+        }
+      },
+
+      superior_mujeres: {
+        $subtract: [
+          {
+            $convert: {
+              input: "$_snu",
+              to: "int",
+              onError: 0,
+              onNull: 0
+            }
+          },
+          {
+            $convert: {
+              input: "$v_snu",
+              to: "int",
+              onError: 0,
+              onNull: 0
+            }
+          }
+        ]
+      }
+    }
+  }
+])
+
+```
+
 
 
 ## Ejercicio 12
