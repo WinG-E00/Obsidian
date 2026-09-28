@@ -117,12 +117,90 @@ En este ejercicio algunos campos no estaban guardados como numeros por lo que me
 por lo que se tuvo que convertir cada parte
 
 ```js
-``
+db.matricula_2025.aggregate([
+  {
+    $match: {
+      provincia: "Formosa"
+    }
+  },
+  {
+    $group: {
+      _id: null,
+
+      maternal: {
+        $sum: {
+          $add: [
+            {
+              $convert: {
+                input: "$lactantes",
+                to: "int",
+                onError: 0,
+                onNull: 0
+              }
+            },
+            {
+              $convert: {
+                input: "$deambulantes",
+                to: "int",
+                onError: 0,
+                onNull: 0
+              }
+            },
+            {
+              $convert: {
+                input: "$s2",
+                to: "int",
+                onError: 0,
+                onNull: 0
+              }
+            }
+          ]
+        }
+      },
+
+      jardin_infantes: {
+        $sum: {
+          $add: [
+            {
+              $convert: {
+                input: "$s3",
+                to: "int",
+                onError: 0,
+                onNull: 0
+              }
+            },
+            {
+              $convert: {
+                input: "$s4",
+                to: "int",
+                onError: 0,
+                onNull: 0
+              }
+            },
+            {
+              $convert: {
+                input: "$s5",
+                to: "int",
+                onError: 0,
+                onNull: 0
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+])
+
+```
 
 ![[../../Pasted image 20260927225106.png]]
 
 
 ## Ejercicio 9
+
+
+
 
 ## Ejercicio 10
 
