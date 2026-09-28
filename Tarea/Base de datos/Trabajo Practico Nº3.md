@@ -95,10 +95,12 @@ Y otros mas pero si lo saco completo se alarga mucho
 
 ## Ejercicio 4
 
-
-
+![[../../Pasted image 20260927224406.png]]
+![[../../Pasted image 20260927224421.png]]
 
 ## Ejercicio 5
+
+
 
 ## Ejercicio 6
 
