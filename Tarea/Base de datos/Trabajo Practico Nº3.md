@@ -1,3 +1,4 @@
+Gaston Encina
 ## Ejercicio 1
 ![[../../Pasted image 20260927223038.png]]
 
