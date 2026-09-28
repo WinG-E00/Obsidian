@@ -6,7 +6,13 @@
 
 ![[../../Pasted image 20260927223816.png]]
 
+
+resultado
+![[../../Pasted image 20260927223901.png]]
+
 ## Ejercicio 3
+
+
 
 ## Ejercicio 4
 
