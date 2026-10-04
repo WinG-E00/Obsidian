@@ -1,15 +1,15 @@
 Gaston Encina
 ## Ejercicio 1
-![[../../Pasted image 20260927223038.png]]
+![[../../Study/OldNotes/Pasted image 20260927223038.png]]
 
 
 ## Ejercicio 2
 
-![[../../Pasted image 20260927223816.png]]
+![[../../Study/OldNotes/Pasted image 20260927223816.png]]
 
 
 resultado
-![[../../Pasted image 20260927223901.png]]
+![[../../Study/OldNotes/Pasted image 20260927223901.png]]
 
 ## Ejercicio 3
 
@@ -89,27 +89,27 @@ db.padron.aggregate([
 
 ```
 Aca el resultado es bastante grande asi que voy a pasar el resultado que me dio
-![[../../Pasted image 20260927224244.png]]
-![[../../Pasted image 20260927224257.png]]
-![[../../Pasted image 20260927224308.png]]
+![[../../Study/OldNotes/Pasted image 20260927224244.png]]
+![[../../Study/OldNotes/Pasted image 20260927224257.png]]
+![[../../Study/OldNotes/Pasted image 20260927224308.png]]
 Y otros mas pero si lo saco completo se alarga mucho
 
 ## Ejercicio 4
 
-![[../../Pasted image 20260927224406.png]]
-![[../../Pasted image 20260927224421.png]]
+![[../../Study/OldNotes/Pasted image 20260927224406.png]]
+![[../../Study/OldNotes/Pasted image 20260927224421.png]]
 
 ## Ejercicio 5
-![[../../Pasted image 20260927224558.png]]
+![[../../Study/OldNotes/Pasted image 20260927224558.png]]
 
 
 ## Ejercicio 6
-![[../../Pasted image 20260927224650.png]]
+![[../../Study/OldNotes/Pasted image 20260927224650.png]]
 
 
 
 ## Ejercicio 7
-![[../../Pasted image 20260927224812.png]]
+![[../../Study/OldNotes/Pasted image 20260927224812.png]]
 ## Ejercicio 8
 En este ejercicio algunos campos no estaban guardados como numeros por lo que me tiraba este error
 **MongoServerError[Location7157723]:** PlanExecutor error during aggregation :: caused by :: only numbers and dates are allowed in an $add expression
@@ -195,7 +195,7 @@ db.matricula_2025.aggregate([
 
 ```
 
-![[../../Pasted image 20260927225106.png]]
+![[../../Study/OldNotes/Pasted image 20260927225106.png]]
 
 
 ## Ejercicio 9
@@ -269,11 +269,11 @@ db.matricula_2025.aggregate([
 Como algunos campos vienen vacios se uso convert para cada campo
 
 Resultado
-![[../../Pasted image 20260927225459.png]]
+![[../../Study/OldNotes/Pasted image 20260927225459.png]]
 ## Ejercicio 10
-![[../../Pasted image 20260927225719.png]]
-![[../../Pasted image 20260927225732.png]]
-![[../../Pasted image 20260927225740.png]]
+![[../../Study/OldNotes/Pasted image 20260927225719.png]]
+![[../../Study/OldNotes/Pasted image 20260927225732.png]]
+![[../../Study/OldNotes/Pasted image 20260927225740.png]]
 ## Ejercicio 11
 
 ```js
@@ -389,7 +389,7 @@ db.getCollection("Matricula Secciones2023").aggregate([
 
 ```
 
-![[../../Pasted image 20260927230046.png]]
+![[../../Study/OldNotes/Pasted image 20260927230046.png]]
 
 ## Ejercicio 12
 ```js
@@ -464,4 +464,4 @@ db.matricula2025.aggregate([
 ```
 
 
-![[../../Pasted image 20260927230237.png]]
+![[../../Study/OldNotes/Pasted image 20260927230237.png]]

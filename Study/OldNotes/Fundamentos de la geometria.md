@@ -1,0 +1,23 @@
+Cuales los los teoremas y axiomas mas importantes de la geometria
+;;
+[[Axiomas]]
+	[[Incidencia]]
+[[	Orden]]
+[[	Congruencia]]
+[[	Paralelismo]]
+[[	Continuidad]]
+[[Teoremas]]
+	[[Teorema de Pitagoras]]
+	[[teorema de la suma de Angulos]]
+	[[Teorema de tales]]
+	[[teorema del seno y coseno]]
+	[[teorema de la mediatriz]]
+<!--SR:!2026-09-04,2,230-->
+
+En la [[circunferencia]]
+	[[teorema del angulo inscrito]]
+
+En el espacio 3D
+
+
+#geometria/fundamentos_axiomas_teoremasxd

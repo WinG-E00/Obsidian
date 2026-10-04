@@ -1,7 +1,6 @@
 [
   "quickadd",
   "copilot",
-  "remotely-save",
   "obsidian-git",
   "pomodoro-widget",
   "themed-discord-rpc",
@@ -10,6 +9,5 @@
   "morgen-tasks",
   "obsidian-tasks-plugin",
   "obsidian-spaced-repetition",
-  "smart-connections",
   "agent-client"
 ]
