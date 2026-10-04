@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "Inversion de las leyes",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8585386851498679,
-  "close": false
+  "scale": 0.11305859228311016,
+  "close": true
 }
