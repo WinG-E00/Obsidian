@@ -1,13 +1,9 @@
 [
   "quickadd",
-  "copilot",
-  "obsidian-git",
   "pomodoro-widget",
   "themed-discord-rpc",
   "obsidian-advanced-uri",
   "workspaces-plus",
-  "morgen-tasks",
   "obsidian-tasks-plugin",
-  "obsidian-spaced-repetition",
-  "agent-client"
+  "obsidian-spaced-repetition"
 ]
