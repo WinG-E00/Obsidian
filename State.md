@@ -37,3 +37,6 @@ aca podes poner los jsx que quieras para ver como se modifica el valor de el con
 }
 ```
 
+
+
+Osea y basicamente el contador al final sera como simplemente una variable que cambio su valor

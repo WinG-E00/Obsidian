@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"1d631f84181242ff","type":"text","text":"MongoDb\n","x":-160,"y":-300,"width":120,"height":60},
+		{"id":"1d631f84181242ff","type":"text","text":"MongoDB\n","x":-160,"y":-300,"width":160,"height":60},
 		{"id":"bb45b3c3bec01bcb","type":"text","text":"[[Collection y methods]]","x":-400,"y":-120,"width":140,"height":80},
 		{"id":"4127f800bfee0796","type":"text","text":"[[Counting Documents]]","x":-680,"y":0,"width":250,"height":27},
 		{"id":"8a12039b852a8113","type":"text","text":"[[insert documents]]","x":-680,"y":60,"width":250,"height":27},
-		{"id":"81e0fe69869335b0","x":-681,"y":125,"width":250,"height":60,"type":"text","text":"[[find Documents]]\n"}
+		{"id":"81e0fe69869335b0","type":"text","text":"[[find Documents]]\n","x":-681,"y":125,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"9749639687482a28","fromNode":"1d631f84181242ff","fromSide":"bottom","toNode":"bb45b3c3bec01bcb","toSide":"top"},

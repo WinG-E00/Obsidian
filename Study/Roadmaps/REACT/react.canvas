@@ -1,16 +1,20 @@
 {
 	"nodes":[
 		{"id":"73a7f48f20d3c2fc","type":"text","text":"[[Functional Components]]\n\n","x":-485,"y":129,"width":152,"height":67},
-		{"id":"47de9e8d77d108cf","x":-855,"y":478,"width":250,"height":60,"type":"text","text":"[[State]]"},
-		{"id":"74dc7cd099a773dc","x":-933,"y":356,"width":250,"height":60,"type":"text","text":"[[Props]]\n"},
-		{"id":"ea54328f08a77c70","x":-980,"y":166,"width":250,"height":60,"type":"text","text":"JSX\n"},
-		{"id":"0c3b311f13046457","x":-583,"y":386,"width":250,"height":60,"type":"text","text":"[[Conditional rendering]]\n"},
-		{"id":"6d75acb064658872","x":160,"y":163,"width":250,"height":60,"type":"text","text":"Rendering\n"},
+		{"id":"47de9e8d77d108cf","type":"text","text":"[[State]]","x":-855,"y":478,"width":250,"height":60},
+		{"id":"ea54328f08a77c70","type":"text","text":"JSX\n","x":-980,"y":166,"width":250,"height":60},
+		{"id":"0c3b311f13046457","type":"text","text":"[[Conditional rendering]]\n","x":-583,"y":386,"width":250,"height":60},
+		{"id":"6d75acb064658872","type":"text","text":"Rendering\n","x":160,"y":163,"width":250,"height":60},
 		{"id":"1274de0a4ef1b2dd","type":"text","text":"## REACT","x":-907,"y":-350,"width":287,"height":160},
-		{"id":"543d553244cbd1a8","x":35,"y":10,"width":250,"height":60,"type":"text","text":"[[Components Lifecycle]]\n"},
-		{"id":"cd7ab7edb7f7efde","x":50,"y":-258,"width":163,"height":50,"type":"text","text":"Updating\n"},
-		{"id":"5f1124efffc2c07f","x":-40,"y":-100,"width":163,"height":50,"type":"text","text":"[[Mounting]]\n"},
-		{"id":"7af872fe06b8d691","x":212,"y":-200,"width":163,"height":50,"type":"text","text":"Unmounting\n"}
+		{"id":"74dc7cd099a773dc","type":"text","text":"[[Props]]\n","x":-1060,"y":326,"width":250,"height":60},
+		{"id":"5f1124efffc2c07f","type":"text","text":"[[Mounting]]\n","x":-173,"y":-242,"width":163,"height":50},
+		{"id":"543d553244cbd1a8","type":"text","text":"[[Components Lifecycle]]\n","x":-98,"y":-132,"width":250,"height":60},
+		{"id":"cd7ab7edb7f7efde","type":"text","text":"Updating\n","x":-83,"y":-400,"width":163,"height":50},
+		{"id":"7af872fe06b8d691","type":"text","text":"Unmounting\n","x":79,"y":-342,"width":163,"height":50},
+		{"id":"25f3dc5148d05f66","type":"text","text":"[[List and Keys]]","x":500,"y":-40,"width":250,"height":60},
+		{"id":"c74f9818237ba9a6","type":"text","text":"[[Lists]]","x":375,"y":-217,"width":250,"height":60},
+		{"id":"36f8163f167d1446","type":"text","text":"[[Keys]]","x":680,"y":-217,"width":250,"height":60},
+		{"id":"48e327486b7cf644","type":"text","text":"[[Hooks]]","x":900,"y":538,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"816da8c67c2c62a1","fromNode":"1274de0a4ef1b2dd","fromSide":"bottom","toNode":"73a7f48f20d3c2fc","toSide":"top"},
@@ -22,6 +26,10 @@
 		{"id":"299a4dac34010a42","fromNode":"6d75acb064658872","fromSide":"top","toNode":"543d553244cbd1a8","toSide":"bottom"},
 		{"id":"583935eb7aa4eeca","fromNode":"543d553244cbd1a8","fromSide":"top","toNode":"5f1124efffc2c07f","toSide":"bottom"},
 		{"id":"75d561dfbc8af5c3","fromNode":"543d553244cbd1a8","fromSide":"top","toNode":"cd7ab7edb7f7efde","toSide":"bottom"},
-		{"id":"739aa1f8fa03ad9a","fromNode":"543d553244cbd1a8","fromSide":"top","toNode":"7af872fe06b8d691","toSide":"bottom"}
+		{"id":"739aa1f8fa03ad9a","fromNode":"543d553244cbd1a8","fromSide":"top","toNode":"7af872fe06b8d691","toSide":"bottom"},
+		{"id":"ccbde269878794c7","fromNode":"6d75acb064658872","fromSide":"top","toNode":"25f3dc5148d05f66","toSide":"bottom"},
+		{"id":"cb8547fbabc18cfc","fromNode":"25f3dc5148d05f66","fromSide":"top","toNode":"c74f9818237ba9a6","toSide":"bottom"},
+		{"id":"9d13e28225ee9e51","fromNode":"25f3dc5148d05f66","fromSide":"top","toNode":"36f8163f167d1446","toSide":"bottom"},
+		{"id":"0d76c202b7fe32b1","fromNode":"6d75acb064658872","fromSide":"right","toNode":"48e327486b7cf644","toSide":"left"}
 	]
 }
