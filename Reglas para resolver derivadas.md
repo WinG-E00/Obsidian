@@ -8,9 +8,8 @@ Reglas de derivacion
 
 
 
+![[Pasted image 20261011145719.png]]
 
 
 
-![[Pasted image 20261007162434.png]]
-
-aaa
+![[Pasted image 20261011145748.png]]
