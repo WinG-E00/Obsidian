@@ -172,3 +172,13 @@ Forma facil con las reglas
 
 Forma dificil
 ![[../../Pasted image 20261011202918.png]]
+![[../../Pasted image 20261011202925.png]]
+![[../../Pasted image 20261011202955.png]]
+
+![[../../Pasted image 20261011203002.png]]
+
+![[../../Pasted image 20261011203007.png]]
+![[../../Pasted image 20261011203013.png]]
+
+Los dos dan lo mismo....
+
