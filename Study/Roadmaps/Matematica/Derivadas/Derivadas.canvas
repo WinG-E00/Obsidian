@@ -7,10 +7,12 @@
 		{"id":"f7320d10be3519e4","type":"text","text":"[[Reglas para resolver derivadas]]","x":-654,"y":-440,"width":180,"height":100},
 		{"id":"ce785682d6757710","type":"text","text":"[[Formula principal de la derivada]]","x":-400,"y":-720,"width":250,"height":60},
 		{"id":"5ca7b95c4d5eee2f","type":"text","text":"Derivadas\n","x":-689,"y":-660,"width":125,"height":60},
-		{"id":"23b5517ce0e7803f","x":-917,"y":-1308,"width":250,"height":60,"type":"text","text":"Grados del polinomio\n"},
-		{"id":"c1cae73f4d4696bb","x":-650,"y":-1448,"width":250,"height":60,"type":"text","text":""},
-		{"id":"eb5563cc44c91cc0","x":-617,"y":-1190,"width":220,"height":60,"type":"text","text":"Polinomio\n"},
-		{"id":"c02abb09cad6de7e","x":-522,"y":-1620,"width":250,"height":60,"type":"text","text":"[[Formula resolvente]]"}
+		{"id":"23b5517ce0e7803f","type":"text","text":"Grados del polinomio\n","x":-917,"y":-1308,"width":250,"height":60},
+		{"id":"c1cae73f4d4696bb","type":"text","text":"","x":-650,"y":-1448,"width":250,"height":60},
+		{"id":"eb5563cc44c91cc0","type":"text","text":"Polinomio\n","x":-617,"y":-1190,"width":220,"height":60},
+		{"id":"c02abb09cad6de7e","type":"text","text":"[[Formula resolvente]]","x":-522,"y":-1620,"width":250,"height":60},
+		{"id":"e27ab94fc35fae0d","x":-1060,"y":-1430,"width":250,"height":60,"type":"text","text":"Primer grado\n"},
+		{"id":"a2251d082cb8b7bd","x":-872,"y":-1563,"width":250,"height":60,"type":"text","text":"[[Segundo grado]]\n"}
 	],
 	"edges":[
 		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"bottom","toNode":"f7320d10be3519e4","toSide":"top"},
@@ -18,6 +20,8 @@
 		{"id":"a4e3dd014c0ed3b9","fromNode":"0ae81b205812f600","fromSide":"top","toNode":"2d5375d5486cdb85","toSide":"bottom"},
 		{"id":"41892956db18dc90","fromNode":"0ae81b205812f600","fromSide":"top","toNode":"c14b71d97bec1726","toSide":"bottom"},
 		{"id":"ed5264b01079a4c9","fromNode":"eb5563cc44c91cc0","fromSide":"top","toNode":"23b5517ce0e7803f","toSide":"bottom"},
-		{"id":"578ec1b7f7ebe240","fromNode":"eb5563cc44c91cc0","fromSide":"top","toNode":"c1cae73f4d4696bb","toSide":"bottom"}
+		{"id":"578ec1b7f7ebe240","fromNode":"eb5563cc44c91cc0","fromSide":"top","toNode":"c1cae73f4d4696bb","toSide":"bottom"},
+		{"id":"83c6178781a76dbe","fromNode":"23b5517ce0e7803f","fromSide":"top","toNode":"e27ab94fc35fae0d","toSide":"bottom"},
+		{"id":"a5fe0ef43116d818","fromNode":"23b5517ce0e7803f","fromSide":"top","toNode":"a2251d082cb8b7bd","toSide":"bottom"}
 	]
 }
