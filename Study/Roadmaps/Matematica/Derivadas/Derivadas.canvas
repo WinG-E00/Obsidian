@@ -10,7 +10,7 @@
 		{"id":"23b5517ce0e7803f","x":-917,"y":-1308,"width":250,"height":60,"type":"text","text":"Grados del polinomio\n"},
 		{"id":"c1cae73f4d4696bb","x":-650,"y":-1448,"width":250,"height":60,"type":"text","text":""},
 		{"id":"eb5563cc44c91cc0","x":-617,"y":-1190,"width":220,"height":60,"type":"text","text":"Polinomio\n"},
-		{"id":"c02abb09cad6de7e","x":-522,"y":-1620,"width":250,"height":60,"type":"text","text":"Formula resolvente"}
+		{"id":"c02abb09cad6de7e","x":-522,"y":-1620,"width":250,"height":60,"type":"text","text":"[[Formula resolvente]]"}
 	],
 	"edges":[
 		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"bottom","toNode":"f7320d10be3519e4","toSide":"top"},
