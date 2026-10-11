@@ -166,6 +166,9 @@ e)
 ![[../../Pasted image 20261011150752.png]]
 
 # Punto numero 4
+Primero derivamos
+Forma facil con las reglas
+![[../../Pasted image 20261011202858.png]]
 
-
-
+Forma dificil
+![[../../Pasted image 20261011202918.png]]
