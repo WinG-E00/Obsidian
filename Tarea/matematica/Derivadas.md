@@ -158,9 +158,14 @@ c)
 Cuando f'(0) = 6
 
 d)
-
+![[../../Pasted image 20261011150808.png]]
 
 
 
 e)
 ![[../../Pasted image 20261011150752.png]]
+
+# Punto numero 4
+
+
+
