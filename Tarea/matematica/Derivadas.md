@@ -181,4 +181,4 @@ Forma dificil
 ![[../../Pasted image 20261011203013.png]]
 
 Los dos dan lo mismo....
-
+Despues
