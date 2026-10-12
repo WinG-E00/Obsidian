@@ -5,7 +5,6 @@
 		{"id":"e27ab94fc35fae0d","type":"text","text":"Primer grado\n","x":-1060,"y":-1430,"width":250,"height":60},
 		{"id":"a2251d082cb8b7bd","type":"text","text":"[[Segundo grado]]\n","x":-872,"y":-1563,"width":250,"height":60},
 		{"id":"c1cae73f4d4696bb","type":"text","text":"","x":-617,"y":-1448,"width":250,"height":60},
-		{"id":"c02abb09cad6de7e","type":"text","text":"[[Formula resolvente]]","x":-867,"y":-1780,"width":250,"height":60},
 		{"id":"2d5375d5486cdb85","type":"text","text":"[[cuadrado del binomio]]\n","x":-130,"y":-1428,"width":250,"height":60},
 		{"id":"0ae81b205812f600","type":"text","text":"Binomio ","x":-38,"y":-1250,"width":250,"height":60},
 		{"id":"c14b71d97bec1726","type":"text","text":"[[Cubo del binomio]] ","x":179,"y":-1428,"width":250,"height":60},
@@ -17,7 +16,8 @@
 		{"id":"5c5ce03c744ae663","type":"text","text":"exponentes normales\n","x":1193,"y":-1526,"width":250,"height":60},
 		{"id":"ce785682d6757710","type":"text","text":"[[Formula principal de la derivada]]","x":-453,"y":-960,"width":250,"height":60},
 		{"id":"f7320d10be3519e4","type":"text","text":"[[Reglas para resolver derivadas]]","x":-707,"y":-680,"width":180,"height":100},
-		{"id":"5ca7b95c4d5eee2f","type":"text","text":"Derivadas\n","x":-769,"y":-930,"width":125,"height":60}
+		{"id":"5ca7b95c4d5eee2f","type":"text","text":"Derivadas\n","x":-769,"y":-930,"width":125,"height":60},
+		{"id":"c02abb09cad6de7e","type":"text","text":"[[Formula resolvente]]","x":-894,"y":-1680,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"bottom","toNode":"f7320d10be3519e4","toSide":"top"},

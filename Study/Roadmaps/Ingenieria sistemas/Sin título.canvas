@@ -12,8 +12,8 @@
 		{"id":"1660858e70ca45f2","type":"text","text":"[[Informacion]]\n","x":-1850,"y":-740,"width":250,"height":60},
 		{"id":"5db9a26345f5dbe4","type":"text","text":"[[Conocimiento]]","x":-1850,"y":-625,"width":250,"height":60},
 		{"id":"8c74339f542989d9","type":"text","text":"Sistemas de informacion\n","x":-1180,"y":-730,"width":250,"height":50},
-		{"id":"4b9e9b199d7aa905","type":"text","text":"TSG\n","x":-629,"y":-641,"width":250,"height":60},
-		{"id":"85c944668e5fad55","x":-730,"y":-813,"width":250,"height":60,"type":"text","text":"[[Historia]]"}
+		{"id":"4b9e9b199d7aa905","type":"text","text":"TSG\n","x":-640,"y":-655,"width":250,"height":60},
+		{"id":"85c944668e5fad55","x":-640,"y":-790,"width":250,"height":60,"type":"text","text":"[[Historia]]"}
 	],
 	"edges":[
 		{"id":"9feaff4662a42688","fromNode":"91ab122486972214","fromSide":"top","toNode":"eefc845fcfc72802","toSide":"bottom"},
