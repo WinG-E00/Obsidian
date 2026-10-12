@@ -183,9 +183,9 @@ Forma dificil
 Los dos dan lo mismo....
 Un pequeño error a corregir en la imagen es que el ponomio es 
 
-
+"Me olvide de agregar la x"
 6x² -14x + 8 
 
 
-
 Despues, Tenemos que igualar ese polinomio a 0 con la formula resolvente
+
