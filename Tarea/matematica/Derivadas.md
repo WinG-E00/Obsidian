@@ -191,3 +191,11 @@ Despues, Tenemos que igualar ese polinomio a 0 con la formula resolvente
 ![[../../Pasted image 20261011210545.png]]
 
 ![[../../Pasted image 20261011210551.png]]
+
+
+# Punto 5
+
+a)
+![[Pasted image 20261011211505.png]]
+
+b)
