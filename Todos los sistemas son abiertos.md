@@ -1,1 +1,1 @@
-Esto se fundamenta en el echo de que todos los sistemas siempre van a recibir informa
+Esto se fundamenta en el echo de que todos los sistemas siempre van a interactuar con el entorno de alguna u otra forma, ya se intercambiado cualquier tipo de cosa, com informacion, energia o recursos,  por ejemplo l 
