@@ -13,7 +13,8 @@
 		{"id":"5db9a26345f5dbe4","type":"text","text":"[[Conocimiento]]","x":-1850,"y":-625,"width":250,"height":60},
 		{"id":"8c74339f542989d9","type":"text","text":"Sistemas de informacion\n","x":-1180,"y":-730,"width":250,"height":50},
 		{"id":"4b9e9b199d7aa905","type":"text","text":"TSG\n","x":-640,"y":-655,"width":250,"height":60},
-		{"id":"85c944668e5fad55","x":-640,"y":-790,"width":250,"height":60,"type":"text","text":"[[Historia]]"}
+		{"id":"85c944668e5fad55","x":-640,"y":-790,"width":250,"height":60,"type":"text","text":"[[Historia]]"},
+		{"id":"3e33f2f4806c51f5","x":-272,"y":-760,"width":250,"height":60,"type":"text","text":"[[Enfoque de las TSG]]\n"}
 	],
 	"edges":[
 		{"id":"9feaff4662a42688","fromNode":"91ab122486972214","fromSide":"top","toNode":"eefc845fcfc72802","toSide":"bottom"},
@@ -27,6 +28,7 @@
 		{"id":"769eba980d80a752","fromNode":"9c6786fb1665fef9","fromSide":"left","toNode":"5db9a26345f5dbe4","toSide":"right"},
 		{"id":"3d588da8ccb425b8","fromNode":"9c6786fb1665fef9","fromSide":"left","toNode":"1660858e70ca45f2","toSide":"right"},
 		{"id":"984baa7446f3516a","fromNode":"eefc845fcfc72802","fromSide":"right","toNode":"4b9e9b199d7aa905","toSide":"left"},
-		{"id":"a86226288ee652b3","fromNode":"4b9e9b199d7aa905","fromSide":"top","toNode":"85c944668e5fad55","toSide":"bottom"}
+		{"id":"a86226288ee652b3","fromNode":"4b9e9b199d7aa905","fromSide":"top","toNode":"85c944668e5fad55","toSide":"bottom"},
+		{"id":"35bb72382e5a1826","fromNode":"4b9e9b199d7aa905","fromSide":"right","toNode":"3e33f2f4806c51f5","toSide":"left"}
 	]
 }
