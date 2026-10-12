@@ -8,7 +8,7 @@
 		{"id":"f0e32ac15bc3e596","x":1100,"y":30,"width":250,"height":60,"type":"text","text":"Matriz de trazabilidad\n"},
 		{"id":"8c74339f542989d9","type":"text","text":"Sistemas de informacion\n","x":-730,"y":-840,"width":250,"height":50},
 		{"id":"0dbe72b96496ee6f","x":-1534,"y":-450,"width":250,"height":60,"type":"text","text":"TIC\n"},
-		{"id":"01219cac773aa49a","x":-1985,"y":-418,"width":250,"height":60,"type":"text","text":"Que son?"}
+		{"id":"01219cac773aa49a","x":-1985,"y":-418,"width":250,"height":60,"type":"text","text":"[[Definicion]]"}
 	],
 	"edges":[
 		{"id":"9feaff4662a42688","fromNode":"91ab122486972214","fromSide":"top","toNode":"eefc845fcfc72802","toSide":"bottom"},
