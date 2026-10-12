@@ -18,7 +18,8 @@
 		{"id":"c5e6be1d883bcadf","x":-300,"y":-622,"width":250,"height":60,"type":"text","text":"[[Todos los sistemas son abiertos]]\n"},
 		{"id":"d6a053e110f0b15d","x":-300,"y":-730,"width":250,"height":60,"type":"text","text":"[[Sistemas dentro de otros sistemas]]\n"},
 		{"id":"5cda2703c2dfa378","x":-300,"y":-494,"width":250,"height":60,"type":"text","text":"[[Las funciones de un sistema dependen de su estructura]]\n"},
-		{"id":"4b9e9b199d7aa905","type":"text","text":"TSG\n","x":-1026,"y":-730,"width":250,"height":60}
+		{"id":"4b9e9b199d7aa905","type":"text","text":"TSG\n","x":-1026,"y":-730,"width":250,"height":60},
+		{"id":"755728525a3aae82","x":-2073,"y":-907,"width":250,"height":60,"type":"text","text":"[[Sistema]]\n"}
 	],
 	"edges":[
 		{"id":"9feaff4662a42688","fromNode":"91ab122486972214","fromSide":"top","toNode":"eefc845fcfc72802","toSide":"bottom"},
@@ -37,6 +38,7 @@
 		{"id":"d46bec9cca0ed98e","fromNode":"4b9e9b199d7aa905","fromSide":"right","toNode":"ef9b460a856b387b","toSide":"left"},
 		{"id":"b757b8abcd12fcd5","fromNode":"ef9b460a856b387b","fromSide":"right","toNode":"d6a053e110f0b15d","toSide":"left"},
 		{"id":"d7fb5bb05dacf18b","fromNode":"ef9b460a856b387b","fromSide":"right","toNode":"c5e6be1d883bcadf","toSide":"left"},
-		{"id":"39b9d5a901d48994","fromNode":"ef9b460a856b387b","fromSide":"right","toNode":"5cda2703c2dfa378","toSide":"left"}
+		{"id":"39b9d5a901d48994","fromNode":"ef9b460a856b387b","fromSide":"right","toNode":"5cda2703c2dfa378","toSide":"left"},
+		{"id":"a09907c87736955b","fromNode":"9c6786fb1665fef9","fromSide":"top","toNode":"755728525a3aae82","toSide":"bottom"}
 	]
 }
