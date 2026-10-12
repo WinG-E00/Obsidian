@@ -11,4 +11,4 @@ familiares, las finanzas corporativas, la industria del entretenimiento
 e incluso el trabajo cotidiano
 
 Mi resumen
-Un grupo de practicas conocimientos y herramientas que
+Un grupo de practicas conocimientos y herramientas que gracias al consumo y transmision de la informacion que se fueron dando gracias al cambio tecnologico.
