@@ -13,4 +13,4 @@ e incluso el trabajo cotidiano
 Mi resumen
 Un grupo de practicas conocimientos y herramientas que gracias al consumo y transmision de la informacion se fueron dando gracias al cambio tecnologico.
 
-Las tic se usan para indicar la evolucion que atrav
+Las TIC  serian todas las tec
