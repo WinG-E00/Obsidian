@@ -14,7 +14,10 @@
 		{"id":"f7320d10be3519e4","type":"text","text":"[[Reglas para resolver derivadas]]","x":-810,"y":-580,"width":180,"height":100},
 		{"id":"5ca7b95c4d5eee2f","type":"text","text":"Derivadas\n","x":-929,"y":-830,"width":125,"height":60},
 		{"id":"c6d14d8240e75e78","x":-71,"y":-520,"width":131,"height":60,"type":"text","text":"Potencias\n"},
-		{"id":"e476504dbdf7cd0c","x":604,"y":-1138,"width":250,"height":60,"type":"text","text":"Factor comun en exponentes\n"}
+		{"id":"e476504dbdf7cd0c","x":604,"y":-1138,"width":250,"height":60,"type":"text","text":"Factor comun en exponentes\n"},
+		{"id":"a59ccf94de6dc919","x":880,"y":-1320,"width":250,"height":60,"type":"text","text":"Restar exponentes"},
+		{"id":"258e6e8bb0126eca","x":1205,"y":-1434,"width":250,"height":60,"type":"text","text":"Exponentes con fracciones\n"},
+		{"id":"5c5ce03c744ae663","x":1193,"y":-1526,"width":250,"height":60,"type":"text","text":"exponentes normales\n"}
 	],
 	"edges":[
 		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"bottom","toNode":"f7320d10be3519e4","toSide":"top"},
@@ -26,6 +29,9 @@
 		{"id":"a5fe0ef43116d818","fromNode":"23b5517ce0e7803f","fromSide":"top","toNode":"a2251d082cb8b7bd","toSide":"bottom"},
 		{"id":"f4b13dcdd22b417b","fromNode":"a2251d082cb8b7bd","fromSide":"top","toNode":"c02abb09cad6de7e","toSide":"bottom"},
 		{"id":"41892956db18dc90","fromNode":"0ae81b205812f600","fromSide":"top","toNode":"c14b71d97bec1726","toSide":"bottom"},
-		{"id":"45dd34ce61c88c5b","fromNode":"13bd8854ff03bd4a","fromSide":"right","toNode":"e476504dbdf7cd0c","toSide":"left"}
+		{"id":"45dd34ce61c88c5b","fromNode":"13bd8854ff03bd4a","fromSide":"right","toNode":"e476504dbdf7cd0c","toSide":"left"},
+		{"id":"eaf46759f354cae3","fromNode":"e476504dbdf7cd0c","fromSide":"right","toNode":"a59ccf94de6dc919","toSide":"left"},
+		{"id":"de695ad6a123bf92","fromNode":"a59ccf94de6dc919","fromSide":"right","toNode":"258e6e8bb0126eca","toSide":"left"},
+		{"id":"d7f8a0cc475cd421","fromNode":"a59ccf94de6dc919","fromSide":"right","toNode":"5c5ce03c744ae663","toSide":"left"}
 	]
 }
