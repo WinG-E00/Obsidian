@@ -12,17 +12,18 @@
 		{"id":"0dbe72b96496ee6f","type":"text","text":"[[TIC]]\n","x":-1865,"y":-235,"width":250,"height":60},
 		{"id":"8c74339f542989d9","type":"text","text":"Sistemas de informacion\n","x":-1570,"y":-689,"width":250,"height":50},
 		{"id":"eefc845fcfc72802","type":"text","text":"Teoria general de sistemas\n","x":-1410,"y":-347,"width":340,"height":68},
-		{"id":"85c944668e5fad55","x":-996,"y":-1110,"width":250,"height":60,"type":"text","text":"[[Historia]]"},
-		{"id":"3e33f2f4806c51f5","x":-588,"y":-990,"width":250,"height":60,"type":"text","text":"[[Enfoque de las TSG]]\n"},
-		{"id":"ef9b460a856b387b","x":-693,"y":-554,"width":250,"height":60,"type":"text","text":"Premisas de las TSG\n"},
-		{"id":"c5e6be1d883bcadf","x":-300,"y":-622,"width":250,"height":60,"type":"text","text":"[[Todos los sistemas son abiertos]]\n"},
-		{"id":"d6a053e110f0b15d","x":-300,"y":-730,"width":250,"height":60,"type":"text","text":"[[Sistemas dentro de otros sistemas]]\n"},
-		{"id":"5cda2703c2dfa378","x":-300,"y":-494,"width":250,"height":60,"type":"text","text":"[[Las funciones de un sistema dependen de su estructura]]\n"},
+		{"id":"85c944668e5fad55","type":"text","text":"[[Historia]]","x":-996,"y":-1110,"width":250,"height":60},
+		{"id":"3e33f2f4806c51f5","type":"text","text":"[[Enfoque de las TSG]]\n","x":-588,"y":-990,"width":250,"height":60},
+		{"id":"ef9b460a856b387b","type":"text","text":"Premisas de las TSG\n","x":-693,"y":-554,"width":250,"height":60},
+		{"id":"c5e6be1d883bcadf","type":"text","text":"[[Todos los sistemas son abiertos]]\n","x":-300,"y":-622,"width":250,"height":60},
+		{"id":"d6a053e110f0b15d","type":"text","text":"[[Sistemas dentro de otros sistemas]]\n","x":-300,"y":-730,"width":250,"height":60},
+		{"id":"5cda2703c2dfa378","type":"text","text":"[[Las funciones de un sistema dependen de su estructura]]\n","x":-300,"y":-494,"width":250,"height":60},
 		{"id":"4b9e9b199d7aa905","type":"text","text":"TSG\n","x":-1026,"y":-730,"width":250,"height":60},
-		{"id":"755728525a3aae82","x":-2073,"y":-907,"width":250,"height":60,"type":"text","text":"[[Sistema]]\n"}
+		{"id":"755728525a3aae82","type":"text","text":"[[Sistema]]\n","x":-2073,"y":-907,"width":250,"height":60},
+		{"id":"b0575d40a262e8ba","x":-2415,"y":-1042,"width":250,"height":60,"type":"text","text":"[[Sistemas rigidos]]\n"},
+		{"id":"e62f563a9404608a","x":-2619,"y":-895,"width":250,"height":60,"type":"text","text":"[[Sistemas flexibles]]\n"}
 	],
 	"edges":[
-		{"id":"9feaff4662a42688","fromNode":"91ab122486972214","fromSide":"top","toNode":"eefc845fcfc72802","toSide":"bottom"},
 		{"id":"eb4494ec67a95560","fromNode":"91ab122486972214","fromSide":"top","toNode":"e24dbdb26d0eed45","toSide":"left"},
 		{"id":"331772ce7d38a93d","fromNode":"2ea9a64e17497d6b","fromSide":"top","toNode":"bafb82a2eb9ff4c1","toSide":"bottom"},
 		{"id":"cfc8023f0f7fb6dc","fromNode":"e24dbdb26d0eed45","fromSide":"bottom","toNode":"f0e32ac15bc3e596","toSide":"top"},
@@ -39,6 +40,9 @@
 		{"id":"b757b8abcd12fcd5","fromNode":"ef9b460a856b387b","fromSide":"right","toNode":"d6a053e110f0b15d","toSide":"left"},
 		{"id":"d7fb5bb05dacf18b","fromNode":"ef9b460a856b387b","fromSide":"right","toNode":"c5e6be1d883bcadf","toSide":"left"},
 		{"id":"39b9d5a901d48994","fromNode":"ef9b460a856b387b","fromSide":"right","toNode":"5cda2703c2dfa378","toSide":"left"},
-		{"id":"a09907c87736955b","fromNode":"9c6786fb1665fef9","fromSide":"top","toNode":"755728525a3aae82","toSide":"bottom"}
+		{"id":"a09907c87736955b","fromNode":"9c6786fb1665fef9","fromSide":"top","toNode":"755728525a3aae82","toSide":"bottom"},
+		{"id":"a0d0bdf1f9795981","fromNode":"eefc845fcfc72802","fromSide":"bottom","toNode":"91ab122486972214","toSide":"left"},
+		{"id":"b7715a4abc2e4faf","fromNode":"755728525a3aae82","fromSide":"left","toNode":"b0575d40a262e8ba","toSide":"bottom"},
+		{"id":"172b138ae1e0632e","fromNode":"755728525a3aae82","fromSide":"left","toNode":"e62f563a9404608a","toSide":"right"}
 	]
 }
