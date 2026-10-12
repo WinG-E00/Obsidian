@@ -181,4 +181,11 @@ Forma dificil
 ![[../../Pasted image 20261011203013.png]]
 
 Los dos dan lo mismo....
-Despues
+Un pequeño error a corregir en la imagen es que el ponomio es 
+
+
+6x² -14x + 8 
+
+
+
+Despues, Tenemos que igualar ese polinomio a 0 con la formula resolvente
