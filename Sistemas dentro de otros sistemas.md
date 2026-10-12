@@ -8,4 +8,5 @@ Por ejemplo la computadora para poder cumplior su funcion general
 
 Tiene sus componentes Procesador, ram fuente de poder, que a su vez tiene otro sistemas para poder dar funcionamiento a la computadora en general....
 
-Osea el procesador recibe input y manda o
+Osea el procesador recibe input y manda outputs ram almacena informacion temporal. disco almacena informacion permanente... y todo eso para poder realizar una tarea que pida el usuario...
+

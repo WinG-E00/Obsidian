@@ -17,7 +17,7 @@
 		{"id":"3e33f2f4806c51f5","x":-662,"y":-1080,"width":250,"height":60,"type":"text","text":"[[Enfoque de las TSG]]\n"},
 		{"id":"d6a053e110f0b15d","x":-412,"y":-834,"width":250,"height":60,"type":"text","text":"[[Sistemas dentro de otros sistemas]]\n"},
 		{"id":"ef9b460a856b387b","x":-767,"y":-644,"width":250,"height":60,"type":"text","text":"Premisas de las TSG\n"},
-		{"id":"c5e6be1d883bcadf","x":-374,"y":-712,"width":250,"height":60,"type":"text","text":"Todos los sistemas son abiertos\n"},
+		{"id":"c5e6be1d883bcadf","x":-374,"y":-712,"width":250,"height":60,"type":"text","text":"[[Todos los sistemas son abiertos]]\n"},
 		{"id":"5cda2703c2dfa378","x":-347,"y":-569,"width":250,"height":60,"type":"text","text":"Las funciones de un sistema dependen de su estructura\n"}
 	],
 	"edges":[

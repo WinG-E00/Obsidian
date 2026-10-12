@@ -1,0 +1,1 @@
+Esto se fundamenta en el echo de que todos los sistemas siempre van a recibir informa
