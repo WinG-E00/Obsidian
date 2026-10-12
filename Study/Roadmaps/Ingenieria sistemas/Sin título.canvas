@@ -5,13 +5,15 @@
 		{"id":"bafb82a2eb9ff4c1","type":"text","text":"Software\n","x":620,"y":-575,"width":250,"height":60},
 		{"id":"2ea9a64e17497d6b","type":"text","text":"Ingenieria de software\n","x":730,"y":-380,"width":220,"height":60},
 		{"id":"f0e32ac15bc3e596","type":"text","text":"Matriz de trazabilidad\n","x":1100,"y":30,"width":250,"height":60},
-		{"id":"8c74339f542989d9","type":"text","text":"Sistemas de informacion\n","x":-730,"y":-840,"width":250,"height":50},
-		{"id":"eefc845fcfc72802","type":"text","text":"Teoria general de sistemas\n","x":-1020,"y":-388,"width":320,"height":112},
+		{"id":"eefc845fcfc72802","type":"text","text":"Teoria general de sistemas\n","x":-1020,"y":-388,"width":340,"height":68},
 		{"id":"01219cac773aa49a","type":"text","text":"[[Definicion]]","x":-1820,"y":-194,"width":250,"height":60},
 		{"id":"0dbe72b96496ee6f","type":"text","text":"[[TIC]]\n","x":-1475,"y":-276,"width":250,"height":60},
 		{"id":"9c6786fb1665fef9","type":"text","text":"Glosario\n","x":-1475,"y":-625,"width":250,"height":60},
-		{"id":"1660858e70ca45f2","x":-1850,"y":-740,"width":250,"height":60,"type":"text","text":"[[Informacion]]\n"},
-		{"id":"5db9a26345f5dbe4","x":-1850,"y":-625,"width":250,"height":60,"type":"text","text":"[[Conocimiento]]"}
+		{"id":"1660858e70ca45f2","type":"text","text":"[[Informacion]]\n","x":-1850,"y":-740,"width":250,"height":60},
+		{"id":"5db9a26345f5dbe4","type":"text","text":"[[Conocimiento]]","x":-1850,"y":-625,"width":250,"height":60},
+		{"id":"8c74339f542989d9","type":"text","text":"Sistemas de informacion\n","x":-1180,"y":-730,"width":250,"height":50},
+		{"id":"4b9e9b199d7aa905","type":"text","text":"TSG\n","x":-629,"y":-641,"width":250,"height":60},
+		{"id":"85c944668e5fad55","x":-730,"y":-813,"width":250,"height":60,"type":"text","text":"[[Historia]]"}
 	],
 	"edges":[
 		{"id":"9feaff4662a42688","fromNode":"91ab122486972214","fromSide":"top","toNode":"eefc845fcfc72802","toSide":"bottom"},
@@ -23,6 +25,8 @@
 		{"id":"0e841ce9ab049483","fromNode":"0dbe72b96496ee6f","fromSide":"left","toNode":"01219cac773aa49a","toSide":"right"},
 		{"id":"0a8ccb200011901f","fromNode":"eefc845fcfc72802","fromSide":"top","toNode":"9c6786fb1665fef9","toSide":"bottom"},
 		{"id":"769eba980d80a752","fromNode":"9c6786fb1665fef9","fromSide":"left","toNode":"5db9a26345f5dbe4","toSide":"right"},
-		{"id":"3d588da8ccb425b8","fromNode":"9c6786fb1665fef9","fromSide":"left","toNode":"1660858e70ca45f2","toSide":"right"}
+		{"id":"3d588da8ccb425b8","fromNode":"9c6786fb1665fef9","fromSide":"left","toNode":"1660858e70ca45f2","toSide":"right"},
+		{"id":"984baa7446f3516a","fromNode":"eefc845fcfc72802","fromSide":"right","toNode":"4b9e9b199d7aa905","toSide":"left"},
+		{"id":"a86226288ee652b3","fromNode":"4b9e9b199d7aa905","fromSide":"top","toNode":"85c944668e5fad55","toSide":"bottom"}
 	]
 }
