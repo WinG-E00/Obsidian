@@ -10,14 +10,14 @@
 		{"id":"0ae81b205812f600","type":"text","text":"Binomio ","x":-38,"y":-1250,"width":250,"height":60},
 		{"id":"c14b71d97bec1726","type":"text","text":"[[Cubo del binomio]] ","x":179,"y":-1428,"width":250,"height":60},
 		{"id":"13bd8854ff03bd4a","type":"text","text":"[[Factor comun]]\n","x":339,"y":-1040,"width":180,"height":60},
-		{"id":"ce785682d6757710","type":"text","text":"[[Formula principal de la derivada]]","x":-556,"y":-860,"width":250,"height":60},
-		{"id":"f7320d10be3519e4","type":"text","text":"[[Reglas para resolver derivadas]]","x":-810,"y":-580,"width":180,"height":100},
-		{"id":"5ca7b95c4d5eee2f","type":"text","text":"Derivadas\n","x":-929,"y":-830,"width":125,"height":60},
-		{"id":"c6d14d8240e75e78","x":-71,"y":-520,"width":131,"height":60,"type":"text","text":"Potencias\n"},
-		{"id":"e476504dbdf7cd0c","x":604,"y":-1138,"width":250,"height":60,"type":"text","text":"Factor comun en exponentes\n"},
-		{"id":"a59ccf94de6dc919","x":880,"y":-1320,"width":250,"height":60,"type":"text","text":"Restar exponentes"},
-		{"id":"258e6e8bb0126eca","x":1205,"y":-1434,"width":250,"height":60,"type":"text","text":"Exponentes con fracciones\n"},
-		{"id":"5c5ce03c744ae663","x":1193,"y":-1526,"width":250,"height":60,"type":"text","text":"exponentes normales\n"}
+		{"id":"c6d14d8240e75e78","type":"text","text":"Potencias\n","x":-71,"y":-520,"width":131,"height":60},
+		{"id":"e476504dbdf7cd0c","type":"text","text":"Factor comun en exponentes\n","x":604,"y":-1138,"width":250,"height":60},
+		{"id":"a59ccf94de6dc919","type":"text","text":"Restar exponentes","x":880,"y":-1320,"width":250,"height":60},
+		{"id":"258e6e8bb0126eca","type":"text","text":"Exponentes con fracciones\n","x":1205,"y":-1434,"width":250,"height":60},
+		{"id":"5c5ce03c744ae663","type":"text","text":"exponentes normales\n","x":1193,"y":-1526,"width":250,"height":60},
+		{"id":"ce785682d6757710","type":"text","text":"[[Formula principal de la derivada]]","x":-453,"y":-960,"width":250,"height":60},
+		{"id":"f7320d10be3519e4","type":"text","text":"[[Reglas para resolver derivadas]]","x":-707,"y":-680,"width":180,"height":100},
+		{"id":"5ca7b95c4d5eee2f","type":"text","text":"Derivadas\n","x":-769,"y":-930,"width":125,"height":60}
 	],
 	"edges":[
 		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"bottom","toNode":"f7320d10be3519e4","toSide":"top"},
