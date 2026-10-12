@@ -13,3 +13,12 @@ Reglas de derivacion
 
 
 ![[Pasted image 20261011145748.png]]
+
+# Punto 5
+
+a)
+![[Pasted image 20261011211505.png]]
+
+b)
+
+
