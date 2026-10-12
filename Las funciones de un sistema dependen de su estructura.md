@@ -4,4 +4,4 @@ en la bicleta toda la estructura de este esta echa para poder llevar a alguien s
 
 todo el sistema en general esta diseñado para cumplir esa estructura...
 
-quizas algunas bicletas dan comodidades extras al usuario como un canasto o amortiguadores pero els
+quizas algunas bicletas dan comodidades extras al usuario como un canasto o amortiguadores pero el sistema fundamental sigue dependiendo de la misma estructura.

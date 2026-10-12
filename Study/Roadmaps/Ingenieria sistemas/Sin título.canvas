@@ -12,13 +12,13 @@
 		{"id":"0dbe72b96496ee6f","type":"text","text":"[[TIC]]\n","x":-1865,"y":-235,"width":250,"height":60},
 		{"id":"8c74339f542989d9","type":"text","text":"Sistemas de informacion\n","x":-1570,"y":-689,"width":250,"height":50},
 		{"id":"eefc845fcfc72802","type":"text","text":"Teoria general de sistemas\n","x":-1410,"y":-347,"width":340,"height":68},
-		{"id":"85c944668e5fad55","x":-1070,"y":-1200,"width":250,"height":60,"type":"text","text":"[[Historia]]"},
-		{"id":"4b9e9b199d7aa905","type":"text","text":"TSG\n","x":-1030,"y":-975,"width":250,"height":60},
-		{"id":"3e33f2f4806c51f5","x":-662,"y":-1080,"width":250,"height":60,"type":"text","text":"[[Enfoque de las TSG]]\n"},
-		{"id":"d6a053e110f0b15d","x":-412,"y":-834,"width":250,"height":60,"type":"text","text":"[[Sistemas dentro de otros sistemas]]\n"},
-		{"id":"ef9b460a856b387b","x":-767,"y":-644,"width":250,"height":60,"type":"text","text":"Premisas de las TSG\n"},
-		{"id":"c5e6be1d883bcadf","x":-374,"y":-712,"width":250,"height":60,"type":"text","text":"[[Todos los sistemas son abiertos]]\n"},
-		{"id":"5cda2703c2dfa378","x":-347,"y":-569,"width":250,"height":60,"type":"text","text":"[[Las funciones de un sistema dependen de su estructura]]\n"}
+		{"id":"85c944668e5fad55","x":-996,"y":-1110,"width":250,"height":60,"type":"text","text":"[[Historia]]"},
+		{"id":"3e33f2f4806c51f5","x":-588,"y":-990,"width":250,"height":60,"type":"text","text":"[[Enfoque de las TSG]]\n"},
+		{"id":"ef9b460a856b387b","x":-693,"y":-554,"width":250,"height":60,"type":"text","text":"Premisas de las TSG\n"},
+		{"id":"c5e6be1d883bcadf","x":-300,"y":-622,"width":250,"height":60,"type":"text","text":"[[Todos los sistemas son abiertos]]\n"},
+		{"id":"d6a053e110f0b15d","x":-300,"y":-730,"width":250,"height":60,"type":"text","text":"[[Sistemas dentro de otros sistemas]]\n"},
+		{"id":"5cda2703c2dfa378","x":-300,"y":-494,"width":250,"height":60,"type":"text","text":"[[Las funciones de un sistema dependen de su estructura]]\n"},
+		{"id":"4b9e9b199d7aa905","type":"text","text":"TSG\n","x":-1026,"y":-730,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"9feaff4662a42688","fromNode":"91ab122486972214","fromSide":"top","toNode":"eefc845fcfc72802","toSide":"bottom"},
