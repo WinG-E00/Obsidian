@@ -6,7 +6,7 @@ tags:
 
 # Índice de flashcards de BPM
 
-[[Study/Roadmaps/BPM/Sin título.canvas|Esquema de BPM]]
+[[../Sin título.canvas|Esquema de BPM]]
 
 ## Notas
 
