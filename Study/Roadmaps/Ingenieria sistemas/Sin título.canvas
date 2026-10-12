@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"91ab122486972214","x":-180,"y":-60,"width":220,"height":100,"type":"text","text":"Ingenieria de software examen\n"}
+		{"id":"91ab122486972214","x":-180,"y":-60,"width":220,"height":100,"type":"text","text":"Ingenieria de software examen\n"},
+		{"id":"eefc845fcfc72802","x":-559,"y":-313,"width":250,"height":60,"type":"text","text":""}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"9feaff4662a42688","fromNode":"91ab122486972214","fromSide":"top","toNode":"eefc845fcfc72802","toSide":"bottom"}
+	]
 }
