@@ -1,1 +1,3 @@
-Esto se fundamenta en el echo de que todos los sistemas siempre van a interactuar con el entorno de alguna u otra forma, ya se intercambiado cualquier tipo de cosa, com informacion, energia o recursos,  por ejemplo l 
+Esto se fundamenta en el echo de que todos los sistemas siempre van a interactuar con el entorno de alguna u otra forma, ya se intercambiado cualquier tipo de cosa, com informacion, energia o recursos,  por ejemplo la computadora recibe electricidad, recibe comandos del usuario, utiliza la luz para emitir ondas que puedan mostrar al usuario la pantalla.
+
+
