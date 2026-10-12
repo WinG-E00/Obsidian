@@ -1,13 +1,16 @@
 {
 	"nodes":[
-		{"id":"91ab122486972214","x":-180,"y":-60,"width":220,"height":100,"type":"text","text":"Ingenieria de software examen\n"},
-		{"id":"eefc845fcfc72802","x":-580,"y":-300,"width":250,"height":60,"type":"text","text":"Teoria general de sistemas\n"},
-		{"id":"8c74339f542989d9","x":-419,"y":-485,"width":250,"height":60,"type":"text","text":"Sistemas de informacion\n"},
-		{"id":"bafb82a2eb9ff4c1","x":40,"y":-485,"width":250,"height":60,"type":"text","text":"Software\n"},
-		{"id":"2ea9a64e17497d6b","x":40,"y":-265,"width":250,"height":50,"type":"text","text":"Ingenieria de software\n"}
+		{"id":"d19c4ec9ea818d19","x":-35,"y":-527,"width":250,"height":60,"type":"text","text":""},
+		{"id":"8c74339f542989d9","type":"text","text":"Sistemas de informacion\n","x":-419,"y":-485,"width":250,"height":60},
+		{"id":"eefc845fcfc72802","type":"text","text":"Teoria general de sistemas\n","x":-480,"y":-320,"width":250,"height":60},
+		{"id":"91ab122486972214","type":"text","text":"Ingenieria de software examen\n","x":-230,"y":-40,"width":220,"height":100},
+		{"id":"e24dbdb26d0eed45","type":"text","text":"Ingenieria de requermientos\n","x":140,"y":-120,"width":250,"height":60},
+		{"id":"2ea9a64e17497d6b","type":"text","text":"Ingenieria de software\n","x":-10,"y":-290,"width":220,"height":60},
+		{"id":"bafb82a2eb9ff4c1","type":"text","text":"Software\n","x":15,"y":-515,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"9feaff4662a42688","fromNode":"91ab122486972214","fromSide":"top","toNode":"eefc845fcfc72802","toSide":"bottom"},
-		{"id":"df8cf7782b8c3612","fromNode":"eefc845fcfc72802","fromSide":"top","toNode":"8c74339f542989d9","toSide":"bottom"}
+		{"id":"df8cf7782b8c3612","fromNode":"eefc845fcfc72802","fromSide":"top","toNode":"8c74339f542989d9","toSide":"bottom"},
+		{"id":"eb4494ec67a95560","fromNode":"91ab122486972214","fromSide":"top","toNode":"e24dbdb26d0eed45","toSide":"left"}
 	]
 }
