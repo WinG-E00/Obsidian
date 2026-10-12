@@ -2,7 +2,9 @@
 	"nodes":[
 		{"id":"91ab122486972214","x":-180,"y":-60,"width":220,"height":100,"type":"text","text":"Ingenieria de software examen\n"},
 		{"id":"eefc845fcfc72802","x":-580,"y":-300,"width":250,"height":60,"type":"text","text":"Teoria general de sistemas\n"},
-		{"id":"8c74339f542989d9","x":-419,"y":-485,"width":250,"height":60,"type":"text","text":"Sistemas de informacion\n"}
+		{"id":"8c74339f542989d9","x":-419,"y":-485,"width":250,"height":60,"type":"text","text":"Sistemas de informacion\n"},
+		{"id":"bafb82a2eb9ff4c1","x":40,"y":-485,"width":250,"height":60,"type":"text","text":"Software\n"},
+		{"id":"2ea9a64e17497d6b","x":40,"y":-265,"width":250,"height":50,"type":"text","text":"Ingenieria de software\n"}
 	],
 	"edges":[
 		{"id":"9feaff4662a42688","fromNode":"91ab122486972214","fromSide":"top","toNode":"eefc845fcfc72802","toSide":"bottom"},
