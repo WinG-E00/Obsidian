@@ -1,18 +1,22 @@
 {
 	"nodes":[
-		{"id":"e24dbdb26d0eed45","type":"text","text":"Ingenieria de requermientos\n","x":140,"y":-120,"width":250,"height":60},
-		{"id":"bafb82a2eb9ff4c1","type":"text","text":"Software\n","x":-80,"y":-545,"width":250,"height":60},
-		{"id":"2ea9a64e17497d6b","type":"text","text":"Ingenieria de software\n","x":30,"y":-350,"width":220,"height":60},
-		{"id":"8c74339f542989d9","type":"text","text":"Sistemas de informacion\n","x":-499,"y":-485,"width":250,"height":60},
-		{"id":"eefc845fcfc72802","type":"text","text":"Teoria general de sistemas\n","x":-560,"y":-320,"width":250,"height":60},
-		{"id":"f0e32ac15bc3e596","x":400,"y":60,"width":250,"height":60,"type":"text","text":"Matriz de trazabilidad\n"},
-		{"id":"91ab122486972214","type":"text","text":"Ingenieria de software examen\n","x":-300,"y":-10,"width":220,"height":100}
+		{"id":"91ab122486972214","type":"text","text":"Ingenieria de software examen\n","x":-300,"y":-10,"width":220,"height":100},
+		{"id":"eefc845fcfc72802","type":"text","text":"Teoria general de sistemas\n","x":-980,"y":-380,"width":250,"height":60},
+		{"id":"e24dbdb26d0eed45","type":"text","text":"Ingenieria de requermientos\n","x":840,"y":-150,"width":250,"height":60},
+		{"id":"bafb82a2eb9ff4c1","type":"text","text":"Software\n","x":620,"y":-575,"width":250,"height":60},
+		{"id":"2ea9a64e17497d6b","type":"text","text":"Ingenieria de software\n","x":730,"y":-380,"width":220,"height":60},
+		{"id":"f0e32ac15bc3e596","x":1100,"y":30,"width":250,"height":60,"type":"text","text":"Matriz de trazabilidad\n"},
+		{"id":"8c74339f542989d9","type":"text","text":"Sistemas de informacion\n","x":-730,"y":-840,"width":250,"height":50},
+		{"id":"0dbe72b96496ee6f","x":-1534,"y":-450,"width":250,"height":60,"type":"text","text":"TIC\n"},
+		{"id":"01219cac773aa49a","x":-1985,"y":-418,"width":250,"height":60,"type":"text","text":"Que son?"}
 	],
 	"edges":[
 		{"id":"9feaff4662a42688","fromNode":"91ab122486972214","fromSide":"top","toNode":"eefc845fcfc72802","toSide":"bottom"},
-		{"id":"df8cf7782b8c3612","fromNode":"eefc845fcfc72802","fromSide":"top","toNode":"8c74339f542989d9","toSide":"bottom"},
 		{"id":"eb4494ec67a95560","fromNode":"91ab122486972214","fromSide":"top","toNode":"e24dbdb26d0eed45","toSide":"left"},
 		{"id":"331772ce7d38a93d","fromNode":"2ea9a64e17497d6b","fromSide":"top","toNode":"bafb82a2eb9ff4c1","toSide":"bottom"},
-		{"id":"cfc8023f0f7fb6dc","fromNode":"e24dbdb26d0eed45","fromSide":"bottom","toNode":"f0e32ac15bc3e596","toSide":"top"}
+		{"id":"cfc8023f0f7fb6dc","fromNode":"e24dbdb26d0eed45","fromSide":"bottom","toNode":"f0e32ac15bc3e596","toSide":"top"},
+		{"id":"94bfd13bbf0c4058","fromNode":"eefc845fcfc72802","fromSide":"top","toNode":"8c74339f542989d9","toSide":"bottom"},
+		{"id":"6950621382d2e433","fromNode":"eefc845fcfc72802","fromSide":"left","toNode":"0dbe72b96496ee6f","toSide":"right"},
+		{"id":"0e841ce9ab049483","fromNode":"0dbe72b96496ee6f","fromSide":"left","toNode":"01219cac773aa49a","toSide":"right"}
 	]
 }
