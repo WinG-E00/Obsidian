@@ -188,4 +188,6 @@ Un pequeño error a corregir en la imagen es que el ponomio es
 
 
 Despues, Tenemos que igualar ese polinomio a 0 con la formula resolvente
+![[../../Pasted image 20261011210545.png]]
 
+![[../../Pasted image 20261011210551.png]]
