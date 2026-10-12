@@ -199,3 +199,4 @@ a)
 ![[Pasted image 20261011211505.png]]
 
 b)
+![[../../Pasted image 20261011215017.png]]
