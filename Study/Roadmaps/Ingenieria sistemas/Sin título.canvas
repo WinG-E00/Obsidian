@@ -16,7 +16,9 @@
 		{"id":"4b9e9b199d7aa905","type":"text","text":"TSG\n","x":-1030,"y":-975,"width":250,"height":60},
 		{"id":"3e33f2f4806c51f5","x":-662,"y":-1080,"width":250,"height":60,"type":"text","text":"[[Enfoque de las TSG]]\n"},
 		{"id":"d6a053e110f0b15d","x":-412,"y":-834,"width":250,"height":60,"type":"text","text":"Sistemas dentro de otros sistemas\n"},
-		{"id":"ef9b460a856b387b","x":-767,"y":-644,"width":250,"height":60,"type":"text","text":"Premisas de las TSG\n"}
+		{"id":"ef9b460a856b387b","x":-767,"y":-644,"width":250,"height":60,"type":"text","text":"Premisas de las TSG\n"},
+		{"id":"c5e6be1d883bcadf","x":-374,"y":-712,"width":250,"height":60,"type":"text","text":"Todos los sistemas son abiertos\n"},
+		{"id":"5cda2703c2dfa378","x":-347,"y":-569,"width":250,"height":60,"type":"text","text":"Las funciones de un sistema dependen de su estructura\n"}
 	],
 	"edges":[
 		{"id":"9feaff4662a42688","fromNode":"91ab122486972214","fromSide":"top","toNode":"eefc845fcfc72802","toSide":"bottom"},
@@ -33,6 +35,8 @@
 		{"id":"a86226288ee652b3","fromNode":"4b9e9b199d7aa905","fromSide":"top","toNode":"85c944668e5fad55","toSide":"bottom"},
 		{"id":"35bb72382e5a1826","fromNode":"4b9e9b199d7aa905","fromSide":"right","toNode":"3e33f2f4806c51f5","toSide":"left"},
 		{"id":"d46bec9cca0ed98e","fromNode":"4b9e9b199d7aa905","fromSide":"right","toNode":"ef9b460a856b387b","toSide":"left"},
-		{"id":"b757b8abcd12fcd5","fromNode":"ef9b460a856b387b","fromSide":"right","toNode":"d6a053e110f0b15d","toSide":"left"}
+		{"id":"b757b8abcd12fcd5","fromNode":"ef9b460a856b387b","fromSide":"right","toNode":"d6a053e110f0b15d","toSide":"left"},
+		{"id":"d7fb5bb05dacf18b","fromNode":"ef9b460a856b387b","fromSide":"right","toNode":"c5e6be1d883bcadf","toSide":"left"},
+		{"id":"39b9d5a901d48994","fromNode":"ef9b460a856b387b","fromSide":"right","toNode":"5cda2703c2dfa378","toSide":"left"}
 	]
 }
