@@ -34,9 +34,9 @@
 		{"id":"31d515072d41d02d","x":-3251,"y":-1729,"width":250,"height":60,"type":"text","text":"Retroalimentacion\n"},
 		{"id":"6e685e842329e5a6","x":-3660,"y":-1679,"width":250,"height":60,"type":"text","text":"Salidas\n"},
 		{"id":"fb9ffd69d32112b2","x":-1974,"y":-1268,"width":250,"height":60,"type":"text","text":"[[Subsistema]]\n"},
-		{"id":"efbdbbba1e0c43ee","x":-589,"y":-1244,"width":250,"height":60,"type":"text","text":"Enfoque en las organizaciones"},
-		{"id":"2efea1c6d5e28a3c","x":-800,"y":-1680,"width":250,"height":60,"type":"text","text":"Organizacion\n"},
-		{"id":"41c0a7a9152ef6a6","x":-1129,"y":-1680,"width":250,"height":60,"type":"text","text":"[[Definicion de organizacion]]\n"}
+		{"id":"efbdbbba1e0c43ee","x":-589,"y":-1244,"width":250,"height":60,"type":"text","text":"Enfoque TSG en las organizaciones\n"},
+		{"id":"41c0a7a9152ef6a6","x":-1129,"y":-1680,"width":250,"height":60,"type":"text","text":"[[Definicion de organizacion]]\n"},
+		{"id":"2efea1c6d5e28a3c","x":-800,"y":-1560,"width":250,"height":60,"type":"text","text":"Organizacion\n "}
 	],
 	"edges":[
 		{"id":"eb4494ec67a95560","fromNode":"91ab122486972214","fromSide":"top","toNode":"e24dbdb26d0eed45","toSide":"left"},
