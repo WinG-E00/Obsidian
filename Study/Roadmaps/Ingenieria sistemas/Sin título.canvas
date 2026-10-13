@@ -20,8 +20,8 @@
 		{"id":"5cda2703c2dfa378","type":"text","text":"[[Las funciones de un sistema dependen de su estructura]]\n","x":-300,"y":-494,"width":250,"height":60},
 		{"id":"4b9e9b199d7aa905","type":"text","text":"TSG\n","x":-1026,"y":-730,"width":250,"height":60},
 		{"id":"755728525a3aae82","type":"text","text":"[[Sistema]]\n","x":-2073,"y":-907,"width":250,"height":60},
-		{"id":"b0575d40a262e8ba","x":-2415,"y":-1042,"width":250,"height":60,"type":"text","text":"[[Sistemas rigidos]]\n"},
-		{"id":"e62f563a9404608a","x":-2619,"y":-895,"width":250,"height":60,"type":"text","text":"[[Sistemas flexibles]]\n"}
+		{"id":"b0575d40a262e8ba","type":"text","text":"[[Sistemas rigidos]]\n","x":-2415,"y":-1042,"width":250,"height":60},
+		{"id":"e62f563a9404608a","type":"text","text":"[[Sistemas flexibles]]\n","x":-2619,"y":-895,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"eb4494ec67a95560","fromNode":"91ab122486972214","fromSide":"top","toNode":"e24dbdb26d0eed45","toSide":"left"},
@@ -30,7 +30,6 @@
 		{"id":"94bfd13bbf0c4058","fromNode":"eefc845fcfc72802","fromSide":"top","toNode":"8c74339f542989d9","toSide":"bottom"},
 		{"id":"6950621382d2e433","fromNode":"eefc845fcfc72802","fromSide":"left","toNode":"0dbe72b96496ee6f","toSide":"right"},
 		{"id":"0e841ce9ab049483","fromNode":"0dbe72b96496ee6f","fromSide":"left","toNode":"01219cac773aa49a","toSide":"right"},
-		{"id":"0a8ccb200011901f","fromNode":"eefc845fcfc72802","fromSide":"top","toNode":"9c6786fb1665fef9","toSide":"bottom"},
 		{"id":"769eba980d80a752","fromNode":"9c6786fb1665fef9","fromSide":"left","toNode":"5db9a26345f5dbe4","toSide":"right"},
 		{"id":"3d588da8ccb425b8","fromNode":"9c6786fb1665fef9","fromSide":"left","toNode":"1660858e70ca45f2","toSide":"right"},
 		{"id":"984baa7446f3516a","fromNode":"eefc845fcfc72802","fromSide":"right","toNode":"4b9e9b199d7aa905","toSide":"left"},
@@ -43,6 +42,7 @@
 		{"id":"a09907c87736955b","fromNode":"9c6786fb1665fef9","fromSide":"top","toNode":"755728525a3aae82","toSide":"bottom"},
 		{"id":"a0d0bdf1f9795981","fromNode":"eefc845fcfc72802","fromSide":"bottom","toNode":"91ab122486972214","toSide":"left"},
 		{"id":"b7715a4abc2e4faf","fromNode":"755728525a3aae82","fromSide":"left","toNode":"b0575d40a262e8ba","toSide":"bottom"},
-		{"id":"172b138ae1e0632e","fromNode":"755728525a3aae82","fromSide":"left","toNode":"e62f563a9404608a","toSide":"right"}
+		{"id":"172b138ae1e0632e","fromNode":"755728525a3aae82","fromSide":"left","toNode":"e62f563a9404608a","toSide":"right"},
+		{"id":"0a8ccb200011901f","fromNode":"eefc845fcfc72802","fromSide":"top","toNode":"9c6786fb1665fef9","toSide":"bottom"}
 	]
 }
