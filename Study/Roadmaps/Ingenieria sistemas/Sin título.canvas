@@ -39,7 +39,8 @@
 		{"id":"2efea1c6d5e28a3c","x":-800,"y":-1560,"width":250,"height":60,"type":"text","text":"Organizacion\n "},
 		{"id":"03e8def03baaa31d","x":-161,"y":-1375,"width":301,"height":95,"type":"text","text":"Caracteristicas de las organizacion con el enfoque TSG\n"},
 		{"id":"f397d46d6eba6d42","x":231,"y":-1538,"width":250,"height":60,"type":"text","text":"Enfoque probabilistico\n"},
-		{"id":"e4594cd952ab9da5","x":400,"y":-1355,"width":250,"height":60,"type":"text","text":"[[Organizaciones como parte de algo mayor]]"}
+		{"id":"e4594cd952ab9da5","x":400,"y":-1355,"width":250,"height":60,"type":"text","text":"[[Organizaciones como parte de algo mayor]]"},
+		{"id":"063dd6d5a0b5df36","x":730,"y":-1448,"width":250,"height":60,"type":"text","text":"Sistemas dentro de sistemas"}
 	],
 	"edges":[
 		{"id":"eb4494ec67a95560","fromNode":"91ab122486972214","fromSide":"top","toNode":"e24dbdb26d0eed45","toSide":"left"},
@@ -78,6 +79,7 @@
 		{"id":"003d7799c6849ad5","fromNode":"2efea1c6d5e28a3c","fromSide":"left","toNode":"41c0a7a9152ef6a6","toSide":"right"},
 		{"id":"fdea6f5229ed2a1e","fromNode":"efbdbbba1e0c43ee","fromSide":"right","toNode":"03e8def03baaa31d","toSide":"left"},
 		{"id":"6d10f24632088d09","fromNode":"03e8def03baaa31d","fromSide":"right","toNode":"f397d46d6eba6d42","toSide":"left"},
-		{"id":"330f59da73362c57","fromNode":"03e8def03baaa31d","fromSide":"right","toNode":"e4594cd952ab9da5","toSide":"left"}
+		{"id":"330f59da73362c57","fromNode":"03e8def03baaa31d","fromSide":"right","toNode":"e4594cd952ab9da5","toSide":"left"},
+		{"id":"9d97bcfb5ddfcce0","fromNode":"e4594cd952ab9da5","fromSide":"right","toNode":"063dd6d5a0b5df36","toSide":"left"}
 	]
 }
