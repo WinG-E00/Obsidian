@@ -1,0 +1,1 @@
+Una organizacion es un conjunto de partes que cumplen con un objetivo 

@@ -34,7 +34,9 @@
 		{"id":"31d515072d41d02d","x":-3251,"y":-1729,"width":250,"height":60,"type":"text","text":"Retroalimentacion\n"},
 		{"id":"6e685e842329e5a6","x":-3660,"y":-1679,"width":250,"height":60,"type":"text","text":"Salidas\n"},
 		{"id":"fb9ffd69d32112b2","x":-1974,"y":-1268,"width":250,"height":60,"type":"text","text":"[[Subsistema]]\n"},
-		{"id":"efbdbbba1e0c43ee","x":-589,"y":-1244,"width":250,"height":60,"type":"text","text":"Enfoque en las organizaciones"}
+		{"id":"efbdbbba1e0c43ee","x":-589,"y":-1244,"width":250,"height":60,"type":"text","text":"Enfoque en las organizaciones"},
+		{"id":"2efea1c6d5e28a3c","x":-800,"y":-1680,"width":250,"height":60,"type":"text","text":"Organizacion\n"},
+		{"id":"41c0a7a9152ef6a6","x":-1129,"y":-1680,"width":250,"height":60,"type":"text","text":"[[Definicion de organizacion]]\n"}
 	],
 	"edges":[
 		{"id":"eb4494ec67a95560","fromNode":"91ab122486972214","fromSide":"top","toNode":"e24dbdb26d0eed45","toSide":"left"},
@@ -69,6 +71,7 @@
 		{"id":"0e172317fc8dfbfc","fromNode":"e19e436ebc437bbc","fromSide":"left","toNode":"6e685e842329e5a6","toSide":"right"},
 		{"id":"86219c5dce4ef933","fromNode":"e19e436ebc437bbc","fromSide":"top","toNode":"31d515072d41d02d","toSide":"bottom"},
 		{"id":"57a3310ecb01b857","fromNode":"e3f9046230834cfa","fromSide":"right","toNode":"fb9ffd69d32112b2","toSide":"left"},
-		{"id":"bb66a34fcb3ac8d6","fromNode":"3e33f2f4806c51f5","fromSide":"top","toNode":"efbdbbba1e0c43ee","toSide":"bottom"}
+		{"id":"bb66a34fcb3ac8d6","fromNode":"3e33f2f4806c51f5","fromSide":"top","toNode":"efbdbbba1e0c43ee","toSide":"bottom"},
+		{"id":"003d7799c6849ad5","fromNode":"2efea1c6d5e28a3c","fromSide":"left","toNode":"41c0a7a9152ef6a6","toSide":"right"}
 	]
 }
