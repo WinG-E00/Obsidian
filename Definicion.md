@@ -3,9 +3,11 @@ herramientas, vinculados con el consumo y la transmisión de
 la información y desarrollados a partir del cambio tecnológico
 vertiginoso que ha experimentado la humanidad en las últimas
 décadas, sobre todo a raíz de la aparición de Internet.
+
 Se usan para indicar el cambio de paradigma en la manera en
 que consumimos la información hoy en día, respecto a épocas
 pasadas.
+
 Esto tiene que ver con áreas tan distintas como las relaciones
 familiares, las finanzas corporativas, la industria del entretenimiento
 e incluso el trabajo cotidiano
