@@ -1,11 +1,21 @@
 {
 	"nodes":[
 		{"id":"6c4b98bc4c543edf","type":"text","text":"BPMN","x":-125,"y":-30,"width":165,"height":70},
-		{"id":"7dd0fe200e439049","x":-490,"y":-181,"width":250,"height":60,"type":"text","text":"[[Que es BPMN]]\n"},
-		{"id":"953f590de2140a05","x":-400,"y":5,"width":144,"height":51,"type":"text","text":"[[Importancia]]"}
+		{"id":"7dd0fe200e439049","type":"text","text":"[[Que es BPMN]]\n","x":-490,"y":-181,"width":250,"height":60},
+		{"id":"953f590de2140a05","type":"text","text":"[[Importancia]]","x":-400,"y":5,"width":144,"height":51},
+		{"id":"2606f0c95f6df0fb","x":281,"y":-210,"width":250,"height":60,"type":"text","text":"Simbolos\n"},
+		{"id":"f0b2950ce8e83776","x":637,"y":-395,"width":250,"height":60,"type":"text","text":"Actividades\n"},
+		{"id":"fb381e08f7c27512","x":704,"y":-304,"width":250,"height":60,"type":"text","text":"Compuertas\n"},
+		{"id":"3fa2deccc316c9a6","x":760,"y":-189,"width":250,"height":60,"type":"text","text":"Eventos\n"},
+		{"id":"ac3e6e40a74cdf39","x":730,"y":-96,"width":250,"height":60,"type":"text","text":"Flujo de secuenc"}
 	],
 	"edges":[
 		{"id":"bb4557f21bfb2681","fromNode":"6c4b98bc4c543edf","fromSide":"top","toNode":"7dd0fe200e439049","toSide":"bottom"},
-		{"id":"2f08f1fdf0526191","fromNode":"6c4b98bc4c543edf","fromSide":"left","toNode":"953f590de2140a05","toSide":"right"}
+		{"id":"2f08f1fdf0526191","fromNode":"6c4b98bc4c543edf","fromSide":"left","toNode":"953f590de2140a05","toSide":"right"},
+		{"id":"08a5ce1af54942e6","fromNode":"6c4b98bc4c543edf","fromSide":"right","toNode":"2606f0c95f6df0fb","toSide":"left"},
+		{"id":"4808ef24c37c59f7","fromNode":"2606f0c95f6df0fb","fromSide":"right","toNode":"f0b2950ce8e83776","toSide":"left"},
+		{"id":"c6d94f000ecadbc0","fromNode":"2606f0c95f6df0fb","fromSide":"right","toNode":"fb381e08f7c27512","toSide":"left"},
+		{"id":"0f7b75213a7b59ed","fromNode":"2606f0c95f6df0fb","fromSide":"right","toNode":"3fa2deccc316c9a6","toSide":"left"},
+		{"id":"52f21c17000c726c","fromNode":"2606f0c95f6df0fb","fromSide":"right","toNode":"ac3e6e40a74cdf39","toSide":"left"}
 	]
 }
