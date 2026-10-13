@@ -1,1 +1,1 @@
-Homoestasis o estado firme seria
+Homoestasis o estado firme seria la capacidad que tiene la organizacion para mantener los objetivos de esta a pesar de los cambios que pueda llegar a tener
