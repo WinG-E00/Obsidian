@@ -26,7 +26,9 @@
 		{"id":"a2f128a4d2295ef0","x":-2170,"y":-1500,"width":250,"height":60,"type":"text","text":"Segun su constitucion\n "},
 		{"id":"205884bdd4021664","x":-2721,"y":-1400,"width":250,"height":60,"type":"text","text":"Segun su naturaleza\n"},
 		{"id":"50f8703d469b4750","x":-2289,"y":-1659,"width":250,"height":60,"type":"text","text":"Fisicos o concretos\n"},
-		{"id":"329a7d0a9651e8f8","x":-1960,"y":-1659,"width":250,"height":60,"type":"text","text":"Abstractos\n"}
+		{"id":"329a7d0a9651e8f8","x":-1960,"y":-1659,"width":250,"height":60,"type":"text","text":"Abstractos\n"},
+		{"id":"e19e436ebc437bbc","x":-2966,"y":-1560,"width":250,"height":60,"type":"text","text":"Abiertos\n"},
+		{"id":"b3b2ec87aa2bc0ad","x":-2670,"y":-1560,"width":250,"height":60,"type":"text","text":"Cerrados\n"}
 	],
 	"edges":[
 		{"id":"eb4494ec67a95560","fromNode":"91ab122486972214","fromSide":"top","toNode":"e24dbdb26d0eed45","toSide":"left"},
@@ -53,6 +55,8 @@
 		{"id":"bb07761bf985a7d0","fromNode":"e3f9046230834cfa","fromSide":"top","toNode":"205884bdd4021664","toSide":"bottom"},
 		{"id":"242c4903ac8b4c9b","fromNode":"e3f9046230834cfa","fromSide":"top","toNode":"a2f128a4d2295ef0","toSide":"bottom"},
 		{"id":"9eb61797263b8134","fromNode":"a2f128a4d2295ef0","fromSide":"top","toNode":"50f8703d469b4750","toSide":"bottom"},
-		{"id":"1508e5bb6322d879","fromNode":"a2f128a4d2295ef0","fromSide":"top","toNode":"329a7d0a9651e8f8","toSide":"bottom"}
+		{"id":"1508e5bb6322d879","fromNode":"a2f128a4d2295ef0","fromSide":"top","toNode":"329a7d0a9651e8f8","toSide":"bottom"},
+		{"id":"0db9c8cde254364c","fromNode":"205884bdd4021664","fromSide":"top","toNode":"e19e436ebc437bbc","toSide":"bottom"},
+		{"id":"ef838a20165f31a1","fromNode":"205884bdd4021664","fromSide":"top","toNode":"b3b2ec87aa2bc0ad","toSide":"bottom"}
 	]
 }
