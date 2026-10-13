@@ -13,7 +13,6 @@
 		{"id":"3952b41c561f5d1c","type":"text","text":"Procesos de datos\n","x":1506,"y":-419,"width":250,"height":60},
 		{"id":"4f25c55018a47350","type":"text","text":"Anotaciones","x":1559,"y":-302,"width":250,"height":60},
 		{"id":"12eefe9ac20f4b40","type":"text","text":"Grupos","x":1549,"y":-141,"width":250,"height":60},
-		{"id":"64db1d15dea855fd","type":"text","text":"Tipos de actividades (tareas)","x":999,"y":-800,"width":250,"height":60},
 		{"id":"fc7d774b7cc48919","type":"text","text":"Subprocesos\n","x":1362,"y":-891,"width":250,"height":60},
 		{"id":"14275b2d204bb922","type":"text","text":"Embebidos\n","x":1735,"y":-1036,"width":250,"height":60},
 		{"id":"592bc3a2f5faa7b9","type":"text","text":"Reusables\n ","x":1742,"y":-902,"width":250,"height":60},
@@ -29,7 +28,8 @@
 		{"id":"8d1e8c8ee0597a02","x":655,"y":440,"width":250,"height":50,"type":"text","text":"Tipos de compuertas\n"},
 		{"id":"58ab3b2c1e750d84","x":938,"y":620,"width":142,"height":50,"type":"text","text":"Paralela \n"},
 		{"id":"3de7a662b4fe8f20","x":460,"y":670,"width":120,"height":60,"type":"text","text":"Inclusiva\n"},
-		{"id":"3cc0bbb9822c89d9","x":688,"y":705,"width":148,"height":50,"type":"text","text":"Exclusiva\n"}
+		{"id":"3cc0bbb9822c89d9","x":688,"y":705,"width":148,"height":50,"type":"text","text":"Exclusiva\n"},
+		{"id":"64db1d15dea855fd","type":"text","text":"Tipos de actividades (tareas)","x":1020,"y":-680,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"bb4557f21bfb2681","fromNode":"6c4b98bc4c543edf","fromSide":"top","toNode":"7dd0fe200e439049","toSide":"bottom"},
