@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"113c53a95e11f14a","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Prostgress\n"}
+		{"id":"113c53a95e11f14a","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Prostgress"}
 	],
 	"edges":[]
 }
