@@ -20,7 +20,7 @@
 		{"id":"4b0a10e153b25361","type":"text","text":"Lanes\n","x":1195,"y":82,"width":250,"height":60},
 		{"id":"3fa2deccc316c9a6","type":"text","text":"[[Eventos]]\n","x":240,"y":-540,"width":250,"height":60},
 		{"id":"f57b0e0040c5079a","type":"text","text":"Tipos de eventos\n","x":119,"y":-704,"width":250,"height":60},
-		{"id":"1a4d22bbf6160854","type":"text","text":"Inicio\n","x":-98,"y":-883,"width":250,"height":60},
+		{"id":"1a4d22bbf6160854","type":"text","text":"[[Inicio]]\n","x":-98,"y":-883,"width":250,"height":60},
 		{"id":"867dd1b5f9da564c","type":"text","text":"Fin\n","x":420,"y":-861,"width":250,"height":60},
 		{"id":"406b0369cdd4c3d4","type":"text","text":"Intermedio\n","x":152,"y":-943,"width":250,"height":60},
 		{"id":"2ab6c1daf60d4e87","x":-210,"y":522,"width":250,"height":50,"type":"text","text":"Divergencia\n"},
