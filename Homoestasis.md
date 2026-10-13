@@ -1,0 +1,1 @@
+Homoestasis o estado firme seria
