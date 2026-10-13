@@ -5,3 +5,5 @@ Cualquier evento que de inicio a algo
 Ejemplo
 
 ## Tipos de eventos de inicio
+![[Pasted image 20261013102602.png]]
+
