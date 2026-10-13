@@ -50,7 +50,7 @@
 		{"id":"5db9a26345f5dbe4","type":"text","text":"[[Conocimiento]]","x":-2198,"y":-400,"width":250,"height":60},
 		{"id":"1660858e70ca45f2","type":"text","text":"[[Informacion]]\n","x":-2400,"y":-584,"width":250,"height":60},
 		{"id":"eaf02b507627ca0f","x":-2807,"y":-550,"width":250,"height":60,"type":"text","text":"[[Recurso]]\n"},
-		{"id":"d3d8b453ed1f7d08","x":-2811,"y":-379,"width":250,"height":60,"type":"text","text":"Nivel en la organizacion"},
+		{"id":"d3d8b453ed1f7d08","x":-2811,"y":-379,"width":250,"height":60,"type":"text","text":"[[Nivel en la organizacion]]"},
 		{"id":"938eeea7f23e631c","x":-2840,"y":-671,"width":250,"height":60,"type":"text","text":"[[Uso]]\n"}
 	],
 	"edges":[
