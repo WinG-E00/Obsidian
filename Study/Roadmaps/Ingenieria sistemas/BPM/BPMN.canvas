@@ -10,13 +10,13 @@
 		{"id":"ac3e6e40a74cdf39","x":874,"y":-181,"width":250,"height":60,"type":"text","text":"Flujo de secuencia\n"},
 		{"id":"3fa2deccc316c9a6","x":904,"y":-274,"width":250,"height":60,"type":"text","text":"Eventos\n"},
 		{"id":"f0b2950ce8e83776","x":731,"y":-480,"width":250,"height":60,"type":"text","text":"Actividades\n"},
-		{"id":"cb3b4bf052b156c6","x":688,"y":-600,"width":250,"height":60,"type":"text","text":"Artefactos\n"},
 		{"id":"175968a95d7223c0","x":688,"y":180,"width":250,"height":60,"type":"text","text":"Lineas de mensaje\n"},
 		{"id":"e46c4e6937931fee","x":1320,"y":-327,"width":140,"height":55,"type":"text","text":"Artefactos\n"},
 		{"id":"3952b41c561f5d1c","x":1506,"y":-419,"width":250,"height":60,"type":"text","text":"Procesos de datos\n"},
 		{"id":"4f25c55018a47350","x":1559,"y":-302,"width":250,"height":60,"type":"text","text":"Anotaciones"},
 		{"id":"12eefe9ac20f4b40","x":1549,"y":-141,"width":250,"height":60,"type":"text","text":"Grupos"},
-		{"id":"4b0a10e153b25361","x":654,"y":380,"width":250,"height":60,"type":"text","text":"Lanes\n"}
+		{"id":"4b0a10e153b25361","x":654,"y":380,"width":250,"height":60,"type":"text","text":"Lanes\n"},
+		{"id":"64db1d15dea855fd","x":1044,"y":-730,"width":250,"height":60,"type":"text","text":"Tipos de actividades (tareas)"}
 	],
 	"edges":[
 		{"id":"bb4557f21bfb2681","fromNode":"6c4b98bc4c543edf","fromSide":"top","toNode":"7dd0fe200e439049","toSide":"bottom"},
@@ -29,10 +29,11 @@
 		{"id":"89f58faf47fc9b27","fromNode":"2606f0c95f6df0fb","fromSide":"right","toNode":"ffe8c7b860b66e54","toSide":"left"},
 		{"id":"64d7f623ec0f465b","fromNode":"2606f0c95f6df0fb","fromSide":"right","toNode":"873a6f78d538b8dc","toSide":"left"},
 		{"id":"091f68cdacf9e66e","fromNode":"2606f0c95f6df0fb","fromSide":"right","toNode":"175968a95d7223c0","toSide":"left"},
-		{"id":"95b5d6c3fa6f3484","fromNode":"2606f0c95f6df0fb","fromSide":"right","toNode":"cb3b4bf052b156c6","toSide":"left"},
 		{"id":"841ac4b07fee91f3","fromNode":"e46c4e6937931fee","fromSide":"right","toNode":"3952b41c561f5d1c","toSide":"left"},
 		{"id":"451bfa775569b4c7","fromNode":"e46c4e6937931fee","fromSide":"right","toNode":"4f25c55018a47350","toSide":"left"},
 		{"id":"e155c417fdb796d8","fromNode":"e46c4e6937931fee","fromSide":"right","toNode":"12eefe9ac20f4b40","toSide":"left"},
-		{"id":"2a0c52ed9eff8af8","fromNode":"2606f0c95f6df0fb","fromSide":"right","toNode":"4b0a10e153b25361","toSide":"left"}
+		{"id":"2a0c52ed9eff8af8","fromNode":"2606f0c95f6df0fb","fromSide":"right","toNode":"4b0a10e153b25361","toSide":"left"},
+		{"id":"0878b23403620202","fromNode":"2606f0c95f6df0fb","fromSide":"right","toNode":"e46c4e6937931fee","toSide":"left"},
+		{"id":"81a9449d1d656dcb","fromNode":"f0b2950ce8e83776","fromSide":"right","toNode":"64db1d15dea855fd","toSide":"left"}
 	]
 }
