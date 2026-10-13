@@ -1,1 +1,1 @@
-Las fronteras limites son basicamente 
+Las fronteras limites son basicamente la forma de separar los elementos que pertenecen a el sistema y los elementos que no pertenencen a ese sistema, 
