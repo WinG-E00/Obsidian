@@ -1,0 +1,1 @@
+Cuando hablamos de que existe interdependencias en las partes de una organizacion hablamos de que cada parte no puede existir o no puede cumplir su funcion general sin la otra
