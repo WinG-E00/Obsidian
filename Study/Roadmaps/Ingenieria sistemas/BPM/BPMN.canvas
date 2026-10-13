@@ -16,7 +16,8 @@
 		{"id":"4f25c55018a47350","x":1559,"y":-302,"width":250,"height":60,"type":"text","text":"Anotaciones"},
 		{"id":"12eefe9ac20f4b40","x":1549,"y":-141,"width":250,"height":60,"type":"text","text":"Grupos"},
 		{"id":"4b0a10e153b25361","x":654,"y":380,"width":250,"height":60,"type":"text","text":"Lanes\n"},
-		{"id":"64db1d15dea855fd","x":1044,"y":-730,"width":250,"height":60,"type":"text","text":"Tipos de actividades (tareas)"}
+		{"id":"64db1d15dea855fd","x":999,"y":-800,"width":250,"height":60,"type":"text","text":"Tipos de actividades (tareas)"},
+		{"id":"fc7d774b7cc48919","x":1362,"y":-891,"width":250,"height":60,"type":"text","text":"Subprocesos\n"}
 	],
 	"edges":[
 		{"id":"bb4557f21bfb2681","fromNode":"6c4b98bc4c543edf","fromSide":"top","toNode":"7dd0fe200e439049","toSide":"bottom"},
@@ -34,6 +35,7 @@
 		{"id":"e155c417fdb796d8","fromNode":"e46c4e6937931fee","fromSide":"right","toNode":"12eefe9ac20f4b40","toSide":"left"},
 		{"id":"2a0c52ed9eff8af8","fromNode":"2606f0c95f6df0fb","fromSide":"right","toNode":"4b0a10e153b25361","toSide":"left"},
 		{"id":"0878b23403620202","fromNode":"2606f0c95f6df0fb","fromSide":"right","toNode":"e46c4e6937931fee","toSide":"left"},
-		{"id":"81a9449d1d656dcb","fromNode":"f0b2950ce8e83776","fromSide":"right","toNode":"64db1d15dea855fd","toSide":"left"}
+		{"id":"81a9449d1d656dcb","fromNode":"f0b2950ce8e83776","fromSide":"right","toNode":"64db1d15dea855fd","toSide":"left"},
+		{"id":"e33e76d69452b276","fromNode":"64db1d15dea855fd","fromSide":"right","toNode":"fc7d774b7cc48919","toSide":"left"}
 	]
 }
