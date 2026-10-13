@@ -1,9 +1,11 @@
 {
 	"nodes":[
 		{"id":"6c4b98bc4c543edf","type":"text","text":"BPMN","x":-125,"y":-30,"width":165,"height":70},
-		{"id":"7dd0fe200e439049","x":-490,"y":-181,"width":250,"height":60,"type":"text","text":"[[Que es BPMN]]\n"}
+		{"id":"7dd0fe200e439049","x":-490,"y":-181,"width":250,"height":60,"type":"text","text":"[[Que es BPMN]]\n"},
+		{"id":"953f590de2140a05","x":-400,"y":5,"width":144,"height":51,"type":"text","text":"[[Importancia]]"}
 	],
 	"edges":[
-		{"id":"bb4557f21bfb2681","fromNode":"6c4b98bc4c543edf","fromSide":"top","toNode":"7dd0fe200e439049","toSide":"bottom"}
+		{"id":"bb4557f21bfb2681","fromNode":"6c4b98bc4c543edf","fromSide":"top","toNode":"7dd0fe200e439049","toSide":"bottom"},
+		{"id":"2f08f1fdf0526191","fromNode":"6c4b98bc4c543edf","fromSide":"left","toNode":"953f590de2140a05","toSide":"right"}
 	]
 }
