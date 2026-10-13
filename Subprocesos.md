@@ -1,1 +1,1 @@
-Basicamente son tareas que tienen dentro otro conjunto de procesos.. puede tener todos los tipos de 
+Basicamente son tareas que tienen dentro otro conjunto de procesos.. puede tener todos los tipos tipos de simbolos 
