@@ -1,0 +1,1 @@
+Las fronteras limites son basicamente 
