@@ -23,14 +23,20 @@
 		{"id":"1a4d22bbf6160854","type":"text","text":"Inicio\n","x":-98,"y":-883,"width":250,"height":60},
 		{"id":"867dd1b5f9da564c","type":"text","text":"Fin\n","x":420,"y":-861,"width":250,"height":60},
 		{"id":"406b0369cdd4c3d4","type":"text","text":"Intermedio\n","x":152,"y":-943,"width":250,"height":60},
-		{"id":"fb381e08f7c27512","type":"text","text":"Compuertas\n","x":60,"y":240,"width":250,"height":60}
+		{"id":"2ab6c1daf60d4e87","x":-210,"y":522,"width":250,"height":50,"type":"text","text":"Divergencia\n"},
+		{"id":"a8919f223c29aa6a","x":110,"y":540,"width":250,"height":50,"type":"text","text":"Convergencia\n "},
+		{"id":"fb381e08f7c27512","type":"text","text":"Compuertas\n","x":260,"y":300,"width":250,"height":60},
+		{"id":"8d1e8c8ee0597a02","x":655,"y":440,"width":250,"height":50,"type":"text","text":"Tipos de compuertas\n"},
+		{"id":"58ab3b2c1e750d84","x":847,"y":693,"width":250,"height":50,"type":"text","text":"Paralela \n"},
+		{"id":"3de7a662b4fe8f20","x":325,"y":714,"width":250,"height":60,"type":"text","text":"Inclusiva\n"},
+		{"id":"3cc0bbb9822c89d9","x":575,"y":714,"width":250,"height":60,"type":"text","text":"Exclusiva\n"}
 	],
 	"edges":[
 		{"id":"bb4557f21bfb2681","fromNode":"6c4b98bc4c543edf","fromSide":"top","toNode":"7dd0fe200e439049","toSide":"bottom"},
 		{"id":"2f08f1fdf0526191","fromNode":"6c4b98bc4c543edf","fromSide":"left","toNode":"953f590de2140a05","toSide":"right"},
 		{"id":"08a5ce1af54942e6","fromNode":"6c4b98bc4c543edf","fromSide":"right","toNode":"2606f0c95f6df0fb","toSide":"left"},
 		{"id":"4808ef24c37c59f7","fromNode":"2606f0c95f6df0fb","fromSide":"right","toNode":"f0b2950ce8e83776","toSide":"left"},
-		{"id":"c6d94f000ecadbc0","fromNode":"2606f0c95f6df0fb","fromSide":"bottom","toNode":"fb381e08f7c27512","toSide":"left"},
+		{"id":"c6d94f000ecadbc0","fromNode":"2606f0c95f6df0fb","fromSide":"bottom","toNode":"fb381e08f7c27512","toSide":"top"},
 		{"id":"0f7b75213a7b59ed","fromNode":"2606f0c95f6df0fb","fromSide":"top","toNode":"3fa2deccc316c9a6","toSide":"bottom"},
 		{"id":"52f21c17000c726c","fromNode":"2606f0c95f6df0fb","fromSide":"right","toNode":"ac3e6e40a74cdf39","toSide":"left"},
 		{"id":"89f58faf47fc9b27","fromNode":"2606f0c95f6df0fb","fromSide":"right","toNode":"ffe8c7b860b66e54","toSide":"left"},
@@ -48,6 +54,12 @@
 		{"id":"1a7780c7aec44fd2","fromNode":"3fa2deccc316c9a6","fromSide":"top","toNode":"f57b0e0040c5079a","toSide":"bottom"},
 		{"id":"8eba66548fa68326","fromNode":"f57b0e0040c5079a","fromSide":"top","toNode":"1a4d22bbf6160854","toSide":"bottom"},
 		{"id":"b78b37fda32dfa3e","fromNode":"f57b0e0040c5079a","fromSide":"top","toNode":"406b0369cdd4c3d4","toSide":"bottom"},
-		{"id":"08d1bd3a5a1a3ac6","fromNode":"f57b0e0040c5079a","fromSide":"top","toNode":"867dd1b5f9da564c","toSide":"bottom"}
+		{"id":"08d1bd3a5a1a3ac6","fromNode":"f57b0e0040c5079a","fromSide":"top","toNode":"867dd1b5f9da564c","toSide":"bottom"},
+		{"id":"da7d8571b50dbf83","fromNode":"fb381e08f7c27512","fromSide":"bottom","toNode":"2ab6c1daf60d4e87","toSide":"top"},
+		{"id":"1b829d595523203e","fromNode":"fb381e08f7c27512","fromSide":"bottom","toNode":"a8919f223c29aa6a","toSide":"top"},
+		{"id":"8a08dd1b022a4afd","fromNode":"fb381e08f7c27512","fromSide":"right","toNode":"8d1e8c8ee0597a02","toSide":"left"},
+		{"id":"c3e218403f1aa2db","fromNode":"8d1e8c8ee0597a02","fromSide":"bottom","toNode":"3cc0bbb9822c89d9","toSide":"top"},
+		{"id":"4f66eacb3a2341f5","fromNode":"8d1e8c8ee0597a02","fromSide":"bottom","toNode":"58ab3b2c1e750d84","toSide":"top"},
+		{"id":"761ceeda107d09bb","fromNode":"8d1e8c8ee0597a02","fromSide":"bottom","toNode":"3de7a662b4fe8f20","toSide":"top"}
 	]
 }
