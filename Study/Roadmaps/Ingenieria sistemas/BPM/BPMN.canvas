@@ -17,7 +17,9 @@
 		{"id":"12eefe9ac20f4b40","x":1549,"y":-141,"width":250,"height":60,"type":"text","text":"Grupos"},
 		{"id":"4b0a10e153b25361","x":654,"y":380,"width":250,"height":60,"type":"text","text":"Lanes\n"},
 		{"id":"64db1d15dea855fd","x":999,"y":-800,"width":250,"height":60,"type":"text","text":"Tipos de actividades (tareas)"},
-		{"id":"fc7d774b7cc48919","x":1362,"y":-891,"width":250,"height":60,"type":"text","text":"Subprocesos\n"}
+		{"id":"fc7d774b7cc48919","x":1362,"y":-891,"width":250,"height":60,"type":"text","text":"Subprocesos\n"},
+		{"id":"14275b2d204bb922","x":1735,"y":-1036,"width":250,"height":60,"type":"text","text":"Embebidos\n"},
+		{"id":"592bc3a2f5faa7b9","x":1742,"y":-902,"width":250,"height":60,"type":"text","text":"Reusables\n"}
 	],
 	"edges":[
 		{"id":"bb4557f21bfb2681","fromNode":"6c4b98bc4c543edf","fromSide":"top","toNode":"7dd0fe200e439049","toSide":"bottom"},
@@ -36,6 +38,8 @@
 		{"id":"2a0c52ed9eff8af8","fromNode":"2606f0c95f6df0fb","fromSide":"right","toNode":"4b0a10e153b25361","toSide":"left"},
 		{"id":"0878b23403620202","fromNode":"2606f0c95f6df0fb","fromSide":"right","toNode":"e46c4e6937931fee","toSide":"left"},
 		{"id":"81a9449d1d656dcb","fromNode":"f0b2950ce8e83776","fromSide":"right","toNode":"64db1d15dea855fd","toSide":"left"},
-		{"id":"e33e76d69452b276","fromNode":"64db1d15dea855fd","fromSide":"right","toNode":"fc7d774b7cc48919","toSide":"left"}
+		{"id":"e33e76d69452b276","fromNode":"64db1d15dea855fd","fromSide":"right","toNode":"fc7d774b7cc48919","toSide":"left"},
+		{"id":"b9073a78ae9fd385","fromNode":"fc7d774b7cc48919","fromSide":"right","toNode":"14275b2d204bb922","toSide":"left"},
+		{"id":"4b26be365437c7c2","fromNode":"fc7d774b7cc48919","fromSide":"right","toNode":"592bc3a2f5faa7b9","toSide":"left"}
 	]
 }
