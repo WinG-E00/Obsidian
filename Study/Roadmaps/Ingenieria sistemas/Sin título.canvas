@@ -20,8 +20,10 @@
 		{"id":"5cda2703c2dfa378","type":"text","text":"[[Las funciones de un sistema dependen de su estructura]]\n","x":-300,"y":-494,"width":250,"height":60},
 		{"id":"4b9e9b199d7aa905","type":"text","text":"TSG\n","x":-1026,"y":-730,"width":250,"height":60},
 		{"id":"755728525a3aae82","type":"text","text":"[[Sistema]]\n","x":-2073,"y":-907,"width":250,"height":60},
-		{"id":"b0575d40a262e8ba","type":"text","text":"[[Sistemas rigidos]]\n","x":-2415,"y":-1042,"width":250,"height":60},
-		{"id":"e62f563a9404608a","type":"text","text":"[[Sistemas flexibles]]\n","x":-2619,"y":-895,"width":250,"height":60}
+		{"id":"b0575d40a262e8ba","type":"text","text":"[[Sistemas rigidos]]\n","x":-2596,"y":-994,"width":250,"height":60},
+		{"id":"e62f563a9404608a","type":"text","text":"[[Sistemas flexibles]]\n","x":-2800,"y":-847,"width":250,"height":60},
+		{"id":"e3f9046230834cfa","x":-2420,"y":-1260,"width":250,"height":60,"type":"text","text":"Tipos de sistemas\n"},
+		{"id":"205884bdd4021664","x":-2673,"y":-1392,"width":250,"height":60,"type":"text","text":"Segun su naturaleza\n"}
 	],
 	"edges":[
 		{"id":"eb4494ec67a95560","fromNode":"91ab122486972214","fromSide":"top","toNode":"e24dbdb26d0eed45","toSide":"left"},
@@ -43,6 +45,8 @@
 		{"id":"a0d0bdf1f9795981","fromNode":"eefc845fcfc72802","fromSide":"bottom","toNode":"91ab122486972214","toSide":"left"},
 		{"id":"b7715a4abc2e4faf","fromNode":"755728525a3aae82","fromSide":"left","toNode":"b0575d40a262e8ba","toSide":"bottom"},
 		{"id":"172b138ae1e0632e","fromNode":"755728525a3aae82","fromSide":"left","toNode":"e62f563a9404608a","toSide":"right"},
-		{"id":"0a8ccb200011901f","fromNode":"eefc845fcfc72802","fromSide":"top","toNode":"9c6786fb1665fef9","toSide":"bottom"}
+		{"id":"0a8ccb200011901f","fromNode":"eefc845fcfc72802","fromSide":"top","toNode":"9c6786fb1665fef9","toSide":"bottom"},
+		{"id":"0d7dd018dfe27037","fromNode":"755728525a3aae82","fromSide":"top","toNode":"e3f9046230834cfa","toSide":"bottom"},
+		{"id":"bb07761bf985a7d0","fromNode":"e3f9046230834cfa","fromSide":"top","toNode":"205884bdd4021664","toSide":"bottom"}
 	]
 }
