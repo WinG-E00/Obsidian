@@ -32,7 +32,8 @@
 		{"id":"e19e436ebc437bbc","x":-3171,"y":-1459,"width":250,"height":60,"type":"text","text":"Abiertos\n"},
 		{"id":"265a0478babd4e49","x":-3616,"y":-1520,"width":250,"height":60,"type":"text","text":"Entradas\n"},
 		{"id":"31d515072d41d02d","x":-3251,"y":-1729,"width":250,"height":60,"type":"text","text":"Retroalimentacion\n"},
-		{"id":"6e685e842329e5a6","x":-3660,"y":-1679,"width":250,"height":60,"type":"text","text":"Salidas\n"}
+		{"id":"6e685e842329e5a6","x":-3660,"y":-1679,"width":250,"height":60,"type":"text","text":"Salidas\n"},
+		{"id":"fb9ffd69d32112b2","x":-1974,"y":-1268,"width":250,"height":60,"type":"text","text":"Subsistema\n"}
 	],
 	"edges":[
 		{"id":"eb4494ec67a95560","fromNode":"91ab122486972214","fromSide":"top","toNode":"e24dbdb26d0eed45","toSide":"left"},
@@ -65,6 +66,7 @@
 		{"id":"94ca2152d9c410f2","fromNode":"e19e436ebc437bbc","fromSide":"left","toNode":"2d0447430679f381","toSide":"right"},
 		{"id":"8a9050b8a93fabe5","fromNode":"e19e436ebc437bbc","fromSide":"left","toNode":"265a0478babd4e49","toSide":"right"},
 		{"id":"0e172317fc8dfbfc","fromNode":"e19e436ebc437bbc","fromSide":"left","toNode":"6e685e842329e5a6","toSide":"right"},
-		{"id":"86219c5dce4ef933","fromNode":"e19e436ebc437bbc","fromSide":"top","toNode":"31d515072d41d02d","toSide":"bottom"}
+		{"id":"86219c5dce4ef933","fromNode":"e19e436ebc437bbc","fromSide":"top","toNode":"31d515072d41d02d","toSide":"bottom"},
+		{"id":"57a3310ecb01b857","fromNode":"e3f9046230834cfa","fromSide":"right","toNode":"fb9ffd69d32112b2","toSide":"left"}
 	]
 }
