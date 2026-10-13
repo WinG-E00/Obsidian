@@ -3,3 +3,6 @@ Se representan asi...
 
 ![[Pasted image 20261013103434.png]]
 
+
+[[  ]]
+## [[ ]]

@@ -29,7 +29,7 @@
 		{"id":"58ab3b2c1e750d84","x":938,"y":620,"width":142,"height":50,"type":"text","text":"Paralela \n"},
 		{"id":"3de7a662b4fe8f20","x":460,"y":670,"width":120,"height":60,"type":"text","text":"Inclusiva\n"},
 		{"id":"3cc0bbb9822c89d9","x":688,"y":705,"width":148,"height":50,"type":"text","text":"Exclusiva\n"},
-		{"id":"64db1d15dea855fd","type":"text","text":"Tipos de actividades (tareas)","x":1020,"y":-680,"width":250,"height":60}
+		{"id":"64db1d15dea855fd","type":"text","text":"[[Tipos de actividades (tareas)]]","x":1020,"y":-680,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"bb4557f21bfb2681","fromNode":"6c4b98bc4c543edf","fromSide":"top","toNode":"7dd0fe200e439049","toSide":"bottom"},
