@@ -9,9 +9,11 @@
 		{"id":"ffe8c7b860b66e54","x":856,"y":-31,"width":250,"height":60,"type":"text","text":"Pools\n"},
 		{"id":"ac3e6e40a74cdf39","x":874,"y":-181,"width":250,"height":60,"type":"text","text":"Flujo de secuencia\n"},
 		{"id":"3fa2deccc316c9a6","x":904,"y":-274,"width":250,"height":60,"type":"text","text":"Eventos\n"},
-		{"id":"175968a95d7223c0","x":640,"y":110,"width":250,"height":60,"type":"text","text":"Lineas de mensaje\n"},
 		{"id":"f0b2950ce8e83776","x":731,"y":-480,"width":250,"height":60,"type":"text","text":"Actividades\n"},
-		{"id":"cb3b4bf052b156c6","x":688,"y":-600,"width":250,"height":60,"type":"text","text":"Artefactos\n"}
+		{"id":"cb3b4bf052b156c6","x":688,"y":-600,"width":250,"height":60,"type":"text","text":"Artefactos\n"},
+		{"id":"175968a95d7223c0","x":688,"y":180,"width":250,"height":60,"type":"text","text":"Lineas de mensaje\n"},
+		{"id":"141039f687ff925f","x":695,"y":178,"width":250,"height":60,"type":"text","text":""},
+		{"id":"e46c4e6937931fee","x":1600,"y":-239,"width":250,"height":50,"type":"text","text":"Artefactos\n"}
 	],
 	"edges":[
 		{"id":"bb4557f21bfb2681","fromNode":"6c4b98bc4c543edf","fromSide":"top","toNode":"7dd0fe200e439049","toSide":"bottom"},
