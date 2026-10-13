@@ -5,8 +5,6 @@
 		{"id":"bafb82a2eb9ff4c1","type":"text","text":"Software\n","x":620,"y":-575,"width":250,"height":60},
 		{"id":"2ea9a64e17497d6b","type":"text","text":"Ingenieria de software\n","x":730,"y":-380,"width":220,"height":60},
 		{"id":"f0e32ac15bc3e596","type":"text","text":"Matriz de trazabilidad\n","x":1100,"y":30,"width":250,"height":60},
-		{"id":"1660858e70ca45f2","type":"text","text":"[[Informacion]]\n","x":-2240,"y":-699,"width":250,"height":60},
-		{"id":"5db9a26345f5dbe4","type":"text","text":"[[Conocimiento]]","x":-2240,"y":-584,"width":250,"height":60},
 		{"id":"01219cac773aa49a","type":"text","text":"[[Definicion]]","x":-2210,"y":-153,"width":250,"height":60},
 		{"id":"9c6786fb1665fef9","type":"text","text":"Glosario\n","x":-1865,"y":-584,"width":250,"height":60},
 		{"id":"0dbe72b96496ee6f","type":"text","text":"[[TIC]]\n","x":-1865,"y":-235,"width":250,"height":60},
@@ -48,7 +46,11 @@
 		{"id":"e731358931075426","type":"text","text":"Componentes esenciales de un sistema social\n","x":1238,"y":-1708,"width":250,"height":60},
 		{"id":"3115dc8fba7688d0","type":"text","text":"Sistema social especial\n","x":1280,"y":-1542,"width":250,"height":60},
 		{"id":"7bb0b8fd60332bb2","type":"text","text":"Las caracteristicas del sistema social en base a su estructura","x":1301,"y":-1402,"width":229,"height":107},
-		{"id":"02ba20b8611c1d6e","x":725,"y":-888,"width":250,"height":60,"type":"text","text":"[[Fronteras limites]]\n"}
+		{"id":"02ba20b8611c1d6e","type":"text","text":"[[Fronteras limites]]\n","x":725,"y":-888,"width":250,"height":60},
+		{"id":"5db9a26345f5dbe4","type":"text","text":"[[Conocimiento]]","x":-2198,"y":-400,"width":250,"height":60},
+		{"id":"1660858e70ca45f2","type":"text","text":"[[Informacion]]\n","x":-2400,"y":-584,"width":250,"height":60},
+		{"id":"eaf02b507627ca0f","x":-2807,"y":-550,"width":250,"height":60,"type":"text","text":"Recurso\n"},
+		{"id":"d3d8b453ed1f7d08","x":-2811,"y":-379,"width":250,"height":60,"type":"text","text":"Nivel de "}
 	],
 	"edges":[
 		{"id":"eb4494ec67a95560","fromNode":"91ab122486972214","fromSide":"top","toNode":"e24dbdb26d0eed45","toSide":"left"},
@@ -96,6 +98,8 @@
 		{"id":"92619e0ce199bbf5","fromNode":"f9ee2e690e59d479","fromSide":"right","toNode":"8d97e2931a400cb2","toSide":"left"},
 		{"id":"bca35afa6f5056d4","fromNode":"f9ee2e690e59d479","fromSide":"right","toNode":"677a6cc4ddd992f2","toSide":"left"},
 		{"id":"c97a3e6253910743","fromNode":"72c2a466421417f6","fromSide":"right","toNode":"7bb0b8fd60332bb2","toSide":"left"},
-		{"id":"eb9242e15e7afd20","fromNode":"f9ee2e690e59d479","fromSide":"bottom","toNode":"02ba20b8611c1d6e","toSide":"top"}
+		{"id":"eb9242e15e7afd20","fromNode":"f9ee2e690e59d479","fromSide":"bottom","toNode":"02ba20b8611c1d6e","toSide":"top"},
+		{"id":"4f7a0566ad315c5c","fromNode":"1660858e70ca45f2","fromSide":"left","toNode":"eaf02b507627ca0f","toSide":"right"},
+		{"id":"6e800052b0486226","fromNode":"1660858e70ca45f2","fromSide":"left","toNode":"d3d8b453ed1f7d08","toSide":"right"}
 	]
 }
