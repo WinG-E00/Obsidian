@@ -48,7 +48,7 @@
 		{"id":"e731358931075426","type":"text","text":"Componentes esenciales de un sistema social\n","x":1238,"y":-1708,"width":250,"height":60},
 		{"id":"3115dc8fba7688d0","type":"text","text":"Sistema social especial\n","x":1280,"y":-1542,"width":250,"height":60},
 		{"id":"7bb0b8fd60332bb2","type":"text","text":"Las caracteristicas del sistema social en base a su estructura","x":1301,"y":-1402,"width":229,"height":107},
-		{"id":"02ba20b8611c1d6e","x":725,"y":-888,"width":250,"height":60,"type":"text","text":"Fronteras limites\n"}
+		{"id":"02ba20b8611c1d6e","x":725,"y":-888,"width":250,"height":60,"type":"text","text":"[[Fronteras limites]]\n"}
 	],
 	"edges":[
 		{"id":"eb4494ec67a95560","fromNode":"91ab122486972214","fromSide":"top","toNode":"e24dbdb26d0eed45","toSide":"left"},
