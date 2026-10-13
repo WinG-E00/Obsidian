@@ -18,7 +18,7 @@
 		{"id":"14275b2d204bb922","type":"text","text":"Embebidos\n","x":1735,"y":-1036,"width":250,"height":60},
 		{"id":"592bc3a2f5faa7b9","type":"text","text":"Reusables\n ","x":1742,"y":-902,"width":250,"height":60},
 		{"id":"4b0a10e153b25361","type":"text","text":"Lanes\n","x":1195,"y":82,"width":250,"height":60},
-		{"id":"3fa2deccc316c9a6","type":"text","text":"Eventos\n","x":240,"y":-540,"width":250,"height":60},
+		{"id":"3fa2deccc316c9a6","type":"text","text":"[[Eventos]]\n","x":240,"y":-540,"width":250,"height":60},
 		{"id":"f57b0e0040c5079a","type":"text","text":"Tipos de eventos\n","x":119,"y":-704,"width":250,"height":60},
 		{"id":"1a4d22bbf6160854","type":"text","text":"Inicio\n","x":-98,"y":-883,"width":250,"height":60},
 		{"id":"867dd1b5f9da564c","type":"text","text":"Fin\n","x":420,"y":-861,"width":250,"height":60},
