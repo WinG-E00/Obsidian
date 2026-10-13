@@ -7,7 +7,7 @@
 		{"id":"873a6f78d538b8dc","type":"text","text":"Mensajes entre pools\n","x":780,"y":52,"width":250,"height":60},
 		{"id":"ffe8c7b860b66e54","type":"text","text":"Pools\n","x":856,"y":-31,"width":250,"height":60},
 		{"id":"ac3e6e40a74cdf39","type":"text","text":"Flujo de secuencia\n","x":874,"y":-181,"width":250,"height":60},
-		{"id":"f0b2950ce8e83776","type":"text","text":"Actividades\n","x":731,"y":-480,"width":250,"height":60},
+		{"id":"f0b2950ce8e83776","type":"text","text":"[[Actividades]]\n","x":731,"y":-480,"width":250,"height":60},
 		{"id":"175968a95d7223c0","type":"text","text":"Lineas de mensaje\n","x":688,"y":180,"width":250,"height":60},
 		{"id":"e46c4e6937931fee","type":"text","text":"Artefactos\n","x":1320,"y":-327,"width":140,"height":55},
 		{"id":"3952b41c561f5d1c","type":"text","text":"Procesos de datos\n","x":1506,"y":-419,"width":250,"height":60},
