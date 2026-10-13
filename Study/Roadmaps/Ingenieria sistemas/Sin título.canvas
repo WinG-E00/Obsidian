@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"d0fe12899d25aa32","x":-2824,"y":-625,"width":250,"height":60,"type":"text","text":""},
+		{"id":"d0fe12899d25aa32","type":"text","text":"","x":-2824,"y":-625,"width":250,"height":60},
 		{"id":"91ab122486972214","type":"text","text":"Ingenieria de software examen\n","x":-300,"y":-10,"width":220,"height":100},
 		{"id":"e24dbdb26d0eed45","type":"text","text":"Ingenieria de requermientos\n","x":840,"y":-150,"width":250,"height":60},
 		{"id":"bafb82a2eb9ff4c1","type":"text","text":"Software\n","x":620,"y":-575,"width":250,"height":60},
@@ -53,7 +53,7 @@
 		{"id":"eaf02b507627ca0f","type":"text","text":"[[Recurso]]\n","x":-2947,"y":-249,"width":250,"height":60},
 		{"id":"d3d8b453ed1f7d08","type":"text","text":"[[Nivel en la organizacion]]","x":-2951,"y":-78,"width":250,"height":60},
 		{"id":"938eeea7f23e631c","type":"text","text":"[[Uso]]\n","x":-2980,"y":-370,"width":250,"height":60},
-		{"id":"256021361021d5ac","type":"text","text":"Informacion de calidad\n","x":-2855,"y":-614,"width":250,"height":60}
+		{"id":"256021361021d5ac","type":"text","text":"Informacion de calidad\n","x":-2925,"y":-524,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"eb4494ec67a95560","fromNode":"91ab122486972214","fromSide":"top","toNode":"e24dbdb26d0eed45","toSide":"left"},
