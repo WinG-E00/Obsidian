@@ -6,7 +6,7 @@ tags:
 
 # Índice de flashcards de BPM
 
-[[../Sin título.canvas|Esquema de BPM]]
+[[../BPMN.canvas|Esquema de BPM]]
 
 ## Notas
 
