@@ -47,7 +47,7 @@
 		{"id":"677a6cc4ddd992f2","x":1116,"y":-980,"width":164,"height":51,"type":"text","text":"Morfogenesis\n"},
 		{"id":"e731358931075426","x":1238,"y":-1708,"width":250,"height":60,"type":"text","text":"Componentes esenciales de un sistema social\n"},
 		{"id":"3115dc8fba7688d0","x":1280,"y":-1542,"width":250,"height":60,"type":"text","text":"Sistema social especial\n"},
-		{"id":"7bb0b8fd60332bb2","x":1301,"y":-1402,"width":250,"height":60,"type":"text","text":"Las caracteristicas del sistema social en base a su estructura"}
+		{"id":"7bb0b8fd60332bb2","x":1301,"y":-1402,"width":229,"height":107,"type":"text","text":"Las caracteristicas del sistema social en base a su estructura"}
 	],
 	"edges":[
 		{"id":"eb4494ec67a95560","fromNode":"91ab122486972214","fromSide":"top","toNode":"e24dbdb26d0eed45","toSide":"left"},
