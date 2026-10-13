@@ -22,8 +22,9 @@
 		{"id":"755728525a3aae82","type":"text","text":"[[Sistema]]\n","x":-2073,"y":-907,"width":250,"height":60},
 		{"id":"b0575d40a262e8ba","type":"text","text":"[[Sistemas rigidos]]\n","x":-2596,"y":-994,"width":250,"height":60},
 		{"id":"e62f563a9404608a","type":"text","text":"[[Sistemas flexibles]]\n","x":-2800,"y":-847,"width":250,"height":60},
-		{"id":"e3f9046230834cfa","x":-2420,"y":-1260,"width":250,"height":60,"type":"text","text":"Tipos de sistemas\n"},
-		{"id":"205884bdd4021664","x":-2673,"y":-1392,"width":250,"height":60,"type":"text","text":"Segun su naturaleza\n"}
+		{"id":"e3f9046230834cfa","x":-2420,"y":-1250,"width":250,"height":50,"type":"text","text":"Tipos de sistemas\n"},
+		{"id":"a2f128a4d2295ef0","x":-2170,"y":-1500,"width":250,"height":60,"type":"text","text":"Segun su constitucion\n "},
+		{"id":"205884bdd4021664","x":-2721,"y":-1400,"width":250,"height":60,"type":"text","text":"Segun su naturaleza\n"}
 	],
 	"edges":[
 		{"id":"eb4494ec67a95560","fromNode":"91ab122486972214","fromSide":"top","toNode":"e24dbdb26d0eed45","toSide":"left"},
@@ -47,6 +48,7 @@
 		{"id":"172b138ae1e0632e","fromNode":"755728525a3aae82","fromSide":"left","toNode":"e62f563a9404608a","toSide":"right"},
 		{"id":"0a8ccb200011901f","fromNode":"eefc845fcfc72802","fromSide":"top","toNode":"9c6786fb1665fef9","toSide":"bottom"},
 		{"id":"0d7dd018dfe27037","fromNode":"755728525a3aae82","fromSide":"top","toNode":"e3f9046230834cfa","toSide":"bottom"},
-		{"id":"bb07761bf985a7d0","fromNode":"e3f9046230834cfa","fromSide":"top","toNode":"205884bdd4021664","toSide":"bottom"}
+		{"id":"bb07761bf985a7d0","fromNode":"e3f9046230834cfa","fromSide":"top","toNode":"205884bdd4021664","toSide":"bottom"},
+		{"id":"242c4903ac8b4c9b","fromNode":"e3f9046230834cfa","fromSide":"top","toNode":"a2f128a4d2295ef0","toSide":"bottom"}
 	]
 }
