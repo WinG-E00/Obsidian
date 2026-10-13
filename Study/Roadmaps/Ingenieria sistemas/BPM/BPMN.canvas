@@ -27,9 +27,9 @@
 		{"id":"a8919f223c29aa6a","x":110,"y":540,"width":250,"height":50,"type":"text","text":"Convergencia\n "},
 		{"id":"fb381e08f7c27512","type":"text","text":"Compuertas\n","x":260,"y":300,"width":250,"height":60},
 		{"id":"8d1e8c8ee0597a02","x":655,"y":440,"width":250,"height":50,"type":"text","text":"Tipos de compuertas\n"},
-		{"id":"58ab3b2c1e750d84","x":847,"y":693,"width":250,"height":50,"type":"text","text":"Paralela \n"},
-		{"id":"3de7a662b4fe8f20","x":325,"y":714,"width":250,"height":60,"type":"text","text":"Inclusiva\n"},
-		{"id":"3cc0bbb9822c89d9","x":575,"y":714,"width":250,"height":60,"type":"text","text":"Exclusiva\n"}
+		{"id":"58ab3b2c1e750d84","x":938,"y":620,"width":142,"height":50,"type":"text","text":"Paralela \n"},
+		{"id":"3de7a662b4fe8f20","x":460,"y":670,"width":120,"height":60,"type":"text","text":"Inclusiva\n"},
+		{"id":"3cc0bbb9822c89d9","x":688,"y":705,"width":148,"height":50,"type":"text","text":"Exclusiva\n"}
 	],
 	"edges":[
 		{"id":"bb4557f21bfb2681","fromNode":"6c4b98bc4c543edf","fromSide":"top","toNode":"7dd0fe200e439049","toSide":"bottom"},
