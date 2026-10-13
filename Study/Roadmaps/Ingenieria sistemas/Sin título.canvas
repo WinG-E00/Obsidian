@@ -27,8 +27,12 @@
 		{"id":"205884bdd4021664","x":-2721,"y":-1400,"width":250,"height":60,"type":"text","text":"Segun su naturaleza\n"},
 		{"id":"50f8703d469b4750","x":-2289,"y":-1659,"width":250,"height":60,"type":"text","text":"Fisicos o concretos\n"},
 		{"id":"329a7d0a9651e8f8","x":-1960,"y":-1659,"width":250,"height":60,"type":"text","text":"Abstractos\n"},
-		{"id":"e19e436ebc437bbc","x":-2966,"y":-1560,"width":250,"height":60,"type":"text","text":"Abiertos\n"},
-		{"id":"b3b2ec87aa2bc0ad","x":-2670,"y":-1560,"width":250,"height":60,"type":"text","text":"Cerrados\n"}
+		{"id":"b3b2ec87aa2bc0ad","x":-2670,"y":-1560,"width":250,"height":60,"type":"text","text":"Cerrados\n"},
+		{"id":"2d0447430679f381","x":-3535,"y":-1370,"width":250,"height":60,"type":"text","text":" Ambiente\n "},
+		{"id":"e19e436ebc437bbc","x":-3171,"y":-1459,"width":250,"height":60,"type":"text","text":"Abiertos\n"},
+		{"id":"265a0478babd4e49","x":-3616,"y":-1520,"width":250,"height":60,"type":"text","text":"Entradas\n"},
+		{"id":"31d515072d41d02d","x":-3251,"y":-1729,"width":250,"height":60,"type":"text","text":"Retroalimentacion\n"},
+		{"id":"6e685e842329e5a6","x":-3660,"y":-1679,"width":250,"height":60,"type":"text","text":"Salidas\n"}
 	],
 	"edges":[
 		{"id":"eb4494ec67a95560","fromNode":"91ab122486972214","fromSide":"top","toNode":"e24dbdb26d0eed45","toSide":"left"},
@@ -56,7 +60,11 @@
 		{"id":"242c4903ac8b4c9b","fromNode":"e3f9046230834cfa","fromSide":"top","toNode":"a2f128a4d2295ef0","toSide":"bottom"},
 		{"id":"9eb61797263b8134","fromNode":"a2f128a4d2295ef0","fromSide":"top","toNode":"50f8703d469b4750","toSide":"bottom"},
 		{"id":"1508e5bb6322d879","fromNode":"a2f128a4d2295ef0","fromSide":"top","toNode":"329a7d0a9651e8f8","toSide":"bottom"},
-		{"id":"0db9c8cde254364c","fromNode":"205884bdd4021664","fromSide":"top","toNode":"e19e436ebc437bbc","toSide":"bottom"},
-		{"id":"ef838a20165f31a1","fromNode":"205884bdd4021664","fromSide":"top","toNode":"b3b2ec87aa2bc0ad","toSide":"bottom"}
+		{"id":"0db9c8cde254364c","fromNode":"205884bdd4021664","fromSide":"top","toNode":"e19e436ebc437bbc","toSide":"right"},
+		{"id":"ef838a20165f31a1","fromNode":"205884bdd4021664","fromSide":"top","toNode":"b3b2ec87aa2bc0ad","toSide":"bottom"},
+		{"id":"94ca2152d9c410f2","fromNode":"e19e436ebc437bbc","fromSide":"left","toNode":"2d0447430679f381","toSide":"right"},
+		{"id":"8a9050b8a93fabe5","fromNode":"e19e436ebc437bbc","fromSide":"left","toNode":"265a0478babd4e49","toSide":"right"},
+		{"id":"0e172317fc8dfbfc","fromNode":"e19e436ebc437bbc","fromSide":"left","toNode":"6e685e842329e5a6","toSide":"right"},
+		{"id":"86219c5dce4ef933","fromNode":"e19e436ebc437bbc","fromSide":"top","toNode":"31d515072d41d02d","toSide":"bottom"}
 	]
 }
