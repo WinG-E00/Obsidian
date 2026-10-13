@@ -14,7 +14,7 @@
 		{"id":"4f25c55018a47350","type":"text","text":"Anotaciones","x":1559,"y":-302,"width":250,"height":60},
 		{"id":"12eefe9ac20f4b40","type":"text","text":"Grupos","x":1549,"y":-141,"width":250,"height":60},
 		{"id":"fc7d774b7cc48919","type":"text","text":"[[Subprocesos]]\n","x":1362,"y":-891,"width":250,"height":60},
-		{"id":"14275b2d204bb922","type":"text","text":"Subprocesos Embebidos\n","x":1735,"y":-1036,"width":250,"height":60},
+		{"id":"14275b2d204bb922","type":"text","text":"[[Subprocesos Embebidos]]\n","x":1735,"y":-1036,"width":250,"height":60},
 		{"id":"592bc3a2f5faa7b9","type":"text","text":"Subprocesos Reusables\n ","x":1742,"y":-902,"width":250,"height":60},
 		{"id":"4b0a10e153b25361","type":"text","text":"Lanes\n","x":1195,"y":82,"width":250,"height":60},
 		{"id":"3fa2deccc316c9a6","type":"text","text":"[[Eventos]]\n","x":240,"y":-540,"width":250,"height":60},
