@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"d0fe12899d25aa32","x":-2824,"y":-625,"width":250,"height":60,"type":"text","text":""},
 		{"id":"91ab122486972214","type":"text","text":"Ingenieria de software examen\n","x":-300,"y":-10,"width":220,"height":100},
 		{"id":"e24dbdb26d0eed45","type":"text","text":"Ingenieria de requermientos\n","x":840,"y":-150,"width":250,"height":60},
 		{"id":"bafb82a2eb9ff4c1","type":"text","text":"Software\n","x":620,"y":-575,"width":250,"height":60},
@@ -49,9 +50,10 @@
 		{"id":"02ba20b8611c1d6e","type":"text","text":"[[Fronteras limites]]\n","x":725,"y":-888,"width":250,"height":60},
 		{"id":"5db9a26345f5dbe4","type":"text","text":"[[Conocimiento]]","x":-2198,"y":-400,"width":250,"height":60},
 		{"id":"1660858e70ca45f2","type":"text","text":"[[Informacion]]\n","x":-2400,"y":-584,"width":250,"height":60},
-		{"id":"eaf02b507627ca0f","x":-2807,"y":-550,"width":250,"height":60,"type":"text","text":"[[Recurso]]\n"},
-		{"id":"d3d8b453ed1f7d08","x":-2811,"y":-379,"width":250,"height":60,"type":"text","text":"[[Nivel en la organizacion]]"},
-		{"id":"938eeea7f23e631c","x":-2840,"y":-671,"width":250,"height":60,"type":"text","text":"[[Uso]]\n"}
+		{"id":"eaf02b507627ca0f","type":"text","text":"[[Recurso]]\n","x":-2947,"y":-249,"width":250,"height":60},
+		{"id":"d3d8b453ed1f7d08","type":"text","text":"[[Nivel en la organizacion]]","x":-2951,"y":-78,"width":250,"height":60},
+		{"id":"938eeea7f23e631c","type":"text","text":"[[Uso]]\n","x":-2980,"y":-370,"width":250,"height":60},
+		{"id":"256021361021d5ac","type":"text","text":"Informacion de calidad\n","x":-2855,"y":-614,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"eb4494ec67a95560","fromNode":"91ab122486972214","fromSide":"top","toNode":"e24dbdb26d0eed45","toSide":"left"},
@@ -102,6 +104,7 @@
 		{"id":"eb9242e15e7afd20","fromNode":"f9ee2e690e59d479","fromSide":"bottom","toNode":"02ba20b8611c1d6e","toSide":"top"},
 		{"id":"4f7a0566ad315c5c","fromNode":"1660858e70ca45f2","fromSide":"left","toNode":"eaf02b507627ca0f","toSide":"right"},
 		{"id":"6e800052b0486226","fromNode":"1660858e70ca45f2","fromSide":"left","toNode":"d3d8b453ed1f7d08","toSide":"right"},
-		{"id":"5955f9dc35f15aa8","fromNode":"1660858e70ca45f2","fromSide":"left","toNode":"938eeea7f23e631c","toSide":"right"}
+		{"id":"5955f9dc35f15aa8","fromNode":"1660858e70ca45f2","fromSide":"left","toNode":"938eeea7f23e631c","toSide":"right"},
+		{"id":"6421abbf76c4450d","fromNode":"1660858e70ca45f2","fromSide":"top","toNode":"256021361021d5ac","toSide":"bottom"}
 	]
 }
