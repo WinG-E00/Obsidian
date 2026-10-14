@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "Datos de mi cluster",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8158735089023468,
+  "scale": 0.16480215103605164,
   "close": false
 }
