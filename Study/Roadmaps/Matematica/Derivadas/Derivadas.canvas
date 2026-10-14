@@ -14,13 +14,13 @@
 		{"id":"a59ccf94de6dc919","type":"text","text":"Restar exponentes","x":880,"y":-1320,"width":250,"height":60},
 		{"id":"258e6e8bb0126eca","type":"text","text":"Exponentes con fracciones\n","x":1205,"y":-1434,"width":250,"height":60},
 		{"id":"5c5ce03c744ae663","type":"text","text":"exponentes normales\n","x":1193,"y":-1526,"width":250,"height":60},
-		{"id":"ce785682d6757710","type":"text","text":"[[Formula principal de la derivada]]","x":-453,"y":-960,"width":250,"height":60},
-		{"id":"f7320d10be3519e4","type":"text","text":"[[Reglas para resolver derivadas]]","x":-707,"y":-680,"width":180,"height":100},
-		{"id":"5ca7b95c4d5eee2f","type":"text","text":"Derivadas\n","x":-769,"y":-930,"width":125,"height":60},
-		{"id":"c02abb09cad6de7e","type":"text","text":"[[Formula resolvente]]","x":-894,"y":-1680,"width":250,"height":60}
+		{"id":"c02abb09cad6de7e","type":"text","text":"[[Formula resolvente]]","x":-894,"y":-1680,"width":250,"height":60},
+		{"id":"5ca7b95c4d5eee2f","type":"text","text":"Derivadas\n","x":-742,"y":-550,"width":125,"height":60},
+		{"id":"ce785682d6757710","type":"text","text":"[[Formula principal de la derivada]]","x":-522,"y":-650,"width":250,"height":60},
+		{"id":"f7320d10be3519e4","type":"text","text":"[[Reglas para resolver derivadas]]","x":-980,"y":-750,"width":180,"height":100}
 	],
 	"edges":[
-		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"bottom","toNode":"f7320d10be3519e4","toSide":"top"},
+		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"top","toNode":"f7320d10be3519e4","toSide":"right"},
 		{"id":"102e4cb2977f0583","fromNode":"5ca7b95c4d5eee2f","fromSide":"right","toNode":"ce785682d6757710","toSide":"left"},
 		{"id":"a4e3dd014c0ed3b9","fromNode":"0ae81b205812f600","fromSide":"top","toNode":"2d5375d5486cdb85","toSide":"bottom"},
 		{"id":"ed5264b01079a4c9","fromNode":"eb5563cc44c91cc0","fromSide":"top","toNode":"23b5517ce0e7803f","toSide":"bottom"},
