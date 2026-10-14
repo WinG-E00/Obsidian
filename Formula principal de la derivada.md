@@ -3,4 +3,4 @@
 
 
 Calculo axuliar en caso de que la funcion sea raiz de x
-
+![[Pasted image 20261014144409.png]]
