@@ -2,4 +2,5 @@
 
 
 
+Calculo axuliar en caso de que la funcion sea raiz de x
 
