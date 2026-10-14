@@ -17,7 +17,9 @@
 		{"id":"c02abb09cad6de7e","type":"text","text":"[[Formula resolvente]]","x":-894,"y":-1680,"width":250,"height":60},
 		{"id":"5ca7b95c4d5eee2f","type":"text","text":"Derivadas\n","x":-642,"y":-740,"width":125,"height":60},
 		{"id":"ce785682d6757710","type":"text","text":"[[Formula principal de la derivada]]","x":-422,"y":-840,"width":250,"height":60},
-		{"id":"f7320d10be3519e4","type":"text","text":"[[Reglas para resolver derivadas]]","x":-880,"y":-940,"width":180,"height":100}
+		{"id":"f7320d10be3519e4","type":"text","text":"[[Reglas para resolver derivadas]]","x":-880,"y":-940,"width":180,"height":100},
+		{"id":"40a0af8c2b677619","x":289,"y":-837,"width":140,"height":60,"type":"text","text":"Factorizar\n"},
+		{"id":"d6bd5d5aa781420b","x":590,"y":-824,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"top","toNode":"f7320d10be3519e4","toSide":"right"},
@@ -32,6 +34,7 @@
 		{"id":"45dd34ce61c88c5b","fromNode":"13bd8854ff03bd4a","fromSide":"right","toNode":"e476504dbdf7cd0c","toSide":"left"},
 		{"id":"eaf46759f354cae3","fromNode":"e476504dbdf7cd0c","fromSide":"right","toNode":"a59ccf94de6dc919","toSide":"left"},
 		{"id":"de695ad6a123bf92","fromNode":"a59ccf94de6dc919","fromSide":"right","toNode":"258e6e8bb0126eca","toSide":"left"},
-		{"id":"d7f8a0cc475cd421","fromNode":"a59ccf94de6dc919","fromSide":"right","toNode":"5c5ce03c744ae663","toSide":"left"}
+		{"id":"d7f8a0cc475cd421","fromNode":"a59ccf94de6dc919","fromSide":"right","toNode":"5c5ce03c744ae663","toSide":"left"},
+		{"id":"afd4a620db36aabf","fromNode":"40a0af8c2b677619","fromSide":"right","toNode":"d6bd5d5aa781420b","toSide":"left"}
 	]
 }
