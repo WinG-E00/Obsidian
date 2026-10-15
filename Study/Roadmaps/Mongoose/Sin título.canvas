@@ -5,7 +5,7 @@
 		{"id":"8f9265d285dc1963","type":"text","text":"[[mongoose create]]","x":-620,"y":-463,"width":250,"height":60},
 		{"id":"61e4496bdd3af1ee","x":-327,"y":-493,"width":250,"height":60,"type":"text","text":"[[mongose READ]]"},
 		{"id":"65152b561b3e8143","x":-55,"y":-433,"width":250,"height":60,"type":"text","text":"[[mongoose UPDATE]]"},
-		{"id":"f25ad517a49e8ede","x":-704,"y":-367,"width":250,"height":60,"type":"text","text":""}
+		{"id":"f25ad517a49e8ede","x":-704,"y":-367,"width":250,"height":60,"type":"text","text":"[[mongose DELETE]]"}
 	],
 	"edges":[
 		{"id":"895487c8870e4859","fromNode":"8bbcff4a95565b93","fromSide":"top","toNode":"060896b83e6dbf5a","toSide":"bottom"},
