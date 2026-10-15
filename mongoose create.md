@@ -5,4 +5,8 @@ email: 'maria@email.com',
 edad: 32
 });
 
+create()
+insertMany()
+
+
 ``` 
