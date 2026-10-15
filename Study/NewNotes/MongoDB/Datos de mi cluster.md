@@ -19,4 +19,4 @@ mongodb+srv://gastonencinawj_db_user:imtSwnGUPNREycgA@cluster0.rx0sszk.mongodb.n
 gastonencinawj_db_user
 PYcyLrDwZwJycbqv
 
-'mongodb+srv://gastonencinawj_db_user:PYcyLrDwZwJycbqv@cluster0.ejekpjy.mongodb.net/'
+mongodb+srv://gastonencinawj_db_user:PYcyLrDwZwJycbqv@cluster0.ejekpjy.mongodb.net/
