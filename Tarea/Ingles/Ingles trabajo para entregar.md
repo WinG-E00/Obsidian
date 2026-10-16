@@ -33,9 +33,10 @@ Hi cousin benjamin, I have problems in my software.
 
 What  problems cousin Gaston.
 
-##
+## Description
 I have a problem in the authentification of my app, the users don't have access to the main interface of the authentification system.
 
-
+## Solutions
+The are two
 
 If you fix the authentication problem, your app will work correctly again.
