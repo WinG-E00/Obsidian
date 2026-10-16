@@ -37,6 +37,9 @@ What  problems cousin Gaston.
 I have a problem in the authentification of my app, the users don't have access to the main interface of the authentification system.
 
 ## Solutions
-The are two
+The are two solutions, 
+
+We will rewrite the authentification system completly.
+Or We will fix the authentification sys
 
 If you fix the authentication problem, your app will work correctly again.
