@@ -10,3 +10,8 @@ insertMany()
 
 
 ``` 
+
+
+insertOne()
+insertMany()
+`save()`
