@@ -10,7 +10,12 @@ La computadora esta lenta.
 There is a sintax error.
 Hay un error de sintaxis
 
-i 
+I can't install the application.
+No puedo instalar la aplicacion.
+
+## Complete the sentences with the correct form of the verbs in parentheses.
+
+1. If you 
 
 
 
