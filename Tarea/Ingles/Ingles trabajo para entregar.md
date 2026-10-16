@@ -20,6 +20,5 @@ Write a dialogue to represent it with your parther
 
 My software have problems in the authentification.
 
-I can fix it, but first we will need to know, aobut what is your software.
-
+My soft
 
