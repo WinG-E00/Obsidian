@@ -1,4 +1,4 @@
-
+Alumno: Gaston Encina
 
 
 1 The program doesn't work
@@ -44,6 +44,7 @@ Or We will fix the authentification system, and this is gonna be slower.
 
 What do you want
 If We rewrite the authentification system, it will be faster.
-And if We fix the authentification system, it will be s
+And if We fix the authentification system, it will be a slower work.
 
+## Conclusion
 If you fix the authentication problem, your app will work correctly again.
