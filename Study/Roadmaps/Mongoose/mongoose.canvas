@@ -5,11 +5,11 @@
 		{"id":"9176fb4860208d43","type":"text","text":"[[Temas examen]]","x":1000,"y":-50,"width":250,"height":60},
 		{"id":"b4659fa5764eef36","type":"text","text":"Esquema ","x":-620,"y":-20,"width":187,"height":54},
 		{"id":"bb40bafdf8c3a5ce","type":"text","text":"Modelo\n","x":-1001,"y":-103,"width":250,"height":60},
-		{"id":"8f9265d285dc1963","type":"text","text":"[[mongoose create]]","x":-371,"y":-420,"width":250,"height":60},
-		{"id":"f25ad517a49e8ede","type":"text","text":"[[mongose DELETE]]","x":-651,"y":-420,"width":250,"height":60},
 		{"id":"f797723165780b52","type":"text","text":"Relaciones","x":-1087,"y":130,"width":250,"height":60},
-		{"id":"65152b561b3e8143","type":"text","text":"[[mongoose UPDATE]]","x":-100,"y":-420,"width":250,"height":60},
-		{"id":"61e4496bdd3af1ee","type":"text","text":"[[mongose READ]]","x":180,"y":-420,"width":250,"height":60}
+		{"id":"8f9265d285dc1963","type":"text","text":"[[mongoose create]]","x":-380,"y":-460,"width":250,"height":60},
+		{"id":"65152b561b3e8143","type":"text","text":"[[mongoose UPDATE]]","x":-109,"y":-460,"width":250,"height":60},
+		{"id":"61e4496bdd3af1ee","type":"text","text":"[[mongose READ]]","x":171,"y":-460,"width":250,"height":60},
+		{"id":"f25ad517a49e8ede","type":"text","text":"[[mongose DELETE]]","x":-660,"y":-460,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"895487c8870e4859","fromNode":"8bbcff4a95565b93","fromSide":"top","toNode":"060896b83e6dbf5a","toSide":"bottom"},
