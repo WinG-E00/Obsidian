@@ -20,5 +20,9 @@ Write a dialogue to represent it with your parther
 
 My software have problems in the authentification.
 
-My soft
+Hi cousin benjamin, I have problems in my software.
+
+What  problems cousin Gaston.
+
+I have a problem in the authentification 
 
