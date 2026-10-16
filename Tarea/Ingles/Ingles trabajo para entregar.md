@@ -18,7 +18,10 @@ No puedo instalar la aplicacion.
 1. If you fix the bug, the program will work  correctly.
 2. If you don't save the file, you will lose your changes.
 3. If the developer checks the code, he will find the error.
-4. If we restart the server, the apli
+4. If we restart the server, the aplication will connect again
+5. If you enter the correct password, you will acces the system.
+6. If the computer don't have enought memory, the application will run slowly.
+7. 
 
 
 
