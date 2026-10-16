@@ -40,6 +40,10 @@ I have a problem in the authentification of my app, the users don't have access 
 The are two solutions, 
 
 We will rewrite the authentification system completly.
-Or We will fix the authentification sys
+Or We will fix the authentification system, and this is gonna be slower.
+
+What do you want
+If We rewrite the authentification system, it will be faster.
+And if We fix the authentification system, it will be s
 
 If you fix the authentication problem, your app will work correctly again.
