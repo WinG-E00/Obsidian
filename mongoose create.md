@@ -14,4 +14,5 @@ insertMany()
 
 insertOne()
 insertMany()
-`save()`
+save()
+bulkWrite()
