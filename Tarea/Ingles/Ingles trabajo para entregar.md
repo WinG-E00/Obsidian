@@ -7,5 +7,9 @@ El programa no funciona
 The computer is slow
 La computadora esta lenta.
 
+There is a sintax error.
+Hay un error de sintaxis
+
+
 
 
