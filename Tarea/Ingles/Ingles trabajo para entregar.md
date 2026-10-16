@@ -16,11 +16,6 @@ Hay un error de sintaxis
 
 Write a dialogue to represent it with your parther
 
-
-
-
-
-
 Hi cousin benjamin, I have problems in my software.
 
 What  problems cousin Gaston.
