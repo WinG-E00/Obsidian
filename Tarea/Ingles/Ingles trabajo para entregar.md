@@ -15,7 +15,10 @@ No puedo instalar la aplicacion.
 
 ## Complete the sentences with the correct form of the verbs in parentheses.
 
-1. If you 
+1. If you fix the bug, the program will work  correctly.
+2. If you don't save the file, you will lose your changes.
+3. If the developer checks the code, he will find the error.
+4. If we restart the server, the apli
 
 
 
