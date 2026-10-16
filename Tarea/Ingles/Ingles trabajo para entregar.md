@@ -13,3 +13,9 @@ Hay un error de sintaxis
 
 
 
+
+Write a dialogue to represent it with your parther
+
+
+
+My software have problems in the authenti
