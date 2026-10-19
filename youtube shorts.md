@@ -1,0 +1,1 @@
+## Requisitos para poder monitizar en s

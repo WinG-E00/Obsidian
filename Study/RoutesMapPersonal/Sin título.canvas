@@ -5,7 +5,7 @@
 		{"id":"deca16672ac8e878","x":-360,"y":-60,"width":250,"height":60,"type":"text","text":"Instagram reels\n\n"},
 		{"id":"9b6df0ea786209f9","type":"text","text":"Youtube\n","x":-975,"y":-60,"width":250,"height":60},
 		{"id":"64b9d49953d0f327","x":-839,"y":45,"width":250,"height":60,"type":"text","text":"youtube videos\n"},
-		{"id":"de2226a7e81f8244","x":-1100,"y":45,"width":250,"height":60,"type":"text","text":"youtube shorts\n"},
+		{"id":"de2226a7e81f8244","x":-1100,"y":45,"width":250,"height":60,"type":"text","text":"[[youtube shorts]]\n"},
 		{"id":"76454a9a892ef0ae","x":-60,"y":-60,"width":250,"height":60,"type":"text","text":"Facebook  shorts\n"}
 	],
 	"edges":[
