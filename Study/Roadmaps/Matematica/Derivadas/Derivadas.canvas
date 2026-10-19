@@ -18,8 +18,9 @@
 		{"id":"258e6e8bb0126eca","type":"text","text":"Exponentes con fracciones\n","x":1526,"y":-1424,"width":250,"height":60},
 		{"id":"13bd8854ff03bd4a","type":"text","text":"[[Factor comun]]\n","x":660,"y":-1030,"width":180,"height":60},
 		{"id":"c14b71d97bec1726","type":"text","text":"[[Cubo del binomio]] ","x":164,"y":-1424,"width":250,"height":60},
-		{"id":"40a0af8c2b677619","x":380,"y":-970,"width":140,"height":60,"type":"text","text":"[[Factorizar]]\n"},
-		{"id":"82edc1c0f5424b60","x":670,"y":-885,"width":250,"height":60,"type":"text","text":"Diferencia de cuadrados\n"}
+		{"id":"40a0af8c2b677619","type":"text","text":"[[Factorizar]]\n","x":380,"y":-970,"width":140,"height":60},
+		{"id":"82edc1c0f5424b60","type":"text","text":"Diferencia de cuadrados\n","x":560,"y":-680,"width":250,"height":60},
+		{"id":"5af02e19c2838cf5","x":679,"y":-921,"width":250,"height":60,"type":"text","text":"Factor comun por "}
 	],
 	"edges":[
 		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"top","toNode":"f7320d10be3519e4","toSide":"right"},
@@ -36,6 +37,7 @@
 		{"id":"de695ad6a123bf92","fromNode":"a59ccf94de6dc919","fromSide":"right","toNode":"258e6e8bb0126eca","toSide":"left"},
 		{"id":"d7f8a0cc475cd421","fromNode":"a59ccf94de6dc919","fromSide":"right","toNode":"5c5ce03c744ae663","toSide":"left"},
 		{"id":"58b39b2582c0bca3","fromNode":"40a0af8c2b677619","fromSide":"right","toNode":"13bd8854ff03bd4a","toSide":"left"},
-		{"id":"efa9dcac9a07231d","fromNode":"40a0af8c2b677619","fromSide":"right","toNode":"82edc1c0f5424b60","toSide":"left"}
+		{"id":"efa9dcac9a07231d","fromNode":"40a0af8c2b677619","fromSide":"right","toNode":"82edc1c0f5424b60","toSide":"left"},
+		{"id":"9f0142f4515739ba","fromNode":"40a0af8c2b677619","fromSide":"right","toNode":"5af02e19c2838cf5","toSide":"left"}
 	]
 }
