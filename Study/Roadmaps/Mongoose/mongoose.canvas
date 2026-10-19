@@ -3,7 +3,7 @@
 		{"id":"8bbcff4a95565b93","type":"text","text":"Mongoose\n","x":-180,"y":-20,"width":250,"height":60},
 		{"id":"060896b83e6dbf5a","type":"text","text":"Operaciones crud\n","x":-255,"y":-259,"width":250,"height":60},
 		{"id":"9176fb4860208d43","type":"text","text":"[[Temas examen]]","x":1000,"y":-50,"width":250,"height":60},
-		{"id":"b4659fa5764eef36","type":"text","text":"Esquema ","x":-620,"y":-20,"width":187,"height":54},
+		{"id":"b4659fa5764eef36","type":"text","text":"[[Esquema mongoose]]","x":-620,"y":-20,"width":187,"height":54},
 		{"id":"bb40bafdf8c3a5ce","type":"text","text":"Modelo\n","x":-1001,"y":-103,"width":250,"height":60},
 		{"id":"f797723165780b52","type":"text","text":"Relaciones","x":-1087,"y":130,"width":250,"height":60},
 		{"id":"8f9265d285dc1963","type":"text","text":"[[mongoose create]]","x":-380,"y":-460,"width":250,"height":60},
