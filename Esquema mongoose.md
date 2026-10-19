@@ -1,2 +1,3 @@
 Propiedades del esquema
 
+type
