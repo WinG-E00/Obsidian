@@ -20,7 +20,7 @@
 		{"id":"c14b71d97bec1726","type":"text","text":"[[Cubo del binomio]] ","x":164,"y":-1424,"width":250,"height":60},
 		{"id":"40a0af8c2b677619","type":"text","text":"[[Factorizar]]\n","x":380,"y":-970,"width":140,"height":60},
 		{"id":"82edc1c0f5424b60","type":"text","text":"Diferencia de cuadrados\n","x":560,"y":-680,"width":250,"height":60},
-		{"id":"5af02e19c2838cf5","x":679,"y":-921,"width":250,"height":60,"type":"text","text":"Factor comun por "}
+		{"id":"5af02e19c2838cf5","x":679,"y":-921,"width":250,"height":60,"type":"text","text":"[[Factor comun por agrupacion]]\n"}
 	],
 	"edges":[
 		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"top","toNode":"f7320d10be3519e4","toSide":"right"},
