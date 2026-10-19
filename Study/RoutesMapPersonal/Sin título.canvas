@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"8146c2eefb1849a4","type":"text","text":"Requerimientos de monetizacion\n","x":-560,"y":-300,"width":220,"height":80},
 		{"id":"ea66ae506e313a76","x":-660,"y":-60,"width":250,"height":60,"type":"text","text":"[[TikTok]]\n"},
-		{"id":"deca16672ac8e878","x":-360,"y":-60,"width":250,"height":60,"type":"text","text":"Instagram reels\n\n"},
+		{"id":"deca16672ac8e878","x":-360,"y":-60,"width":250,"height":60,"type":"text","text":"[[Instagram reels]]\n\n"},
 		{"id":"9b6df0ea786209f9","type":"text","text":"Youtube\n","x":-975,"y":-60,"width":250,"height":60},
 		{"id":"64b9d49953d0f327","x":-839,"y":45,"width":250,"height":60,"type":"text","text":"youtube videos\n"},
 		{"id":"de2226a7e81f8244","x":-1100,"y":45,"width":250,"height":60,"type":"text","text":"[[youtube shorts]]\n"},
