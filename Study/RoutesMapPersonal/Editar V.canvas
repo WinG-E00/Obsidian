@@ -1,11 +1,13 @@
 {
 	"nodes":[
 		{"id":"8b92a1b96cd3a984","x":-165,"y":-40,"width":250,"height":60,"type":"text","text":"Editar videos\n"},
-		{"id":"45c1ac00c433cd1b","x":-720,"y":80,"width":160,"height":50,"type":"text","text":"Herramientas\n"},
-		{"id":"5ab1383c2067cad8","x":-432,"y":230,"width":250,"height":60,"type":"text","text":"Trucos de retencion de atencion\n"}
+		{"id":"5ab1383c2067cad8","x":-432,"y":230,"width":250,"height":60,"type":"text","text":"Trucos de retencion de atencion\n"},
+		{"id":"1466e72725b3888b","x":35,"y":205,"width":250,"height":60,"type":"text","text":"Edicion de video efectos y animaciones y demas\n"},
+		{"id":"45c1ac00c433cd1b","x":-660,"y":80,"width":160,"height":50,"type":"text","text":"Herramientas\n"}
 	],
 	"edges":[
 		{"id":"7a8449cadc5562e5","fromNode":"8b92a1b96cd3a984","fromSide":"bottom","toNode":"45c1ac00c433cd1b","toSide":"top"},
-		{"id":"c315116e153ba66e","fromNode":"8b92a1b96cd3a984","fromSide":"bottom","toNode":"5ab1383c2067cad8","toSide":"top"}
+		{"id":"c315116e153ba66e","fromNode":"8b92a1b96cd3a984","fromSide":"bottom","toNode":"5ab1383c2067cad8","toSide":"top"},
+		{"id":"16a9e1cf2334aff4","fromNode":"8b92a1b96cd3a984","fromSide":"bottom","toNode":"1466e72725b3888b","toSide":"top"}
 	]
 }
