@@ -7,7 +7,6 @@
 		{"id":"c1cae73f4d4696bb","type":"text","text":"","x":-617,"y":-1448,"width":250,"height":60},
 		{"id":"2d5375d5486cdb85","type":"text","text":"[[cuadrado del binomio]]\n","x":-130,"y":-1428,"width":250,"height":60},
 		{"id":"0ae81b205812f600","type":"text","text":"Binomio ","x":-38,"y":-1250,"width":250,"height":60},
-		{"id":"c6d14d8240e75e78","type":"text","text":"Potencias\n","x":-71,"y":-520,"width":131,"height":60},
 		{"id":"c02abb09cad6de7e","type":"text","text":"[[Formula resolvente]]","x":-894,"y":-1680,"width":250,"height":60},
 		{"id":"5ca7b95c4d5eee2f","type":"text","text":"Derivadas\n","x":-642,"y":-740,"width":125,"height":60},
 		{"id":"ce785682d6757710","type":"text","text":"[[Formula principal de la derivada]]","x":-422,"y":-840,"width":250,"height":60},
@@ -21,7 +20,8 @@
 		{"id":"40a0af8c2b677619","type":"text","text":"[[Factorizar]]\n","x":380,"y":-970,"width":140,"height":60},
 		{"id":"82edc1c0f5424b60","type":"text","text":"Diferencia de cuadrados\n","x":560,"y":-680,"width":250,"height":60},
 		{"id":"5af02e19c2838cf5","type":"text","text":"[[Factor comun por agrupacion]]\n","x":679,"y":-921,"width":250,"height":60},
-		{"id":"c7342ef61ddd6af4","x":-76,"y":-1088,"width":250,"height":60,"type":"text","text":"Diferencia de cuadrados"}
+		{"id":"c6d14d8240e75e78","type":"text","text":"Potencias\n","x":-261,"y":-520,"width":131,"height":60},
+		{"id":"c7342ef61ddd6af4","x":-5,"y":-490,"width":250,"height":60,"type":"text","text":"Diferencia de cuadrados"}
 	],
 	"edges":[
 		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"top","toNode":"f7320d10be3519e4","toSide":"right"},
