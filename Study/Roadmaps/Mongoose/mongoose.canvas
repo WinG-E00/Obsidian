@@ -5,11 +5,12 @@
 		{"id":"9176fb4860208d43","type":"text","text":"[[Temas examen]]","x":1000,"y":-50,"width":250,"height":60},
 		{"id":"b4659fa5764eef36","type":"text","text":"[[Esquema mongoose]]","x":-620,"y":-20,"width":187,"height":54},
 		{"id":"bb40bafdf8c3a5ce","type":"text","text":"Modelo\n","x":-1001,"y":-103,"width":250,"height":60},
-		{"id":"f797723165780b52","type":"text","text":"Relaciones","x":-1087,"y":130,"width":250,"height":60},
 		{"id":"8f9265d285dc1963","type":"text","text":"[[mongoose create]]","x":-380,"y":-460,"width":250,"height":60},
 		{"id":"65152b561b3e8143","type":"text","text":"[[mongoose UPDATE]]","x":-109,"y":-460,"width":250,"height":60},
 		{"id":"61e4496bdd3af1ee","type":"text","text":"[[mongose READ]]","x":171,"y":-460,"width":250,"height":60},
-		{"id":"f25ad517a49e8ede","type":"text","text":"[[mongose DELETE]]","x":-660,"y":-460,"width":250,"height":60}
+		{"id":"f25ad517a49e8ede","type":"text","text":"[[mongose DELETE]]","x":-660,"y":-460,"width":250,"height":60},
+		{"id":"e531d17f5c76e28c","x":-805,"y":224,"width":250,"height":60,"type":"text","text":"[[Propiedad mongosee]]\n"},
+		{"id":"f797723165780b52","type":"text","text":"Relaciones","x":-1240,"y":-26,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"895487c8870e4859","fromNode":"8bbcff4a95565b93","fromSide":"top","toNode":"060896b83e6dbf5a","toSide":"bottom"},
@@ -19,6 +20,7 @@
 		{"id":"3273f98bd1446e66","fromNode":"060896b83e6dbf5a","fromSide":"top","toNode":"f25ad517a49e8ede","toSide":"bottom"},
 		{"id":"7b970957b6fc0562","fromNode":"8bbcff4a95565b93","fromSide":"left","toNode":"b4659fa5764eef36","toSide":"right"},
 		{"id":"580252af0c461f3e","fromNode":"b4659fa5764eef36","fromSide":"left","toNode":"bb40bafdf8c3a5ce","toSide":"right"},
-		{"id":"ed5ca8b1382efd88","fromNode":"bb40bafdf8c3a5ce","fromSide":"bottom","toNode":"f797723165780b52","toSide":"top"}
+		{"id":"ed5ca8b1382efd88","fromNode":"bb40bafdf8c3a5ce","fromSide":"bottom","toNode":"f797723165780b52","toSide":"top"},
+		{"id":"c9c9a30bc5eb0e8b","fromNode":"b4659fa5764eef36","fromSide":"bottom","toNode":"e531d17f5c76e28c","toSide":"top"}
 	]
 }
