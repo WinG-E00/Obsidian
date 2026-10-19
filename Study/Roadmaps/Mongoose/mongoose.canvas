@@ -11,7 +11,7 @@
 		{"id":"f25ad517a49e8ede","type":"text","text":"[[mongose DELETE]]","x":-660,"y":-460,"width":250,"height":60},
 		{"id":"e531d17f5c76e28c","x":-805,"y":224,"width":250,"height":60,"type":"text","text":"[[Propiedad mongosee]]\n"},
 		{"id":"f797723165780b52","type":"text","text":"Relaciones","x":-1240,"y":-26,"width":250,"height":60},
-		{"id":"96e2b41c6abcc659","x":-598,"y":259,"width":250,"height":60,"type":"text","text":"Tipos de datos mongoose\n"}
+		{"id":"96e2b41c6abcc659","x":-598,"y":259,"width":250,"height":60,"type":"text","text":"[[Tipos de datos mongoose]]\n"}
 	],
 	"edges":[
 		{"id":"895487c8870e4859","fromNode":"8bbcff4a95565b93","fromSide":"top","toNode":"060896b83e6dbf5a","toSide":"bottom"},
