@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"8b92a1b96cd3a984","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Editar videos\n"},
-		{"id":"45c1ac00c433cd1b","x":-620,"y":100,"width":160,"height":50,"type":"text","text":"Herramientas\n"}
+		{"id":"8b92a1b96cd3a984","x":-165,"y":-40,"width":250,"height":60,"type":"text","text":"Editar videos\n"},
+		{"id":"45c1ac00c433cd1b","x":-720,"y":80,"width":160,"height":50,"type":"text","text":"Herramientas\n"},
+		{"id":"5ab1383c2067cad8","x":-432,"y":230,"width":250,"height":60,"type":"text","text":"Trucos de retencion de atencion\n"}
 	],
 	"edges":[
-		{"id":"7a8449cadc5562e5","fromNode":"8b92a1b96cd3a984","fromSide":"bottom","toNode":"45c1ac00c433cd1b","toSide":"top"}
+		{"id":"7a8449cadc5562e5","fromNode":"8b92a1b96cd3a984","fromSide":"bottom","toNode":"45c1ac00c433cd1b","toSide":"top"},
+		{"id":"c315116e153ba66e","fromNode":"8b92a1b96cd3a984","fromSide":"bottom","toNode":"5ab1383c2067cad8","toSide":"top"}
 	]
 }
