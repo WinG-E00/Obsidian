@@ -19,7 +19,8 @@ description: Este atributo almacena una cadena de text que puede almacenar texto
 picture: almacena informacion binaria pura y puede ser usada para almacenar imagenes
 
 Relaciones
-
+![[../../Pasted image 20261020121853.png]]
+Esta tabla tambien en su pk tiene como FK a una tabla llamada categories y en su atributo es llamado category_
 
 
 
