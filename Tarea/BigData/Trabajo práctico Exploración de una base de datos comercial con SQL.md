@@ -24,9 +24,12 @@ Esta tabla tambien en su pk tiene como FK a una tabla llamada products y en su a
 
 ---
 
+**Costumers**
 
 
-Costumers
+
+
+
 Orders
 Products
 Shippers
