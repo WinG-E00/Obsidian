@@ -31,7 +31,8 @@ Esta tabla posee 11 Atributos cada uno tiene un limitante distinto en cuanto a l
 
 Keys y relaciones
 ![[../../Pasted image 20261020122522.png]]
-Tiene
+Tiene como primary key a costumer_id y este atributo no puede estar vacio.
+Despues tiene el atributo company_name que tampoco puede estar vacio.
 
 No tiene ninguna fk la tabla pero si actua 
 
