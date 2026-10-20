@@ -53,7 +53,7 @@ costumer_id: este atributo seria una Fk de la tabla costumers, con el tipo de da
 
 employe_id: este atributo es otro FK de la tabla de la tabla orders que tiene como tipo de dato el int
 ![[../../Pasted image 20261020124305.png]] 
-
+order_date: Este tipo atributo simplemente almacena la fecha en la que se ordeno, y tiene el ti
 
 
 
