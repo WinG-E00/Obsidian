@@ -16,6 +16,8 @@ category_name: Este atributo alamacena una cadena de texto de 15 de largo, y no 
 
 description: Este atributo almacena una cadena de text que puede almacenar texto con un tamaño maximo de 64kb
 
+picture: almacena informacion binaria pura y puede ser usada para almacenar imagenes
+
 
 
 
