@@ -44,5 +44,8 @@ No tiene ninguna fk la tabla pero si se relaciona con las tablas costumer_costum
 # Orders
 
 
+
+
+
 Products
 Shippers
