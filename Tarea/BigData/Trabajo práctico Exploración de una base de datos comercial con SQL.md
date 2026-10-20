@@ -46,7 +46,9 @@ Esta tabla tiene
 
 ![[../../Pasted image 20261020123701.png]]
 
-order_id 
+order_id: este atributo seria la primary key con el tipo de dato numerico y con la resctrccion de not null
+
+costumer_id: este atributo seria una Fk 
 
 
 
