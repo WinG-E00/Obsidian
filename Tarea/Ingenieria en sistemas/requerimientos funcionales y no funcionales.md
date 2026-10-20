@@ -10,3 +10,4 @@ polizas de seguro
 
 Que el dueño sea capaz de obtener un listado de los vendendores ordenado por la cantidad de polizas que ha realizado
 
+Que los vendedores 
