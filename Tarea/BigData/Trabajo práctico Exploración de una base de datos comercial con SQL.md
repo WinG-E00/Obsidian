@@ -48,7 +48,10 @@ Esta tabla tiene
 
 order_id: este atributo seria la primary key con el tipo de dato numerico y con la resctrccion de not null
 
-costumer_id: este atributo seria una Fk 
+costumer_id: este atributo seria una Fk de la tabla costumers, con el tipo de dato de caracter con un limite de 5 caracteres.
+![[../../Pasted image 20261020124028.png]]
+
+
 
 
 
