@@ -46,6 +46,7 @@ Esta tabla tiene
 
 ![[../../Pasted image 20261020123701.png]]
 
+order_id 
 
 
 
