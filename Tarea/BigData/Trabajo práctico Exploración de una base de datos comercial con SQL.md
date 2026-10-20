@@ -63,7 +63,7 @@ shipped_via: Este atributo tiene el tipo de dato de  int y es una FK que almacen
 
 freight: Este atributo posee el tipo de dato de float y almacena valores indicando la carga en peso de la orden
 
-ship_name: 
+ship_name: Simplemente almacena el valor 
 
 
 
