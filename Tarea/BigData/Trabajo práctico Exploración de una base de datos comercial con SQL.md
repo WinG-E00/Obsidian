@@ -10,7 +10,9 @@ La tabla Categories posee 4 Atributos con 8 registros
 
 Esta tabla 
 ![[../../Pasted image 20261020121222.png]]
-Category_id: Este atributo almacena 
+Category_id: Este atributo almacena numeros y es una primary key, tambien tiene la restriccion de que no puede ser nulo
+
+category_name: Este atributo alamacena una cadena de texto de 15 de largo, 
 
 
 
