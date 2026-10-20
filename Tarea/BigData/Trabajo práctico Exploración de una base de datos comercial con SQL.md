@@ -18,6 +18,9 @@ description: Este atributo almacena una cadena de text que puede almacenar texto
 
 picture: almacena informacion binaria pura y puede ser usada para almacenar imagenes
 
+Relaciones
+
+
 
 
 
