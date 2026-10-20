@@ -30,9 +30,10 @@ Esta tabla posee 11 Atributos cada uno tiene un limitante distinto en cuanto a l
 ![[../../Pasted image 20261020122339.png]]
 
 Keys y relaciones
-La primary key de esta tabla es 
+![[../../Pasted image 20261020122522.png]]
+Tiene
 
-
+No tiene ninguna fk la tabla pero si actua 
 
 
 
