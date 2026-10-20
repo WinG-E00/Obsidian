@@ -42,7 +42,7 @@ No tiene ninguna fk la tabla pero si se relaciona con las tablas costumer_costum
 --- 
 
 # Orders
-
+Esta tabla actua como una relacion de muchos a muchos 
 
 
 
