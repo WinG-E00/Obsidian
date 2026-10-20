@@ -34,10 +34,8 @@ Keys y relaciones
 Tiene como primary key a costumer_id y este atributo no puede estar vacio.
 Despues tiene el atributo company_name que tampoco puede estar vacio.
 
-No tiene ninguna fk la tabla pero si se relaciona con otras tablas como una fk 
+No tiene ninguna fk la tabla pero si se relaciona con las tablas co como una fk 
 ![[../../Pasted image 20261020122745.png]]
-
-
 
 
 
