@@ -26,8 +26,13 @@ Esta tabla tambien en su pk tiene como FK a una tabla llamada products y en su a
 
 **Costumers**
 
-Esta tabla posee 
+Esta tabla posee 11 Atributos cada uno tiene un limitante distinto en cuanto a la cantidad de caracteres que puede almacenar.
 ![[../../Pasted image 20261020122339.png]]
+
+Keys y relaciones
+La primary key de esta tabla es 
+
+
 
 
 
