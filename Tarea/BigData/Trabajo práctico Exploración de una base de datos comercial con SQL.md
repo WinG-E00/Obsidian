@@ -57,7 +57,9 @@ order_date: Este tipo atributo simplemente almacena la fecha en la que se ordeno
 
 required_date: Este atributo tambien almacena el tipo date para fechas
 
-shipped_date: Este atributo almacena tambien el tipo de dato date y seria para almacenar las fechas de em
+shipped_date: Este atributo almacena tambien el tipo de dato date y seria para almacenar las fechas de enviado
+
+shipped_via: Este atributo tiene el tipo de dato de  i nt 
 
 
 
