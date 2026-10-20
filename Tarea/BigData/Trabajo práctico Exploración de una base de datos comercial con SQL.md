@@ -26,6 +26,8 @@ Esta tabla tambien en su pk tiene como FK a una tabla llamada products y en su a
 
 **Costumers**
 
+---
+
 Esta tabla posee 11 Atributos cada uno tiene un limitante distinto en cuanto a la cantidad de caracteres que puede almacenar.
 ![[../../Pasted image 20261020122339.png]]
 
@@ -34,11 +36,13 @@ Keys y relaciones
 Tiene como primary key a costumer_id y este atributo no puede estar vacio.
 Despues tiene el atributo company_name que tampoco puede estar vacio.
 
-No tiene ninguna fk la tabla pero si se relaciona con las tablas co como una fk 
+No tiene ninguna fk la tabla pero si se relaciona con las tablas costumer_costumer_demo y la tabla orders como una fk 
 ![[../../Pasted image 20261020122745.png]]
 
+--- 
+
+# Orders
 
 
-Orders
 Products
 Shippers
