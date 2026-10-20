@@ -59,7 +59,7 @@ required_date: Este atributo tambien almacena el tipo date para fechas
 
 shipped_date: Este atributo almacena tambien el tipo de dato date y seria para almacenar las fechas de enviado
 
-shipped_via: Este atributo tiene el tipo de dato de  i nt 
+shipped_via: Este atributo tiene el tipo de dato de  int y es una FK que almacena la primary key de el encargado de el envio osea el sh
 
 
 
