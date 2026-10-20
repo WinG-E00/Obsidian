@@ -19,3 +19,5 @@ Que los vendedores obtengan un listado con los clientes a los que se le vence su
 Que los clientes sean capas de ver los bienes que tienen asegurados y cuando son sus pagos
 
 ## Requerimientos no funcionales
+
+Que 
