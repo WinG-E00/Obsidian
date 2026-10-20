@@ -1,7 +1,7 @@
 
 # Parte A
 ## Punto 1
-
+---
 Categories
 
 La tabla Categories posee 4 Atributos con 8 registros
@@ -20,8 +20,9 @@ picture: almacena informacion binaria pura y puede ser usada para almacenar imag
 
 Relaciones
 ![[../../Pasted image 20261020121853.png]]
-Esta tabla tambien en su pk tiene como FK a una tabla llamada categories y en su atributo es llamado category_
+Esta tabla tambien en su pk tiene como FK a una tabla llamada products y en su atributo es llamado category_id
 
+---
 
 
 
