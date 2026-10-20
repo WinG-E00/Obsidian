@@ -20,4 +20,4 @@ Que los clientes sean capas de ver los bienes que tienen asegurados y cuando son
 
 ## Requerimientos no funcionales
 
-Que 
+Que el dueño posea una interfaz clara para el listado con la cantidad 
