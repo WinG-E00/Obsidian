@@ -1,3 +1,8 @@
 Propiedades del esquema
-type
-of
+
+
+
+Ejemplo de esquema
+```js
+
+```
