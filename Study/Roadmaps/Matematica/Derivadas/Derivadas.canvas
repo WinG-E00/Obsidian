@@ -20,8 +20,11 @@
 		{"id":"40a0af8c2b677619","type":"text","text":"[[Factorizar]]\n","x":380,"y":-970,"width":140,"height":60},
 		{"id":"c6d14d8240e75e78","type":"text","text":"Potencias\n","x":-261,"y":-520,"width":131,"height":60},
 		{"id":"c7342ef61ddd6af4","type":"text","text":"Diferencia de cuadrados","x":-5,"y":-490,"width":250,"height":60},
-		{"id":"82edc1c0f5424b60","type":"text","text":"Diferencia de cuadrados\n","x":660,"y":-740,"width":250,"height":60},
-		{"id":"5af02e19c2838cf5","type":"text","text":"[[Factor comun por agrupacion]]\n","x":660,"y":-910,"width":250,"height":60}
+		{"id":"5af02e19c2838cf5","type":"text","text":"[[Factor comun por agrupacion]]\n","x":660,"y":-910,"width":250,"height":60},
+		{"id":"82edc1c0f5424b60","type":"text","text":"Diferencia de cuadrados\n","x":660,"y":-800,"width":250,"height":60},
+		{"id":"43625fd68a4cba0d","x":660,"y":-700,"width":250,"height":60,"type":"text","text":"Factor comun por agrupacion\n"},
+		{"id":"3ef3332ee4cd5cc9","x":660,"y":-620,"width":250,"height":60,"type":"text","text":"Trinomio cuadrado perfecto"},
+		{"id":"5a3a5acc0c7f5372","x":660,"y":-520,"width":250,"height":60,"type":"text","text":"Trinomio simple"}
 	],
 	"edges":[
 		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"top","toNode":"f7320d10be3519e4","toSide":"right"},
@@ -39,6 +42,9 @@
 		{"id":"d7f8a0cc475cd421","fromNode":"a59ccf94de6dc919","fromSide":"right","toNode":"5c5ce03c744ae663","toSide":"left"},
 		{"id":"58b39b2582c0bca3","fromNode":"40a0af8c2b677619","fromSide":"right","toNode":"13bd8854ff03bd4a","toSide":"left"},
 		{"id":"efa9dcac9a07231d","fromNode":"40a0af8c2b677619","fromSide":"right","toNode":"82edc1c0f5424b60","toSide":"left"},
-		{"id":"9f0142f4515739ba","fromNode":"40a0af8c2b677619","fromSide":"right","toNode":"5af02e19c2838cf5","toSide":"left"}
+		{"id":"9f0142f4515739ba","fromNode":"40a0af8c2b677619","fromSide":"right","toNode":"5af02e19c2838cf5","toSide":"left"},
+		{"id":"25a5d3ca306440c0","fromNode":"40a0af8c2b677619","fromSide":"right","toNode":"43625fd68a4cba0d","toSide":"left"},
+		{"id":"5bf18e4af6392a42","fromNode":"40a0af8c2b677619","fromSide":"right","toNode":"3ef3332ee4cd5cc9","toSide":"left"},
+		{"id":"5271f70872eecb42","fromNode":"40a0af8c2b677619","fromSide":"right","toNode":"5a3a5acc0c7f5372","toSide":"left"}
 	]
 }
