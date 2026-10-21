@@ -7,13 +7,13 @@
 		{"id":"65152b561b3e8143","type":"text","text":"[[mongoose UPDATE]]","x":-109,"y":-460,"width":250,"height":60},
 		{"id":"61e4496bdd3af1ee","type":"text","text":"[[mongose READ]]","x":171,"y":-460,"width":250,"height":60},
 		{"id":"f25ad517a49e8ede","type":"text","text":"[[mongose DELETE]]","x":-660,"y":-460,"width":250,"height":60},
-		{"id":"f797723165780b52","type":"text","text":"Relaciones","x":-1600,"y":-3,"width":250,"height":60},
-		{"id":"bb40bafdf8c3a5ce","type":"text","text":"Modelo\n","x":-1361,"y":-80,"width":250,"height":60},
+		{"id":"f797723165780b52","type":"text","text":"[[Relaciones Mongoose]]","x":-1600,"y":-3,"width":250,"height":60},
 		{"id":"b4659fa5764eef36","type":"text","text":"[[Esquema mongoose]]","x":-980,"y":3,"width":187,"height":54},
 		{"id":"e531d17f5c76e28c","type":"text","text":"[[Propiedad mongosee]]\n","x":-1320,"y":252,"width":250,"height":60},
 		{"id":"96e2b41c6abcc659","type":"text","text":"[[Tipos de datos mongoose]]\n","x":-1011,"y":252,"width":250,"height":60},
 		{"id":"54da36201cb03bda","type":"text","text":"[[Validacion de Datos mongoose]]\n","x":-753,"y":254,"width":250,"height":60},
-		{"id":"74f1ed8080742e5f","x":-149,"y":172,"width":250,"height":60,"type":"text","text":"[[Metodos para conectar el servidor]]"}
+		{"id":"74f1ed8080742e5f","x":-149,"y":172,"width":250,"height":60,"type":"text","text":"[[Metodos para conectar el servidor]]"},
+		{"id":"bb40bafdf8c3a5ce","type":"text","text":"Modelo\n","x":-1350,"y":-180,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"895487c8870e4859","fromNode":"8bbcff4a95565b93","fromSide":"top","toNode":"060896b83e6dbf5a","toSide":"bottom"},
