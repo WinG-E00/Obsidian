@@ -1,4 +1,4 @@
-
+Alumno: Gaston encina
 
 Cluster creado
 ![[../../Pasted image 20261021095923.png]]
@@ -14,4 +14,5 @@ Como se conecta en compass?
 ![[../../Pasted image 20261021100134.png]]
 
 
-Base de datos conec
+Base de datos conectada:
+![[../../Pasted image 20261021100201.png]]
