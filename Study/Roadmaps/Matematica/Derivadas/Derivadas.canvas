@@ -22,7 +22,7 @@
 		{"id":"c7342ef61ddd6af4","type":"text","text":"Diferencia de cuadrados","x":-5,"y":-490,"width":250,"height":60},
 		{"id":"5af02e19c2838cf5","type":"text","text":"[[Factor comun por agrupacion]]\n","x":660,"y":-940,"width":250,"height":60},
 		{"id":"82edc1c0f5424b60","type":"text","text":"[[Diferencia de cuadrados]]\n","x":660,"y":-740,"width":250,"height":60},
-		{"id":"43625fd68a4cba0d","type":"text","text":"Factor comun por agrupacion\n","x":660,"y":-640,"width":250,"height":60},
+		{"id":"43625fd68a4cba0d","type":"text","text":"[[Factor comun por agrupacion]]\n","x":660,"y":-640,"width":250,"height":60},
 		{"id":"3ef3332ee4cd5cc9","type":"text","text":"Trinomio cuadrado perfecto","x":660,"y":-560,"width":250,"height":60},
 		{"id":"5a3a5acc0c7f5372","type":"text","text":"Trinomio simple","x":660,"y":-460,"width":250,"height":60},
 		{"id":"b9e3917e1be69bf4","type":"text","text":"Trinomio general\n","x":660,"y":-370,"width":250,"height":60},
