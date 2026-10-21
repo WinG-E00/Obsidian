@@ -3,16 +3,17 @@
 		{"id":"8bbcff4a95565b93","type":"text","text":"Mongoose\n","x":-180,"y":-20,"width":250,"height":60},
 		{"id":"060896b83e6dbf5a","type":"text","text":"Operaciones crud\n","x":-255,"y":-259,"width":250,"height":60},
 		{"id":"9176fb4860208d43","type":"text","text":"[[Temas examen]]","x":1000,"y":-50,"width":250,"height":60},
-		{"id":"b4659fa5764eef36","type":"text","text":"[[Esquema mongoose]]","x":-620,"y":-20,"width":187,"height":54},
-		{"id":"bb40bafdf8c3a5ce","type":"text","text":"Modelo\n","x":-1001,"y":-103,"width":250,"height":60},
 		{"id":"8f9265d285dc1963","type":"text","text":"[[mongoose create]]","x":-380,"y":-460,"width":250,"height":60},
 		{"id":"65152b561b3e8143","type":"text","text":"[[mongoose UPDATE]]","x":-109,"y":-460,"width":250,"height":60},
 		{"id":"61e4496bdd3af1ee","type":"text","text":"[[mongose READ]]","x":171,"y":-460,"width":250,"height":60},
 		{"id":"f25ad517a49e8ede","type":"text","text":"[[mongose DELETE]]","x":-660,"y":-460,"width":250,"height":60},
-		{"id":"f797723165780b52","type":"text","text":"Relaciones","x":-1240,"y":-26,"width":250,"height":60},
-		{"id":"e531d17f5c76e28c","x":-960,"y":229,"width":250,"height":60,"type":"text","text":"[[Propiedad mongosee]]\n"},
-		{"id":"96e2b41c6abcc659","x":-651,"y":229,"width":250,"height":60,"type":"text","text":"[[Tipos de datos mongoose]]\n"},
-		{"id":"54da36201cb03bda","x":-393,"y":231,"width":250,"height":60,"type":"text","text":"[[Validacion de Datos mongoose]]\n"}
+		{"id":"f797723165780b52","type":"text","text":"Relaciones","x":-1600,"y":-3,"width":250,"height":60},
+		{"id":"bb40bafdf8c3a5ce","type":"text","text":"Modelo\n","x":-1361,"y":-80,"width":250,"height":60},
+		{"id":"b4659fa5764eef36","type":"text","text":"[[Esquema mongoose]]","x":-980,"y":3,"width":187,"height":54},
+		{"id":"e531d17f5c76e28c","type":"text","text":"[[Propiedad mongosee]]\n","x":-1320,"y":252,"width":250,"height":60},
+		{"id":"96e2b41c6abcc659","type":"text","text":"[[Tipos de datos mongoose]]\n","x":-1011,"y":252,"width":250,"height":60},
+		{"id":"54da36201cb03bda","type":"text","text":"[[Validacion de Datos mongoose]]\n","x":-753,"y":254,"width":250,"height":60},
+		{"id":"74f1ed8080742e5f","x":-149,"y":172,"width":250,"height":60,"type":"text","text":"Metodos para conectar "}
 	],
 	"edges":[
 		{"id":"895487c8870e4859","fromNode":"8bbcff4a95565b93","fromSide":"top","toNode":"060896b83e6dbf5a","toSide":"bottom"},
@@ -25,6 +26,7 @@
 		{"id":"ed5ca8b1382efd88","fromNode":"bb40bafdf8c3a5ce","fromSide":"bottom","toNode":"f797723165780b52","toSide":"top"},
 		{"id":"c9c9a30bc5eb0e8b","fromNode":"b4659fa5764eef36","fromSide":"bottom","toNode":"e531d17f5c76e28c","toSide":"top"},
 		{"id":"620bca37dd9f62b8","fromNode":"b4659fa5764eef36","fromSide":"bottom","toNode":"96e2b41c6abcc659","toSide":"top"},
-		{"id":"f0a3d8e3a718c54b","fromNode":"b4659fa5764eef36","fromSide":"bottom","toNode":"54da36201cb03bda","toSide":"top"}
+		{"id":"f0a3d8e3a718c54b","fromNode":"b4659fa5764eef36","fromSide":"bottom","toNode":"54da36201cb03bda","toSide":"top"},
+		{"id":"2e02916c8255bb4e","fromNode":"8bbcff4a95565b93","fromSide":"bottom","toNode":"74f1ed8080742e5f","toSide":"top"}
 	]
 }
