@@ -24,7 +24,10 @@
 		{"id":"82edc1c0f5424b60","type":"text","text":"Diferencia de cuadrados\n","x":660,"y":-800,"width":250,"height":60},
 		{"id":"43625fd68a4cba0d","x":660,"y":-700,"width":250,"height":60,"type":"text","text":"Factor comun por agrupacion\n"},
 		{"id":"3ef3332ee4cd5cc9","x":660,"y":-620,"width":250,"height":60,"type":"text","text":"Trinomio cuadrado perfecto"},
-		{"id":"5a3a5acc0c7f5372","x":660,"y":-520,"width":250,"height":60,"type":"text","text":"Trinomio simple"}
+		{"id":"5a3a5acc0c7f5372","x":660,"y":-520,"width":250,"height":60,"type":"text","text":"Trinomio simple"},
+		{"id":"b9e3917e1be69bf4","x":660,"y":-430,"width":250,"height":60,"type":"text","text":"Trinomio general\n"},
+		{"id":"69c4fc1d393eb676","x":660,"y":-340,"width":250,"height":60,"type":"text","text":"Suma y diferenciacion de cubos\n"},
+		{"id":"5425082bfd2802af","x":660,"y":-243,"width":250,"height":60,"type":"text","text":"regla de ruffini\n"}
 	],
 	"edges":[
 		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"top","toNode":"f7320d10be3519e4","toSide":"right"},
@@ -45,6 +48,9 @@
 		{"id":"9f0142f4515739ba","fromNode":"40a0af8c2b677619","fromSide":"right","toNode":"5af02e19c2838cf5","toSide":"left"},
 		{"id":"25a5d3ca306440c0","fromNode":"40a0af8c2b677619","fromSide":"right","toNode":"43625fd68a4cba0d","toSide":"left"},
 		{"id":"5bf18e4af6392a42","fromNode":"40a0af8c2b677619","fromSide":"right","toNode":"3ef3332ee4cd5cc9","toSide":"left"},
-		{"id":"5271f70872eecb42","fromNode":"40a0af8c2b677619","fromSide":"right","toNode":"5a3a5acc0c7f5372","toSide":"left"}
+		{"id":"5271f70872eecb42","fromNode":"40a0af8c2b677619","fromSide":"right","toNode":"5a3a5acc0c7f5372","toSide":"left"},
+		{"id":"9ba6b28bcf9beddf","fromNode":"40a0af8c2b677619","fromSide":"right","toNode":"b9e3917e1be69bf4","toSide":"left"},
+		{"id":"d3f5590aaf846cad","fromNode":"40a0af8c2b677619","fromSide":"right","toNode":"69c4fc1d393eb676","toSide":"left"},
+		{"id":"f9677b0fa2a4786c","fromNode":"40a0af8c2b677619","fromSide":"right","toNode":"5425082bfd2802af","toSide":"left"}
 	]
 }
