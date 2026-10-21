@@ -1,4 +1,3 @@
-.updateOne(<filtro>, <actualizacion>
-
+[[updateOne]]
 
 
