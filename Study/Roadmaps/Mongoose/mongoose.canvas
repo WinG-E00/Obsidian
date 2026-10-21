@@ -13,7 +13,7 @@
 		{"id":"e531d17f5c76e28c","type":"text","text":"[[Propiedad mongosee]]\n","x":-1320,"y":252,"width":250,"height":60},
 		{"id":"96e2b41c6abcc659","type":"text","text":"[[Tipos de datos mongoose]]\n","x":-1011,"y":252,"width":250,"height":60},
 		{"id":"54da36201cb03bda","type":"text","text":"[[Validacion de Datos mongoose]]\n","x":-753,"y":254,"width":250,"height":60},
-		{"id":"74f1ed8080742e5f","x":-149,"y":172,"width":250,"height":60,"type":"text","text":"Metodos para conectar "}
+		{"id":"74f1ed8080742e5f","x":-149,"y":172,"width":250,"height":60,"type":"text","text":"Metodos para conectar el servidor"}
 	],
 	"edges":[
 		{"id":"895487c8870e4859","fromNode":"8bbcff4a95565b93","fromSide":"top","toNode":"060896b83e6dbf5a","toSide":"bottom"},
