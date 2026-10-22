@@ -99,3 +99,7 @@ phone: varchar con limite de 24 caracteres.
 
 ![[../../Pasted image 20261022135625.png]]
 
+
+**3. Búsqueda de productos:** Realiza una consulta que muestre los productos cuyo precio unitario sea superior a 20. Los resultados deben mostrar el nombre del producto y su precio. Ordenalos de mayor a menor precio.
+![[../../Pasted image 20261022140550.png]]
+
