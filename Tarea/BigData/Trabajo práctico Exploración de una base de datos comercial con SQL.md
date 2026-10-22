@@ -103,3 +103,8 @@ phone: varchar con limite de 24 caracteres.
 **3. Búsqueda de productos:** Realiza una consulta que muestre los productos cuyo precio unitario sea superior a 20. Los resultados deben mostrar el nombre del producto y su precio. Ordenalos de mayor a menor precio.
 ![[../../Pasted image 20261022140550.png]]
 
+# PARTE B
+
+**4. Búsqueda de clientes:** Consulta los clientes que pertenezcan a un país determinado. La consulta debe mostrar el nombre de la empresa, la ciudad y el país. Ordena los resultados alfabéticamente por nombre de empresa.
+
+![[../../Pasted image 20261022141221.png]]
