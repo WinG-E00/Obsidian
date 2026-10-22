@@ -86,5 +86,13 @@ shipper_id: Tabla con el tipo de dato int con el parametro de PM
 ![[../../Pasted image 20261022121923.png]]
 y con restriccion de not null
 
-company_name: varchar con limite de 40 caracteres
+company_name: varchar con limite de 40 caracteres con el valor de not null
+
+phone: varchar con limite de 24 caracteres.
+
+
+# Punto B
+**2. Consulta de registros:** Utilizando SELECT, consulta los primeros 10 registros de las tablas de clientes, productos y pedidos.
+
+
 
