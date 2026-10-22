@@ -84,5 +84,7 @@ Tabla con 3 atributos
 
 shipper_id: Tabla con el tipo de dato int con el parametro de PM
 ![[../../Pasted image 20261022121923.png]]
-y con restri
+y con restriccion de not null
+
+company_name: varchar con limite de 40 caracteres
 
