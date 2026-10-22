@@ -71,7 +71,11 @@ ship_city: varchar con limite de 15 caracteres
 
 ship_region:varchar con limite de 12 caracteres
 
-ship_postal_code: varchar co
+ship_postal_code: varchar con limite de 10 caracteres.
+
+ship_country: varchar con limite de 15 caracteres
 
 Products
-Shippers3
+
+
+Shippers
