@@ -78,4 +78,9 @@ ship_country: varchar con limite de 15 caracteres
 Products
 
 
-Shippers
+## Shippers
+![[../../Pasted image 20261022121824.png]]
+Tabla con 3 atributos
+
+
+
