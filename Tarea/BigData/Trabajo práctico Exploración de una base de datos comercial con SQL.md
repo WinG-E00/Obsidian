@@ -93,6 +93,9 @@ phone: varchar con limite de 24 caracteres.
 
 # Punto B
 **2. Consulta de registros:** Utilizando SELECT, consulta los primeros 10 registros de las tablas de clientes, productos y pedidos.
+![[../../Pasted image 20261022135521.png]]
+
+
 
 
 
