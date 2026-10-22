@@ -65,8 +65,11 @@ freight: Este atributo posee el tipo de dato de float y almacena valores indican
 
 ship_name: Simplemente almacena el nombre, y tiene el tipo de dato de varchar con un limite de 40 caracteres
 
+ship_address: Tipo de dato varchar con limite de 60 caracteres
 
+ship_city: varchar con limite de 15 caracteres
 
+ship_
 
 Products
 Shippers3
