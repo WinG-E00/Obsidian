@@ -82,5 +82,7 @@ Products
 ![[../../Pasted image 20261022121824.png]]
 Tabla con 3 atributos
 
-
+shipper_id: Tabla con el tipo de dato int con el parametro de PM
+![[../../Pasted image 20261022121923.png]]
+y con restri
 
