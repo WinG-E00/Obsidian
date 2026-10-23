@@ -5,6 +5,8 @@ An API is an interface of aplication designed to be an intermediary between some
 Un ejemplo seria 
 un alumno, el preceptor, y la administracion,
 
-El alumno necesita saber sus notas entonces le pregunta
+El alumno necesita saber sus asistencias entonces le pregunta a el preceptor el preceptor le pregunta a administracion y este le devuelve la lista con su asistencia a el alumno.
+
+
 
 
