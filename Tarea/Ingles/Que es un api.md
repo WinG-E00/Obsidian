@@ -34,5 +34,6 @@ The main porpouse of the documents is explain the especification of this Authent
    Request Requirements
    Response Handling
    Security Considerations
+3. The intended audience are developers
 
 
