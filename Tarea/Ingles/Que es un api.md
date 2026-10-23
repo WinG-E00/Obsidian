@@ -21,3 +21,5 @@ An api is the abreviation of Application process interface, and this works like 
 
 Authentication is an extra step that we need to apply when we need to have a security that the data that is going to enter the database or acces to them, is correct.
 
+technical documentacion can provide information about the way that a system or and API work in case we need to use it.
+
