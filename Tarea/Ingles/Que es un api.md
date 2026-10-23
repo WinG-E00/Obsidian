@@ -51,4 +51,5 @@ The main porpouse of the documents is explain the especification of this Authent
 2. The client application must obtain a valid token before retrying the request.
 3. Developers should use HTTPS to encrypt data 
 4. Deprecated means that a method or a some endpoints are not usefoul anymore and should not be used.
-5. 
+5. Applications should use HTTPS to encrypt data transmitted between the client and the server.
+6. 
