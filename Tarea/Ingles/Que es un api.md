@@ -10,3 +10,12 @@ El alumno necesita saber sus asistencias entonces le pregunta a el preceptor el 
 
 
 
+
+Actividad 1. Pre-reading: anticipación
+1. What is an API?
+2. What does authentication mean?
+3. What information can technical documentation provide?
+4. What do you think this document explains?
+
+
+
