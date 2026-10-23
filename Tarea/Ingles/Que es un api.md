@@ -35,6 +35,6 @@ The main porpouse of the documents is explain the especification of this Authent
    Response Handling
    Security Considerations
 3. The intended audience are developers
-4. The authentication is necessary because we need to have a 
+4. The authentication is necessary because we need to have a garanty that the users is going to acces or register in our system is not g
 
 
