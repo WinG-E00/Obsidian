@@ -84,4 +84,4 @@ A developer sends a request to a protected endpoint without including a valid ac
 3. Because some paremeters must be deprecated and also we need to check the requirements of the request.
 
 # Actividad 5
-1. 
+1. The main purpose of an API
