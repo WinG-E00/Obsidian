@@ -85,4 +85,4 @@ A developer sends a request to a protected endpoint without including a valid ac
 
 # Actividad 5
 1. The main purpose of an API authentication system is verify the user and the consult before they have acces to the system
-2. An optinal parameters is something that is no
+2. An optional parameters is something that is not necessary in the request, and a 
