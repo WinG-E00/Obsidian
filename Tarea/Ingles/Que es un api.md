@@ -44,4 +44,8 @@ The main porpouse of the documents is explain the especification of this Authent
 3. True
 4. False
 5. True
-6. 
+6. True
+
+**B. Answer the questions**
+	
+
