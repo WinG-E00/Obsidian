@@ -77,4 +77,7 @@ A developer sends a request to a protected endpoint without including a valid ac
 2. The request now has an error as a response
 3. The developer should use a valid acces token.
 
-Caso 2.
+**Caso 2.**
+
+1. The cause is a invalid acces token
+2. The dif
