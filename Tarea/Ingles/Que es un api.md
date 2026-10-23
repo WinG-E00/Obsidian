@@ -41,4 +41,7 @@ The main porpouse of the documents is explain the especification of this Authent
 # Detailed reading: búsqueda de información específica
 1. True
 2. False
-3. tru
+3. True
+4. False
+5. True
+6. 
