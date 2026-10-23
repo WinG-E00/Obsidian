@@ -2,6 +2,9 @@ Un api es una interfaz de aplicacion diseñada para que sea un intermediario ent
 
 An API is an interface of aplication designed to be an intermediary between some system that are required to make a petition in a database, that way the API is going to extract the data of the database and send it in a processable way for the system that is required.
 
-Un ejemplo es 
+Un ejemplo seria 
+un alumno, el preceptor, y la administracion,
+
+El alumno necesita saber sus notas entonces le pregunta
 
 
