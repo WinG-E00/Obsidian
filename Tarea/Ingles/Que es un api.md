@@ -69,5 +69,12 @@ The main porpouse of the documents is explain the especification of this Authent
 | Request        | A message sent by a client asking a server<br><br>to perform an operation or provide<br>information. |
 # Actividad 4. Aplicación práctica: resolución de un problema técnico
 
+**Caso 1.** 
+Missing authentication token
+A developer sends a request to a protected endpoint without including a valid access token.
+
 1. The access token is not valid
-2. 
+2. The request now has an error as a response
+3. The developer should use a valid acces token.
+
+Caso 2.
