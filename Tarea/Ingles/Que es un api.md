@@ -50,4 +50,5 @@ The main porpouse of the documents is explain the especification of this Authent
 1. if a required parameter is missing the server while return a validation error
 2. The client application must obtain a valid token before retrying the request.
 3. Developers should use HTTPS to encrypt data 
-4. Deprecated means that a method or a 
+4. Deprecated means that a method or a some endpoints are not usefoul anymore and should not be used.
+5. 
