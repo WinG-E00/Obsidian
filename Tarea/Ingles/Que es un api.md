@@ -27,3 +27,4 @@ I think this text is going to explain what are going to be re requirements and t
 
 
 Actividad 2: While-reading: comprensión global
+The main porpouse of the documents is explain the specification of the 
