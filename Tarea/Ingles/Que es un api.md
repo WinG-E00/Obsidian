@@ -23,3 +23,4 @@ Authentication is an extra step that we need to apply when we need to have a sec
 
 technical documentacion can provide information about the way that a system or and API work in case we need to use it.
 
+I think this text is going to explain 
