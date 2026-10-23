@@ -80,5 +80,5 @@ A developer sends a request to a protected endpoint without including a valid ac
 **Caso 2.**
 
 1. The cause is a invalid acces token
-2. The
-3. 
+2. The client application must obtain a valid token.
+3. Because 
