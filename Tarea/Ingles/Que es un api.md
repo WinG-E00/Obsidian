@@ -58,3 +58,9 @@ The main porpouse of the documents is explain the especification of this Authent
 		can significa que algo puede ser o hacer.
 
 # Actividad 3 Vocabulary in context
+
+
+|     |     |
+| --- | --- |
+|     |     |
+
