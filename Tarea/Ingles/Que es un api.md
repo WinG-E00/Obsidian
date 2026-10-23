@@ -26,3 +26,4 @@ technical documentacion can provide information about the way that a system or a
 I think this text is going to explain what are going to be re requirements and the funcionality of this API
 
 
+Actividad 2: While-reading: comprensión global
