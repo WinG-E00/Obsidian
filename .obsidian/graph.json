@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "Datos de mi clus",
+  "search": "path:Study/NewNotes/exp ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4652774080878388,
+  "scale": 0.06876145167119284,
   "close": false
 }
