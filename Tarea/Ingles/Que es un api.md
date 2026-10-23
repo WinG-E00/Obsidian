@@ -81,4 +81,7 @@ A developer sends a request to a protected endpoint without including a valid ac
 
 1. The cause is a invalid acces token
 2. The client application must obtain a valid token.
-3. Because 
+3. Because some paremeters must be deprecated and also we need to check the requirements of the request.
+
+# Actividad 5
+1. 
