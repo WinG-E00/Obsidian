@@ -53,5 +53,9 @@ The main porpouse of the documents is explain the especification of this Authent
 4. Deprecated means that a method or a some endpoints are not usefoul anymore and should not be used.
 5. Applications should use HTTPS to encrypt data transmitted between the client and the server.
 6. Finally, developers should consult the latest APi
-		sign
+		Should significa deberian.
 7. Optional parameters can be omitted without preventing the request from being processed.
+		can significa que algo puede ser o hacer.
+
+
+
