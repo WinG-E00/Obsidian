@@ -30,7 +30,9 @@ Actividad 2:
 1. While-reading: comprensión global
 The main porpouse of the documents is explain the especification of this Authentication API.
 
-2. The three topics are
-3
+2. The three topics are:
+   Request Requirements
+   Response Handling
+   Security Considerations
 
 
