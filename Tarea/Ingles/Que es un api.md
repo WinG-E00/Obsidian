@@ -1,0 +1,1 @@
+Un api es una interfaz de aplicacion diseñada para que sea un intermediario entre algun sistema que requiera hacer una peticion 
