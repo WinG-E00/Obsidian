@@ -26,5 +26,11 @@ technical documentacion can provide information about the way that a system or a
 I think this text is going to explain what are going to be re requirements and the funcionality of this API
 
 
-Actividad 2: While-reading: comprensión global
-The main porpouse of the documents is explain the specification of the 
+Actividad 2:
+1. While-reading: comprensión global
+The main porpouse of the documents is explain the especification of this Authentication API.
+
+2. The three topics are
+3
+
+
