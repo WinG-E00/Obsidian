@@ -57,5 +57,4 @@ The main porpouse of the documents is explain the especification of this Authent
 7. Optional parameters can be omitted without preventing the request from being processed.
 		can significa que algo puede ser o hacer.
 
-
-
+# Actividad 3 Vocabulary in context
