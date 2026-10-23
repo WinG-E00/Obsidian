@@ -48,4 +48,5 @@ The main porpouse of the documents is explain the especification of this Authent
 
 **B. Answer the questions**
 1. if a required parameter is missing the server while return a validation error
-2. 
+2. The client application must obtain a valid token before retrying the request.
+3. 
