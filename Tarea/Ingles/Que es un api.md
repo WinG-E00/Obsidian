@@ -47,5 +47,4 @@ The main porpouse of the documents is explain the especification of this Authent
 6. True
 
 **B. Answer the questions**
-	
-
+	7. if a required parameter is missing 
