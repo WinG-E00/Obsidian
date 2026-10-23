@@ -19,4 +19,5 @@ Actividad 1. Pre-reading: anticipación
 
 An api is the abreviation of Application process interface, and this works like and intermediary between the database and the system that requieres data.
 
-Authentication is an extra step that we need to 
+Authentication is an extra step that we need to apply when we need to have a security that the data that is going to enter the database or acces to them, is correct.
+
