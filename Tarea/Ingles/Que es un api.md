@@ -38,5 +38,6 @@ The main porpouse of the documents is explain the especification of this Authent
 4. The authentication is necessary because we need to have a garanty that the users is going to acces or register in our system are not going to engage our security or data.
 5. the main recomendation is that developers must check if some endpoints or parameters are not deprecated before use it.
 
-
-
+# Detailed reading: búsqueda de información específica
+1. True
+2. 
