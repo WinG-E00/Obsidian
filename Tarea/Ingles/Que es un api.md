@@ -87,4 +87,5 @@ A developer sends a request to a protected endpoint without including a valid ac
 1. The main purpose of an API authentication system is verify the user and the consult before they have acces to the system
 2. An optional parameters is something that is not necessary in the request, and a required is a parameter that should be mandatory in the request.
 3. In the technical documentation must be expressed the request requirements, the response handling and the security considerations
-4. An 401 error indicates th 
+4. An 401 error indicates that the acces token has expired
+5. 
