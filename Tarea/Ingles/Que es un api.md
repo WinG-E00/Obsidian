@@ -84,4 +84,5 @@ A developer sends a request to a protected endpoint without including a valid ac
 3. Because some paremeters must be deprecated and also we need to check the requirements of the request.
 
 # Actividad 5
-1. The main purpose of an API
+1. The main purpose of an API authentication system is verify the user and the consult before they have acces to the system
+2. An optinal parameters is something that is no
