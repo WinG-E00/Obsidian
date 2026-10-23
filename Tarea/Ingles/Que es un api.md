@@ -10,7 +10,7 @@ El alumno necesita saber sus asistencias entonces le pregunta a el preceptor el 
 
 
 
-
+#TRABAJ
 Actividad 1. Pre-reading: anticipación
 1. What is an API?
 2. What does authentication mean?
@@ -88,4 +88,4 @@ A developer sends a request to a protected endpoint without including a valid ac
 2. An optional parameters is something that is not necessary in the request, and a required is a parameter that should be mandatory in the request.
 3. In the technical documentation must be expressed the request requirements, the response handling and the security considerations
 4. An 401 error indicates that the acces token has expired
-5. 
+5. skimming and reseach the unknow words
