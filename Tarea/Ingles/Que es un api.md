@@ -17,4 +17,6 @@ Actividad 1. Pre-reading: anticipación
 3. What information can technical documentation provide?
 4. What do you think this document explains?
 
-An api is the abreviation of Application process interface, and this concepts 
+An api is the abreviation of Application process interface, and this works like and intermediary between the database and the system that requieres data.
+
+Authentication 
