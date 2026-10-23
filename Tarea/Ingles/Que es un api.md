@@ -69,3 +69,5 @@ The main porpouse of the documents is explain the especification of this Authent
 | Request        | A message sent by a client asking a server<br><br>to perform an operation or provide<br>information. |
 # Actividad 4. Aplicación práctica: resolución de un problema técnico
 
+1. The access token is not valid
+2. 
