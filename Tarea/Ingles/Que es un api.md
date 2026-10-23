@@ -60,7 +60,8 @@ The main porpouse of the documents is explain the especification of this Authent
 # Actividad 3 Vocabulary in context
 
 
-|     |     |
-| --- | --- |
-|     |     |
+| Endpoint       | A specific address or access point in an<br><br>API. |
+| -------------- | ---------------------------------------------------- |
+| Credentials    |                                                      |
+| Error handling | A mechanism for managing errors.                     |
 
