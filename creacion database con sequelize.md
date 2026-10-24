@@ -22,3 +22,7 @@ export default sequelize;
 
 
 ```
+
+
+y luego exportar esa constante y importarla en el archivo donde vamos a sincronizar todos los modelos
+
