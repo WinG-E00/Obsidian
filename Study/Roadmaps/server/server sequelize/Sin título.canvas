@@ -13,7 +13,8 @@
 		{"id":"903992e83e5782c0","x":-1175,"y":501,"width":250,"height":60,"type":"text","text":"validadores\n"},
 		{"id":"41ee02ce33e581bc","x":-580,"y":-220,"width":250,"height":60,"type":"text","text":"Configuracion de la database\n"},
 		{"id":"cbd0df79dd411c78","x":-740,"y":100,"width":250,"height":60,"type":"text","text":"Creacion\n"},
-		{"id":"bc4044cf86242894","x":-434,"y":100,"width":250,"height":60,"type":"text","text":"Sincronizacion\n"}
+		{"id":"bc4044cf86242894","x":-434,"y":100,"width":250,"height":60,"type":"text","text":"Sincronizacion\n"},
+		{"id":"6c7a0048d882f6ac","x":-128,"y":-329,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
@@ -27,6 +28,7 @@
 		{"id":"8c9db07a8c73567c","fromNode":"356b6929134a4968","fromSide":"top","toNode":"373382fc8b9eaffd","toSide":"bottom"},
 		{"id":"2d2a6519510fc071","fromNode":"5cbdc7080dbba72d","fromSide":"bottom","toNode":"41ee02ce33e581bc","toSide":"top"},
 		{"id":"4d12be8a9cf742ab","fromNode":"41ee02ce33e581bc","fromSide":"bottom","toNode":"cbd0df79dd411c78","toSide":"top"},
-		{"id":"56e19bc6b57f5b24","fromNode":"41ee02ce33e581bc","fromSide":"bottom","toNode":"bc4044cf86242894","toSide":"top"}
+		{"id":"56e19bc6b57f5b24","fromNode":"41ee02ce33e581bc","fromSide":"bottom","toNode":"bc4044cf86242894","toSide":"top"},
+		{"id":"601a7457652232ad","fromNode":"5cbdc7080dbba72d","fromSide":"bottom","toNode":"6c7a0048d882f6ac","toSide":"top"}
 	]
 }
