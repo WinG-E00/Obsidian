@@ -1,0 +1,1 @@
+En este apartado de el app simplemente se configuran las variables que vamos a usar en el proyecto, 

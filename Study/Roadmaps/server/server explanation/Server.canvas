@@ -31,7 +31,7 @@
 		{"id":"7ce033fc63421b11","type":"text","text":"Creacion\n","x":950,"y":-488,"width":250,"height":60},
 		{"id":"76532ad9fad29a76","type":"text","text":"[[Importaciones]]","x":-1738,"y":-114,"width":250,"height":60},
 		{"id":"d451b5c1b8a27d57","type":"text","text":"Levantar server\n","x":-1738,"y":-14,"width":250,"height":60},
-		{"id":"e08f29a57a006a86","type":"text","text":"Variables","x":-1418,"y":-114,"width":250,"height":60},
+		{"id":"e08f29a57a006a86","type":"text","text":"[[Variables]]","x":-1418,"y":-114,"width":250,"height":60},
 		{"id":"356b6929134a4968","type":"text","text":"Configuracion","x":-1418,"y":-14,"width":250,"height":60},
 		{"id":"373382fc8b9eaffd","type":"text","text":"[[App]]","x":-1043,"y":-324,"width":120,"height":80},
 		{"id":"a75e543204d146f9","type":"text","text":"Router","x":-1187,"y":113,"width":250,"height":60},
