@@ -43,7 +43,7 @@
 		{"id":"d451b5c1b8a27d57","type":"text","text":"Levantar server\n","x":-1812,"y":-20,"width":250,"height":60},
 		{"id":"356b6929134a4968","type":"text","text":"[[Configuracion]]","x":-1492,"y":-20,"width":250,"height":60},
 		{"id":"c12d5c72bc92e8b6","x":-1030,"y":-889,"width":250,"height":60,"type":"text","text":"[[cookie-parser]]\n"},
-		{"id":"7dc62bd23481ab63","x":-2237,"y":-846,"width":250,"height":60,"type":"text","text":""}
+		{"id":"7dc62bd23481ab63","x":-2290,"y":-780,"width":250,"height":60,"type":"text","text":"[[cors]]\n"}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
