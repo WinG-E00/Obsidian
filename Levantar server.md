@@ -14,3 +14,5 @@ app.liste(PORT, async () => {
 })
 ```
 
+
+en donde startDB seria simplemente una funcion que conecta con la base de datos que tenemos y 
