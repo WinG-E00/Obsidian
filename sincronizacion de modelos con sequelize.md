@@ -34,11 +34,7 @@ console.log('Modelos sincronizados');
 
 console.log('Hubo un error al cargar los modelos y sincronizar la base de datos', error);
 }
-
-  
-
 }
-
 
 
 ``` 
