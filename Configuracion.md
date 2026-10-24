@@ -3,6 +3,6 @@ En esta seccion simplemente se usa el metodo de use  de express para configurar 
 
 ```js
 
-
+app.use(express.json)
 
 ```
