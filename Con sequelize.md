@@ -1,1 +1,1 @@
-Con sequelize tenemos que tener en cuenta que primero tenemos que que s
+Con sequelize tenemos que tener en cuenta que primero tenemos que que 2
