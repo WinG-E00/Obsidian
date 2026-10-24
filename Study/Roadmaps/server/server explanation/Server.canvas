@@ -1,13 +1,11 @@
 {
 	"nodes":[
-		{"id":"21b6e8b47effccfc","type":"text","text":"Dependencias\n","x":-1437,"y":-642,"width":250,"height":60},
+		{"id":"21b6e8b47effccfc","type":"text","text":"Dependencias / librerias\n","x":-1437,"y":-642,"width":250,"height":60},
 		{"id":"6c7a0048d882f6ac","type":"text","text":"Controladores\n","x":-128,"y":-329,"width":250,"height":60},
 		{"id":"41ee02ce33e581bc","type":"text","text":"Configuracion de la database\n","x":-631,"y":-269,"width":250,"height":60},
 		{"id":"cbd0df79dd411c78","type":"text","text":"Creacion\n","x":-860,"y":-90,"width":250,"height":60},
 		{"id":"bc4044cf86242894","type":"text","text":"Sincronizacion\n","x":-575,"y":-90,"width":250,"height":60},
 		{"id":"2a7e05bea99ca771","type":"text","text":"validadores\n","x":260,"y":-330,"width":250,"height":60},
-		{"id":"2bf1b5c71646bbf1","type":"text","text":"bcrypt\n","x":-1152,"y":-829,"width":250,"height":60},
-		{"id":"f825412ac7df9ab7","type":"text","text":"jsonwebtoken\n","x":-1703,"y":-867,"width":250,"height":60},
 		{"id":"0ae50013bfa681da","type":"text","text":"CRUD\n","x":-414,"y":429,"width":250,"height":60},
 		{"id":"21d60e23ada94b27","type":"text","text":"Delete\n","x":78,"y":648,"width":250,"height":60},
 		{"id":"10324fb030df0602","type":"text","text":"Update","x":-207,"y":648,"width":250,"height":60},
@@ -24,7 +22,6 @@
 		{"id":"039f71f5eae310e4","type":"text","text":"Sequelize\n","x":320,"y":-960,"width":250,"height":60},
 		{"id":"c1cbc66d1bac779b","type":"text","text":"Estructura del modelo\n","x":700,"y":-1140,"width":250,"height":60},
 		{"id":"219e36442d392e1b","type":"text","text":"Creacion\n","x":700,"y":-960,"width":250,"height":60},
-		{"id":"4c6ba3b3be5fb1ac","type":"text","text":"express-validator\n","x":-2140,"y":-642,"width":250,"height":60},
 		{"id":"a06d5a6afe709291","type":"text","text":"validadores\n","x":-1632,"y":-440,"width":250,"height":60},
 		{"id":"5cbdc7080dbba72d","type":"text","text":"[[server]]","x":-780,"y":-548,"width":250,"height":60},
 		{"id":"d73c3da8bb849a8f","type":"text","text":"[[Peticion o request]]\n","x":-2420,"y":-1320,"width":269,"height":60},
@@ -40,7 +37,11 @@
 		{"id":"a75e543204d146f9","type":"text","text":"Router","x":-1187,"y":113,"width":250,"height":60},
 		{"id":"b5b973d6bbfa9c97","type":"text","text":"Controladores\n","x":-1542,"y":495,"width":250,"height":60},
 		{"id":"8a0ef165408b8914","type":"text","text":"Rutas","x":-1284,"y":295,"width":250,"height":60},
-		{"id":"903992e83e5782c0","type":"text","text":"validadores\n","x":-1210,"y":495,"width":250,"height":60}
+		{"id":"903992e83e5782c0","type":"text","text":"validadores\n","x":-1210,"y":495,"width":250,"height":60},
+		{"id":"4c6ba3b3be5fb1ac","type":"text","text":"express-validator\n","x":-2040,"y":-642,"width":250,"height":60},
+		{"id":"f825412ac7df9ab7","type":"text","text":"jsonwebtoken\n","x":-2040,"y":-889,"width":250,"height":60},
+		{"id":"2bf1b5c71646bbf1","type":"text","text":"bcrypt\n","x":-1687,"y":-889,"width":250,"height":60},
+		{"id":"66ca1a33da8eecd3","x":-1359,"y":-899,"width":250,"height":60,"type":"text","text":"sequelize\n"}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
@@ -85,6 +86,7 @@
 		{"id":"2ba7614b458e1d03","fromNode":"4c6ba3b3be5fb1ac","fromSide":"bottom","toNode":"903992e83e5782c0","toSide":"bottom"},
 		{"id":"d11bd0f67a60f083","fromNode":"41ee02ce33e581bc","fromSide":"bottom","toNode":"bc4044cf86242894","toSide":"top"},
 		{"id":"e8cffaca2a8f2c92","fromNode":"d73c3da8bb849a8f","fromSide":"right","toNode":"ac2688a50e07ba9b","toSide":"left"},
-		{"id":"907a018a179e1911","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"d451b5c1b8a27d57","toSide":"top"}
+		{"id":"907a018a179e1911","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"d451b5c1b8a27d57","toSide":"top"},
+		{"id":"8a23deebb9cb92b4","fromNode":"21b6e8b47effccfc","fromSide":"top","toNode":"66ca1a33da8eecd3","toSide":"bottom"}
 	]
 }
