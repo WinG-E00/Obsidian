@@ -5,6 +5,7 @@ Con sequelize primero tenemos que crear la config de la base de datos y guardarl
 import 'dotenv/config';
 import { Sequelize } from "sequelize";
 
+// Configuracion de la conexion de la base de datos guardada en una constante
 const sequelize = new Sequelize(
 	process.env.DB_NAME,
 	process.env.DB_USER,
