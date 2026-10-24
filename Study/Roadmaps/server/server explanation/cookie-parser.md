@@ -77,12 +77,12 @@ El secreto debe estar configurado y mantenerse privado. Una firma inválida prod
 
 Se pasan a `res.cookie()`:
 
-| Opción | Qué significa |
-| --- | --- |
+| Opción           | Qué significa                                                                                                          |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | `httpOnly: true` | JavaScript del navegador no puede leerla mediante `document.cookie`. El navegador puede seguir enviándola al servidor. |
-| `secure: true` | Se envía mediante HTTPS. |
-| `sameSite` | Regula su envío entre sitios. |
-| `maxAge` | Define cuánto dura, en milisegundos. `60000` equivale a un minuto. |
+| `secure: true`   | Se envía mediante HTTPS.                                                                                               |
+| `sameSite`       | Regula su envío entre sitios.                                                                                          |
+| `maxAge`         | Define cuánto dura, en milisegundos. `60000` equivale a un minuto.                                                     |
 
 ## Para responder en un examen
 
