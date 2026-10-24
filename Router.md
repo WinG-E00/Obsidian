@@ -13,5 +13,13 @@ const router = Router();
 ```
 
 
-## [[Rutas]]
+## Metodos
 
+```js
+
+
+//metodos operaciones crud
+router.post('/ruta', controlador)
+
+
+```
