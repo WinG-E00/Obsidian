@@ -39,7 +39,7 @@
 		{"id":"d451b5c1b8a27d57","type":"text","text":"Levantar server\n","x":-1703,"y":-20,"width":250,"height":60},
 		{"id":"a75e543204d146f9","type":"text","text":"Router","x":-1152,"y":107,"width":250,"height":60},
 		{"id":"5cbdc7080dbba72d","type":"text","text":"Server\n","x":-780,"y":-548,"width":250,"height":60},
-		{"id":"d73c3da8bb849a8f","x":-2429,"y":-1914,"width":269,"height":60,"type":"text","text":"Peticion o request\n"},
+		{"id":"d73c3da8bb849a8f","x":-2429,"y":-1914,"width":269,"height":60,"type":"text","text":"[[Peticion o request]]\n"},
 		{"id":"ac2688a50e07ba9b","x":-2040,"y":-1914,"width":300,"height":60,"type":"text","text":"Recorrido de una peticion\n"}
 	],
 	"edges":[
