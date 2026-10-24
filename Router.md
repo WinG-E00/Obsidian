@@ -19,7 +19,12 @@ const router = Router();
 
 
 //metodos operaciones crud
-router.post('/ruta', controlador)
+router.post('/ruta', validador ,controlador);
+
+router.get('/ruta' controlador);
+
+router.put('/ruta' controlador);
+
 
 
 ```
