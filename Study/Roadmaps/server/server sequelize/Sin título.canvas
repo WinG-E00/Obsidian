@@ -31,8 +31,11 @@
 		{"id":"daab5856181c68e3","type":"text","text":"Read","x":738,"y":642,"width":250,"height":60},
 		{"id":"1c73006e845d4101","x":43,"y":70,"width":342,"height":73,"type":"text","text":"Metodos crud de controladores de sequelize\n"},
 		{"id":"ef7a0cf51c13213a","x":-82,"y":-672,"width":250,"height":60,"type":"text","text":"Modelos\n"},
-		{"id":"039f71f5eae310e4","x":427,"y":-922,"width":250,"height":60,"type":"text","text":"Sequelize\n"},
-		{"id":"e5e3e47c5cef8d4f","x":505,"y":-578,"width":250,"height":60,"type":"text","text":"Mongoose\n"}
+		{"id":"e5e3e47c5cef8d4f","x":505,"y":-578,"width":250,"height":60,"type":"text","text":"Mongoose\n"},
+		{"id":"039f71f5eae310e4","x":320,"y":-960,"width":250,"height":60,"type":"text","text":"Sequelize\n"},
+		{"id":"c1cbc66d1bac779b","x":700,"y":-1140,"width":250,"height":60,"type":"text","text":"Estructura del modelo\n"},
+		{"id":"219e36442d392e1b","x":700,"y":-960,"width":250,"height":60,"type":"text","text":"Creacion\n"},
+		{"id":"c7403a5a939bdf92","x":978,"y":-565,"width":250,"height":60,"type":"text","text":"Estrucut"}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
@@ -69,6 +72,9 @@
 		{"id":"960f47f67b2d62a4","fromNode":"ef7a0cf51c13213a","fromSide":"right","toNode":"039f71f5eae310e4","toSide":"left"},
 		{"id":"53bf99bfa5b0bc84","fromNode":"ef7a0cf51c13213a","fromSide":"right","toNode":"e5e3e47c5cef8d4f","toSide":"left"},
 		{"id":"b256c599d1fc58f0","fromNode":"1c73006e845d4101","fromSide":"left","toNode":"039f71f5eae310e4","toSide":"left"},
-		{"id":"b2a4bf2e687a02b1","fromNode":"a99ec2d718324142","fromSide":"right","toNode":"e5e3e47c5cef8d4f","toSide":"left"}
+		{"id":"b2a4bf2e687a02b1","fromNode":"a99ec2d718324142","fromSide":"right","toNode":"e5e3e47c5cef8d4f","toSide":"left"},
+		{"id":"6276a8f46f3d339e","fromNode":"039f71f5eae310e4","fromSide":"right","toNode":"c1cbc66d1bac779b","toSide":"left"},
+		{"id":"4cade2e67d9baa76","fromNode":"039f71f5eae310e4","fromSide":"right","toNode":"219e36442d392e1b","toSide":"left"},
+		{"id":"aee19a5f53d26310","fromNode":"e5e3e47c5cef8d4f","fromSide":"right","toNode":"c7403a5a939bdf92","toSide":"left"}
 	]
 }
