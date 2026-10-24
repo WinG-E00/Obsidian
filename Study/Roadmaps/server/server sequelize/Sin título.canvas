@@ -18,13 +18,21 @@
 		{"id":"d451b5c1b8a27d57","type":"text","text":"Levantar server\n","x":-1757,"y":-30,"width":250,"height":60},
 		{"id":"2bf1b5c71646bbf1","x":-1152,"y":-829,"width":250,"height":60,"type":"text","text":"bcrypt\n"},
 		{"id":"f825412ac7df9ab7","x":-1703,"y":-867,"width":250,"height":60,"type":"text","text":"jsonwebtoken\n"},
-		{"id":"1c73006e845d4101","x":43,"y":57,"width":342,"height":73,"type":"text","text":"Metodos crud de controladores de sequelize\n"},
 		{"id":"0ae50013bfa681da","x":-414,"y":429,"width":250,"height":60,"type":"text","text":"CRUD\n"},
 		{"id":"21d60e23ada94b27","x":78,"y":648,"width":250,"height":60,"type":"text","text":"Delete\n"},
 		{"id":"10324fb030df0602","x":-207,"y":648,"width":250,"height":60,"type":"text","text":"Update"},
 		{"id":"7ef4c443f40a5ce2","x":-762,"y":645,"width":250,"height":60,"type":"text","text":"Create"},
 		{"id":"f909407c75d04fb8","x":-470,"y":645,"width":250,"height":60,"type":"text","text":"Read"},
-		{"id":"a99ec2d718324142","x":446,"y":56,"width":250,"height":60,"type":"text","text":"Metodos crud de controladores de "}
+		{"id":"a99ec2d718324142","x":446,"y":70,"width":250,"height":60,"type":"text","text":"Metodos crud de controladores de mongoose\n"},
+		{"id":"6c7fe62ce7a625ba","type":"text","text":"CRUD\n","x":794,"y":426,"width":250,"height":60},
+		{"id":"203da1a14dd6ec61","type":"text","text":"Delete\n","x":1286,"y":645,"width":250,"height":60},
+		{"id":"f3d620fd62237328","type":"text","text":"Update","x":1001,"y":645,"width":250,"height":60},
+		{"id":"20a931d4daa35ad3","type":"text","text":"Create","x":446,"y":642,"width":250,"height":60},
+		{"id":"daab5856181c68e3","type":"text","text":"Read","x":738,"y":642,"width":250,"height":60},
+		{"id":"1c73006e845d4101","x":43,"y":70,"width":342,"height":73,"type":"text","text":"Metodos crud de controladores de sequelize\n"},
+		{"id":"ef7a0cf51c13213a","x":-82,"y":-672,"width":250,"height":60,"type":"text","text":"Modelos\n"},
+		{"id":"039f71f5eae310e4","x":427,"y":-922,"width":250,"height":60,"type":"text","text":"Sequelize\n"},
+		{"id":"e5e3e47c5cef8d4f","x":505,"y":-578,"width":250,"height":60,"type":"text","text":"Mongoose\n"}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
@@ -51,6 +59,16 @@
 		{"id":"9679907f508aa8b5","fromNode":"0ae50013bfa681da","fromSide":"bottom","toNode":"f909407c75d04fb8","toSide":"top"},
 		{"id":"200d6bc96ae94935","fromNode":"0ae50013bfa681da","fromSide":"bottom","toNode":"10324fb030df0602","toSide":"top"},
 		{"id":"3bcd95e35d6667a9","fromNode":"0ae50013bfa681da","fromSide":"bottom","toNode":"21d60e23ada94b27","toSide":"top"},
-		{"id":"78f688935e870b65","fromNode":"6c7a0048d882f6ac","fromSide":"bottom","toNode":"a99ec2d718324142","toSide":"top"}
+		{"id":"78f688935e870b65","fromNode":"6c7a0048d882f6ac","fromSide":"bottom","toNode":"a99ec2d718324142","toSide":"top"},
+		{"id":"55857dcedd6ffb1b","fromNode":"6c7fe62ce7a625ba","fromSide":"bottom","toNode":"20a931d4daa35ad3","toSide":"top"},
+		{"id":"e49315d93ea980d0","fromNode":"6c7fe62ce7a625ba","fromSide":"bottom","toNode":"daab5856181c68e3","toSide":"top"},
+		{"id":"d27fe17b2da11bc6","fromNode":"6c7fe62ce7a625ba","fromSide":"bottom","toNode":"f3d620fd62237328","toSide":"top"},
+		{"id":"aec269b9b6367994","fromNode":"6c7fe62ce7a625ba","fromSide":"bottom","toNode":"203da1a14dd6ec61","toSide":"top"},
+		{"id":"d59e97f165929ee8","fromNode":"a99ec2d718324142","fromSide":"bottom","toNode":"6c7fe62ce7a625ba","toSide":"top"},
+		{"id":"64c8dd2bd38a8e0d","fromNode":"5cbdc7080dbba72d","fromSide":"right","toNode":"ef7a0cf51c13213a","toSide":"left"},
+		{"id":"960f47f67b2d62a4","fromNode":"ef7a0cf51c13213a","fromSide":"right","toNode":"039f71f5eae310e4","toSide":"left"},
+		{"id":"53bf99bfa5b0bc84","fromNode":"ef7a0cf51c13213a","fromSide":"right","toNode":"e5e3e47c5cef8d4f","toSide":"left"},
+		{"id":"b256c599d1fc58f0","fromNode":"1c73006e845d4101","fromSide":"left","toNode":"039f71f5eae310e4","toSide":"left"},
+		{"id":"b2a4bf2e687a02b1","fromNode":"a99ec2d718324142","fromSide":"right","toNode":"e5e3e47c5cef8d4f","toSide":"left"}
 	]
 }
