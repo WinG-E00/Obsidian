@@ -4,6 +4,12 @@ Los que vamos a usar comunmente en TLP son
 ```js
 import express from "express";
 
-import  
+import 'dotenv/config';
+
+import cors from 'cors';
+
+import cookieParser from "cookie-parser"; 
+
+
 
 ```
