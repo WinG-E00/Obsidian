@@ -3,23 +3,24 @@
 		{"id":"5cbdc7080dbba72d","x":-791,"y":-533,"width":250,"height":60,"type":"text","text":"Server\n"},
 		{"id":"373382fc8b9eaffd","x":-911,"y":-140,"width":120,"height":80,"type":"text","text":"App"},
 		{"id":"21b6e8b47effccfc","x":-1437,"y":-642,"width":250,"height":60,"type":"text","text":"Dependencias\n"},
-		{"id":"76532ad9fad29a76","x":-1620,"y":160,"width":250,"height":60,"type":"text","text":"Importaciones"},
-		{"id":"e08f29a57a006a86","x":-1350,"y":160,"width":250,"height":60,"type":"text","text":"Variables"},
-		{"id":"356b6929134a4968","x":-1060,"y":160,"width":250,"height":60,"type":"text","text":"Configuracion"},
-		{"id":"a75e543204d146f9","x":-600,"y":160,"width":250,"height":60,"type":"text","text":"Router"},
 		{"id":"8a0ef165408b8914","x":-799,"y":379,"width":250,"height":60,"type":"text","text":"Rutas"},
 		{"id":"b5b973d6bbfa9c97","x":-1057,"y":579,"width":250,"height":60,"type":"text","text":"Controladores\n"},
-		{"id":"903992e83e5782c0","x":-725,"y":591,"width":250,"height":60,"type":"text","text":"validadores\n"}
+		{"id":"903992e83e5782c0","x":-725,"y":591,"width":250,"height":60,"type":"text","text":"validadores\n"},
+		{"id":"a75e543204d146f9","x":-725,"y":160,"width":250,"height":60,"type":"text","text":"Router"},
+		{"id":"d451b5c1b8a27d57","x":-1660,"y":60,"width":250,"height":60,"type":"text","text":"Levantar server\n"},
+		{"id":"76532ad9fad29a76","x":-1660,"y":160,"width":250,"height":60,"type":"text","text":"Importaciones"},
+		{"id":"e08f29a57a006a86","x":-1340,"y":60,"width":250,"height":60,"type":"text","text":"Variables"},
+		{"id":"356b6929134a4968","x":-1340,"y":160,"width":250,"height":60,"type":"text","text":"Configuracion"}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
-		{"id":"7c9d24bf910cbdc5","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"356b6929134a4968","toSide":"top"},
 		{"id":"cfaca9f1c6f17193","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"e08f29a57a006a86","toSide":"top"},
 		{"id":"6ff75d261547ecb1","fromNode":"5cbdc7080dbba72d","fromSide":"left","toNode":"21b6e8b47effccfc","toSide":"right"},
 		{"id":"274bca0b6a278bde","fromNode":"373382fc8b9eaffd","fromSide":"top","toNode":"5cbdc7080dbba72d","toSide":"bottom"},
 		{"id":"28b4486f32f9bb6e","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"a75e543204d146f9","toSide":"top"},
 		{"id":"ac426a54554f2f6f","fromNode":"a75e543204d146f9","fromSide":"bottom","toNode":"8a0ef165408b8914","toSide":"top"},
 		{"id":"5e41f630e7a53f80","fromNode":"8a0ef165408b8914","fromSide":"bottom","toNode":"b5b973d6bbfa9c97","toSide":"top"},
-		{"id":"977cfe72fb6ee878","fromNode":"8a0ef165408b8914","fromSide":"bottom","toNode":"903992e83e5782c0","toSide":"top"}
+		{"id":"907a018a179e1911","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"d451b5c1b8a27d57","toSide":"top"},
+		{"id":"8c9db07a8c73567c","fromNode":"356b6929134a4968","fromSide":"top","toNode":"373382fc8b9eaffd","toSide":"bottom"}
 	]
 }
