@@ -2,7 +2,15 @@ Para levantar el server existe un metodo llamado app.listen() estos serian los p
 
 ```js
 
-app.liste(PORT, async () =>)
-
-
+app.liste(PORT, async () => {
+	
+	try {
+		startDB()	
+	
+	}catch(err){
+	
+	}
+	
+})
 ```
+
