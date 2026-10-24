@@ -3,8 +3,6 @@
 		{"id":"21b6e8b47effccfc","type":"text","text":"Dependencias / librerias\n","x":-1437,"y":-642,"width":250,"height":60},
 		{"id":"6c7a0048d882f6ac","type":"text","text":"Controladores\n","x":-128,"y":-329,"width":250,"height":60},
 		{"id":"41ee02ce33e581bc","type":"text","text":"Configuracion de la database\n","x":-631,"y":-269,"width":250,"height":60},
-		{"id":"cbd0df79dd411c78","type":"text","text":"Creacion\n","x":-860,"y":-90,"width":250,"height":60},
-		{"id":"bc4044cf86242894","type":"text","text":"Sincronizacion\n","x":-575,"y":-90,"width":250,"height":60},
 		{"id":"2a7e05bea99ca771","type":"text","text":"validadores\n","x":260,"y":-330,"width":250,"height":60},
 		{"id":"0ae50013bfa681da","type":"text","text":"CRUD\n","x":-414,"y":429,"width":250,"height":60},
 		{"id":"21d60e23ada94b27","type":"text","text":"Delete\n","x":78,"y":648,"width":250,"height":60},
@@ -44,8 +42,12 @@
 		{"id":"7dc62bd23481ab63","type":"text","text":"[[cors]]\n","x":-2290,"y":-780,"width":250,"height":60},
 		{"id":"b5b973d6bbfa9c97","type":"text","text":"[[Controladores]]\n","x":-1534,"y":615,"width":250,"height":60},
 		{"id":"903992e83e5782c0","type":"text","text":"validadores\n","x":-1202,"y":615,"width":250,"height":60},
-		{"id":"4b1ba1b63ed816bc","x":-2156,"y":715,"width":250,"height":60,"type":"text","text":"[[Study/NewNotes/express/req|req]]"},
-		{"id":"c499b676b13a0897","x":-2136,"y":793,"width":250,"height":60,"type":"text","text":"[[Study/NewNotes/express/res|res]]\n"}
+		{"id":"c499b676b13a0897","x":-2000,"y":760,"width":250,"height":60,"type":"text","text":"[[Study/NewNotes/express/res|res]]\n"},
+		{"id":"4b1ba1b63ed816bc","x":-2000,"y":675,"width":250,"height":60,"type":"text","text":"[[Study/NewNotes/express/req|req]]"},
+		{"id":"cbd0df79dd411c78","type":"text","text":"Creacion\n","x":-860,"y":-120,"width":250,"height":60},
+		{"id":"bc4044cf86242894","type":"text","text":"Sincronizacion\n","x":-560,"y":-120,"width":250,"height":60},
+		{"id":"00b784b21ede23e5","x":-984,"y":-14,"width":250,"height":60,"type":"text","text":"Con mongoose\n"},
+		{"id":"f89823a937d719ae","x":-805,"y":5,"width":250,"height":60,"type":"text","text":"Con sequelize\n"}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
@@ -95,8 +97,10 @@
 		{"id":"b1b5ce043ec5731f","fromNode":"21b6e8b47effccfc","fromSide":"top","toNode":"7dc62bd23481ab63","toSide":"bottom"},
 		{"id":"d8c0fecd9c60ac27","fromNode":"a75e543204d146f9","fromSide":"right","toNode":"0ae50013bfa681da","toSide":"top"},
 		{"id":"224824c2761d0003","fromNode":"a75e543204d146f9","fromSide":"right","toNode":"6c7fe62ce7a625ba","toSide":"left"},
-		{"id":"2ba7614b458e1d03","fromNode":"4c6ba3b3be5fb1ac","fromSide":"bottom","toNode":"903992e83e5782c0","toSide":"bottom"},
+		{"id":"2ba7614b458e1d03","fromNode":"4c6ba3b3be5fb1ac","fromSide":"bottom","toNode":"903992e83e5782c0","toSide":"bottom","label":" "},
 		{"id":"e67c1f41ecf9edc1","fromNode":"b5b973d6bbfa9c97","fromSide":"left","toNode":"4b1ba1b63ed816bc","toSide":"right"},
-		{"id":"fcb025ba37022ba5","fromNode":"b5b973d6bbfa9c97","fromSide":"left","toNode":"c499b676b13a0897","toSide":"right"}
+		{"id":"fcb025ba37022ba5","fromNode":"b5b973d6bbfa9c97","fromSide":"left","toNode":"c499b676b13a0897","toSide":"right"},
+		{"id":"6b5f63afda36b65d","fromNode":"cbd0df79dd411c78","fromSide":"bottom","toNode":"00b784b21ede23e5","toSide":"top"},
+		{"id":"0edf34bc7c27f11a","fromNode":"cbd0df79dd411c78","fromSide":"bottom","toNode":"f89823a937d719ae","toSide":"top"}
 	]
 }
