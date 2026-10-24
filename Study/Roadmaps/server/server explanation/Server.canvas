@@ -30,7 +30,7 @@
 		{"id":"c7403a5a939bdf92","type":"text","text":"Estructura del modelo\n","x":950,"y":-660,"width":250,"height":60},
 		{"id":"7ce033fc63421b11","type":"text","text":"Creacion\n","x":950,"y":-488,"width":250,"height":60},
 		{"id":"373382fc8b9eaffd","type":"text","text":"[[App]]","x":-1043,"y":-324,"width":120,"height":80},
-		{"id":"a75e543204d146f9","type":"text","text":"Router","x":-1187,"y":113,"width":250,"height":60},
+		{"id":"a75e543204d146f9","type":"text","text":"[[Router]]","x":-1187,"y":113,"width":250,"height":60},
 		{"id":"b5b973d6bbfa9c97","type":"text","text":"Controladores\n","x":-1542,"y":495,"width":250,"height":60},
 		{"id":"8a0ef165408b8914","type":"text","text":"Rutas","x":-1284,"y":295,"width":250,"height":60},
 		{"id":"903992e83e5782c0","type":"text","text":"validadores\n","x":-1210,"y":495,"width":250,"height":60},
