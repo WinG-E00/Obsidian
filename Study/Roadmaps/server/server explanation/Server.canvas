@@ -31,9 +31,7 @@
 		{"id":"7ce033fc63421b11","type":"text","text":"Creacion\n","x":950,"y":-488,"width":250,"height":60},
 		{"id":"373382fc8b9eaffd","type":"text","text":"[[App]]","x":-1043,"y":-324,"width":120,"height":80},
 		{"id":"a75e543204d146f9","type":"text","text":"[[Router]]","x":-1187,"y":113,"width":250,"height":60},
-		{"id":"b5b973d6bbfa9c97","type":"text","text":"Controladores\n","x":-1542,"y":495,"width":250,"height":60},
 		{"id":"8a0ef165408b8914","type":"text","text":"[[Rutas]]","x":-1284,"y":295,"width":250,"height":60},
-		{"id":"903992e83e5782c0","type":"text","text":"validadores\n","x":-1210,"y":495,"width":250,"height":60},
 		{"id":"4c6ba3b3be5fb1ac","type":"text","text":"express-validator\n","x":-2040,"y":-642,"width":250,"height":60},
 		{"id":"f825412ac7df9ab7","type":"text","text":"jsonwebtoken\n","x":-2040,"y":-889,"width":250,"height":60},
 		{"id":"2bf1b5c71646bbf1","type":"text","text":"bcrypt\n","x":-1687,"y":-889,"width":250,"height":60},
@@ -43,7 +41,9 @@
 		{"id":"d451b5c1b8a27d57","type":"text","text":"[[Levantar server]]\n","x":-1812,"y":-20,"width":250,"height":60},
 		{"id":"356b6929134a4968","type":"text","text":"[[Configuracion]]","x":-1492,"y":-20,"width":250,"height":60},
 		{"id":"c12d5c72bc92e8b6","type":"text","text":"[[cookie-parser]]\n","x":-1030,"y":-889,"width":250,"height":60},
-		{"id":"7dc62bd23481ab63","type":"text","text":"[[cors]]\n","x":-2290,"y":-780,"width":250,"height":60}
+		{"id":"7dc62bd23481ab63","type":"text","text":"[[cors]]\n","x":-2290,"y":-780,"width":250,"height":60},
+		{"id":"b5b973d6bbfa9c97","type":"text","text":"Controladores\n","x":-1534,"y":615,"width":250,"height":60},
+		{"id":"903992e83e5782c0","type":"text","text":"validadores\n","x":-1202,"y":615,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
@@ -84,7 +84,6 @@
 		{"id":"6c0ad1e1c4ffb767","fromNode":"6c7a0048d882f6ac","fromSide":"bottom","toNode":"b5b973d6bbfa9c97","toSide":"bottom"},
 		{"id":"40c1395e16707fed","fromNode":"21b6e8b47effccfc","fromSide":"left","toNode":"4c6ba3b3be5fb1ac","toSide":"right"},
 		{"id":"afcb89f8cc03c201","fromNode":"5cbdc7080dbba72d","fromSide":"left","toNode":"a06d5a6afe709291","toSide":"right"},
-		{"id":"2ba7614b458e1d03","fromNode":"4c6ba3b3be5fb1ac","fromSide":"bottom","toNode":"903992e83e5782c0","toSide":"bottom"},
 		{"id":"d11bd0f67a60f083","fromNode":"41ee02ce33e581bc","fromSide":"bottom","toNode":"bc4044cf86242894","toSide":"top"},
 		{"id":"e8cffaca2a8f2c92","fromNode":"d73c3da8bb849a8f","fromSide":"right","toNode":"ac2688a50e07ba9b","toSide":"left"},
 		{"id":"907a018a179e1911","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"d451b5c1b8a27d57","toSide":"top"},
@@ -93,6 +92,7 @@
 		{"id":"f56c335bb36732a0","fromNode":"21b6e8b47effccfc","fromSide":"top","toNode":"c12d5c72bc92e8b6","toSide":"bottom"},
 		{"id":"b1b5ce043ec5731f","fromNode":"21b6e8b47effccfc","fromSide":"top","toNode":"7dc62bd23481ab63","toSide":"bottom"},
 		{"id":"d8c0fecd9c60ac27","fromNode":"a75e543204d146f9","fromSide":"right","toNode":"0ae50013bfa681da","toSide":"top"},
-		{"id":"224824c2761d0003","fromNode":"a75e543204d146f9","fromSide":"right","toNode":"6c7fe62ce7a625ba","toSide":"left"}
+		{"id":"224824c2761d0003","fromNode":"a75e543204d146f9","fromSide":"right","toNode":"6c7fe62ce7a625ba","toSide":"left"},
+		{"id":"2ba7614b458e1d03","fromNode":"4c6ba3b3be5fb1ac","fromSide":"bottom","toNode":"903992e83e5782c0","toSide":"bottom"}
 	]
 }
