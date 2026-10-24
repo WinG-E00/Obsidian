@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:Study/NewNotes/express_validator  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.09960807824991195,
+  "scale": 0.1553076569548478,
   "close": false
 }
