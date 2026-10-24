@@ -28,3 +28,7 @@ async (req, res) => {
 ```
 
 
+## Controladores para controlar la base de datos
+Con los controladores se tiene la particularidad de que como pueden ser asincronos entonces estos pueden usar los metodos de 
+
+
