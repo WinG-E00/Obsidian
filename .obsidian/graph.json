@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "cors ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5886915299405447,
+  "scale": 0.1553076569548478,
   "close": false
 }
