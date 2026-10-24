@@ -6,8 +6,7 @@ Cuales son los metodos y propiedades que tiene res
 ```js
 
 
-
-return res.status(500).json({})
+return res.status(500).json({ "msg": "Hubo un error al intentar crear algo o que se yo" })
 
 
 ``` 
