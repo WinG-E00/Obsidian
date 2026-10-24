@@ -5,4 +5,7 @@ En esta seccion simplemente se usa el metodo de use  de express para configurar 
 
 app.use(express.json)
 
+
+app.use(cors)
+
 ```
