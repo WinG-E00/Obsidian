@@ -27,4 +27,4 @@ export default sequelize;
 y luego exportar esa constante y importarla en el archivo donde vamos a sincronizar todos los modelos
 
 y se sincroniza de la siguiente forma
-
+[[sincronizacion de modelos con sequelize]]

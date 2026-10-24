@@ -1,0 +1,1 @@
+Para iniciar la conexion de la base de datos y que dentro de la base de datos se creen todos los 
