@@ -17,7 +17,9 @@
 		{"id":"76532ad9fad29a76","type":"text","text":"Importaciones","x":-1757,"y":-130,"width":250,"height":60},
 		{"id":"d451b5c1b8a27d57","type":"text","text":"Levantar server\n","x":-1757,"y":-30,"width":250,"height":60},
 		{"id":"2bf1b5c71646bbf1","x":-1152,"y":-829,"width":250,"height":60,"type":"text","text":"bcrypt\n"},
-		{"id":"f825412ac7df9ab7","x":-1703,"y":-867,"width":250,"height":60,"type":"text","text":"jsonwebtoken\n"}
+		{"id":"f825412ac7df9ab7","x":-1703,"y":-867,"width":250,"height":60,"type":"text","text":"jsonwebtoken\n"},
+		{"id":"1c73006e845d4101","x":43,"y":57,"width":342,"height":73,"type":"text","text":"Metodos crud de controladores de sequelize\n"},
+		{"id":"0ae50013bfa681da","x":-72,"y":270,"width":250,"height":60,"type":"text","text":"CRUD\n"}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
@@ -37,6 +39,8 @@
 		{"id":"17d8d766046a53c2","fromNode":"8a0ef165408b8914","fromSide":"bottom","toNode":"903992e83e5782c0","toSide":"top"},
 		{"id":"aa7fde2e6addff44","fromNode":"5cbdc7080dbba72d","fromSide":"bottom","toNode":"2a7e05bea99ca771","toSide":"top"},
 		{"id":"c40fca8f0ba85aa8","fromNode":"21b6e8b47effccfc","fromSide":"top","toNode":"2bf1b5c71646bbf1","toSide":"bottom"},
-		{"id":"4e4c4a68c843a492","fromNode":"21b6e8b47effccfc","fromSide":"top","toNode":"f825412ac7df9ab7","toSide":"bottom"}
+		{"id":"4e4c4a68c843a492","fromNode":"21b6e8b47effccfc","fromSide":"top","toNode":"f825412ac7df9ab7","toSide":"bottom"},
+		{"id":"222214c87ac06de1","fromNode":"6c7a0048d882f6ac","fromSide":"bottom","toNode":"1c73006e845d4101","toSide":"top"},
+		{"id":"6a212b22dff09d32","fromNode":"1c73006e845d4101","fromSide":"bottom","toNode":"0ae50013bfa681da","toSide":"top"}
 	]
 }
