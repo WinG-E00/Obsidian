@@ -21,8 +21,8 @@ try {
 
 };
 
-  
-  
-
 export default startDB;
 ```
+
+
+esta conexion podemos crearla dentro de una funcinon asincrona y luego importarla en la [[Study/Roadmaps/server/server explanation/App|App]] para se inicie ahi
