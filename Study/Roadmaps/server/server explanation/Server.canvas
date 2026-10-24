@@ -45,7 +45,7 @@
 		{"id":"b5b973d6bbfa9c97","type":"text","text":"[[Controladores]]\n","x":-1534,"y":615,"width":250,"height":60},
 		{"id":"903992e83e5782c0","type":"text","text":"validadores\n","x":-1202,"y":615,"width":250,"height":60},
 		{"id":"4b1ba1b63ed816bc","x":-2156,"y":715,"width":250,"height":60,"type":"text","text":"[[Study/NewNotes/express/req|req]]"},
-		{"id":"c499b676b13a0897","x":-2136,"y":793,"width":250,"height":60,"type":"text","text":"res\n"}
+		{"id":"c499b676b13a0897","x":-2136,"y":793,"width":250,"height":60,"type":"text","text":"[[Study/NewNotes/express/res|res]]\n"}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},

@@ -1,9 +1,13 @@
 
 Cuales son los metodos y propiedades que tiene res
 
+
+//El unico metodo que vamos a terminar usando es el status() para manejar codigos de respuesta
 ```js
 
 
+
+return res.status(500).json({})
 
 
 ``` 
@@ -14,8 +18,6 @@ Cuales son los metodos y propiedades que tiene res
 [[res.headersSent]]
 [[res.app]]
 [[res.req]]
-
-
 
 ## Metodos del objeto res
 r[[es.send]]
