@@ -5,7 +5,16 @@ esta seria su ejemplo
 
 ```js
 
-ro
+router.post('/ruta', async (req, res) => { 
+	try {
+		
+	
+	}catch(err) {
+	}
+	
+} )
+
+// Entonces el controlador termina siendo simplemente esto
 
 ```
 
