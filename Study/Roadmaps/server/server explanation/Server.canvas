@@ -25,12 +25,9 @@
 		{"id":"daab5856181c68e3","type":"text","text":"Read","x":738,"y":642,"width":250,"height":60},
 		{"id":"1c73006e845d4101","type":"text","text":"Metodos crud de controladores de sequelize\n","x":43,"y":70,"width":342,"height":73},
 		{"id":"ef7a0cf51c13213a","type":"text","text":"Modelos\n","x":-82,"y":-672,"width":250,"height":60},
-		{"id":"e5e3e47c5cef8d4f","type":"text","text":"Mongoose\n","x":505,"y":-578,"width":250,"height":60},
 		{"id":"039f71f5eae310e4","type":"text","text":"Sequelize\n","x":320,"y":-960,"width":250,"height":60},
 		{"id":"c1cbc66d1bac779b","type":"text","text":"Estructura del modelo\n","x":700,"y":-1140,"width":250,"height":60},
 		{"id":"219e36442d392e1b","type":"text","text":"Creacion\n","x":700,"y":-960,"width":250,"height":60},
-		{"id":"c7403a5a939bdf92","type":"text","text":"Estructura del modelo\n","x":980,"y":-612,"width":250,"height":60},
-		{"id":"7ce033fc63421b11","type":"text","text":"Creacion\n","x":980,"y":-440,"width":250,"height":60},
 		{"id":"4c6ba3b3be5fb1ac","type":"text","text":"express-validator\n","x":-2140,"y":-642,"width":250,"height":60},
 		{"id":"a06d5a6afe709291","type":"text","text":"validadores\n","x":-1632,"y":-440,"width":250,"height":60},
 		{"id":"e08f29a57a006a86","type":"text","text":"Variables","x":-1383,"y":-120,"width":250,"height":60},
@@ -40,7 +37,10 @@
 		{"id":"a75e543204d146f9","type":"text","text":"Router","x":-1152,"y":107,"width":250,"height":60},
 		{"id":"5cbdc7080dbba72d","type":"text","text":"Server\n","x":-780,"y":-548,"width":250,"height":60},
 		{"id":"d73c3da8bb849a8f","type":"text","text":"[[Peticion o request]]\n","x":-2420,"y":-1320,"width":269,"height":60},
-		{"id":"ac2688a50e07ba9b","type":"text","text":"Recorrido de una peticion\n","x":-2031,"y":-1320,"width":300,"height":60}
+		{"id":"ac2688a50e07ba9b","type":"text","text":"Recorrido de una peticion\n","x":-2031,"y":-1320,"width":300,"height":60},
+		{"id":"e5e3e47c5cef8d4f","type":"text","text":"Mongoose\n","x":475,"y":-626,"width":250,"height":60},
+		{"id":"c7403a5a939bdf92","type":"text","text":"Estructura del modelo\n","x":950,"y":-660,"width":250,"height":60},
+		{"id":"7ce033fc63421b11","type":"text","text":"Creacion\n","x":950,"y":-488,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
@@ -49,7 +49,6 @@
 		{"id":"274bca0b6a278bde","fromNode":"373382fc8b9eaffd","fromSide":"top","toNode":"5cbdc7080dbba72d","toSide":"bottom"},
 		{"id":"28b4486f32f9bb6e","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"a75e543204d146f9","toSide":"top"},
 		{"id":"ac426a54554f2f6f","fromNode":"a75e543204d146f9","fromSide":"bottom","toNode":"8a0ef165408b8914","toSide":"top"},
-		{"id":"907a018a179e1911","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"d451b5c1b8a27d57","toSide":"top"},
 		{"id":"8c9db07a8c73567c","fromNode":"356b6929134a4968","fromSide":"top","toNode":"373382fc8b9eaffd","toSide":"bottom"},
 		{"id":"2d2a6519510fc071","fromNode":"5cbdc7080dbba72d","fromSide":"bottom","toNode":"41ee02ce33e581bc","toSide":"top"},
 		{"id":"4d12be8a9cf742ab","fromNode":"41ee02ce33e581bc","fromSide":"bottom","toNode":"cbd0df79dd411c78","toSide":"top"},
@@ -85,6 +84,7 @@
 		{"id":"afcb89f8cc03c201","fromNode":"5cbdc7080dbba72d","fromSide":"left","toNode":"a06d5a6afe709291","toSide":"right"},
 		{"id":"2ba7614b458e1d03","fromNode":"4c6ba3b3be5fb1ac","fromSide":"bottom","toNode":"903992e83e5782c0","toSide":"bottom"},
 		{"id":"d11bd0f67a60f083","fromNode":"41ee02ce33e581bc","fromSide":"bottom","toNode":"bc4044cf86242894","toSide":"top"},
-		{"id":"e8cffaca2a8f2c92","fromNode":"d73c3da8bb849a8f","fromSide":"right","toNode":"ac2688a50e07ba9b","toSide":"left"}
+		{"id":"e8cffaca2a8f2c92","fromNode":"d73c3da8bb849a8f","fromSide":"right","toNode":"ac2688a50e07ba9b","toSide":"left"},
+		{"id":"907a018a179e1911","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"d451b5c1b8a27d57","toSide":"top"}
 	]
 }
