@@ -47,7 +47,7 @@
 		{"id":"cbd0df79dd411c78","type":"text","text":"Creacion\n","x":-860,"y":-120,"width":250,"height":60},
 		{"id":"bc4044cf86242894","type":"text","text":"Sincronizacion\n","x":-560,"y":-120,"width":250,"height":60},
 		{"id":"f89823a937d719ae","x":-810,"y":53,"width":250,"height":60,"type":"text","text":"Con sequelize\n"},
-		{"id":"00b784b21ede23e5","x":-985,"y":-20,"width":250,"height":60,"type":"text","text":"Con mongoose\n"},
+		{"id":"00b784b21ede23e5","x":-985,"y":-20,"width":250,"height":60,"type":"text","text":"[[creacion database con mongose]]\n\n"},
 		{"id":"2d832570be5f7f4b","x":-540,"y":5,"width":250,"height":60,"type":"text","text":"sincronizacion con sequelize\n"}
 	],
 	"edges":[
