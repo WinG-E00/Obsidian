@@ -42,8 +42,8 @@
 		{"id":"e08f29a57a006a86","type":"text","text":"[[Variables]]","x":-1492,"y":-120,"width":250,"height":60},
 		{"id":"d451b5c1b8a27d57","type":"text","text":"[[Levantar server]]\n","x":-1812,"y":-20,"width":250,"height":60},
 		{"id":"356b6929134a4968","type":"text","text":"[[Configuracion]]","x":-1492,"y":-20,"width":250,"height":60},
-		{"id":"c12d5c72bc92e8b6","x":-1030,"y":-889,"width":250,"height":60,"type":"text","text":"[[cookie-parser]]\n"},
-		{"id":"7dc62bd23481ab63","x":-2290,"y":-780,"width":250,"height":60,"type":"text","text":"[[cors]]\n"}
+		{"id":"c12d5c72bc92e8b6","type":"text","text":"[[cookie-parser]]\n","x":-1030,"y":-889,"width":250,"height":60},
+		{"id":"7dc62bd23481ab63","type":"text","text":"[[cors]]\n","x":-2290,"y":-780,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
@@ -91,6 +91,8 @@
 		{"id":"8a23deebb9cb92b4","fromNode":"21b6e8b47effccfc","fromSide":"top","toNode":"66ca1a33da8eecd3","toSide":"bottom"},
 		{"id":"e58b30992483160d","fromNode":"5cbdc7080dbba72d","fromSide":"bottom","toNode":"373382fc8b9eaffd","toSide":"top"},
 		{"id":"f56c335bb36732a0","fromNode":"21b6e8b47effccfc","fromSide":"top","toNode":"c12d5c72bc92e8b6","toSide":"bottom"},
-		{"id":"b1b5ce043ec5731f","fromNode":"21b6e8b47effccfc","fromSide":"top","toNode":"7dc62bd23481ab63","toSide":"bottom"}
+		{"id":"b1b5ce043ec5731f","fromNode":"21b6e8b47effccfc","fromSide":"top","toNode":"7dc62bd23481ab63","toSide":"bottom"},
+		{"id":"d8c0fecd9c60ac27","fromNode":"a75e543204d146f9","fromSide":"right","toNode":"0ae50013bfa681da","toSide":"top"},
+		{"id":"224824c2761d0003","fromNode":"a75e543204d146f9","fromSide":"right","toNode":"6c7fe62ce7a625ba","toSide":"left"}
 	]
 }
