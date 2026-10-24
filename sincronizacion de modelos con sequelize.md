@@ -18,11 +18,16 @@ import '../models/relations.js'
 
 export async function initModels() {
 try {
-await sequelize.authenticate();
-console.log('DB connected');
+
+	// aca se usa el metodo para conectar la base de datos
+	await sequelize.authenticate();
+	console.log('DB connected');
 
 //Sincronizacion de todos los modelos de la base de datos
 await sequelize.sync({ force: true }); //Force true para mi produccion.
+//Force true lo que hace es que al sincronizar los modelos te borra todos los datos que hayas cuardados y se creen de nuevo las tablas pero vacias
+
+
 console.log('Modelos sincronizados');
   
 } catch (error) {
