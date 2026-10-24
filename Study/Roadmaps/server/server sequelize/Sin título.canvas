@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"373382fc8b9eaffd","x":-320,"y":-240,"width":320,"height":80,"type":"text","text":"App"}
+		{"id":"76532ad9fad29a76","x":-820,"y":-70,"width":250,"height":60,"type":"text","text":"Importaciones"},
+		{"id":"373382fc8b9eaffd","x":-473,"y":-340,"width":120,"height":80,"type":"text","text":"App"},
+		{"id":"e08f29a57a006a86","x":-550,"y":-70,"width":250,"height":60,"type":"text","text":"Variables"},
+		{"id":"356b6929134a4968","x":-260,"y":-70,"width":250,"height":60,"type":"text","text":"Configuracion"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
+		{"id":"7c9d24bf910cbdc5","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"356b6929134a4968","toSide":"top"},
+		{"id":"cfaca9f1c6f17193","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"e08f29a57a006a86","toSide":"top"}
+	]
 }
