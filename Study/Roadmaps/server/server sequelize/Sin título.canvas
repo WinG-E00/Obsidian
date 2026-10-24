@@ -19,11 +19,12 @@
 		{"id":"2bf1b5c71646bbf1","x":-1152,"y":-829,"width":250,"height":60,"type":"text","text":"bcrypt\n"},
 		{"id":"f825412ac7df9ab7","x":-1703,"y":-867,"width":250,"height":60,"type":"text","text":"jsonwebtoken\n"},
 		{"id":"1c73006e845d4101","x":43,"y":57,"width":342,"height":73,"type":"text","text":"Metodos crud de controladores de sequelize\n"},
-		{"id":"0ae50013bfa681da","x":-72,"y":270,"width":250,"height":60,"type":"text","text":"CRUD\n"},
-		{"id":"21d60e23ada94b27","x":420,"y":489,"width":250,"height":60,"type":"text","text":"Delete\n"},
-		{"id":"10324fb030df0602","x":135,"y":489,"width":250,"height":60,"type":"text","text":"Update"},
-		{"id":"7ef4c443f40a5ce2","x":-420,"y":486,"width":250,"height":60,"type":"text","text":"Create"},
-		{"id":"f909407c75d04fb8","x":-148,"y":489,"width":250,"height":60,"type":"text","text":"Read"}
+		{"id":"0ae50013bfa681da","x":-414,"y":429,"width":250,"height":60,"type":"text","text":"CRUD\n"},
+		{"id":"21d60e23ada94b27","x":78,"y":648,"width":250,"height":60,"type":"text","text":"Delete\n"},
+		{"id":"10324fb030df0602","x":-207,"y":648,"width":250,"height":60,"type":"text","text":"Update"},
+		{"id":"7ef4c443f40a5ce2","x":-762,"y":645,"width":250,"height":60,"type":"text","text":"Create"},
+		{"id":"f909407c75d04fb8","x":-470,"y":645,"width":250,"height":60,"type":"text","text":"Read"},
+		{"id":"a99ec2d718324142","x":446,"y":56,"width":250,"height":60,"type":"text","text":"Metodos crud de controladores de "}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
@@ -49,6 +50,7 @@
 		{"id":"00650583713f82da","fromNode":"0ae50013bfa681da","fromSide":"bottom","toNode":"7ef4c443f40a5ce2","toSide":"top"},
 		{"id":"9679907f508aa8b5","fromNode":"0ae50013bfa681da","fromSide":"bottom","toNode":"f909407c75d04fb8","toSide":"top"},
 		{"id":"200d6bc96ae94935","fromNode":"0ae50013bfa681da","fromSide":"bottom","toNode":"10324fb030df0602","toSide":"top"},
-		{"id":"9cd43dea2ecd4c9a","fromNode":"0ae50013bfa681da","fromSide":"bottom","toNode":"21d60e23ada94b27","toSide":"top"}
+		{"id":"3bcd95e35d6667a9","fromNode":"0ae50013bfa681da","fromSide":"bottom","toNode":"21d60e23ada94b27","toSide":"top"},
+		{"id":"78f688935e870b65","fromNode":"6c7a0048d882f6ac","fromSide":"bottom","toNode":"a99ec2d718324142","toSide":"top"}
 	]
 }
