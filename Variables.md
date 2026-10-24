@@ -10,8 +10,8 @@ URI=mongodb/urlUrixd:2017
 
 y para poder procesarlas en algun otro archivo de tu proyecto simplemente tienes que importar la libreria de dotenv
 
-```
+```js
 
-
+const PORT = process.env.PORT
 
 ```
