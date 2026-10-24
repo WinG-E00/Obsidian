@@ -43,7 +43,9 @@
 		{"id":"c12d5c72bc92e8b6","type":"text","text":"[[cookie-parser]]\n","x":-1030,"y":-889,"width":250,"height":60},
 		{"id":"7dc62bd23481ab63","type":"text","text":"[[cors]]\n","x":-2290,"y":-780,"width":250,"height":60},
 		{"id":"b5b973d6bbfa9c97","type":"text","text":"[[Controladores]]\n","x":-1534,"y":615,"width":250,"height":60},
-		{"id":"903992e83e5782c0","type":"text","text":"validadores\n","x":-1202,"y":615,"width":250,"height":60}
+		{"id":"903992e83e5782c0","type":"text","text":"validadores\n","x":-1202,"y":615,"width":250,"height":60},
+		{"id":"4b1ba1b63ed816bc","x":-2156,"y":715,"width":250,"height":60,"type":"text","text":"[[Study/NewNotes/express/req|req]]"},
+		{"id":"c499b676b13a0897","x":-2136,"y":793,"width":250,"height":60,"type":"text","text":"res\n"}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
@@ -93,6 +95,8 @@
 		{"id":"b1b5ce043ec5731f","fromNode":"21b6e8b47effccfc","fromSide":"top","toNode":"7dc62bd23481ab63","toSide":"bottom"},
 		{"id":"d8c0fecd9c60ac27","fromNode":"a75e543204d146f9","fromSide":"right","toNode":"0ae50013bfa681da","toSide":"top"},
 		{"id":"224824c2761d0003","fromNode":"a75e543204d146f9","fromSide":"right","toNode":"6c7fe62ce7a625ba","toSide":"left"},
-		{"id":"2ba7614b458e1d03","fromNode":"4c6ba3b3be5fb1ac","fromSide":"bottom","toNode":"903992e83e5782c0","toSide":"bottom"}
+		{"id":"2ba7614b458e1d03","fromNode":"4c6ba3b3be5fb1ac","fromSide":"bottom","toNode":"903992e83e5782c0","toSide":"bottom"},
+		{"id":"e67c1f41ecf9edc1","fromNode":"b5b973d6bbfa9c97","fromSide":"left","toNode":"4b1ba1b63ed816bc","toSide":"right"},
+		{"id":"fcb025ba37022ba5","fromNode":"b5b973d6bbfa9c97","fromSide":"left","toNode":"c499b676b13a0897","toSide":"right"}
 	]
 }
