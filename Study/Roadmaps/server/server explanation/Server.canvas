@@ -3,14 +3,12 @@
 		{"id":"21b6e8b47effccfc","type":"text","text":"Dependencias / librerias\n","x":-1437,"y":-642,"width":250,"height":60},
 		{"id":"6c7a0048d882f6ac","type":"text","text":"[[Controladores]]\n","x":-128,"y":-329,"width":250,"height":60},
 		{"id":"41ee02ce33e581bc","type":"text","text":"Configuracion de la database\n","x":-631,"y":-269,"width":250,"height":60},
-		{"id":"2a7e05bea99ca771","type":"text","text":"validadores\n","x":260,"y":-330,"width":250,"height":60},
 		{"id":"a99ec2d718324142","type":"text","text":"Metodos crud de controladores de mongoose\n","x":446,"y":70,"width":250,"height":60},
 		{"id":"1c73006e845d4101","type":"text","text":"Metodos crud de controladores de sequelize\n","x":43,"y":70,"width":342,"height":73},
 		{"id":"ef7a0cf51c13213a","type":"text","text":"Modelos\n","x":-82,"y":-672,"width":250,"height":60},
 		{"id":"039f71f5eae310e4","type":"text","text":"Sequelize\n","x":320,"y":-960,"width":250,"height":60},
 		{"id":"c1cbc66d1bac779b","type":"text","text":"Estructura del modelo\n","x":700,"y":-1140,"width":250,"height":60},
 		{"id":"219e36442d392e1b","type":"text","text":"Creacion\n","x":700,"y":-960,"width":250,"height":60},
-		{"id":"a06d5a6afe709291","type":"text","text":"validadores\n","x":-1632,"y":-440,"width":250,"height":60},
 		{"id":"5cbdc7080dbba72d","type":"text","text":"[[server]]","x":-780,"y":-548,"width":250,"height":60},
 		{"id":"d73c3da8bb849a8f","type":"text","text":"[[Peticion o request]]\n","x":-2420,"y":-1320,"width":269,"height":60},
 		{"id":"ac2688a50e07ba9b","type":"text","text":"Recorrido de una peticion\n","x":-2031,"y":-1320,"width":300,"height":60},
@@ -48,7 +46,8 @@
 		{"id":"f909407c75d04fb8","type":"text","text":"[[Read sequelize]]","x":-318,"y":662,"width":250,"height":60},
 		{"id":"10324fb030df0602","type":"text","text":"[[Update sequelize]]","x":-55,"y":665,"width":250,"height":60},
 		{"id":"21d60e23ada94b27","type":"text","text":"[[Delete sequelize]]","x":230,"y":665,"width":250,"height":60},
-		{"id":"7ef4c443f40a5ce2","type":"text","text":"[[Create sequelize]]","x":-610,"y":662,"width":250,"height":60}
+		{"id":"7ef4c443f40a5ce2","type":"text","text":"[[Create sequelize]]","x":-610,"y":662,"width":250,"height":60},
+		{"id":"2a7e05bea99ca771","type":"text","text":"validadores\n","x":260,"y":-329,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
@@ -88,7 +87,6 @@
 		{"id":"e7a1be9d1fd0d512","fromNode":"e5e3e47c5cef8d4f","fromSide":"right","toNode":"7ce033fc63421b11","toSide":"left"},
 		{"id":"6c0ad1e1c4ffb767","fromNode":"6c7a0048d882f6ac","fromSide":"bottom","toNode":"b5b973d6bbfa9c97","toSide":"bottom"},
 		{"id":"40c1395e16707fed","fromNode":"21b6e8b47effccfc","fromSide":"left","toNode":"4c6ba3b3be5fb1ac","toSide":"right"},
-		{"id":"afcb89f8cc03c201","fromNode":"5cbdc7080dbba72d","fromSide":"left","toNode":"a06d5a6afe709291","toSide":"right"},
 		{"id":"d11bd0f67a60f083","fromNode":"41ee02ce33e581bc","fromSide":"bottom","toNode":"bc4044cf86242894","toSide":"top"},
 		{"id":"e8cffaca2a8f2c92","fromNode":"d73c3da8bb849a8f","fromSide":"right","toNode":"ac2688a50e07ba9b","toSide":"left"},
 		{"id":"907a018a179e1911","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"d451b5c1b8a27d57","toSide":"top"},
