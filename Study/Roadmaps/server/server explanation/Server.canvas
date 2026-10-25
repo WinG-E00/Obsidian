@@ -45,10 +45,10 @@
 		{"id":"f3d620fd62237328","type":"text","text":"Update","x":1195,"y":632,"width":250,"height":60},
 		{"id":"203da1a14dd6ec61","type":"text","text":"Delete\n","x":1480,"y":632,"width":250,"height":60},
 		{"id":"0ae50013bfa681da","type":"text","text":"CRUD\n","x":-226,"y":372,"width":250,"height":60},
-		{"id":"f909407c75d04fb8","type":"text","text":"Read","x":-318,"y":662,"width":250,"height":60},
-		{"id":"10324fb030df0602","type":"text","text":"Update","x":-55,"y":665,"width":250,"height":60},
-		{"id":"21d60e23ada94b27","type":"text","text":"Delete\n","x":230,"y":665,"width":250,"height":60},
-		{"id":"7ef4c443f40a5ce2","type":"text","text":"Create","x":-610,"y":662,"width":250,"height":60}
+		{"id":"f909407c75d04fb8","type":"text","text":"[[Read sequelize]]","x":-318,"y":662,"width":250,"height":60},
+		{"id":"10324fb030df0602","type":"text","text":"[[Update sequelize]]","x":-55,"y":665,"width":250,"height":60},
+		{"id":"21d60e23ada94b27","type":"text","text":"[[Delete sequelize]]","x":230,"y":665,"width":250,"height":60},
+		{"id":"7ef4c443f40a5ce2","type":"text","text":"[[Create sequelize]]","x":-610,"y":662,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
