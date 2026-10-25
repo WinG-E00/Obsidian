@@ -40,4 +40,4 @@ console.log('Hubo un error al cargar los modelos y sincronizar la base de datos'
 ``` 
 
 
-Despues esta funcion podes exportarla a 
+Despues esta funcion podes importarla en tu app  y con el app.listen() simplemente llamarla dentro de esta y iniciar el server y la database.
