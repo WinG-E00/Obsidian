@@ -1,897 +1,112 @@
 {
-  "nodes": [
-    {
-      "id": "21b6e8b47effccfc",
-      "type": "text",
-      "text": "Dependencias / librerias\n",
-      "x": -1437,
-      "y": -642,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N1"
-    },
-    {
-      "id": "6c7a0048d882f6ac",
-      "type": "text",
-      "text": "[[Controladores]]\n",
-      "x": -128,
-      "y": -329,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N2"
-    },
-    {
-      "id": "41ee02ce33e581bc",
-      "type": "text",
-      "text": "Configuracion de la database\n",
-      "x": -631,
-      "y": -269,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N3"
-    },
-    {
-      "id": "a99ec2d718324142",
-      "type": "text",
-      "text": "Metodos crud de controladores de mongoose\n",
-      "x": 446,
-      "y": 70,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N4"
-    },
-    {
-      "id": "1c73006e845d4101",
-      "type": "text",
-      "text": "Metodos crud de controladores de sequelize\n",
-      "x": 43,
-      "y": 70,
-      "width": 342,
-      "height": 73,
-      "nodeLabel": "N5"
-    },
-    {
-      "id": "ef7a0cf51c13213a",
-      "type": "text",
-      "text": "Modelos\n",
-      "x": -82,
-      "y": -672,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N6"
-    },
-    {
-      "id": "039f71f5eae310e4",
-      "type": "text",
-      "text": "Sequelize\n",
-      "x": 320,
-      "y": -960,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N7"
-    },
-    {
-      "id": "c1cbc66d1bac779b",
-      "type": "text",
-      "text": "Estructura del modelo\n",
-      "x": 700,
-      "y": -1140,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N8"
-    },
-    {
-      "id": "219e36442d392e1b",
-      "type": "text",
-      "text": "Creacion\n",
-      "x": 700,
-      "y": -960,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N9"
-    },
-    {
-      "id": "5cbdc7080dbba72d",
-      "type": "text",
-      "text": "[[server]]",
-      "x": -780,
-      "y": -548,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N10"
-    },
-    {
-      "id": "d73c3da8bb849a8f",
-      "type": "text",
-      "text": "[[Peticion o request]]\n",
-      "x": -2420,
-      "y": -1320,
-      "width": 269,
-      "height": 60,
-      "nodeLabel": "N11"
-    },
-    {
-      "id": "ac2688a50e07ba9b",
-      "type": "text",
-      "text": "Recorrido de una peticion\n",
-      "x": -2031,
-      "y": -1320,
-      "width": 300,
-      "height": 60,
-      "nodeLabel": "N12"
-    },
-    {
-      "id": "e5e3e47c5cef8d4f",
-      "type": "text",
-      "text": "Mongoose\n",
-      "x": 475,
-      "y": -626,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N13"
-    },
-    {
-      "id": "c7403a5a939bdf92",
-      "type": "text",
-      "text": "Estructura del modelo\n",
-      "x": 950,
-      "y": -660,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N14"
-    },
-    {
-      "id": "7ce033fc63421b11",
-      "type": "text",
-      "text": "Creacion\n",
-      "x": 950,
-      "y": -488,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N15"
-    },
-    {
-      "id": "373382fc8b9eaffd",
-      "type": "text",
-      "text": "[[App]]",
-      "x": -1043,
-      "y": -324,
-      "width": 120,
-      "height": 80,
-      "nodeLabel": "N16"
-    },
-    {
-      "id": "a75e543204d146f9",
-      "type": "text",
-      "text": "[[Router]]",
-      "x": -1187,
-      "y": 113,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N17"
-    },
-    {
-      "id": "8a0ef165408b8914",
-      "type": "text",
-      "text": "[[Rutas]]",
-      "x": -1284,
-      "y": 295,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N18"
-    },
-    {
-      "id": "4c6ba3b3be5fb1ac",
-      "type": "text",
-      "text": "express-validator\n",
-      "x": -2040,
-      "y": -642,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N19"
-    },
-    {
-      "id": "f825412ac7df9ab7",
-      "type": "text",
-      "text": "jsonwebtoken\n",
-      "x": -2040,
-      "y": -889,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N20"
-    },
-    {
-      "id": "2bf1b5c71646bbf1",
-      "type": "text",
-      "text": "bcrypt\n",
-      "x": -1687,
-      "y": -889,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N21"
-    },
-    {
-      "id": "66ca1a33da8eecd3",
-      "type": "text",
-      "text": "sequelize\n",
-      "x": -1359,
-      "y": -899,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N22"
-    },
-    {
-      "id": "76532ad9fad29a76",
-      "type": "text",
-      "text": "[[Importaciones]]",
-      "x": -1812,
-      "y": -120,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N23"
-    },
-    {
-      "id": "e08f29a57a006a86",
-      "type": "text",
-      "text": "[[Variables]]",
-      "x": -1492,
-      "y": -120,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N24"
-    },
-    {
-      "id": "d451b5c1b8a27d57",
-      "type": "text",
-      "text": "[[Levantar server]]\n",
-      "x": -1812,
-      "y": -20,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N25"
-    },
-    {
-      "id": "356b6929134a4968",
-      "type": "text",
-      "text": "[[Configuracion]]",
-      "x": -1492,
-      "y": -20,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N26"
-    },
-    {
-      "id": "c12d5c72bc92e8b6",
-      "type": "text",
-      "text": "[[cookie-parser]]\n",
-      "x": -1030,
-      "y": -889,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N27"
-    },
-    {
-      "id": "7dc62bd23481ab63",
-      "type": "text",
-      "text": "[[cors]]\n",
-      "x": -2290,
-      "y": -780,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N28"
-    },
-    {
-      "id": "b5b973d6bbfa9c97",
-      "type": "text",
-      "text": "[[Controladores]]\n",
-      "x": -1534,
-      "y": 615,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N29"
-    },
-    {
-      "id": "903992e83e5782c0",
-      "type": "text",
-      "text": "validadores\n",
-      "x": -1202,
-      "y": 615,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N30"
-    },
-    {
-      "id": "c499b676b13a0897",
-      "type": "text",
-      "text": "[[Study/NewNotes/express/res|res]]\n",
-      "x": -2000,
-      "y": 760,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N31"
-    },
-    {
-      "id": "4b1ba1b63ed816bc",
-      "type": "text",
-      "text": "[[Study/NewNotes/express/req|req]]",
-      "x": -2000,
-      "y": 675,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N32"
-    },
-    {
-      "id": "cbd0df79dd411c78",
-      "type": "text",
-      "text": "Creacion\n",
-      "x": -860,
-      "y": -120,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N33"
-    },
-    {
-      "id": "bc4044cf86242894",
-      "type": "text",
-      "text": "Sincronizacion\n",
-      "x": -560,
-      "y": -120,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N34"
-    },
-    {
-      "id": "f89823a937d719ae",
-      "type": "text",
-      "text": "[[creacion database con sequelize]]\n",
-      "x": -810,
-      "y": 53,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N35"
-    },
-    {
-      "id": "00b784b21ede23e5",
-      "type": "text",
-      "text": "[[creacion database con mongose]]\n\n",
-      "x": -985,
-      "y": -20,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N36"
-    },
-    {
-      "id": "2d832570be5f7f4b",
-      "type": "text",
-      "text": "[[sincronizacion de modelos con sequelize]]\n",
-      "x": -540,
-      "y": 5,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N37"
-    },
-    {
-      "id": "20a931d4daa35ad3",
-      "type": "text",
-      "text": "[[Create mongoose]]",
-      "x": 640,
-      "y": 629,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N38"
-    },
-    {
-      "id": "daab5856181c68e3",
-      "type": "text",
-      "text": "[[Read mongoose]]",
-      "x": 932,
-      "y": 629,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N39"
-    },
-    {
-      "id": "6c7fe62ce7a625ba",
-      "type": "text",
-      "text": "CRUD\n",
-      "x": 988,
-      "y": 413,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N40"
-    },
-    {
-      "id": "f3d620fd62237328",
-      "type": "text",
-      "text": "[[Update mongoose]]",
-      "x": 1195,
-      "y": 632,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N41"
-    },
-    {
-      "id": "203da1a14dd6ec61",
-      "type": "text",
-      "text": "[[Delete mongoose]]",
-      "x": 1480,
-      "y": 632,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N42"
-    },
-    {
-      "id": "0ae50013bfa681da",
-      "type": "text",
-      "text": "CRUD\n",
-      "x": -226,
-      "y": 372,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N43"
-    },
-    {
-      "id": "f909407c75d04fb8",
-      "type": "text",
-      "text": "[[Read sequelize]]",
-      "x": -318,
-      "y": 662,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N44"
-    },
-    {
-      "id": "10324fb030df0602",
-      "type": "text",
-      "text": "[[Update sequelize]]",
-      "x": -55,
-      "y": 665,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N45"
-    },
-    {
-      "id": "21d60e23ada94b27",
-      "type": "text",
-      "text": "[[Delete sequelize]]",
-      "x": 230,
-      "y": 665,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N46"
-    },
-    {
-      "id": "7ef4c443f40a5ce2",
-      "type": "text",
-      "text": "[[Create sequelize]]",
-      "x": -610,
-      "y": 662,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N47"
-    },
-    {
-      "id": "2a7e05bea99ca771",
-      "type": "text",
-      "text": "validadores\n",
-      "x": 260,
-      "y": -329,
-      "width": 250,
-      "height": 60,
-      "nodeLabel": "N48"
-    },
-    {
-      "id": "ed395c3a957576f0",
-      "x": 1633,
-      "y": 800,
-      "width": 250,
-      "height": 60,
-      "type": "text",
-      "text": "eliminacion en cascada\n",
-      "nodeLabel": "N49"
-    },
-    {
-      "id": "1553a736a3999df0",
-      "x": 840,
-      "y": 830,
-      "width": 250,
-      "height": 60,
-      "type": "text",
-      "text": "[[populate]]",
-      "nodeLabel": "N50"
-    }
-  ],
-  "edges": [
-    {
-      "id": "bf04508bb13f1513",
-      "fromNode": "373382fc8b9eaffd",
-      "fromSide": "bottom",
-      "toNode": "76532ad9fad29a76",
-      "toSide": "top"
-    },
-    {
-      "id": "cfaca9f1c6f17193",
-      "fromNode": "373382fc8b9eaffd",
-      "fromSide": "bottom",
-      "toNode": "e08f29a57a006a86",
-      "toSide": "top"
-    },
-    {
-      "id": "6ff75d261547ecb1",
-      "fromNode": "5cbdc7080dbba72d",
-      "fromSide": "left",
-      "toNode": "21b6e8b47effccfc",
-      "toSide": "right"
-    },
-    {
-      "id": "28b4486f32f9bb6e",
-      "fromNode": "373382fc8b9eaffd",
-      "fromSide": "bottom",
-      "toNode": "a75e543204d146f9",
-      "toSide": "top"
-    },
-    {
-      "id": "ac426a54554f2f6f",
-      "fromNode": "a75e543204d146f9",
-      "fromSide": "bottom",
-      "toNode": "8a0ef165408b8914",
-      "toSide": "top"
-    },
-    {
-      "id": "8c9db07a8c73567c",
-      "fromNode": "356b6929134a4968",
-      "fromSide": "top",
-      "toNode": "373382fc8b9eaffd",
-      "toSide": "bottom"
-    },
-    {
-      "id": "2d2a6519510fc071",
-      "fromNode": "5cbdc7080dbba72d",
-      "fromSide": "bottom",
-      "toNode": "41ee02ce33e581bc",
-      "toSide": "top"
-    },
-    {
-      "id": "4d12be8a9cf742ab",
-      "fromNode": "41ee02ce33e581bc",
-      "fromSide": "bottom",
-      "toNode": "cbd0df79dd411c78",
-      "toSide": "top"
-    },
-    {
-      "id": "601a7457652232ad",
-      "fromNode": "5cbdc7080dbba72d",
-      "fromSide": "bottom",
-      "toNode": "6c7a0048d882f6ac",
-      "toSide": "top"
-    },
-    {
-      "id": "5e41f630e7a53f80",
-      "fromNode": "8a0ef165408b8914",
-      "fromSide": "bottom",
-      "toNode": "b5b973d6bbfa9c97",
-      "toSide": "top"
-    },
-    {
-      "id": "17d8d766046a53c2",
-      "fromNode": "8a0ef165408b8914",
-      "fromSide": "bottom",
-      "toNode": "903992e83e5782c0",
-      "toSide": "top"
-    },
-    {
-      "id": "aa7fde2e6addff44",
-      "fromNode": "5cbdc7080dbba72d",
-      "fromSide": "bottom",
-      "toNode": "2a7e05bea99ca771",
-      "toSide": "top"
-    },
-    {
-      "id": "c40fca8f0ba85aa8",
-      "fromNode": "21b6e8b47effccfc",
-      "fromSide": "top",
-      "toNode": "2bf1b5c71646bbf1",
-      "toSide": "bottom"
-    },
-    {
-      "id": "4e4c4a68c843a492",
-      "fromNode": "21b6e8b47effccfc",
-      "fromSide": "top",
-      "toNode": "f825412ac7df9ab7",
-      "toSide": "bottom"
-    },
-    {
-      "id": "222214c87ac06de1",
-      "fromNode": "6c7a0048d882f6ac",
-      "fromSide": "bottom",
-      "toNode": "1c73006e845d4101",
-      "toSide": "top"
-    },
-    {
-      "id": "6a212b22dff09d32",
-      "fromNode": "1c73006e845d4101",
-      "fromSide": "bottom",
-      "toNode": "0ae50013bfa681da",
-      "toSide": "top"
-    },
-    {
-      "id": "00650583713f82da",
-      "fromNode": "0ae50013bfa681da",
-      "fromSide": "bottom",
-      "toNode": "7ef4c443f40a5ce2",
-      "toSide": "top"
-    },
-    {
-      "id": "9679907f508aa8b5",
-      "fromNode": "0ae50013bfa681da",
-      "fromSide": "bottom",
-      "toNode": "f909407c75d04fb8",
-      "toSide": "top"
-    },
-    {
-      "id": "200d6bc96ae94935",
-      "fromNode": "0ae50013bfa681da",
-      "fromSide": "bottom",
-      "toNode": "10324fb030df0602",
-      "toSide": "top"
-    },
-    {
-      "id": "3bcd95e35d6667a9",
-      "fromNode": "0ae50013bfa681da",
-      "fromSide": "bottom",
-      "toNode": "21d60e23ada94b27",
-      "toSide": "top"
-    },
-    {
-      "id": "78f688935e870b65",
-      "fromNode": "6c7a0048d882f6ac",
-      "fromSide": "bottom",
-      "toNode": "a99ec2d718324142",
-      "toSide": "top"
-    },
-    {
-      "id": "55857dcedd6ffb1b",
-      "fromNode": "6c7fe62ce7a625ba",
-      "fromSide": "bottom",
-      "toNode": "20a931d4daa35ad3",
-      "toSide": "top"
-    },
-    {
-      "id": "e49315d93ea980d0",
-      "fromNode": "6c7fe62ce7a625ba",
-      "fromSide": "bottom",
-      "toNode": "daab5856181c68e3",
-      "toSide": "top"
-    },
-    {
-      "id": "d27fe17b2da11bc6",
-      "fromNode": "6c7fe62ce7a625ba",
-      "fromSide": "bottom",
-      "toNode": "f3d620fd62237328",
-      "toSide": "top"
-    },
-    {
-      "id": "aec269b9b6367994",
-      "fromNode": "6c7fe62ce7a625ba",
-      "fromSide": "bottom",
-      "toNode": "203da1a14dd6ec61",
-      "toSide": "top"
-    },
-    {
-      "id": "d59e97f165929ee8",
-      "fromNode": "a99ec2d718324142",
-      "fromSide": "bottom",
-      "toNode": "6c7fe62ce7a625ba",
-      "toSide": "top"
-    },
-    {
-      "id": "64c8dd2bd38a8e0d",
-      "fromNode": "5cbdc7080dbba72d",
-      "fromSide": "right",
-      "toNode": "ef7a0cf51c13213a",
-      "toSide": "left"
-    },
-    {
-      "id": "960f47f67b2d62a4",
-      "fromNode": "ef7a0cf51c13213a",
-      "fromSide": "right",
-      "toNode": "039f71f5eae310e4",
-      "toSide": "left"
-    },
-    {
-      "id": "53bf99bfa5b0bc84",
-      "fromNode": "ef7a0cf51c13213a",
-      "fromSide": "right",
-      "toNode": "e5e3e47c5cef8d4f",
-      "toSide": "left"
-    },
-    {
-      "id": "b256c599d1fc58f0",
-      "fromNode": "1c73006e845d4101",
-      "fromSide": "left",
-      "toNode": "039f71f5eae310e4",
-      "toSide": "left"
-    },
-    {
-      "id": "b2a4bf2e687a02b1",
-      "fromNode": "a99ec2d718324142",
-      "fromSide": "right",
-      "toNode": "e5e3e47c5cef8d4f",
-      "toSide": "left"
-    },
-    {
-      "id": "6276a8f46f3d339e",
-      "fromNode": "039f71f5eae310e4",
-      "fromSide": "right",
-      "toNode": "c1cbc66d1bac779b",
-      "toSide": "left"
-    },
-    {
-      "id": "4cade2e67d9baa76",
-      "fromNode": "039f71f5eae310e4",
-      "fromSide": "right",
-      "toNode": "219e36442d392e1b",
-      "toSide": "left"
-    },
-    {
-      "id": "aee19a5f53d26310",
-      "fromNode": "e5e3e47c5cef8d4f",
-      "fromSide": "right",
-      "toNode": "c7403a5a939bdf92",
-      "toSide": "left"
-    },
-    {
-      "id": "e7a1be9d1fd0d512",
-      "fromNode": "e5e3e47c5cef8d4f",
-      "fromSide": "right",
-      "toNode": "7ce033fc63421b11",
-      "toSide": "left"
-    },
-    {
-      "id": "6c0ad1e1c4ffb767",
-      "fromNode": "6c7a0048d882f6ac",
-      "fromSide": "bottom",
-      "toNode": "b5b973d6bbfa9c97",
-      "toSide": "bottom"
-    },
-    {
-      "id": "40c1395e16707fed",
-      "fromNode": "21b6e8b47effccfc",
-      "fromSide": "left",
-      "toNode": "4c6ba3b3be5fb1ac",
-      "toSide": "right"
-    },
-    {
-      "id": "d11bd0f67a60f083",
-      "fromNode": "41ee02ce33e581bc",
-      "fromSide": "bottom",
-      "toNode": "bc4044cf86242894",
-      "toSide": "top"
-    },
-    {
-      "id": "e8cffaca2a8f2c92",
-      "fromNode": "d73c3da8bb849a8f",
-      "fromSide": "right",
-      "toNode": "ac2688a50e07ba9b",
-      "toSide": "left"
-    },
-    {
-      "id": "907a018a179e1911",
-      "fromNode": "373382fc8b9eaffd",
-      "fromSide": "bottom",
-      "toNode": "d451b5c1b8a27d57",
-      "toSide": "top"
-    },
-    {
-      "id": "8a23deebb9cb92b4",
-      "fromNode": "21b6e8b47effccfc",
-      "fromSide": "top",
-      "toNode": "66ca1a33da8eecd3",
-      "toSide": "bottom"
-    },
-    {
-      "id": "e58b30992483160d",
-      "fromNode": "5cbdc7080dbba72d",
-      "fromSide": "bottom",
-      "toNode": "373382fc8b9eaffd",
-      "toSide": "top"
-    },
-    {
-      "id": "f56c335bb36732a0",
-      "fromNode": "21b6e8b47effccfc",
-      "fromSide": "top",
-      "toNode": "c12d5c72bc92e8b6",
-      "toSide": "bottom"
-    },
-    {
-      "id": "b1b5ce043ec5731f",
-      "fromNode": "21b6e8b47effccfc",
-      "fromSide": "top",
-      "toNode": "7dc62bd23481ab63",
-      "toSide": "bottom"
-    },
-    {
-      "id": "d8c0fecd9c60ac27",
-      "fromNode": "a75e543204d146f9",
-      "fromSide": "right",
-      "toNode": "0ae50013bfa681da",
-      "toSide": "top"
-    },
-    {
-      "id": "2ba7614b458e1d03",
-      "fromNode": "4c6ba3b3be5fb1ac",
-      "fromSide": "bottom",
-      "toNode": "903992e83e5782c0",
-      "toSide": "bottom",
-      "label": " "
-    },
-    {
-      "id": "e67c1f41ecf9edc1",
-      "fromNode": "b5b973d6bbfa9c97",
-      "fromSide": "left",
-      "toNode": "4b1ba1b63ed816bc",
-      "toSide": "right"
-    },
-    {
-      "id": "fcb025ba37022ba5",
-      "fromNode": "b5b973d6bbfa9c97",
-      "fromSide": "left",
-      "toNode": "c499b676b13a0897",
-      "toSide": "right"
-    },
-    {
-      "id": "6b5f63afda36b65d",
-      "fromNode": "cbd0df79dd411c78",
-      "fromSide": "bottom",
-      "toNode": "00b784b21ede23e5",
-      "toSide": "top"
-    },
-    {
-      "id": "0edf34bc7c27f11a",
-      "fromNode": "cbd0df79dd411c78",
-      "fromSide": "bottom",
-      "toNode": "f89823a937d719ae",
-      "toSide": "top"
-    },
-    {
-      "id": "175b43f17381753a",
-      "fromNode": "bc4044cf86242894",
-      "fromSide": "bottom",
-      "toNode": "2d832570be5f7f4b",
-      "toSide": "top"
-    },
-    {
-      "id": "b19d757c9216aba1",
-      "fromNode": "f89823a937d719ae",
-      "fromSide": "right",
-      "toNode": "2d832570be5f7f4b",
-      "toSide": "bottom"
-    },
-    {
-      "id": "224824c2761d0003",
-      "fromNode": "a75e543204d146f9",
-      "fromSide": "right",
-      "toNode": "6c7fe62ce7a625ba",
-      "toSide": "left"
-    },
-    {
-      "id": "e85fb56a210ae2a2",
-      "fromNode": "daab5856181c68e3",
-      "fromSide": "bottom",
-      "toNode": "1553a736a3999df0",
-      "toSide": "top"
-    },
-    {
-      "id": "55366ce1af9721d3",
-      "fromNode": "203da1a14dd6ec61",
-      "fromSide": "bottom",
-      "toNode": "ed395c3a957576f0",
-      "toSide": "top"
-    }
-  ],
-  "viewport": {
-    "x": 918.5173320332556,
-    "y": 583.8059834153679,
-    "zoom": 0.3256098871386546
-  }
+	"nodes":[
+		{"id":"21b6e8b47effccfc","type":"text","text":"Dependencias / librerias\n","x":-1437,"y":-642,"width":250,"height":60,"nodeLabel":"N1"},
+		{"id":"6c7a0048d882f6ac","type":"text","text":"[[Controladores]]\n","x":-128,"y":-329,"width":250,"height":60,"nodeLabel":"N2"},
+		{"id":"41ee02ce33e581bc","type":"text","text":"Configuracion de la database\n","x":-631,"y":-269,"width":250,"height":60,"nodeLabel":"N3"},
+		{"id":"a99ec2d718324142","type":"text","text":"Metodos crud de controladores de mongoose\n","x":446,"y":70,"width":250,"height":60,"nodeLabel":"N4"},
+		{"id":"1c73006e845d4101","type":"text","text":"Metodos crud de controladores de sequelize\n","x":43,"y":70,"width":342,"height":73,"nodeLabel":"N5"},
+		{"id":"ef7a0cf51c13213a","type":"text","text":"Modelos\n","x":-82,"y":-672,"width":250,"height":60,"nodeLabel":"N6"},
+		{"id":"039f71f5eae310e4","type":"text","text":"Sequelize\n","x":320,"y":-960,"width":250,"height":60,"nodeLabel":"N7"},
+		{"id":"c1cbc66d1bac779b","type":"text","text":"Estructura del modelo\n","x":700,"y":-1140,"width":250,"height":60,"nodeLabel":"N8"},
+		{"id":"219e36442d392e1b","type":"text","text":"Creacion\n","x":700,"y":-960,"width":250,"height":60,"nodeLabel":"N9"},
+		{"id":"5cbdc7080dbba72d","type":"text","text":"[[server]]","x":-780,"y":-548,"width":250,"height":60,"nodeLabel":"N10"},
+		{"id":"d73c3da8bb849a8f","type":"text","text":"[[Peticion o request]]\n","x":-2420,"y":-1320,"width":269,"height":60,"nodeLabel":"N11"},
+		{"id":"ac2688a50e07ba9b","type":"text","text":"Recorrido de una peticion\n","x":-2031,"y":-1320,"width":300,"height":60,"nodeLabel":"N12"},
+		{"id":"e5e3e47c5cef8d4f","type":"text","text":"Mongoose\n","x":475,"y":-626,"width":250,"height":60,"nodeLabel":"N13"},
+		{"id":"c7403a5a939bdf92","type":"text","text":"Estructura del modelo\n","x":950,"y":-660,"width":250,"height":60,"nodeLabel":"N14"},
+		{"id":"7ce033fc63421b11","type":"text","text":"Creacion\n","x":950,"y":-488,"width":250,"height":60,"nodeLabel":"N15"},
+		{"id":"373382fc8b9eaffd","type":"text","text":"[[App]]","x":-1043,"y":-324,"width":120,"height":80,"nodeLabel":"N16"},
+		{"id":"a75e543204d146f9","type":"text","text":"[[Router]]","x":-1187,"y":113,"width":250,"height":60,"nodeLabel":"N17"},
+		{"id":"8a0ef165408b8914","type":"text","text":"[[Rutas]]","x":-1284,"y":295,"width":250,"height":60,"nodeLabel":"N18"},
+		{"id":"4c6ba3b3be5fb1ac","type":"text","text":"express-validator\n","x":-2040,"y":-642,"width":250,"height":60,"nodeLabel":"N19"},
+		{"id":"f825412ac7df9ab7","type":"text","text":"jsonwebtoken\n","x":-2040,"y":-889,"width":250,"height":60,"nodeLabel":"N20"},
+		{"id":"2bf1b5c71646bbf1","type":"text","text":"bcrypt\n","x":-1687,"y":-889,"width":250,"height":60,"nodeLabel":"N21"},
+		{"id":"66ca1a33da8eecd3","type":"text","text":"sequelize\n","x":-1359,"y":-899,"width":250,"height":60,"nodeLabel":"N22"},
+		{"id":"76532ad9fad29a76","type":"text","text":"[[Importaciones]]","x":-1812,"y":-120,"width":250,"height":60,"nodeLabel":"N23"},
+		{"id":"e08f29a57a006a86","type":"text","text":"[[Variables]]","x":-1492,"y":-120,"width":250,"height":60,"nodeLabel":"N24"},
+		{"id":"d451b5c1b8a27d57","type":"text","text":"[[Levantar server]]\n","x":-1812,"y":-20,"width":250,"height":60,"nodeLabel":"N25"},
+		{"id":"356b6929134a4968","type":"text","text":"[[Configuracion]]","x":-1492,"y":-20,"width":250,"height":60,"nodeLabel":"N26"},
+		{"id":"c12d5c72bc92e8b6","type":"text","text":"[[cookie-parser]]\n","x":-1030,"y":-889,"width":250,"height":60,"nodeLabel":"N27"},
+		{"id":"7dc62bd23481ab63","type":"text","text":"[[cors]]\n","x":-2290,"y":-780,"width":250,"height":60,"nodeLabel":"N28"},
+		{"id":"b5b973d6bbfa9c97","type":"text","text":"[[Controladores]]\n","x":-1534,"y":615,"width":250,"height":60,"nodeLabel":"N29"},
+		{"id":"903992e83e5782c0","type":"text","text":"validadores\n","x":-1202,"y":615,"width":250,"height":60,"nodeLabel":"N30"},
+		{"id":"c499b676b13a0897","type":"text","text":"[[Study/NewNotes/express/res|res]]\n","x":-2000,"y":760,"width":250,"height":60,"nodeLabel":"N31"},
+		{"id":"4b1ba1b63ed816bc","type":"text","text":"[[Study/NewNotes/express/req|req]]","x":-2000,"y":675,"width":250,"height":60,"nodeLabel":"N32"},
+		{"id":"cbd0df79dd411c78","type":"text","text":"Creacion\n","x":-860,"y":-120,"width":250,"height":60,"nodeLabel":"N33"},
+		{"id":"bc4044cf86242894","type":"text","text":"Sincronizacion\n","x":-560,"y":-120,"width":250,"height":60,"nodeLabel":"N34"},
+		{"id":"f89823a937d719ae","type":"text","text":"[[creacion database con sequelize]]\n","x":-810,"y":53,"width":250,"height":60,"nodeLabel":"N35"},
+		{"id":"00b784b21ede23e5","type":"text","text":"[[creacion database con mongose]]\n\n","x":-985,"y":-20,"width":250,"height":60,"nodeLabel":"N36"},
+		{"id":"2d832570be5f7f4b","type":"text","text":"[[sincronizacion de modelos con sequelize]]\n","x":-540,"y":5,"width":250,"height":60,"nodeLabel":"N37"},
+		{"id":"20a931d4daa35ad3","type":"text","text":"[[Create mongoose]]","x":640,"y":629,"width":250,"height":60,"nodeLabel":"N38"},
+		{"id":"daab5856181c68e3","type":"text","text":"[[Read mongoose]]","x":932,"y":629,"width":250,"height":60,"nodeLabel":"N39"},
+		{"id":"6c7fe62ce7a625ba","type":"text","text":"CRUD\n","x":988,"y":413,"width":250,"height":60,"nodeLabel":"N40"},
+		{"id":"f3d620fd62237328","type":"text","text":"[[Update mongoose]]","x":1195,"y":632,"width":250,"height":60,"nodeLabel":"N41"},
+		{"id":"203da1a14dd6ec61","type":"text","text":"[[Delete mongoose]]","x":1480,"y":632,"width":250,"height":60,"nodeLabel":"N42"},
+		{"id":"0ae50013bfa681da","type":"text","text":"CRUD\n","x":-226,"y":372,"width":250,"height":60,"nodeLabel":"N43"},
+		{"id":"f909407c75d04fb8","type":"text","text":"[[Read sequelize]]","x":-318,"y":662,"width":250,"height":60,"nodeLabel":"N44"},
+		{"id":"10324fb030df0602","type":"text","text":"[[Update sequelize]]","x":-55,"y":665,"width":250,"height":60,"nodeLabel":"N45"},
+		{"id":"21d60e23ada94b27","type":"text","text":"[[Delete sequelize]]","x":230,"y":665,"width":250,"height":60,"nodeLabel":"N46"},
+		{"id":"7ef4c443f40a5ce2","type":"text","text":"[[Create sequelize]]","x":-610,"y":662,"width":250,"height":60,"nodeLabel":"N47"},
+		{"id":"2a7e05bea99ca771","type":"text","text":"validadores\n","x":260,"y":-329,"width":250,"height":60,"nodeLabel":"N48"},
+		{"id":"ed395c3a957576f0","x":1633,"y":800,"width":250,"height":60,"type":"text","text":"eliminacion en cascada\n","nodeLabel":"N49"},
+		{"id":"1553a736a3999df0","x":840,"y":830,"width":250,"height":60,"type":"text","text":"[[populate]]","nodeLabel":"N50"}
+	],
+	"edges":[
+		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
+		{"id":"cfaca9f1c6f17193","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"e08f29a57a006a86","toSide":"top"},
+		{"id":"6ff75d261547ecb1","fromNode":"5cbdc7080dbba72d","fromSide":"left","toNode":"21b6e8b47effccfc","toSide":"right"},
+		{"id":"28b4486f32f9bb6e","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"a75e543204d146f9","toSide":"top"},
+		{"id":"ac426a54554f2f6f","fromNode":"a75e543204d146f9","fromSide":"bottom","toNode":"8a0ef165408b8914","toSide":"top"},
+		{"id":"8c9db07a8c73567c","fromNode":"356b6929134a4968","fromSide":"top","toNode":"373382fc8b9eaffd","toSide":"bottom"},
+		{"id":"2d2a6519510fc071","fromNode":"5cbdc7080dbba72d","fromSide":"bottom","toNode":"41ee02ce33e581bc","toSide":"top"},
+		{"id":"4d12be8a9cf742ab","fromNode":"41ee02ce33e581bc","fromSide":"bottom","toNode":"cbd0df79dd411c78","toSide":"top"},
+		{"id":"601a7457652232ad","fromNode":"5cbdc7080dbba72d","fromSide":"bottom","toNode":"6c7a0048d882f6ac","toSide":"top"},
+		{"id":"5e41f630e7a53f80","fromNode":"8a0ef165408b8914","fromSide":"bottom","toNode":"b5b973d6bbfa9c97","toSide":"top"},
+		{"id":"17d8d766046a53c2","fromNode":"8a0ef165408b8914","fromSide":"bottom","toNode":"903992e83e5782c0","toSide":"top"},
+		{"id":"aa7fde2e6addff44","fromNode":"5cbdc7080dbba72d","fromSide":"bottom","toNode":"2a7e05bea99ca771","toSide":"top"},
+		{"id":"c40fca8f0ba85aa8","fromNode":"21b6e8b47effccfc","fromSide":"top","toNode":"2bf1b5c71646bbf1","toSide":"bottom"},
+		{"id":"4e4c4a68c843a492","fromNode":"21b6e8b47effccfc","fromSide":"top","toNode":"f825412ac7df9ab7","toSide":"bottom"},
+		{"id":"222214c87ac06de1","fromNode":"6c7a0048d882f6ac","fromSide":"bottom","toNode":"1c73006e845d4101","toSide":"top"},
+		{"id":"6a212b22dff09d32","fromNode":"1c73006e845d4101","fromSide":"bottom","toNode":"0ae50013bfa681da","toSide":"top"},
+		{"id":"00650583713f82da","fromNode":"0ae50013bfa681da","fromSide":"bottom","toNode":"7ef4c443f40a5ce2","toSide":"top"},
+		{"id":"9679907f508aa8b5","fromNode":"0ae50013bfa681da","fromSide":"bottom","toNode":"f909407c75d04fb8","toSide":"top"},
+		{"id":"200d6bc96ae94935","fromNode":"0ae50013bfa681da","fromSide":"bottom","toNode":"10324fb030df0602","toSide":"top"},
+		{"id":"3bcd95e35d6667a9","fromNode":"0ae50013bfa681da","fromSide":"bottom","toNode":"21d60e23ada94b27","toSide":"top"},
+		{"id":"78f688935e870b65","fromNode":"6c7a0048d882f6ac","fromSide":"bottom","toNode":"a99ec2d718324142","toSide":"top"},
+		{"id":"55857dcedd6ffb1b","fromNode":"6c7fe62ce7a625ba","fromSide":"bottom","toNode":"20a931d4daa35ad3","toSide":"top"},
+		{"id":"e49315d93ea980d0","fromNode":"6c7fe62ce7a625ba","fromSide":"bottom","toNode":"daab5856181c68e3","toSide":"top"},
+		{"id":"d27fe17b2da11bc6","fromNode":"6c7fe62ce7a625ba","fromSide":"bottom","toNode":"f3d620fd62237328","toSide":"top"},
+		{"id":"aec269b9b6367994","fromNode":"6c7fe62ce7a625ba","fromSide":"bottom","toNode":"203da1a14dd6ec61","toSide":"top"},
+		{"id":"d59e97f165929ee8","fromNode":"a99ec2d718324142","fromSide":"bottom","toNode":"6c7fe62ce7a625ba","toSide":"top"},
+		{"id":"64c8dd2bd38a8e0d","fromNode":"5cbdc7080dbba72d","fromSide":"right","toNode":"ef7a0cf51c13213a","toSide":"left"},
+		{"id":"960f47f67b2d62a4","fromNode":"ef7a0cf51c13213a","fromSide":"right","toNode":"039f71f5eae310e4","toSide":"left"},
+		{"id":"53bf99bfa5b0bc84","fromNode":"ef7a0cf51c13213a","fromSide":"right","toNode":"e5e3e47c5cef8d4f","toSide":"left"},
+		{"id":"b256c599d1fc58f0","fromNode":"1c73006e845d4101","fromSide":"left","toNode":"039f71f5eae310e4","toSide":"left"},
+		{"id":"b2a4bf2e687a02b1","fromNode":"a99ec2d718324142","fromSide":"right","toNode":"e5e3e47c5cef8d4f","toSide":"left"},
+		{"id":"6276a8f46f3d339e","fromNode":"039f71f5eae310e4","fromSide":"right","toNode":"c1cbc66d1bac779b","toSide":"left"},
+		{"id":"4cade2e67d9baa76","fromNode":"039f71f5eae310e4","fromSide":"right","toNode":"219e36442d392e1b","toSide":"left"},
+		{"id":"aee19a5f53d26310","fromNode":"e5e3e47c5cef8d4f","fromSide":"right","toNode":"c7403a5a939bdf92","toSide":"left"},
+		{"id":"e7a1be9d1fd0d512","fromNode":"e5e3e47c5cef8d4f","fromSide":"right","toNode":"7ce033fc63421b11","toSide":"left"},
+		{"id":"6c0ad1e1c4ffb767","fromNode":"6c7a0048d882f6ac","fromSide":"bottom","toNode":"b5b973d6bbfa9c97","toSide":"bottom"},
+		{"id":"40c1395e16707fed","fromNode":"21b6e8b47effccfc","fromSide":"left","toNode":"4c6ba3b3be5fb1ac","toSide":"right"},
+		{"id":"d11bd0f67a60f083","fromNode":"41ee02ce33e581bc","fromSide":"bottom","toNode":"bc4044cf86242894","toSide":"top"},
+		{"id":"e8cffaca2a8f2c92","fromNode":"d73c3da8bb849a8f","fromSide":"right","toNode":"ac2688a50e07ba9b","toSide":"left"},
+		{"id":"907a018a179e1911","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"d451b5c1b8a27d57","toSide":"top"},
+		{"id":"8a23deebb9cb92b4","fromNode":"21b6e8b47effccfc","fromSide":"top","toNode":"66ca1a33da8eecd3","toSide":"bottom"},
+		{"id":"e58b30992483160d","fromNode":"5cbdc7080dbba72d","fromSide":"bottom","toNode":"373382fc8b9eaffd","toSide":"top"},
+		{"id":"f56c335bb36732a0","fromNode":"21b6e8b47effccfc","fromSide":"top","toNode":"c12d5c72bc92e8b6","toSide":"bottom"},
+		{"id":"b1b5ce043ec5731f","fromNode":"21b6e8b47effccfc","fromSide":"top","toNode":"7dc62bd23481ab63","toSide":"bottom"},
+		{"id":"d8c0fecd9c60ac27","fromNode":"a75e543204d146f9","fromSide":"right","toNode":"0ae50013bfa681da","toSide":"top"},
+		{"id":"2ba7614b458e1d03","fromNode":"4c6ba3b3be5fb1ac","fromSide":"bottom","toNode":"903992e83e5782c0","toSide":"bottom","label":" "},
+		{"id":"e67c1f41ecf9edc1","fromNode":"b5b973d6bbfa9c97","fromSide":"left","toNode":"4b1ba1b63ed816bc","toSide":"right"},
+		{"id":"fcb025ba37022ba5","fromNode":"b5b973d6bbfa9c97","fromSide":"left","toNode":"c499b676b13a0897","toSide":"right"},
+		{"id":"6b5f63afda36b65d","fromNode":"cbd0df79dd411c78","fromSide":"bottom","toNode":"00b784b21ede23e5","toSide":"top"},
+		{"id":"0edf34bc7c27f11a","fromNode":"cbd0df79dd411c78","fromSide":"bottom","toNode":"f89823a937d719ae","toSide":"top"},
+		{"id":"175b43f17381753a","fromNode":"bc4044cf86242894","fromSide":"bottom","toNode":"2d832570be5f7f4b","toSide":"top"},
+		{"id":"b19d757c9216aba1","fromNode":"f89823a937d719ae","fromSide":"right","toNode":"2d832570be5f7f4b","toSide":"bottom"},
+		{"id":"224824c2761d0003","fromNode":"a75e543204d146f9","fromSide":"right","toNode":"6c7fe62ce7a625ba","toSide":"left"},
+		{"id":"e85fb56a210ae2a2","fromNode":"daab5856181c68e3","fromSide":"bottom","toNode":"1553a736a3999df0","toSide":"top"},
+		{"id":"55366ce1af9721d3","fromNode":"203da1a14dd6ec61","fromSide":"bottom","toNode":"ed395c3a957576f0","toSide":"top"}
+	],
+	"viewport":{"x":918.5173320332556,"y":583.8059834153679,"zoom":0.3256098871386546}
 }
