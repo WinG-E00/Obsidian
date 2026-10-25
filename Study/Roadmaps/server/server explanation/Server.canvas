@@ -49,7 +49,7 @@
 		{"id":"7ef4c443f40a5ce2","type":"text","text":"[[Create sequelize]]","x":-610,"y":662,"width":250,"height":60},
 		{"id":"2a7e05bea99ca771","type":"text","text":"validadores\n","x":260,"y":-329,"width":250,"height":60},
 		{"id":"ed395c3a957576f0","x":1633,"y":800,"width":250,"height":60,"type":"text","text":"eliminacion en cascada\n"},
-		{"id":"1553a736a3999df0","x":840,"y":830,"width":250,"height":60,"type":"text","text":"populate\n"}
+		{"id":"1553a736a3999df0","x":840,"y":830,"width":250,"height":60,"type":"text","text":"[[populate]]"}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},

@@ -120,6 +120,10 @@ Es un modificador de consulta. Evita construir documentos de Mongoose: el result
 const usuarios = await Usuario.find({ activo: true }).lean();
 ```
 
+## populate(): consultar documentos relacionados
+
+Completá una referencia con los datos del documento relacionado. La configuración de `ref` y los ejemplos están en [[populate]].
+
 ## Ejemplo dentro de un controlador
 
 La ruta `/usuarios/:id` aporta el identificador mediante `req.params.id`. El modelo consulta y `res` envía la respuesta.
