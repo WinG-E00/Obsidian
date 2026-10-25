@@ -1,6 +1,20 @@
 {
-	"nodes":[
-		{"id":"113c53a95e11f14a","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Prostgress"}
-	],
-	"edges":[]
+  "nodes": [
+    {
+      "id": "113c53a95e11f14a",
+      "x": -125,
+      "y": -30,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Prostgress",
+      "nodeLabel": "N1"
+    }
+  ],
+  "edges": [],
+  "viewport": {
+    "x": 481.44279588237123,
+    "y": 490.8547400471011,
+    "zoom": 1.5188946217476162
+  }
 }
