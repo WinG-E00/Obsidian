@@ -1,4 +1,4 @@
 Verde 1
-Rojo
-Azul
+Rojo 4
+Azul 2
 dorado  3
