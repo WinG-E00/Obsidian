@@ -41,7 +41,7 @@ if (usuario) {
 
 ## truncate(): vaciar una tabla
 
-Elimina todas sus filas y conserva la estructura. No permite seleccionar registros con `where`. Las restricciones por relaciones y el comportamiento del contador de IDs dependen del motor y de las opciones. [Referencia de truncate](https://sequelize.org/api/v6/class/src/model.js~model#static-method-truncate)
+En un modelo sin borrado lógico, elimina todas sus filas y conserva la estructura. Al truncar físicamente, `where` no limita las filas. Las restricciones por relaciones y el comportamiento del contador de IDs dependen del motor y de las opciones. [Referencia de truncate](https://sequelize.org/api/v6/class/src/model.js~model#static-method-truncate)
 
 ```js
 await Usuario.truncate();
@@ -70,6 +70,8 @@ await Usuario.destroy({
 });
 ```
 
-Para recuperar un borrado lógico, usá [[Update sequelize#restore(): recuperar un registro con borrado lógico|restore()]]. `truncate()` vacía físicamente la tabla; no se comporta como el borrado lógico de `destroy()`.
+Para recuperar un borrado lógico, usá [[Update sequelize#restore(): recuperar un registro con borrado lógico|restore()]].
+
+En Sequelize 6, `truncate()` delega en `destroy()`: si el modelo es `paranoid`, también aplica el borrado lógico salvo que pases `force: true`. Para vaciar físicamente ese modelo, sería `await Usuario.truncate({ force: true })`. [Implementación de truncate y destroy en Sequelize 6](https://github.com/sequelize/sequelize/blob/v6/src/model.js)
 
 Relacionadas: [[Create sequelize]] · [[Read sequelize]] · [[Update sequelize]].
