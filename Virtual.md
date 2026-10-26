@@ -88,8 +88,10 @@ storeSchema.virtual('habilitacion', {
 storeSchema.set('toJSON', { virtuals: true });
 
   
-xexport const StoreModel = model("Store", storeSchema);
+export const StoreModel = model("Store", storeSchema);
 
 
 
 ```
+
+
