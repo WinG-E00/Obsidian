@@ -67,7 +67,7 @@
 		{"id":"989bfc26357967d3","x":1440,"y":-930,"width":250,"height":60,"type":"text","text":"relacion uno a uno sequelize\n"},
 		{"id":"a0dd697383d1da23","x":1440,"y":-830,"width":250,"height":60,"type":"text","text":"relacion uno a muchos sequelize\n"},
 		{"id":"e010dbc1c577c409","x":1410,"y":-720,"width":250,"height":60,"type":"text","text":"relacion muchos a muchos sequelize\n"},
-		{"id":"51de9bac66d3f699","x":1590,"y":-1110,"width":230,"height":116,"type":"text","text":""}
+		{"id":"51de9bac66d3f699","x":1590,"y":-1110,"width":230,"height":116,"type":"text","text":"[[Informacion de ayuda para las relaciones con sequelize]]"}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
