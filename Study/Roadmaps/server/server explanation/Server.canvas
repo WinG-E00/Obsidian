@@ -53,11 +53,12 @@
 		{"id":"c12d5c72bc92e8b6","type":"text","text":"[[cookie-parser]]\n","nodeLabel":"N27","x":-1423,"y":-919,"width":250,"height":60},
 		{"id":"67dfcf56336d747a","type":"text","text":"[[dotenv]]\n","x":-1080,"y":-859,"width":250,"height":60},
 		{"id":"495e90a2c60c13aa","type":"text","text":"mongoose\n","x":-1975,"y":-642,"width":250,"height":60},
-		{"id":"4c6ba3b3be5fb1ac","type":"text","text":"express-validator\n","nodeLabel":"N19","x":-2100,"y":-488,"width":250,"height":60},
 		{"id":"4852e7123b77d8de","x":1178,"y":-338,"width":250,"height":60,"type":"text","text":"referencias en los modelos con mongoose\n"},
 		{"id":"3a61e37ab053f6d7","x":1020,"y":-820,"width":250,"height":60,"type":"text","text":"referencias en los modelos con sequelize\n"},
 		{"id":"01df1f3131beaf13","x":1292,"y":-203,"width":250,"height":60,"type":"text","text":"Virtual"},
-		{"id":"9114e3de8af97c4f","x":-2331,"y":-360,"width":250,"height":60,"type":"text","text":""}
+		{"id":"4c6ba3b3be5fb1ac","type":"text","text":"express-validator\n","nodeLabel":"N19","x":-2100,"y":-520,"width":250,"height":60},
+		{"id":"9114e3de8af97c4f","x":-2580,"y":-580,"width":250,"height":60,"type":"text","text":""},
+		{"id":"3ae143f7575afc7b","x":-2661,"y":-451,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
@@ -122,7 +123,8 @@
 		{"id":"2187325205e478dd","fromNode":"7ce033fc63421b11","fromSide":"bottom","toNode":"4852e7123b77d8de","toSide":"left"},
 		{"id":"4eec1d7e0e753b0b","fromNode":"219e36442d392e1b","fromSide":"bottom","toNode":"3a61e37ab053f6d7","toSide":"left"},
 		{"id":"1a2b972a0dce95cc","fromNode":"4852e7123b77d8de","fromSide":"bottom","toNode":"01df1f3131beaf13","toSide":"top"},
-		{"id":"d43fab29500b6bed","fromNode":"4c6ba3b3be5fb1ac","fromSide":"bottom","toNode":"9114e3de8af97c4f","toSide":"top"}
+		{"id":"d43fab29500b6bed","fromNode":"4c6ba3b3be5fb1ac","fromSide":"left","toNode":"9114e3de8af97c4f","toSide":"right"},
+		{"id":"3a7f32f99e641fe4","fromNode":"4c6ba3b3be5fb1ac","fromSide":"left","toNode":"3ae143f7575afc7b","toSide":"right"}
 	],
 	"viewport":{"x":918.5173320332556,"y":583.8059834153679,"zoom":0.3256098871386546}
 }
