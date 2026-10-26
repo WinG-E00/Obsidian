@@ -1,6 +1,5 @@
 Alumno: Gaston Encina
 
-
 | English term  | Significado                                     |
 | ------------- | ----------------------------------------------- |
 | 1. API        | Interfaz de programación de aplicaciones        |
