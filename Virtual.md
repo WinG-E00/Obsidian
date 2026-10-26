@@ -3,7 +3,7 @@ El virtual se va a crear dentro de el archivo en donde no esta la referencia en 
 
 El virtual sirve basicamente para poder traer los parametros de un modelo que tiene referencias
 
-Por ejemplo modelo habilitacion 
+Por ejemplo modelo habilitacion tiene referenciado a el modelo tienda, por lo que este podria hacer un populate y traer sus propiedades con el populate pero el modelo tienda no podria entonces por eso se ce
 ```js
 const habilitacionSchema = new Schema({
 
