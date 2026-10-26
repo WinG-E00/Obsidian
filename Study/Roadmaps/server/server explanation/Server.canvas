@@ -51,7 +51,7 @@
 		{"id":"66ca1a33da8eecd3","type":"text","text":"sequelize\n","nodeLabel":"N22","x":-1173,"y":-1100,"width":250,"height":60},
 		{"id":"2bf1b5c71646bbf1","type":"text","text":"[[bcrypt]]\n","nodeLabel":"N21","x":-1740,"y":-949,"width":250,"height":60},
 		{"id":"c12d5c72bc92e8b6","type":"text","text":"[[cookie-parser]]\n","nodeLabel":"N27","x":-1423,"y":-919,"width":250,"height":60},
-		{"id":"67dfcf56336d747a","x":-1080,"y":-859,"width":250,"height":60,"type":"text","text":"dotenv\n"},
+		{"id":"67dfcf56336d747a","x":-1080,"y":-859,"width":250,"height":60,"type":"text","text":"[[dotenv]]\n"},
 		{"id":"495e90a2c60c13aa","x":-1975,"y":-642,"width":250,"height":60,"type":"text","text":"mongoose\n"},
 		{"id":"4c6ba3b3be5fb1ac","type":"text","text":"express-validator\n","nodeLabel":"N19","x":-2100,"y":-488,"width":250,"height":60}
 	],
