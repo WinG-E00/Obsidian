@@ -5,7 +5,6 @@
 		{"id":"41ee02ce33e581bc","type":"text","text":"Configuracion de la database\n","nodeLabel":"N3","x":-631,"y":-269,"width":250,"height":60},
 		{"id":"a99ec2d718324142","type":"text","text":"Metodos crud de controladores de mongoose\n","nodeLabel":"N4","x":446,"y":70,"width":250,"height":60},
 		{"id":"1c73006e845d4101","type":"text","text":"Metodos crud de controladores de sequelize\n","nodeLabel":"N5","x":43,"y":70,"width":342,"height":73},
-		{"id":"ef7a0cf51c13213a","type":"text","text":"Modelos\n","nodeLabel":"N6","x":-82,"y":-672,"width":250,"height":60},
 		{"id":"039f71f5eae310e4","type":"text","text":"Sequelize\n","nodeLabel":"N7","x":320,"y":-960,"width":250,"height":60},
 		{"id":"c1cbc66d1bac779b","type":"text","text":"Estructura del modelo\n","nodeLabel":"N8","x":700,"y":-1140,"width":250,"height":60},
 		{"id":"219e36442d392e1b","type":"text","text":"[[creacion modelo sequelize]]\n","nodeLabel":"N9","x":700,"y":-960,"width":250,"height":60},
@@ -58,7 +57,8 @@
 		{"id":"01df1f3131beaf13","x":1292,"y":-203,"width":250,"height":60,"type":"text","text":"Virtual"},
 		{"id":"4c6ba3b3be5fb1ac","type":"text","text":"express-validator\n","nodeLabel":"N19","x":-2040,"y":-430,"width":250,"height":60},
 		{"id":"9114e3de8af97c4f","x":-2600,"y":-488,"width":250,"height":70,"type":"text","text":"Importaciones\n"},
-		{"id":"3ae143f7575afc7b","x":-2600,"y":-346,"width":250,"height":70,"type":"text","text":"Selecciones de campos\n"}
+		{"id":"3ae143f7575afc7b","x":-2600,"y":-346,"width":250,"height":70,"type":"text","text":"Selecciones de campos\n"},
+		{"id":"ef7a0cf51c13213a","type":"text","text":"Modelos\n","nodeLabel":"N6","x":-128,"y":-720,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
