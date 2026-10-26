@@ -27,3 +27,11 @@ c)
 
 ![[../../Pasted image 20261026102645.png]]
 
+
+
+
+
+A materia 04
+![[../../Pasted image 20261026103145.png]]
+
+a materia 
