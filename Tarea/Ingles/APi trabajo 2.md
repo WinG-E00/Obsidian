@@ -34,8 +34,7 @@ library – API – documentation – function – framework
 
 **Actividad 3 resolucion**
 
-1. Application Programming Interface
-
-
+1. Application Programming Interface 
+2. allows two 
 
 
