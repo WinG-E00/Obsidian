@@ -61,11 +61,11 @@ Indicar si las afirmaciones son verdaderas o falsas. Corregir las falsas.
 ## Actividad 5: Complete the sentences.
 
 Completar los espacios con la forma correcta del verbo entre paréntesis.
-1. If you __ (read) the documentation, you __________ (understand) the API.
-2. If the developer __ (install) the library, the program __ (use) its
+1. If you read (read) the documentation, you will undersand (understand) the API.
+2. If the developer intall (install) the library, the program will use (use) its
 functions.
-3. If we __ (not test) the code, we __ (not find) some errors.
+3. If we not test (not test) the code, we __ (not find) some errors.
 4. If the API __ (return) an error, the application __ (show) a message.
-5. If you __________ (follow) the instructions, you __________ (configure) the framework
+5. If you __ (follow) the instructions, you __ (configure) the framework
 correctly.
 
