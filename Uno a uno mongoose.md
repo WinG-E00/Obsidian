@@ -93,36 +93,3 @@ export default Perfil;
 
 **El índice único impide crear dos perfiles con el mismo usuario.** Debe existir en MongoDB para garantizar la unicidad; `unique` no es un validador de Mongoose. Un duplicado genera normalmente un error `E11000`. [Unicidad e índices](https://mongoosejs.com/docs/validation.html#the-unique-option-is-not-a-validator)
 
-## 4. Usar populate desde ambos modelos
-
-Dentro de una función `async`, con ambos modelos registrados y los identificadores correspondientes:
-
-```js
-// Desde Usuario hacia Perfil: usa el virtual.
-const usuario = await Usuario.findById(idUsuario).populate('perfil');
-
-console.log(usuario?.perfil?.biografia);
-```
-
-```js
-// Desde Perfil hacia Usuario: usa la referencia guardada.
-const perfil = await Perfil.findById(idPerfil).populate('usuario');
-
-console.log(perfil?.usuario?.nombre);
-```
-
-| Consulta | Propiedad poblada |
-| --- | --- |
-| `Usuario.findById(...).populate('perfil')` | `usuario.perfil` |
-| `Perfil.findById(...).populate('usuario')` | `perfil.usuario` |
-
-El virtual `perfil` se completa durante la consulta y no se guarda en MongoDB. Si no hay perfil relacionado, el virtual poblado devuelve `null`. [Población](https://mongoosejs.com/docs/populate.html) · [Resultado singular del virtual](https://mongoosejs.com/docs/api/virtualtype.html)
-
-## Qué garantiza esta definición
-
-- Cada perfil debe informar un identificador de usuario.
-- El índice único permite como máximo un perfil por usuario; no obliga a todos los usuarios a tener perfil.
-- `ref` no comprueba por sí solo que ese usuario exista ni implementa borrado en cascada: esas reglas las resuelve tu aplicación.
-- `justOne: true` devuelve un resultado singular; la unicidad depende del índice en la base.
-
-Relacionadas: [[Creacion del modelo mongoose]] · [[Tipos de datos mongoose]] · [[populate]] · [[creacion database con mongose]].
