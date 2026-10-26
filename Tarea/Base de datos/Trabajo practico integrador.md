@@ -14,3 +14,10 @@ c)
 ![[../../Pasted image 20261026095252.png]]
 
 ![[../../Pasted image 20261026095314.png]]
+
+
+
+# Punto 2
+
+![[../../Pasted image 20261026100620.png]]
+![[../../Pasted image 20261026100602.png]]
