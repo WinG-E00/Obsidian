@@ -35,6 +35,7 @@ library – API – documentation – function – framework
 **Actividad 3 resolucion**
 
 1. Application Programming Interface 
-2. allows two 
+2. Allows two software to communicate with each other
+3. How to use it, enpoints, pa
 
 
