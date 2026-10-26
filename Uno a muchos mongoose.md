@@ -53,6 +53,8 @@ autorSchema.virtual('articulos', {
   justOne: false           // Resultado como arreglo: puede haber varios artículos.
 });
 
+
+
 // El virtual no se guarda en MongoDB ni se carga automáticamente.
 // toJSON y toObject permiten incluirlo en la salida cuando esté cargado.
 
