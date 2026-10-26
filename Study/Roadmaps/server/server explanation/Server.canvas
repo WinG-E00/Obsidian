@@ -56,9 +56,9 @@
 		{"id":"4852e7123b77d8de","x":1178,"y":-338,"width":250,"height":60,"type":"text","text":"referencias en los modelos con mongoose\n"},
 		{"id":"3a61e37ab053f6d7","x":1020,"y":-820,"width":250,"height":60,"type":"text","text":"referencias en los modelos con sequelize\n"},
 		{"id":"01df1f3131beaf13","x":1292,"y":-203,"width":250,"height":60,"type":"text","text":"Virtual"},
-		{"id":"4c6ba3b3be5fb1ac","type":"text","text":"express-validator\n","nodeLabel":"N19","x":-2100,"y":-520,"width":250,"height":60},
-		{"id":"9114e3de8af97c4f","x":-2660,"y":-582,"width":250,"height":60,"type":"text","text":"Importaciones\n"},
-		{"id":"3ae143f7575afc7b","x":-2660,"y":-460,"width":250,"height":60,"type":"text","text":"Selecciones de campos\n"}
+		{"id":"4c6ba3b3be5fb1ac","type":"text","text":"express-validator\n","nodeLabel":"N19","x":-2040,"y":-430,"width":250,"height":60},
+		{"id":"9114e3de8af97c4f","x":-2600,"y":-488,"width":250,"height":70,"type":"text","text":"Importaciones\n"},
+		{"id":"3ae143f7575afc7b","x":-2600,"y":-346,"width":250,"height":70,"type":"text","text":"Selecciones de campos\n"}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
