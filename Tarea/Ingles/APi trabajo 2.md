@@ -32,6 +32,10 @@ library – API – documentation – function – framework
 5. What does a framework provide?
 6. Why should developers read documentation?
 
+**Actividad 3 resolucion**
+
+1. Application Programming Interface
+
 
 
 
