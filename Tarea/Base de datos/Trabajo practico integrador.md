@@ -48,7 +48,437 @@ a materia 08
 # Punto 3
 ![[../../Pasted image 20261026105606.png]]
 
-![[../../Pasted image 20261026105625.png]]
+## Resultado
+```js
+{
+  _id: '54251412',
+  fila: 2950,
+  pasodegrado: 'S',
+  apellido: 'Encina',
+  nombre: 'Samuel Pablo',
+  sexo: 'M',
+  nacionalidad: 'Argentino/a',
+  fecha_nacim: ISODate('2015-02-10T03:00:00.000Z'),
+  oferta2021: 102,
+  CUE2021: 340065700,
+  plan2021: 'Fsa2310201',
+  grado2021: 1,
+  oferta2022: 102,
+  CUE2022: 340065700,
+  plan2022: 'Fsa2310201',
+  grado2022: 2,
+  domicilio: {
+    barrio: 'EVA PERON'
+  },
+  historia_academica: [
+    {
+      _id: {
+        dni: '54251412',
+        anio_lectivo: '2021',
+        plan: 'Fsa2310201',
+        anio_que_cursa: '1',
+        materia_nro: '01'
+      },
+      trimestre1: [
+        9,
+        10,
+        10
+      ],
+      trimestre2: [
+        9,
+        9,
+        10,
+        10,
+        9,
+        9
+      ],
+      trimestre3: [
+        9,
+        9,
+        10,
+        9,
+        10
+      ]
+    },
+    {
+      _id: {
+        dni: '54251412',
+        anio_lectivo: '2021',
+        plan: 'Fsa2310201',
+        anio_que_cursa: '1',
+        materia_nro: '02'
+      },
+      trimestre1: [
+        9,
+        9,
+        10
+      ],
+      trimestre2: [
+        9,
+        9,
+        10,
+        9
+      ],
+      trimestre3: [
+        9,
+        9,
+        10,
+        9,
+        9
+      ]
+    },
+    {
+      _id: {
+        dni: '54251412',
+        anio_lectivo: '2021',
+        plan: 'Fsa2310201',
+        anio_que_cursa: '1',
+        materia_nro: '03'
+      },
+      trimestre1: [
+        10,
+        9,
+        9,
+        10,
+        9,
+        10
+      ],
+      trimestre2: [
+        10,
+        10,
+        9,
+        9,
+        10
+      ],
+      trimestre3: [
+        9,
+        10,
+        10,
+        9,
+        9,
+        9
+      ]
+    },
+    {
+      _id: {
+        dni: '54251412',
+        anio_lectivo: '2021',
+        plan: 'Fsa2310201',
+        anio_que_cursa: '1',
+        materia_nro: '04'
+      },
+      trimestre1: [
+        10,
+        9,
+        9,
+        9,
+        10,
+        9
+      ],
+      trimestre2: [
+        10,
+        10,
+        9,
+        10
+      ],
+      trimestre3: [
+        9,
+        9,
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      _id: {
+        dni: '54251412',
+        anio_lectivo: '2021',
+        plan: 'Fsa2310201',
+        anio_que_cursa: '1',
+        materia_nro: '05'
+      },
+      trimestre1: [
+        10,
+        10,
+        10,
+        9,
+        9,
+        9
+      ],
+      trimestre2: [
+        10,
+        9,
+        9
+      ],
+      trimestre3: [
+        10,
+        9,
+        10,
+        9
+      ]
+    },
+    {
+      _id: {
+        dni: '54251412',
+        anio_lectivo: '2021',
+        plan: 'Fsa2310201',
+        anio_que_cursa: '1',
+        materia_nro: '06'
+      },
+      trimestre1: [
+        9,
+        9,
+        9,
+        10,
+        10,
+        9
+      ],
+      trimestre2: [
+        9,
+        9,
+        10
+      ],
+      trimestre3: [
+        9,
+        9,
+        9,
+        9,
+        10
+      ]
+    },
+    {
+      _id: {
+        dni: '54251412',
+        anio_lectivo: '2021',
+        plan: 'Fsa2310201',
+        anio_que_cursa: '1',
+        materia_nro: '07'
+      },
+      trimestre1: [
+        9,
+        9,
+        10,
+        10,
+        10
+      ],
+      trimestre2: [
+        10,
+        10,
+        9,
+        9
+      ],
+      trimestre3: [
+        10,
+        9,
+        10,
+        9,
+        10
+      ]
+    },
+    {
+      _id: {
+        dni: '54251412',
+        anio_lectivo: '2022',
+        plan: 'Fsa2310201',
+        anio_que_cursa: '2',
+        materia_nro: '01'
+      },
+      trimestre1: [
+        10,
+        9,
+        10,
+        9,
+        10
+      ],
+      trimestre2: [
+        10,
+        9,
+        10
+      ],
+      trimestre3: [
+        9,
+        10,
+        9,
+        9,
+        10
+      ]
+    },
+    {
+      _id: {
+        dni: '54251412',
+        anio_lectivo: '2022',
+        plan: 'Fsa2310201',
+        anio_que_cursa: '2',
+        materia_nro: '02'
+      },
+      trimestre1: [
+        9,
+        10,
+        10,
+        9,
+        10,
+        9
+      ],
+      trimestre2: [
+        10,
+        10,
+        9,
+        9,
+        10
+      ],
+      trimestre3: [
+        9,
+        9,
+        9,
+        10
+      ]
+    },
+    {
+      _id: {
+        dni: '54251412',
+        anio_lectivo: '2022',
+        plan: 'Fsa2310201',
+        anio_que_cursa: '2',
+        materia_nro: '03'
+      },
+      trimestre1: [
+        10,
+        10,
+        9,
+        9
+      ],
+      trimestre2: [
+        9,
+        10,
+        9,
+        9,
+        9
+      ],
+      trimestre3: [
+        9,
+        9,
+        9
+      ]
+    },
+    {
+      _id: {
+        dni: '54251412',
+        anio_lectivo: '2022',
+        plan: 'Fsa2310201',
+        anio_que_cursa: '2',
+        materia_nro: '04'
+      },
+      trimestre1: [
+        9,
+        9,
+        10,
+        9,
+        9
+      ],
+      trimestre2: [
+        9,
+        10,
+        10,
+        9,
+        10
+      ],
+      trimestre3: [
+        10,
+        9,
+        10,
+        9
+      ]
+    },
+    {
+      _id: {
+        dni: '54251412',
+        anio_lectivo: '2022',
+        plan: 'Fsa2310201',
+        anio_que_cursa: '2',
+        materia_nro: '05'
+      },
+      trimestre1: [
+        10,
+        9,
+        10,
+        9,
+        9,
+        10
+      ],
+      trimestre2: [
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      trimestre3: [
+        10,
+        9,
+        10,
+        9,
+        9,
+        9
+      ]
+    },
+    {
+      _id: {
+        dni: '54251412',
+        anio_lectivo: '2022',
+        plan: 'Fsa2310201',
+        anio_que_cursa: '2',
+        materia_nro: '06'
+      },
+      trimestre1: [
+        10,
+        10,
+        10,
+        10
+      ],
+      trimestre2: [
+        10,
+        9,
+        9,
+        10,
+        9,
+        9
+      ],
+      trimestre3: [
+        9,
+        10,
+        10,
+        9,
+        10,
+        9
+      ]
+    },
+    {
+      _id: {
+        dni: '54251412',
+        anio_lectivo: '2022',
+        plan: 'Fsa2310201',
+        anio_que_cursa: '2',
+        materia_nro: '07'
+      },
+      trimestre1: [
+        9,
+        10,
+        9,
+        9
+      ],
+      trimestre2: [
+        9,
+        10,
+        10
+      ],
+      trimestre3: [
+        10,
+        10,
+        10
+      ]
+    }
+  ]
+}
 
-![[../../Pasted image 20261026105723.png]]
-![[../../Pasted image 20261026105745.png]]
+
+```
