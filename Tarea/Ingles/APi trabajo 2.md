@@ -66,6 +66,6 @@ Completar los espacios con la forma correcta del verbo entre paréntesis.
 functions.
 3. If we not test (not test) the code, we would (not find) some errors.
 4. If the API returns (return) an error, the application will (show) a message.
-5. If you __ (follow) the instructions, you __ (configure) the framework
+5. If you follow (follow) the instructions, you can (configure) the framework
 correctly.
 
