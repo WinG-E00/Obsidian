@@ -19,6 +19,6 @@ library – API – documentation – function – framework
 1. An API allows different software applications to communicate.
 2. A library contains reusable code.
 3. Developers read the documentacion to understand how a tool works.
-4. A __________ performs a specific task.
+4. A  performs a specific task.
 
 5. A __________ provides a structure for building applications.
