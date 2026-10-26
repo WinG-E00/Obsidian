@@ -53,5 +53,19 @@ Indicar si las afirmaciones son verdaderas o falsas. Corregir las falsas.
 * True
 * False
 * True
-* 
+* True
+* False
+
+
+
+## Actividad 5: Complete the sentences.
+
+Completar los espacios con la forma correcta del verbo entre paréntesis.
+1. If you __________ (read) the documentation, you __________ (understand) the API.
+2. If the developer __________ (install) the library, the program __________ (use) its
+functions.
+3. If we __________ (not test) the code, we __________ (not find) some errors.
+4. If the API __________ (return) an error, the application __________ (show) a message.
+5. If you __________ (follow) the instructions, you __________ (configure) the framework
+correctly.
 
