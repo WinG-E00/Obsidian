@@ -42,3 +42,10 @@ a materia 07
 ![[../../Pasted image 20261026103634.png]]
 a materia 08
 ![[../../Pasted image 20261026103655.png]]
+
+
+
+# Punto 3
+![[../../Pasted image 20261026105606.png]]
+
+![[../../Pasted image 20261026105625.png]]
