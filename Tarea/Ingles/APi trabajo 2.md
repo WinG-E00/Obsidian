@@ -64,7 +64,7 @@ Completar los espacios con la forma correcta del verbo entre paréntesis.
 1. If you read (read) the documentation, you will undersand (understand) the API.
 2. If the developer install (install) the library, the program will (use) its
 functions.
-3. If we not test (not test) the code, we would (not find) some errors.
+3. If we did not test the code, we would'txx (not find) some errors.
 4. If the API returns (return) an error, the application will (show) a message.
 5. If you follow (follow) the instructions, you can (configure) the framework
 correctly.
