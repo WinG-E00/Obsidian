@@ -61,7 +61,9 @@
 		{"id":"3ae143f7575afc7b","type":"text","text":"Selecciones de campos\n","x":-2591,"y":-463,"width":250,"height":66},
 		{"id":"c6949dce904529bc","type":"text","text":"metodos","x":-2591,"y":-340,"width":250,"height":60},
 		{"id":"01df1f3131beaf13","type":"text","text":"Virtual","x":1075,"y":-140,"width":250,"height":60},
-		{"id":"32e3f74153000b3a","x":1626,"y":-390,"width":250,"height":60,"type":"text","text":"Uno a uno"}
+		{"id":"32e3f74153000b3a","type":"text","text":"Uno a uno","x":1660,"y":-398,"width":250,"height":60},
+		{"id":"e240c9c954131740","x":1660,"y":-308,"width":250,"height":60,"type":"text","text":"1:N\n"},
+		{"id":"0fd0d0a615abc4ce","x":1660,"y":-200,"width":250,"height":60,"type":"text","text":"N:M"}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
@@ -130,7 +132,9 @@
 		{"id":"9f6f991a467cd9e7","fromNode":"4c6ba3b3be5fb1ac","fromSide":"left","toNode":"b504687898f0f7b0","toSide":"right"},
 		{"id":"5c563b7598350e2a","fromNode":"4c6ba3b3be5fb1ac","fromSide":"left","toNode":"c6949dce904529bc","toSide":"right"},
 		{"id":"688d842886dc87fc","fromNode":"7ce033fc63421b11","fromSide":"right","toNode":"26b6ad1a2ddcaecc","toSide":"left"},
-		{"id":"ce97e53707d4fbd6","fromNode":"4852e7123b77d8de","fromSide":"right","toNode":"32e3f74153000b3a","toSide":"left"}
+		{"id":"ce97e53707d4fbd6","fromNode":"4852e7123b77d8de","fromSide":"right","toNode":"32e3f74153000b3a","toSide":"left"},
+		{"id":"ad605b03ff79c6f4","fromNode":"4852e7123b77d8de","fromSide":"right","toNode":"e240c9c954131740","toSide":"left"},
+		{"id":"3d93a4a0f6caf8e4","fromNode":"4852e7123b77d8de","fromSide":"right","toNode":"0fd0d0a615abc4ce","toSide":"left"}
 	],
 	"viewport":{"x":918.5173320332556,"y":583.8059834153679,"zoom":0.3256098871386546}
 }
