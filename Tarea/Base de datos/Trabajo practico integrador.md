@@ -41,4 +41,4 @@ a materia 06
 a materia 07
 ![[../../Pasted image 20261026103634.png]]
 a materia 08
-
+![[../../Pasted image 20261026103655.png]]
