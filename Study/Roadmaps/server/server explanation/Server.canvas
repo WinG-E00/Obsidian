@@ -9,7 +9,7 @@
 		{"id":"039f71f5eae310e4","type":"text","text":"Sequelize\n","nodeLabel":"N7","x":320,"y":-960,"width":250,"height":60},
 		{"id":"c1cbc66d1bac779b","type":"text","text":"Estructura del modelo\n","nodeLabel":"N8","x":700,"y":-1140,"width":250,"height":60},
 		{"id":"219e36442d392e1b","type":"text","text":"[[creacion modelo sequelize]]\n","nodeLabel":"N9","x":700,"y":-960,"width":250,"height":60},
-		{"id":"5cbdc7080dbba72d","type":"text","text":"[[server]]","nodeLabel":"N10","x":-780,"y":-548,"width":250,"height":60},
+		{"id":"5cbdc7080dbba72d","type":"text","text":"[[server]] ","nodeLabel":"N10","x":-780,"y":-548,"width":250,"height":60},
 		{"id":"d73c3da8bb849a8f","type":"text","text":"[[Peticion o request]]\n","nodeLabel":"N11","x":-2420,"y":-1320,"width":269,"height":60},
 		{"id":"ac2688a50e07ba9b","type":"text","text":"Recorrido de una peticion\n","nodeLabel":"N12","x":-2031,"y":-1320,"width":300,"height":60},
 		{"id":"e5e3e47c5cef8d4f","type":"text","text":"Mongoose\n","nodeLabel":"N13","x":475,"y":-626,"width":250,"height":60},
