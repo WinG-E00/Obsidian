@@ -36,6 +36,8 @@ library – API – documentation – function – framework
 
 1. Application Programming Interface 
 2. Allows two software to communicate with each other
-3. How to use it, enpoints, pa
+3. How to use it, enpoints, parameters, request methods, responses and examples.
+4. A library is a reusable code that developers can use in their programs.
+5. A framework provide
 
 
