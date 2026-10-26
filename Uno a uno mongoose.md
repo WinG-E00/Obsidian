@@ -93,31 +93,6 @@ export default Perfil;
 
 **El índice único impide crear dos perfiles con el mismo usuario.** Debe existir en MongoDB para garantizar la unicidad; `unique` no es un validador de Mongoose. Un duplicado genera normalmente un error `E11000`. [Unicidad e índices](https://mongoosejs.com/docs/validation.html#the-unique-option-is-not-a-validator)
 
-## 3. Crear los documentos y relacionarlos
-
-Con la conexión ya abierta, importá ambos modelos. Adaptá las rutas a tu proyecto:
-
-```js
-import Usuario from './models/Usuario.js';
-import Perfil from './models/Perfil.js';
-
-async function crearEjemplo() {
-  // En desarrollo, con autoIndex habilitado, espera los índices.
-  await Perfil.init();
-
-  const usuario = await Usuario.create({ nombre: 'Ana' });
-
-  const perfil = await Perfil.create({
-    biografia: 'Estudiante de programación',
-    usuario: usuario._id
-  });
-
-  return { usuario, perfil };
-}
-```
-
-Guardás el identificador en `Perfil.usuario`. Si deshabilitaste la creación automática de índices, debés crear el índice único mediante tu gestión de índices. [Guardar referencias](https://mongoosejs.com/docs/populate.html#saving-refs) · [Esperar la creación del índice](https://mongoosejs.com/docs/validation.html#the-unique-option-is-not-a-validator)
-
 ## 4. Usar populate desde ambos modelos
 
 Dentro de una función `async`, con ambos modelos registrados y los identificadores correspondientes:
