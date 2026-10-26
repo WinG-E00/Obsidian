@@ -57,24 +57,22 @@ const habilitacionSchema = new Schema({
 
 const storeSchema = new Schema({
 
-  
-
-name:{
-type: String,
-requiered: true,
-unique: true,
-},
-
-location: {
-type: String,
-requiered: true,
-},
-
-estado: {
-type: String,
-enum: ['Activo', 'Inactivo'],
-default: 'Activo'
-}
+	name:{
+	type: String,
+	requiered: true,
+	unique: true,
+	},
+	
+	location: {
+	type: String,
+	requiered: true,
+	},
+	
+	estado: {
+	type: String,
+	enum: ['Activo', 'Inactivo'],
+	default: 'Activo'
+	}
 });
 
   
@@ -87,17 +85,10 @@ storeSchema.virtual('habilitacion', {
 	justOne: true
 })
 
-  
-  
-
 storeSchema.set('toJSON', { virtuals: true });
 
   
-  
-  
-  
-
-export const StoreModel = model("Store", storeSchema);
+xexport const StoreModel = model("Store", storeSchema);
 
 
 
