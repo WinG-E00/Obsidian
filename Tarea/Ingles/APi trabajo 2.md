@@ -38,6 +38,7 @@ library – API – documentation – function – framework
 2. Allows two software to communicate with each other
 3. How to use it, enpoints, parameters, request methods, responses and examples.
 4. A library is a reusable code that developers can use in their programs.
-5. A framework provide a structure 
+5. A framework provide a structure for building an application
+6. developers should read documentation because it can help 
 
 
