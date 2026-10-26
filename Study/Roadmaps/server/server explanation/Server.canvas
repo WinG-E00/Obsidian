@@ -57,8 +57,10 @@
 		{"id":"01df1f3131beaf13","x":1292,"y":-203,"width":250,"height":60,"type":"text","text":"Virtual"},
 		{"id":"4c6ba3b3be5fb1ac","type":"text","text":"express-validator\n","nodeLabel":"N19","x":-2040,"y":-430,"width":250,"height":60},
 		{"id":"9114e3de8af97c4f","x":-2600,"y":-488,"width":250,"height":70,"type":"text","text":"Importaciones\n"},
-		{"id":"3ae143f7575afc7b","x":-2600,"y":-346,"width":250,"height":70,"type":"text","text":"Selecciones de campos\n"},
-		{"id":"ef7a0cf51c13213a","type":"text","text":"Modelos\n","nodeLabel":"N6","x":-128,"y":-720,"width":250,"height":60}
+		{"id":"3ae143f7575afc7b","x":-2600,"y":-346,"width":250,"height":66,"type":"text","text":"Selecciones de campos\n"},
+		{"id":"ef7a0cf51c13213a","type":"text","text":"Modelos\n","nodeLabel":"N6","x":-128,"y":-720,"width":250,"height":60},
+		{"id":"b504687898f0f7b0","x":-2591,"y":-200,"width":250,"height":60,"type":"text","text":"resultados\n"},
+		{"id":"c69d69ace8641f4d","x":-2648,"y":-539,"width":250,"height":51,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
@@ -124,7 +126,8 @@
 		{"id":"4eec1d7e0e753b0b","fromNode":"219e36442d392e1b","fromSide":"bottom","toNode":"3a61e37ab053f6d7","toSide":"left"},
 		{"id":"1a2b972a0dce95cc","fromNode":"4852e7123b77d8de","fromSide":"bottom","toNode":"01df1f3131beaf13","toSide":"top"},
 		{"id":"d43fab29500b6bed","fromNode":"4c6ba3b3be5fb1ac","fromSide":"left","toNode":"9114e3de8af97c4f","toSide":"right"},
-		{"id":"3a7f32f99e641fe4","fromNode":"4c6ba3b3be5fb1ac","fromSide":"left","toNode":"3ae143f7575afc7b","toSide":"right"}
+		{"id":"3a7f32f99e641fe4","fromNode":"4c6ba3b3be5fb1ac","fromSide":"left","toNode":"3ae143f7575afc7b","toSide":"right"},
+		{"id":"9f6f991a467cd9e7","fromNode":"4c6ba3b3be5fb1ac","fromSide":"left","toNode":"b504687898f0f7b0","toSide":"right"}
 	],
 	"viewport":{"x":918.5173320332556,"y":583.8059834153679,"zoom":0.3256098871386546}
 }
