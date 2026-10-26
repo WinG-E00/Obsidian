@@ -60,7 +60,7 @@
 		{"id":"3ae143f7575afc7b","type":"text","text":"Selecciones de campos\n","x":-2591,"y":-440,"width":250,"height":66},
 		{"id":"c6949dce904529bc","x":-2591,"y":-340,"width":250,"height":60,"type":"text","text":"metodos"},
 		{"id":"9114e3de8af97c4f","type":"text","text":"Importaciones\n","x":-2591,"y":-540,"width":250,"height":70},
-		{"id":"b504687898f0f7b0","type":"text","text":"resultados\n","x":-2591,"y":-150,"width":250,"height":60}
+		{"id":"b504687898f0f7b0","type":"text","text":"resultados express validator\n\n","x":-2640,"y":-150,"width":299,"height":60}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
