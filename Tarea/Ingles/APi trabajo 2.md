@@ -39,6 +39,6 @@ library – API – documentation – function – framework
 3. How to use it, enpoints, parameters, request methods, responses and examples.
 4. A library is a reusable code that developers can use in their programs.
 5. A framework provide a structure for building an application
-6. developers should read documentation because it can help it to 
+6. developers should read documentation because it can help when you need to know how start, configure, and use the tools and functions to program the a
 
 
