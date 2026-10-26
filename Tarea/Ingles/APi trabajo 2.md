@@ -39,6 +39,19 @@ library – API – documentation – function – framework
 3. How to use it, enpoints, parameters, request methods, responses and examples.
 4. A library is a reusable code that developers can use in their programs.
 5. A framework provide a structure for building an application
-6. developers should read documentation because it can help when you need to know how start, configure, and use the tools and functions to program the a
+6. developers should read documentation because it can help when you need to know how start, configure, and use the tools and functions to program the application.
 
+
+## Actividad 4: True or False.
+Indicar si las afirmaciones son verdaderas o falsas. Corregir las falsas.
+7. An API allows software applications to communicate.
+8. API documentation never includes examples.
+9. A library contains reusable code.
+10. A framework provides a structure for building applications.
+11. Developers should ignore installation instructions.
+
+* True
+* False
+* True
+* 
 
