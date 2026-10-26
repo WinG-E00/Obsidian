@@ -49,3 +49,6 @@ a materia 08
 ![[../../Pasted image 20261026105606.png]]
 
 ![[../../Pasted image 20261026105625.png]]
+
+![[../../Pasted image 20261026105723.png]]
+![[../../Pasted image 20261026105745.png]]
