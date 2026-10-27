@@ -123,12 +123,15 @@ phone: varchar con limite de 24 caracteres.
 ![[../../Pasted image 20261027131448.png]]
 
 # **Parte C. Conteos y operaciones de modificación**
-# 7.
+# 8.
 ![[../../Pasted image 20261027132520.png]]
 
 
-# 8.
+# 9.
 ![[../../Pasted image 20261027132415.png]]
 
 ![[../../Pasted image 20261027132436.png]]
 
+
+# 10.
+![[../../Pasted image 20261027133217.png]]
