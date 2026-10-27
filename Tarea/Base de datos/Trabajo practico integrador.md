@@ -502,3 +502,9 @@ Cuadro
 
 ## Punto 5
 ![[../../Pasted image 20261026223656.png]]
+
+
+
+## Punto 7
+![[../../Pasted image 20261026224302.png]]
+
