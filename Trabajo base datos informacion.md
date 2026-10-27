@@ -5,13 +5,12 @@ cantidad solicitada
 precio unitario
 registroa en el detalle del pedido
 
-
-order_id
+orders
+	order_id
 
 order_details
 	product_id
 		product_name
 	quantity
 	unit_price
-	
 
