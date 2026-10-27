@@ -485,10 +485,18 @@ a materia 08
 ## Punto numero 4
 
 Creacion de la view
+![[../../Pasted image 20261026220754.png]]
+
+![[../../Pasted image 20261026220803.png]]
+
+![[../../Pasted image 20261026220811.png]]
+
+
 ![[../../Pasted image 20261026220522.png]]
 
 
 
 Cuadro
 ![[../../Pasted image 20261026220551.png]]
+
 
