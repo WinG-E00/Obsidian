@@ -500,3 +500,5 @@ Cuadro
 ![[../../Pasted image 20261026220551.png]]
 
 
+## Punto 5
+![[../../Pasted image 20261026223656.png]]
