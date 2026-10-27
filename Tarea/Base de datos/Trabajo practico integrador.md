@@ -508,3 +508,4 @@ Cuadro
 ## Punto 7
 ![[../../Pasted image 20261026224302.png]]
 
+![[../../Pasted image 20261026225030.png]]
