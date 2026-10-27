@@ -119,4 +119,6 @@ phone: varchar con limite de 24 caracteres.
 ![[../../Pasted image 20261027131148.png]]
 
 
-6.
+# 7.
+![[../../Pasted image 20261027131448.png]]
+
