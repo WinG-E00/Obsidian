@@ -1,4 +1,4 @@
-
+![[../../Pasted image 20261026220522.png]]
 
 
 ## Punto 1
@@ -483,5 +483,12 @@ a materia 08
 
 
 ## Punto numero 4
-![[../../Pasted image 20261026220522.png]]
+
 Creacion de la view
+![[../../Pasted image 20261026220522.png]]
+
+
+
+Cuadro
+![[../../Pasted image 20261026220551.png]]
+
