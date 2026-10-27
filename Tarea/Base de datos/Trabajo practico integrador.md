@@ -483,3 +483,5 @@ a materia 08
 
 
 ## Punto numero 4
+![[../../Pasted image 20261026220522.png]]
+Creacion de la view
