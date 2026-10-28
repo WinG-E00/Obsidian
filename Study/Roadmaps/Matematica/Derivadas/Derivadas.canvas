@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"f110707f1b7f2da3","x":-2111,"y":-870,"width":250,"height":60,"type":"text","text":""},
 		{"id":"23b5517ce0e7803f","type":"text","text":"Grados del polinomio\n","x":-917,"y":-1308,"width":295,"height":60},
 		{"id":"eb5563cc44c91cc0","type":"text","text":"Polinomio\n","x":-617,"y":-1190,"width":220,"height":60},
 		{"id":"e27ab94fc35fae0d","type":"text","text":"Primer grado\n","x":-1060,"y":-1430,"width":250,"height":60},
@@ -34,11 +33,12 @@
 		{"id":"3a32dd372043e333","type":"text","text":"Integrales por tabla\n","x":-1920,"y":-120,"width":250,"height":60},
 		{"id":"320368c4b97d439b","type":"text","text":"integrales por sustitucion\n","x":-1360,"y":-340,"width":250,"height":60},
 		{"id":"fd3efd4026ad5935","type":"text","text":"integrales por parte","x":-1360,"y":-250,"width":250,"height":60},
-		{"id":"782ac8f780976c07","x":-1420,"y":-650,"width":250,"height":60,"type":"text","text":"[[Punto critico]]\n"},
 		{"id":"ff3f0a36b586dd7e","type":"text","text":"maximos ","x":-1760,"y":-590,"width":250,"height":60},
 		{"id":"18500f715a6e9c23","type":"text","text":"minimos\n","x":-1760,"y":-500,"width":250,"height":60},
 		{"id":"98592133a17a6943","type":"text","text":"punto de inflexion\n","x":-1760,"y":-680,"width":250,"height":50},
-		{"id":"6ce696f2bb07642f","type":"text","text":"tangente\n","x":-2160,"y":-860,"width":250,"height":60}
+		{"id":"6ce696f2bb07642f","type":"text","text":"tangente\n","x":-2160,"y":-860,"width":250,"height":60},
+		{"id":"f110707f1b7f2da3","x":-2111,"y":-870,"width":250,"height":60,"type":"text","text":""},
+		{"id":"782ac8f780976c07","x":-1485,"y":-900,"width":250,"height":60,"type":"text","text":"[[Punto critico]]\n"}
 	],
 	"edges":[
 		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"top","toNode":"f7320d10be3519e4","toSide":"right"},
