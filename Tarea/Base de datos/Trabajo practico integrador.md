@@ -530,4 +530,93 @@ Punto 8
 
 # Punto 9 
 
+## Agregations
+```js
+[
+  {
+    $match: {
+      "_id.anio_lectivo": "2021"
+    }
+  },
+  {
+    $set: {
+      promedio_trimestre3: {
+        $avg: "$trimestre3"
+      }
+    }
+  },
+  {
+    $group: {
+      _id: "$_id.dni",
+      nota_mas_baja: {
+        $min: "$promedio_trimestre3"
+      }
+    }
+  },
+  {
+    $match: {
+      nota_mas_baja: {
+        $gt: 5
+      }
+    }
+  },
+  {
+    $lookup: {
+      from: "Alumnos",
+      localField: "_id",
+      foreignField: "_id",
+      as: "alumno"
+    }
+  },
+  {
+    $unwind: "$alumno"
+  },
+  {
+    $match: {
+      "alumno.oferta2021": 110
+    }
+  },
+  {
+    $group: {
+      _id: "$alumno.CUE2021",
+      cantidad_promovidos: {
+        $sum: 1
+      }
+    }
+  },
+  {
+    $set: {
+      cueAlumno: {
+        $toString: "$_id"
+      }
+    }
+  },
+  {
+    $lookup: {
+      from: "padron",
+      localField: "cueAlumno",
+      foreignField: "cueanexo",
+      as: "establecimiento"
+    }
+  },
+  {
+    $unwind: "$establecimiento"
+  },
+  {
+    $group: {
+      _id: "$establecimiento.departamento",
+      cantidad_promovidos: {
+        $sum: "$cantidad_promovidos"
+      }
+    }
+  },
+  {
+    $sort: {
+      _id: 1
+    }
+  }
+]
+
+```
+
 ![[../../Pasted image 20261028110604.png]]
