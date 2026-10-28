@@ -27,7 +27,7 @@
 		{"id":"cbd0df79dd411c78","type":"text","text":"Creacion\n","nodeLabel":"N33","x":-860,"y":-120,"width":250,"height":60},
 		{"id":"bc4044cf86242894","type":"text","text":"Sincronizacion\n","nodeLabel":"N34","x":-560,"y":-120,"width":250,"height":60},
 		{"id":"f89823a937d719ae","type":"text","text":"[[creacion database con sequelize]]\n","nodeLabel":"N35","x":-810,"y":53,"width":250,"height":60},
-		{"id":"00b784b21ede23e5","type":"text","text":"[[creacion database con mongose]]\n\n","nodeLabel":"N36","x":-985,"y":-20,"width":250,"height":60},
+		{"id":"00b784b21ede23e5","type":"text","text":"[[creacion database con mongose]] \n\n","nodeLabel":"N36","x":-985,"y":-20,"width":250,"height":60},
 		{"id":"2d832570be5f7f4b","type":"text","text":"[[sincronizacion de modelos con sequelize]]\n","nodeLabel":"N37","x":-540,"y":5,"width":250,"height":60},
 		{"id":"20a931d4daa35ad3","type":"text","text":"[[Create mongoose]]","nodeLabel":"N38","x":640,"y":629,"width":250,"height":60},
 		{"id":"daab5856181c68e3","type":"text","text":"[[Read mongoose]]","nodeLabel":"N39","x":932,"y":629,"width":250,"height":60},
@@ -63,10 +63,10 @@
 		{"id":"66ca1a33da8eecd3","type":"text","text":"sequelize\n","nodeLabel":"N22","x":-1030,"y":-1140,"width":250,"height":60},
 		{"id":"c7403a5a939bdf92","type":"text","text":"Estructura del modelo\n","nodeLabel":"N14","x":950,"y":-626,"width":290,"height":60},
 		{"id":"3a61e37ab053f6d7","type":"text","text":"referencias en los modelos con sequelize\n","x":970,"y":-800,"width":250,"height":60},
-		{"id":"989bfc26357967d3","x":1440,"y":-930,"width":250,"height":60,"type":"text","text":"relacion uno a uno sequelize\n"},
-		{"id":"a0dd697383d1da23","x":1440,"y":-830,"width":250,"height":60,"type":"text","text":"relacion uno a muchos sequelize\n"},
-		{"id":"e010dbc1c577c409","x":1410,"y":-720,"width":250,"height":60,"type":"text","text":"relacion muchos a muchos sequelize\n"},
-		{"id":"51de9bac66d3f699","x":1720,"y":-1168,"width":230,"height":116,"type":"text","text":"[[Informacion de ayuda para las relaciones con sequelize]]"},
+		{"id":"989bfc26357967d3","type":"text","text":"relacion uno a uno sequelize\n","x":1440,"y":-930,"width":250,"height":60},
+		{"id":"a0dd697383d1da23","type":"text","text":"relacion uno a muchos sequelize\n","x":1440,"y":-830,"width":250,"height":60},
+		{"id":"e010dbc1c577c409","type":"text","text":"relacion muchos a muchos sequelize\n","x":1410,"y":-720,"width":250,"height":60},
+		{"id":"51de9bac66d3f699","type":"text","text":"[[Informacion de ayuda para las relaciones con sequelize]]","x":1720,"y":-1168,"width":230,"height":116},
 		{"id":"c32efa6e36b9637c","type":"text","text":"[[Tipos de datos sequelize]]\n","x":1040,"y":-1082,"width":250,"height":60}
 	],
 	"edges":[
