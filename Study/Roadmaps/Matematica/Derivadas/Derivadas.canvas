@@ -68,6 +68,6 @@
 		{"id":"73230af96eb709af","fromNode":"269c62875cfaffba","fromSide":"top","toNode":"ff3f0a36b586dd7e","toSide":"bottom"},
 		{"id":"4c918e2cf3978885","fromNode":"269c62875cfaffba","fromSide":"top","toNode":"18500f715a6e9c23","toSide":"bottom"},
 		{"id":"19daf809996605b9","fromNode":"269c62875cfaffba","fromSide":"top","toNode":"98592133a17a6943","toSide":"bottom"},
-		{"id":"38d5fbf71f06d7c9","fromNode":"782ac8f780976c07","fromSide":"right","toNode":"5ca7b95c4d5eee2f","toSide":"left"}
+		{"id":"38d5fbf71f06d7c9","fromNode":"782ac8f780976c07","fromSide":"right","toNode":"5ca7b95c4d5eee2f","toSide":"left","label":"Resultado\n\n"}
 	]
 }
