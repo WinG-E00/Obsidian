@@ -530,4 +530,4 @@ Punto 8
 
 # Punto 9 
 
-
+![[../../Pasted image 20261028110604.png]]
