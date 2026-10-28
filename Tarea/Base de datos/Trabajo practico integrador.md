@@ -513,4 +513,8 @@ Cuadro
 
 
 Punto 8
+# Stages
 
+
+
+![[../../Pasted image 20261028094851.png]]
