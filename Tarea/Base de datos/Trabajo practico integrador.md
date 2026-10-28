@@ -629,3 +629,64 @@ Punto 8
 
 ## Agregacion
 ```js
+
+[
+  {
+    $match: {
+      "_id.anio_lectivo": "2021",
+      "_id.plan": "Fsa2311001",
+      "_id.anio_que_cursa": "3"
+    }
+  },
+  {
+    $set: {
+      nota_final: {
+        $avg: "$trimestre3"
+      },
+      materia_id: {
+        $concat: [
+          "$_id.plan",
+          "$_id.anio_que_cursa",
+          "$_id.materia_nro"
+        ]
+      }
+    }
+  },
+  {
+    $group: {
+      _id: "$materia_id",
+      promedio_nota_final: {
+        $avg: "$nota_final"
+      }
+    }
+  },
+  {
+    $lookup: {
+      from: "Materia",
+      localField: "_id",
+      foreignField: "_id",
+      as: "materia"
+    }
+  },
+  {
+    $unwind: "$materia"
+  },
+  {
+    $project: {
+      _id: 0,
+      asignatura: "$materia.espacio",
+      promedio_nota_final: {
+        $round: ["$promedio_nota_final", 2]
+      }
+    }
+  },
+  {
+    $sort: {
+      asignatura: 1
+    }
+  }
+]
+
+``` 
+
+
