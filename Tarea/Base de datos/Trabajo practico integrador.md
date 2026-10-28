@@ -620,5 +620,9 @@ Punto 8
 ```
 
 
-
+## Cuadro
 ![[../../Pasted image 20261028110604.png]]
+
+
+
+# Punto 10
