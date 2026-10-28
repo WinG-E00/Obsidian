@@ -39,7 +39,7 @@
 		{"id":"6ce696f2bb07642f","type":"text","text":"tangente\n","x":-2160,"y":-860,"width":250,"height":60},
 		{"id":"f110707f1b7f2da3","x":-2111,"y":-870,"width":250,"height":60,"type":"text","text":""},
 		{"id":"782ac8f780976c07","x":-1485,"y":-890,"width":250,"height":60,"type":"text","text":"[[Punto critico]]\n"},
-		{"id":"269c62875cfaffba","x":-1702,"y":-1016,"width":250,"height":60,"type":"text","text":"Criterio segunda derivada"}
+		{"id":"269c62875cfaffba","x":-1702,"y":-1016,"width":250,"height":60,"type":"text","text":"[[Criterio segunda derivada]]"}
 	],
 	"edges":[
 		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"top","toNode":"f7320d10be3519e4","toSide":"right"},
