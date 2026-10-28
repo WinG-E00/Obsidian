@@ -5,4 +5,4 @@ f'(x) > 0 , es un minimo
 
 f"(x) < 0, es un maximo
 
-f"(x) => 
+f"(x) => Punto de inflexion
