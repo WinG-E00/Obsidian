@@ -691,4 +691,4 @@ Punto 8
 
 
 ## Punto 11
-
+![[../../Pasted image 20261028114101.png]]
