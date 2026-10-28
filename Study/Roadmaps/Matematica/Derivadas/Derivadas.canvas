@@ -36,8 +36,8 @@
 		{"id":"6ce696f2bb07642f","type":"text","text":"tangente\n","x":-2160,"y":-860,"width":250,"height":60},
 		{"id":"782ac8f780976c07","type":"text","text":"[[Punto critico]]\n","x":-1485,"y":-800,"width":250,"height":60},
 		{"id":"269c62875cfaffba","type":"text","text":"[[Criterio segunda derivada]]","x":-1702,"y":-926,"width":250,"height":60},
-		{"id":"ff3f0a36b586dd7e","type":"text","text":"maximos ","x":-1910,"y":-1130,"width":250,"height":60},
-		{"id":"18500f715a6e9c23","type":"text","text":"minimos\n","x":-1610,"y":-1130,"width":250,"height":60},
+		{"id":"ff3f0a36b586dd7e","type":"text","text":"[[maximos ]]","x":-1910,"y":-1130,"width":250,"height":60},
+		{"id":"18500f715a6e9c23","type":"text","text":"[[minimos]]\n","x":-1610,"y":-1130,"width":250,"height":60},
 		{"id":"98592133a17a6943","type":"text","text":"punto de inflexion\n","x":-1300,"y":-1120,"width":250,"height":50},
 		{"id":"f110707f1b7f2da3","type":"text","text":"","x":-2035,"y":-700,"width":250,"height":60}
 	],
