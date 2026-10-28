@@ -8,9 +8,6 @@
 		{"id":"2d5375d5486cdb85","type":"text","text":"[[cuadrado del binomio]]\n","x":-130,"y":-1428,"width":250,"height":60},
 		{"id":"0ae81b205812f600","type":"text","text":"Binomio ","x":-38,"y":-1250,"width":250,"height":60},
 		{"id":"c02abb09cad6de7e","type":"text","text":"[[Formula resolvente]]","x":-894,"y":-1680,"width":250,"height":60},
-		{"id":"5ca7b95c4d5eee2f","type":"text","text":"Derivadas\n","x":-642,"y":-740,"width":125,"height":60},
-		{"id":"ce785682d6757710","type":"text","text":"[[Formula principal de la derivada]]","x":-422,"y":-840,"width":250,"height":60},
-		{"id":"f7320d10be3519e4","type":"text","text":"[[Reglas para resolver derivadas]]","x":-880,"y":-940,"width":180,"height":100},
 		{"id":"e476504dbdf7cd0c","type":"text","text":"Factor comun en exponentes\n","x":925,"y":-1128,"width":250,"height":60},
 		{"id":"a59ccf94de6dc919","type":"text","text":"Restar exponentes","x":1201,"y":-1310,"width":250,"height":60},
 		{"id":"5c5ce03c744ae663","type":"text","text":"exponentes normales\n","x":1514,"y":-1516,"width":250,"height":60},
@@ -32,10 +29,13 @@
 		{"id":"ff3f0a36b586dd7e","x":-1710,"y":-620,"width":250,"height":60,"type":"text","text":"maximos "},
 		{"id":"18500f715a6e9c23","x":-1710,"y":-530,"width":250,"height":60,"type":"text","text":"minimos\n"},
 		{"id":"98592133a17a6943","x":-1710,"y":-710,"width":250,"height":50,"type":"text","text":"punto de inflexion\n"},
-		{"id":"d2badc32b3b4fb6a","x":-1710,"y":-160,"width":250,"height":60,"type":"text","text":"calculo de area\n"},
-		{"id":"3a32dd372043e333","x":-1710,"y":-260,"width":250,"height":60,"type":"text","text":"Integrales por tabla\n"},
-		{"id":"320368c4b97d439b","x":-980,"y":-590,"width":250,"height":60,"type":"text","text":"integrales por sustitucion\n"},
-		{"id":"fd3efd4026ad5935","x":-980,"y":-500,"width":250,"height":60,"type":"text","text":"integrales por parte"}
+		{"id":"5ca7b95c4d5eee2f","type":"text","text":"Derivadas\n","x":-665,"y":-800,"width":125,"height":60},
+		{"id":"ce785682d6757710","type":"text","text":"[[Formula principal de la derivada]]","x":-445,"y":-900,"width":250,"height":60},
+		{"id":"f7320d10be3519e4","type":"text","text":"[[Reglas para resolver derivadas]]","x":-903,"y":-1000,"width":180,"height":100},
+		{"id":"320368c4b97d439b","x":-1360,"y":-430,"width":250,"height":60,"type":"text","text":"integrales por sustitucion\n"},
+		{"id":"fd3efd4026ad5935","x":-1360,"y":-340,"width":250,"height":60,"type":"text","text":"integrales por parte"},
+		{"id":"d2badc32b3b4fb6a","x":-1800,"y":-60,"width":250,"height":60,"type":"text","text":"calculo de area\n"},
+		{"id":"3a32dd372043e333","x":-1800,"y":-160,"width":250,"height":60,"type":"text","text":"Integrales por tabla\n"}
 	],
 	"edges":[
 		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"top","toNode":"f7320d10be3519e4","toSide":"right"},
