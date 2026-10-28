@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": " datosd e",
+  "search": " datos de mi cluster",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.17145212861066822,
+  "scale": 0.7403316689029229,
   "close": false
 }
