@@ -517,8 +517,15 @@ Punto 8
 # 1.
 ![[../../Pasted image 20261028094933.png]]
 
-# 2
+# 2. 
+![[../../Pasted image 20261028095002.png]]
 
+# 3. 
+![[../../Pasted image 20261028095016.png]]
 
 # Grafico
 ![[../../Pasted image 20261028094851.png]]
+
+
+
+
