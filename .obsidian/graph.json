@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": " ",
+  "search": " datosd e",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.12059554211731137,
+  "scale": 0.17145212861066822,
   "close": false
 }
