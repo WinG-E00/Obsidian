@@ -32,3 +32,9 @@ Por que vamos a revolucionar nuestro 
   
 Donde se ubican o quieren ubicar  
 Que buscan?
+
+
+
+
+
+### Dialogo 2
