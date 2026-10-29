@@ -68,7 +68,8 @@
 		{"id":"51de9bac66d3f699","type":"text","text":"[[Informacion de ayuda para las relaciones con sequelize]]","x":1720,"y":-1168,"width":230,"height":116},
 		{"id":"c32efa6e36b9637c","type":"text","text":"[[Tipos de datos sequelize]]\n","x":1040,"y":-1082,"width":250,"height":60},
 		{"id":"7ce033fc63421b11","type":"text","text":"[[Creacion del modelo mongoose]]\n","nodeLabel":"N15","x":950,"y":-482,"width":250,"height":60},
-		{"id":"4b33b5218be49488","type":"text","text":"[[Creacion del modelo mongoose]]\n","nodeLabel":"N15","x":950,"y":-482,"width":250,"height":60}
+		{"id":"4b33b5218be49488","type":"text","text":"[[Creacion del modelo mongoose]]\n","nodeLabel":"N15","x":950,"y":-482,"width":250,"height":60},
+		{"id":"00a2e0d6c2128db8","x":-2274,"y":-1081,"width":250,"height":60,"type":"text","text":"[[payload]]"}
 	],
 	"edges":[
 		{"id":"bf04508bb13f1513","fromNode":"373382fc8b9eaffd","fromSide":"bottom","toNode":"76532ad9fad29a76","toSide":"top"},
@@ -147,7 +148,8 @@
 		{"id":"9ba45c2b25a2d76a","fromNode":"3a61e37ab053f6d7","fromSide":"right","toNode":"989bfc26357967d3","toSide":"left"},
 		{"id":"335ad4c50793eaf7","fromNode":"3a61e37ab053f6d7","fromSide":"right","toNode":"a0dd697383d1da23","toSide":"left"},
 		{"id":"9188c28823fef592","fromNode":"3a61e37ab053f6d7","fromSide":"right","toNode":"e010dbc1c577c409","toSide":"left"},
-		{"id":"185b14cc460a9466","fromNode":"51de9bac66d3f699","fromSide":"left","toNode":"3a61e37ab053f6d7","toSide":"top"}
+		{"id":"185b14cc460a9466","fromNode":"51de9bac66d3f699","fromSide":"left","toNode":"3a61e37ab053f6d7","toSide":"top"},
+		{"id":"14b3aa5d3f9e1225","fromNode":"f825412ac7df9ab7","fromSide":"top","toNode":"00a2e0d6c2128db8","toSide":"bottom"}
 	],
 	"viewport":{"x":918.5173320332556,"y":583.8059834153679,"zoom":0.3256098871386546}
 }
