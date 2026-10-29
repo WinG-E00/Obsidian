@@ -5,6 +5,14 @@ Bebederos => Informaticos.
 # Entrevista 1
 Contacto
 	Entrevista  preguntas cortas
+
+Que quieren resolver
+quienes son 
+Para que hacen esto?
+
+
+
+
 # Entrevista 2
 
 
