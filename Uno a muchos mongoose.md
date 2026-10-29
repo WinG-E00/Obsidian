@@ -66,3 +66,4 @@ export { Autor, Articulo };
 ```
 
 [Documentación de referencias y virtuales](https://mongoosejs.com/docs/populate.html#populate-virtuals) · [Opciones del virtual](https://mongoosejs.com/docs/api/virtualtype.html)
+a
