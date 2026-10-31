@@ -39,7 +39,8 @@
 		{"id":"5ca7b95c4d5eee2f","type":"text","text":"Derivadas\n","x":-680,"y":-800,"width":125,"height":60},
 		{"id":"f7320d10be3519e4","type":"text","text":"[[Reglas para resolver derivadas]]","x":-900,"y":-980,"width":180,"height":100},
 		{"id":"c6d14d8240e75e78","type":"text","text":"Potencias\n","x":-70,"y":-310,"width":131,"height":60},
-		{"id":"f6c88fbabfd0ffe7","x":-555,"y":120,"width":250,"height":60,"type":"text","text":"[[Regla de la cadena ]]\n"}
+		{"id":"f6c88fbabfd0ffe7","x":-555,"y":120,"width":250,"height":60,"type":"text","text":"[[Regla de la cadena ]]\n"},
+		{"id":"773304cbcf153ea7","x":-771,"y":262,"width":250,"height":60,"type":"text","text":"[[Regla de la cadena con raiz]]\n"}
 	],
 	"edges":[
 		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"top","toNode":"f7320d10be3519e4","toSide":"right"},
@@ -69,6 +70,7 @@
 		{"id":"73230af96eb709af","fromNode":"269c62875cfaffba","fromSide":"top","toNode":"ff3f0a36b586dd7e","toSide":"bottom"},
 		{"id":"4c918e2cf3978885","fromNode":"269c62875cfaffba","fromSide":"top","toNode":"18500f715a6e9c23","toSide":"bottom"},
 		{"id":"19daf809996605b9","fromNode":"269c62875cfaffba","fromSide":"top","toNode":"98592133a17a6943","toSide":"bottom"},
-		{"id":"38d5fbf71f06d7c9","fromNode":"782ac8f780976c07","fromSide":"right","toNode":"5ca7b95c4d5eee2f","toSide":"left","label":"Resultado\n\n"}
+		{"id":"38d5fbf71f06d7c9","fromNode":"782ac8f780976c07","fromSide":"right","toNode":"5ca7b95c4d5eee2f","toSide":"left","label":"Resultado\n\n"},
+		{"id":"9dced02f478c259e","fromNode":"f6c88fbabfd0ffe7","fromSide":"bottom","toNode":"773304cbcf153ea7","toSide":"top"}
 	]
 }
