@@ -6,4 +6,5 @@ Derivamos el coso entero como si fuera un solo termino
 
 despues derivamos lo de adentro
 
-y multiplcam
+y multiplcamos eso por lo de afuera
+
