@@ -39,7 +39,7 @@
 		{"id":"5ca7b95c4d5eee2f","type":"text","text":"Derivadas\n","x":-680,"y":-800,"width":125,"height":60},
 		{"id":"f7320d10be3519e4","type":"text","text":"[[Reglas para resolver derivadas]]","x":-900,"y":-980,"width":180,"height":100},
 		{"id":"c6d14d8240e75e78","type":"text","text":"Potencias\n","x":-397,"y":-123,"width":131,"height":60},
-		{"id":"f6c88fbabfd0ffe7","x":-617,"y":-460,"width":250,"height":60,"type":"text","text":"Regla de la cadena \n"}
+		{"id":"f6c88fbabfd0ffe7","x":-617,"y":-460,"width":250,"height":60,"type":"text","text":"[[Regla de la cadena ]]\n"}
 	],
 	"edges":[
 		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"top","toNode":"f7320d10be3519e4","toSide":"right"},
