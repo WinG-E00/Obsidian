@@ -15,7 +15,6 @@
 		{"id":"13bd8854ff03bd4a","type":"text","text":"[[Factor comun]]\n","x":660,"y":-1030,"width":180,"height":60},
 		{"id":"c14b71d97bec1726","type":"text","text":"[[Cubo del binomio]] ","x":164,"y":-1424,"width":250,"height":60},
 		{"id":"40a0af8c2b677619","type":"text","text":"[[Factorizar]]\n","x":380,"y":-970,"width":140,"height":60},
-		{"id":"c7342ef61ddd6af4","type":"text","text":"[[Diferencia de cuadrados]]","x":-5,"y":-490,"width":250,"height":60},
 		{"id":"5af02e19c2838cf5","type":"text","text":"[[Factor comun por agrupacion]]\n","x":660,"y":-940,"width":250,"height":60},
 		{"id":"82edc1c0f5424b60","type":"text","text":"[[Diferencia de cuadrados]]\n","x":660,"y":-740,"width":250,"height":60},
 		{"id":"43625fd68a4cba0d","type":"text","text":"[[Factor comun por agrupacion]]\n","x":660,"y":-640,"width":250,"height":60},
@@ -39,8 +38,10 @@
 		{"id":"5ca7b95c4d5eee2f","type":"text","text":"Derivadas\n","x":-680,"y":-800,"width":125,"height":60},
 		{"id":"f7320d10be3519e4","type":"text","text":"[[Reglas para resolver derivadas]]","x":-900,"y":-980,"width":180,"height":100},
 		{"id":"c6d14d8240e75e78","type":"text","text":"Potencias\n","x":-70,"y":-310,"width":131,"height":60},
-		{"id":"f6c88fbabfd0ffe7","x":-555,"y":120,"width":250,"height":60,"type":"text","text":"[[Regla de la cadena ]]\n"},
-		{"id":"773304cbcf153ea7","x":-771,"y":262,"width":250,"height":60,"type":"text","text":"[[Regla de la cadena con raiz]]\n"}
+		{"id":"f6c88fbabfd0ffe7","type":"text","text":"[[Regla de la cadena ]]\n","x":-555,"y":120,"width":250,"height":60},
+		{"id":"773304cbcf153ea7","type":"text","text":"[[Regla de la cadena con raiz]]\n","x":-771,"y":262,"width":250,"height":60},
+		{"id":"54e1e1237fea3156","x":-405,"y":-677,"width":250,"height":60,"type":"text","text":"[[Calculo auxiliar raiz]]\n"},
+		{"id":"c7342ef61ddd6af4","type":"text","text":"[[Diferencia de cuadrados]]","x":-522,"y":-460,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"top","toNode":"f7320d10be3519e4","toSide":"right"},
@@ -71,6 +72,8 @@
 		{"id":"4c918e2cf3978885","fromNode":"269c62875cfaffba","fromSide":"top","toNode":"18500f715a6e9c23","toSide":"bottom"},
 		{"id":"19daf809996605b9","fromNode":"269c62875cfaffba","fromSide":"top","toNode":"98592133a17a6943","toSide":"bottom"},
 		{"id":"38d5fbf71f06d7c9","fromNode":"782ac8f780976c07","fromSide":"right","toNode":"5ca7b95c4d5eee2f","toSide":"left","label":"Resultado\n\n"},
-		{"id":"9dced02f478c259e","fromNode":"f6c88fbabfd0ffe7","fromSide":"bottom","toNode":"773304cbcf153ea7","toSide":"top"}
+		{"id":"9dced02f478c259e","fromNode":"f6c88fbabfd0ffe7","fromSide":"bottom","toNode":"773304cbcf153ea7","toSide":"top"},
+		{"id":"0d49dfb057c2fd14","fromNode":"ce785682d6757710","fromSide":"bottom","toNode":"54e1e1237fea3156","toSide":"top"},
+		{"id":"0200e9b612b8ee4d","fromNode":"c7342ef61ddd6af4","fromSide":"top","toNode":"54e1e1237fea3156","toSide":"bottom"}
 	]
 }
