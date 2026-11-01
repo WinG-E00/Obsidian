@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"8893fa25352a8d76","x":-580,"y":-140,"width":120,"height":50,"type":"text","text":"[[Winje]]"},
+		{"id":"f280fa0e4a824754","x":-287,"y":-146,"width":127,"height":60,"type":"text","text":"Portfolio\n"}
+	],
+	"edges":[
+		{"id":"da63335e786540d1","fromNode":"8893fa25352a8d76","fromSide":"right","toNode":"f280fa0e4a824754","toSide":"left"}
+	]
+}
