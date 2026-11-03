@@ -1,0 +1,1 @@
+Si existiera una persona en este mundo, que no tuviera ego seguiria siendo una persona o seria mas parecida a un robot, que acepta la informacion verdadera tal y como es??
