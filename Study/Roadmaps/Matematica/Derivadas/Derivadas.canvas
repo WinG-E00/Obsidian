@@ -42,7 +42,7 @@
 		{"id":"d2badc32b3b4fb6a","type":"text","text":"calculo de area\n","x":-2920,"y":320,"width":250,"height":60},
 		{"id":"fd3efd4026ad5935","type":"text","text":"integrales por parte","x":-2587,"y":320,"width":250,"height":60},
 		{"id":"c846522a1ca84ba9","x":-1060,"y":-460,"width":250,"height":60,"type":"text","text":"Calculo de area\n"},
-		{"id":"a27d075cc2dbdc4f","x":-1857,"y":20,"width":250,"height":60,"type":"text","text":"Formula para integrar por definicion"},
+		{"id":"a27d075cc2dbdc4f","x":-1857,"y":20,"width":250,"height":60,"type":"text","text":"[[Formula para integrar por definicion]]"},
 		{"id":"0d6b58f0df56d7ab","x":-2140,"y":-129,"width":250,"height":60,"type":"text","text":"[[Reglas para integrar derivadas]]"},
 		{"id":"3a32dd372043e333","type":"text","text":"Integrales \n","x":-1732,"y":-189,"width":250,"height":60},
 		{"id":"c0e66d84dabbf99a","x":-1280,"y":-380,"width":250,"height":60,"type":"text","text":""}
