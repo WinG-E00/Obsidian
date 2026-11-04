@@ -41,10 +41,11 @@
 		{"id":"320368c4b97d439b","type":"text","text":"integrales por sustitucion\n","x":-2587,"y":230,"width":250,"height":60},
 		{"id":"d2badc32b3b4fb6a","type":"text","text":"calculo de area\n","x":-2920,"y":320,"width":250,"height":60},
 		{"id":"fd3efd4026ad5935","type":"text","text":"integrales por parte","x":-2587,"y":320,"width":250,"height":60},
-		{"id":"a27d075cc2dbdc4f","x":-1735,"y":20,"width":250,"height":60,"type":"text","text":"Formula para integrar por definicion"},
-		{"id":"0d6b58f0df56d7ab","x":-2018,"y":-129,"width":250,"height":60,"type":"text","text":"[[Reglas para integrar derivadas]]"},
-		{"id":"3a32dd372043e333","type":"text","text":"Integrales \n","x":-1610,"y":-189,"width":250,"height":60},
-		{"id":"c846522a1ca84ba9","x":-1060,"y":-460,"width":250,"height":60,"type":"text","text":""}
+		{"id":"c846522a1ca84ba9","x":-1060,"y":-460,"width":250,"height":60,"type":"text","text":"Calculo de area\n"},
+		{"id":"a27d075cc2dbdc4f","x":-1857,"y":20,"width":250,"height":60,"type":"text","text":"Formula para integrar por definicion"},
+		{"id":"0d6b58f0df56d7ab","x":-2140,"y":-129,"width":250,"height":60,"type":"text","text":"[[Reglas para integrar derivadas]]"},
+		{"id":"3a32dd372043e333","type":"text","text":"Integrales \n","x":-1732,"y":-189,"width":250,"height":60},
+		{"id":"c0e66d84dabbf99a","x":-1280,"y":-380,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"top","toNode":"f7320d10be3519e4","toSide":"right"},
@@ -79,6 +80,7 @@
 		{"id":"0d49dfb057c2fd14","fromNode":"ce785682d6757710","fromSide":"bottom","toNode":"54e1e1237fea3156","toSide":"top"},
 		{"id":"0200e9b612b8ee4d","fromNode":"c7342ef61ddd6af4","fromSide":"top","toNode":"54e1e1237fea3156","toSide":"bottom"},
 		{"id":"5ecfe0e822e2de18","fromNode":"3a32dd372043e333","fromSide":"bottom","toNode":"a27d075cc2dbdc4f","toSide":"top"},
-		{"id":"359762cb4c8f051a","fromNode":"3a32dd372043e333","fromSide":"left","toNode":"0d6b58f0df56d7ab","toSide":"right"}
+		{"id":"359762cb4c8f051a","fromNode":"3a32dd372043e333","fromSide":"left","toNode":"0d6b58f0df56d7ab","toSide":"right"},
+		{"id":"410a9e29218511c1","fromNode":"c846522a1ca84ba9","fromSide":"bottom","toNode":"c0e66d84dabbf99a","toSide":"top"}
 	]
 }
