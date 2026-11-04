@@ -43,7 +43,7 @@
 		{"id":"fd3efd4026ad5935","type":"text","text":"integrales por parte","x":-2587,"y":320,"width":250,"height":60},
 		{"id":"ea1dba8c36f398cd","x":-1300,"y":-250,"width":250,"height":60,"type":"text","text":"[[Integrales]]\n"},
 		{"id":"3a32dd372043e333","type":"text","text":"Integrales \n","x":-1952,"y":-420,"width":250,"height":60},
-		{"id":"0d6b58f0df56d7ab","x":-1552,"y":-271,"width":250,"height":60,"type":"text","text":""}
+		{"id":"0d6b58f0df56d7ab","x":-2240,"y":-340,"width":250,"height":60,"type":"text","text":"[[Reglas]]\n"}
 	],
 	"edges":[
 		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"top","toNode":"f7320d10be3519e4","toSide":"right"},
