@@ -31,9 +31,6 @@
 		{"id":"18500f715a6e9c23","type":"text","text":"[[minimos]]\n","x":-1610,"y":-1130,"width":250,"height":60},
 		{"id":"98592133a17a6943","type":"text","text":"[[punto de inflexion]]\n","x":-1300,"y":-1120,"width":250,"height":50},
 		{"id":"782ac8f780976c07","type":"text","text":"[[Punto critico]]\n","x":-1452,"y":-760,"width":250,"height":60},
-		{"id":"320368c4b97d439b","type":"text","text":"integrales por sustitucion\n","x":-1577,"y":-120,"width":250,"height":60},
-		{"id":"fd3efd4026ad5935","type":"text","text":"integrales por parte","x":-1577,"y":-30,"width":250,"height":60},
-		{"id":"d2badc32b3b4fb6a","type":"text","text":"calculo de area\n","x":-1910,"y":-30,"width":250,"height":60},
 		{"id":"3a32dd372043e333","type":"text","text":"Integrales por tabla\n","x":-1577,"y":-540,"width":250,"height":60},
 		{"id":"5ca7b95c4d5eee2f","type":"text","text":"Derivadas\n","x":-680,"y":-800,"width":125,"height":60},
 		{"id":"f7320d10be3519e4","type":"text","text":"[[Reglas para resolver derivadas]]","x":-900,"y":-980,"width":180,"height":100},
@@ -41,7 +38,11 @@
 		{"id":"54e1e1237fea3156","type":"text","text":"[[Calculo auxiliar raiz]]\n","x":-405,"y":-677,"width":250,"height":60},
 		{"id":"c7342ef61ddd6af4","type":"text","text":"[[Diferencia de cuadrados]]","x":-522,"y":-460,"width":250,"height":60},
 		{"id":"f6c88fbabfd0ffe7","type":"text","text":"[[Regla de la cadena ]]\n","x":-555,"y":80,"width":250,"height":60},
-		{"id":"773304cbcf153ea7","type":"text","text":"[[Regla de la cadena con raiz]]\n","x":-570,"y":260,"width":250,"height":60}
+		{"id":"773304cbcf153ea7","type":"text","text":"[[Regla de la cadena con raiz]]\n","x":-570,"y":260,"width":250,"height":60},
+		{"id":"320368c4b97d439b","type":"text","text":"integrales por sustitucion\n","x":-2587,"y":230,"width":250,"height":60},
+		{"id":"d2badc32b3b4fb6a","type":"text","text":"calculo de area\n","x":-2920,"y":320,"width":250,"height":60},
+		{"id":"fd3efd4026ad5935","type":"text","text":"integrales por parte","x":-2587,"y":320,"width":250,"height":60},
+		{"id":"ea1dba8c36f398cd","x":-1300,"y":-250,"width":250,"height":60,"type":"text","text":"[[Integrales]]\n"}
 	],
 	"edges":[
 		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"top","toNode":"f7320d10be3519e4","toSide":"right"},
