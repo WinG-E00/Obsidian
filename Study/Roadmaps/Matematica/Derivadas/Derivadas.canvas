@@ -42,8 +42,9 @@
 		{"id":"d2badc32b3b4fb6a","type":"text","text":"calculo de area\n","x":-2920,"y":320,"width":250,"height":60},
 		{"id":"fd3efd4026ad5935","type":"text","text":"integrales por parte","x":-2587,"y":320,"width":250,"height":60},
 		{"id":"ea1dba8c36f398cd","x":-1300,"y":-250,"width":250,"height":60,"type":"text","text":"[[Integrales]]\n"},
-		{"id":"3a32dd372043e333","type":"text","text":"Integrales \n","x":-1952,"y":-420,"width":250,"height":60},
-		{"id":"0d6b58f0df56d7ab","x":-2240,"y":-340,"width":250,"height":60,"type":"text","text":"[[Reglas para integrar derivadas]]"}
+		{"id":"3a32dd372043e333","type":"text","text":"Integrales \n","x":-1952,"y":-480,"width":250,"height":60},
+		{"id":"a27d075cc2dbdc4f","x":-2057,"y":-301,"width":250,"height":60,"type":"text","text":"Formula para integrar por definicion"},
+		{"id":"0d6b58f0df56d7ab","x":-2340,"y":-450,"width":250,"height":60,"type":"text","text":"[[Reglas para integrar derivadas]]"}
 	],
 	"edges":[
 		{"id":"54d267f1b4eadfa1","fromNode":"5ca7b95c4d5eee2f","fromSide":"top","toNode":"f7320d10be3519e4","toSide":"right"},
@@ -76,6 +77,8 @@
 		{"id":"38d5fbf71f06d7c9","fromNode":"782ac8f780976c07","fromSide":"right","toNode":"5ca7b95c4d5eee2f","toSide":"left","label":"Resultado\n\n"},
 		{"id":"9dced02f478c259e","fromNode":"f6c88fbabfd0ffe7","fromSide":"bottom","toNode":"773304cbcf153ea7","toSide":"top"},
 		{"id":"0d49dfb057c2fd14","fromNode":"ce785682d6757710","fromSide":"bottom","toNode":"54e1e1237fea3156","toSide":"top"},
-		{"id":"0200e9b612b8ee4d","fromNode":"c7342ef61ddd6af4","fromSide":"top","toNode":"54e1e1237fea3156","toSide":"bottom"}
+		{"id":"0200e9b612b8ee4d","fromNode":"c7342ef61ddd6af4","fromSide":"top","toNode":"54e1e1237fea3156","toSide":"bottom"},
+		{"id":"5ecfe0e822e2de18","fromNode":"3a32dd372043e333","fromSide":"bottom","toNode":"a27d075cc2dbdc4f","toSide":"top"},
+		{"id":"359762cb4c8f051a","fromNode":"3a32dd372043e333","fromSide":"left","toNode":"0d6b58f0df56d7ab","toSide":"right"}
 	]
 }
