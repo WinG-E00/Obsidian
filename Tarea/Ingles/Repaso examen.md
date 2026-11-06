@@ -73,7 +73,7 @@ True
 
 A. Choose the correct option.
 1. If you save the file, you will protect your information.
-2. If the server crases, the application will stop working
+2. If the server crases, the application will stop working.
 3. If the developer fixes the error, the program will work correctly.
-4. If users don't update the software They won't receive new features
+4. If users don't update the software They won't receive new features.
 5. If the system detects a problem, it will display a warning.
