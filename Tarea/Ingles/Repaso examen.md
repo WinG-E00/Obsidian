@@ -21,6 +21,8 @@ Buscar en el texto los siguientes datos:
 6. When will the first version be ready?
 7. What do users need to create an account?
 8. What do developers do if they find a bug?
-
-The name of the application is FoodExpress
-For the user interface the team uses Javascript
+___
+1. The name of the application is FoodExpress
+2. For the user interface the team uses Javascript
+3. The programing lenguage for managing some applications functions is python.
+4. 
