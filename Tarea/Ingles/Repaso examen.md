@@ -67,3 +67,12 @@ True
 4. A password protects access to an account.
 5. An application is a program designed to perform a task.
 6. A software update can include new features.
+
+
+# First Conditional – Grammar review
+
+A. Choose the correct option.
+1. If you save the file, you will protect your information.
+2. If the developer ______ the error, the program will work correctly.
+3. If users don&#39;t update the software, they ______ new features.
+4. If the system detects a problem, it ______ a warning.
