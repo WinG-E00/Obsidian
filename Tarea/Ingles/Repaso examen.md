@@ -13,4 +13,6 @@ A. SKIMMING – General understanding
 
 B. SCANNING – Find specific information
 
-Buscar en el texto los siguientes datos:
+Datos del texto
+
+1. The name of the application is 
