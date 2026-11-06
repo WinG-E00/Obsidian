@@ -57,3 +57,13 @@ True
 | Bug         | Error de programacion |
 | Application | Aplicacion            |
 | Realese     | Lanzamiento           |
+
+
+## B. Complete the sentences using the words from the box.
+
+1. A __ creates software.
+2. A __ stores information.
+3. A __ is a programming error.
+4. A __ protects access to an account.
+5. An __ is a program designed to perform a task.
+6. A software __ can include new features.
