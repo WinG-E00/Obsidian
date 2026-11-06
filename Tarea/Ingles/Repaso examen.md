@@ -93,4 +93,5 @@ C. Put the words in the correct order
 
 # Create your own sentences
 
-If i find a bug in my code, I will need to fix it
+1. If i find a bug in my code, I will need to fix it
+2. If my computer doesn't connect to the internet, 
