@@ -83,4 +83,9 @@ B. Complete the sentences with the correct form of the verbs.
 2. If the computer  (have) a virus, it won't work correctly.
 3. If developers test the application, they will find possible errors.
 4. If users don't save their files, they will lose their information.
-5. If the internet connection fails (fail), we will  the website.
+5. If the internet connection fails (fail), we won't be able to acces the website.
+
+C. Put the words in the correct order
+
+1. if you save the document, you will keep your information
+2. 
