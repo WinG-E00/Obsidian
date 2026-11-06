@@ -94,4 +94,5 @@ C. Put the words in the correct order
 # Create your own sentences
 
 1. If i find a bug in my code, I will need to fix it
-2. If my computer doesn't connect to the internet, 
+2. If my computer doesn't connect to the internet, i will go crazy.
+3. If i forget my password, i 
