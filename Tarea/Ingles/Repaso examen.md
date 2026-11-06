@@ -61,9 +61,9 @@ True
 
 ## B. Complete the sentences using the words from the box.
 
-1. A __ creates software.
-2. A __ stores information.
-3. A __ is a programming error.
-4. A __ protects access to an account.
-5. An __ is a program designed to perform a task.
-6. A software __ can include new features.
+1. A developer creates software.
+2. A database stores information.
+3. A bug is a programming error.
+4. A password protects access to an account.
+5. An application is a program designed to perform a task.
+6. A software update can include new features.
