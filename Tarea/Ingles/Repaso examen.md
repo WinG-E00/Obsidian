@@ -56,4 +56,4 @@ True
 | User        | Usuario               |
 | Bug         | Error de programacion |
 | Application | Aplicacion            |
-| Real        |                       |
+| Realese     | Lanzamiento           |
