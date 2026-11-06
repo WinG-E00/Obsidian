@@ -49,6 +49,11 @@ True
 # A. Match the words with their meanings.
 
 
-| English   | Spanish |
-| --------- | ------- |
-| Developer | Desa    |
+| English     | Spanish               |
+| ----------- | --------------------- |
+| Developer   | Desarrollador         |
+| Database    | Base de datos         |
+| User        | Usuario               |
+| Bug         | Error de programacion |
+| Application | Aplicacion            |
+| Real        |                       |
