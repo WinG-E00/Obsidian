@@ -23,4 +23,4 @@ Buscar en el texto los siguientes datos:
 8. What do developers do if they find a bug?
 
 The name of the application is FoodExpress
-For the user interface the 
+For the user interface the team uses Javascript
