@@ -81,6 +81,6 @@ A. Choose the correct option.
 B. Complete the sentences with the correct form of the verbs.
 1. If I forget my password, I will (reset) it.
 2. If the computer  (have) a virus, it won't work correctly.
-3. If developers __________ (test) the application, they __________ (find) possible errors.
+3. If developers test the application, they __________ (find) possible errors.
 4. If users __________ (not save) their files, they __________ (lose) their information.
 5. If the internet connection __________ (fail), we __________ (not access) the website.
