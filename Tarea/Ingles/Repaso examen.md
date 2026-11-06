@@ -30,3 +30,12 @@ ___
 6. The first version will be ready in February 2027
 7. They need a an internet connection and a valid email adress to create an account
 8. The developers will fix the bug before release the application
+---
+## C. TRUE OR FALSE
+Indicar si las siguientes afirmaciones son verdaderas o falsas. Corregir las falsas.
+9. FoodExpress is a mobile application.
+10. The application uses an Oracle database.
+11. Users need an internet connection.
+12. The project started in February 2027.
+13. Developers test the application regularly.
+
