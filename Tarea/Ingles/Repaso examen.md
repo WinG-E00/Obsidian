@@ -27,4 +27,5 @@ ___
 3. The programing lenguage for managing some applications functions is python.
 4. The database that is used is a MySQL database
 5. The project start in september of 2026
-6. 
+6. The first version will be ready in February 2027
+7. 
