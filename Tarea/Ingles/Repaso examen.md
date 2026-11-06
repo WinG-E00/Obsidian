@@ -45,5 +45,10 @@ True
 False
 True
 
+# Technical vocabulary
+# A. Match the words with their meanings.
 
 
+| English   | Spanish |
+| --------- | ------- |
+| Developer | Desa    |
