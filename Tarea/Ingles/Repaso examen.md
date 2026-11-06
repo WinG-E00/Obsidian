@@ -95,4 +95,4 @@ C. Put the words in the correct order
 
 1. If i find a bug in my code, I will need to fix it
 2. If my computer doesn't connect to the internet, i will go crazy.
-3. If i forget my password, i 
+3. If i forget my password, 
