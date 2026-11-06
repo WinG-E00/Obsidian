@@ -26,3 +26,4 @@ ___
 2. For the user interface the team uses Javascript
 3. The programing lenguage for managing some applications functions is python.
 4. 
+5. The project start in september of 2026
