@@ -73,6 +73,5 @@ True
 
 A. Choose the correct option.
 1. If you save the file, you will protect your information.
-2. If the developer ______ the error, the program will work correctly.
-3. If users don&#39;t update the software, they ______ new features.
-4. If the system detects a problem, it ______ a warning.
+2. If the server crases, the application will stop working
+3. If the developer 
