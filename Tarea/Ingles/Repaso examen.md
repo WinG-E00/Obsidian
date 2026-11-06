@@ -28,4 +28,5 @@ ___
 4. The database that is used is a MySQL database
 5. The project start in september of 2026
 6. The first version will be ready in February 2027
-7. 
+7. They need a an internet connection and a valid email adress to create an account
+8. 
