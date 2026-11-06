@@ -77,3 +77,10 @@ A. Choose the correct option.
 3. If the developer fixes the error, the program will work correctly.
 4. If users don't update the software They won't receive new features.
 5. If the system detects a problem, it will display a warning.
+
+B. Complete the sentences with the correct form of the verbs.
+1. If I forget my password, I will (reset) it.
+2. If the computer __________ (have) a virus, it __________ (not work) correctly.
+3. If developers __________ (test) the application, they __________ (find) possible errors.
+4. If users __________ (not save) their files, they __________ (lose) their information.
+5. If the internet connection __________ (fail), we __________ (not access) the website.
