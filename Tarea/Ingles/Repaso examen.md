@@ -33,9 +33,17 @@ ___
 ---
 ## C. TRUE OR FALSE
 Indicar si las siguientes afirmaciones son verdaderas o falsas. Corregir las falsas.
-9. FoodExpress is a mobile application.
-10. The application uses an Oracle database.
-11. Users need an internet connection.
-12. The project started in February 2027.
-13. Developers test the application regularly.
+1. FoodExpress is a mobile application.
+2. The application uses an Oracle database.
+3. Users need an internet connection.
+4. The project started in February 2027.
+5. Developers test the application regularly.
+
+True
+False
+True
+False
+True
+
+
 
