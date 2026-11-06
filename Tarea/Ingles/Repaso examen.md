@@ -89,4 +89,8 @@ C. Put the words in the correct order
 
 1. if you save the document, you will keep your information
 2. If the system crashes, we will restart it.
-3. If they forget their passwords, 
+3. If they forget their passwords, they will need to reset them.
+
+# Create your own sentences
+
+If i find a bug in my code, I will need to fix it
