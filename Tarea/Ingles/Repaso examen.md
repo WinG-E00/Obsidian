@@ -8,4 +8,9 @@ A. SKIMMING – General understanding
 2. What is the purpose of FoodExpress?
 	1. To order food online
 3. Who is working on the project?
-	1. 
+	1. Software developers
+
+
+B. SCANNING – Find specific information
+
+Buscar en el texto los siguientes datos:
